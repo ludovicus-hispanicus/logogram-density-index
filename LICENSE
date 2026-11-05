@@ -19,14 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-----------------------------------------------------------------------------
-NOTE ON SCOPE
-----------------------------------------------------------------------------
-This MIT License applies to the SOFTWARE in this repository (the application
-code and analysis scripts: app.py, compute_ratios.py, analyze_*.py, scripts/,
-and similar).
-
-The DATA in the data/ directory — the transliteration corpus and derived
-tables — is licensed separately under the Creative Commons Attribution 4.0
-International License (CC BY 4.0). See data/LICENSE.txt.

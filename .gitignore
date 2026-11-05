@@ -33,8 +33,7 @@ assets/OBO/
 *.bak[0-9]*
 *.bak[A-Za-z]*
 
-# CHR 2027 submission — double-blind review, so the draft must not be findable
-# in a public, eponymous repository. Generated sweep output is regenerable via
+# Local conference-paper drafts. Generated sweep output is regenerable via
 # scripts/restoration_sweep.py.
 docs/chr2027-*
 docs/restoration-sweep.csv

@@ -1,14 +1,13 @@
 # -*- coding: utf-8 -*-
-"""Redraw the two figures of the CHR2027 paper from the corpus.
+"""Redraw the summary figures from the corpus.
 
     python reproduce_figures.py [OUTDIR]
 
 Writes periods.pdf/.png (the index by period), spread.pdf/.png (the nine
 conventions of tbl:spread against the period means) and disciplines.pdf/.png
-(the index by period within each discipline, for Review 1's composition
-question) to OUTDIR, by default the paper's folder. The numbers are computed
-exactly as reproduce_tables.py prints them, so the figures cannot drift from
-the tables.
+(the index by period within each discipline) to OUTDIR, by default docs/_build/figures.
+The numbers are computed exactly as reproduce_tables.py prints them, so the figures
+cannot drift from the tables. Needs matplotlib, which the app itself does not.
 """
 import os
 import sys
@@ -20,7 +19,8 @@ import matplotlib.pyplot as plt
 import compute_ratios as C
 import reproduce_tables as T
 
-OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join('docs', 'chr2027-paper', 'ach-latex-template')
+OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join('docs', '_build', 'figures')
+os.makedirs(OUT, exist_ok=True)
 plt.rcParams.update({'font.family': 'DejaVu Sans', 'font.size': 10,
                      'pdf.fonttype': 42, 'axes.spines.top': False, 'axes.spines.right': False})
 
