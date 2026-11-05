@@ -11,8 +11,8 @@
     <category citation-format="note"/>
     <category field="religion"/>
     <category field="history"/>
-    <summary>Author-date style for the Orbis Biblicus et Orientalis series (University of Fribourg / Vandenhoeck &amp; Ruprecht). Short author-year references in footnotes; full author-date bibliography.</summary>
-    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary>Author-date style for the Orbis Biblicus et Orientalis series (University of Fribourg / Vandenhoeck &amp; Ruprecht). Short author-year references in footnotes; full author-date bibliography. Modelled on the OBO template for collective volumes and on S. Kikuchi, "Observation, Divination and Report-Making" (resubmission, 2026).</summary>
+    <updated>2026-09-26T00:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License.</rights>
   </info>
 
@@ -27,6 +27,10 @@
         <multiple>eds.</multiple>
       </term>
       <term name="in">in</term>
+      <!-- Page ranges take a plain hyphen, in the bibliography and in the
+           footnote locators alike: "Berlin: De Gruyter, 79-92", "Keel 1992,
+           14-20" (template); "Orientalia Nova Series 76, 293-335" (Kikuchi). -->
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
 
@@ -65,8 +69,9 @@
 
   <!-- Volume editors inside a chapter. Two are spelled out and joined with "&",
        as in the OBO template ("in: M. Kartveit & G. N. Knoppers (eds.)"); three
-       or more collapse to "et al.", as printed in OBO ("in: A. Brita et al.
-       (eds.)"). et al. is roman in print, so no <et-al> override is needed. -->
+       or more collapse to "et al.", as Kikuchi prints them ("in: A. Brita et al.
+       (eds.)", "in: S. Gaspa et al. (eds.)"). et al. is roman in print, so no
+       <et-al> override is needed. -->
   <macro name="editor-in">
     <names variable="editor" prefix="in: ">
       <name and="symbol" initialize-with=". " delimiter=", " delimiter-precedes-last="never"
@@ -95,19 +100,30 @@
     </group>
   </macro>
 
-  <!-- Year + disambiguating letter, rendered together so it prints "2010a" not "2010 a" -->
+  <!-- Year + disambiguating letter, rendered together so it prints "2010a" not "2010 a".
+       A work not yet out has no year: it prints its status (or a Date field reading
+       "forthcoming"), lower case in a footnote ("Kikuchi forthcoming") and
+       capitalized at the head of its bibliography entry ("Kikuchi, Saki.
+       Forthcoming."), as in Kikuchi. -->
   <macro name="year-disambig">
-    <group>
-      <text macro="year"/>
-      <text variable="year-suffix"/>
-    </group>
+    <choose>
+      <if variable="issued">
+        <group>
+          <text macro="year"/>
+          <text variable="year-suffix"/>
+        </group>
+      </if>
+      <else>
+        <text variable="status"/>
+      </else>
+    </choose>
   </macro>
 
   <!-- Author. Year(a/b/c) -->
   <macro name="head">
     <group delimiter=". ">
       <text macro="author-bib"/>
-      <text macro="year-disambig"/>
+      <text macro="year-disambig" text-case="capitalize-first"/>
     </group>
   </macro>
 
@@ -197,17 +213,16 @@
             </group>
           </else-if>
 
-          <!-- Thesis / dissertation -->
+          <!-- Thesis / dissertation, as in Kikuchi: "Wainer, Zackary M. 2016. The
+               Series If the Moon at Its Appearance ... BCE. PhD diss., Brown University."
+               The genre field carries the "PhD diss." wording. -->
           <else-if type="thesis" match="any">
             <group delimiter=". ">
-              <group delimiter=" ">
-                <text variable="title" font-style="italic"/>
-                <group prefix="(" suffix=")" delimiter=", ">
-                  <text variable="genre"/>
-                  <text variable="publisher"/>
-                </group>
+              <text variable="title" font-style="italic"/>
+              <group delimiter=", ">
+                <text variable="genre"/>
+                <text variable="publisher"/>
               </group>
-              <text variable="publisher-place"/>
             </group>
           </else-if>
 

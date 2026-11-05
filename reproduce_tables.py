@@ -7,6 +7,9 @@ Prints each table with the label it carries in the paper, so every number in
 the article can be checked against the data.  Requires only compute_ratios.py
 and data/ (see requirements.txt).
 """
+import glob
+import os
+import re
 import sys
 
 import pandas as pd
@@ -83,6 +86,43 @@ def graded(signs, era=None, exclude_particles=False):
     return _GRADED[key]
 
 
+def word_degrees(signs):
+    """One row per scored word: its logographic and phonetic sign counts.
+
+    The same words graded_ldi() grades, so macro and micro of any grouping
+    (text, omen) follow from one pass instead of one graded_ldi() call each.
+    """
+    content = C._drop_contentless(signs[signs['type'].isin(['logogram', 'phonetic'])])
+    content = content.assign(nl=(content['type'] == 'logogram').astype(int),
+                             np=(content['type'] == 'phonetic').astype(int))
+    w = content.groupby(['filename', 'omen_id', 'word_index'])[['nl', 'np']].sum().reset_index()
+    w = w[w.nl + w.np > 0]
+    return w.assign(degree=w.nl / (w.nl + w.np))
+
+
+def macro_micro(words_frame, keys):
+    """macro and micro per group of word_degrees() rows."""
+    g = words_frame.groupby(keys)
+    return pd.DataFrame({'macro': g.degree.mean(),
+                         'micro': g.nl.sum() / (g.nl.sum() + g.np.sum())})
+
+
+def edition_labels():
+    """{filename: the period label its edition gives}, one spelling per label.
+
+    load_local_data() folds these into the three periods, so read them from the files.
+    """
+    labels = {}
+    for group in ('old', 'middle', 'new', 'kal5'):
+        for path in glob.glob(os.path.join('data', group, '**', '*.txt'), recursive=True):
+            with open(path, encoding='utf-8', errors='replace') as f:
+                found = re.search(r'^period:\s*(.+)$', f.read(1500), re.M)
+            if found:
+                label = found.group(1).strip().strip('"')
+                labels[os.path.basename(path)] = {'Neo Babylonian': 'Neo-Babylonian'}.get(label, label)
+    return labels
+
+
 def note(message):
     print(f'  ... {message}', file=sys.stderr, flush=True)
 
@@ -145,14 +185,19 @@ def main():
     for name, base, excl, eff, length in sorted(rows, key=lambda r: -r[4]):
         print(f'{name:<14}{base:>10.3f}{excl:>10.3f}{eff:>+9.3f}{length:>10.1f}')
 
-    # ---- Sensitivity baselines and the seven conventions ------------------
-    head('The same corpus under seven defensible conventions', 'tbl:spread')
+    # ---- Sensitivity baselines and the nine conventions -------------------
+    head('The same corpus under nine defensible conventions', 'tbl:spread')
     g_all = graded(signs)
+    marked = scored(words)
+    by_text = marked.groupby('filename').is_log.mean()
+    by_omen = marked.groupby(['filename', 'omen_id']).is_log.mean()
     conventions = [
         ('ina/ana counted as logographic', C.ldi(words, monogram_as_log=True)[0]),
+        ('per-omen mean',                  by_omen.mean()),
         ('bin, as published (baseline)',   C.ldi(words)[0]),
         ('restorations dropped',           C.ldi(preserved)[0]),
         ('opening particles excluded',     C.ldi(words, exclude_particles=True)[0]),
+        ('per-text mean',                  by_text.mean()),
         ('unit = word, graded (macro)',    g_all['macro']),
         ('unit = sign (micro)',            g_all['micro']),
         ('micro, particles excluded',      graded(signs, exclude_particles=True)['micro']),
@@ -163,11 +208,27 @@ def main():
     print(f'  {"range":<34}{max(values) - min(values):>8.3f}'
           f'   ({min(values):.3f} to {max(values):.3f})')
 
-    marked = scored(words)
-    by_text = marked.groupby('filename').is_log.mean()
-    by_omen = marked.groupby(['filename', 'omen_id']).is_log.mean()
-    print(f'\n  aggregation: pooled {C.ldi(words)[0]:.3f} | '
-          f'mean of texts {by_text.mean():.3f} | mean of omens {by_omen.mean():.3f}')
+    # ---- Words versus signs: macro and micro are not ordered ---------------
+    head('Where micro exceeds macro', 'sec. Words versus Signs')
+    degrees = word_degrees(signs)
+    per_text = macro_micro(degrees, 'filename')
+    per_omen = macro_micro(degrees, ['filename', 'omen_id'])
+    print(f'  micro > macro in {(per_text.micro > per_text.macro + 1e-12).sum()} of {len(per_text)} texts'
+          f' and in {100*(per_omen.micro > per_omen.macro + 1e-12).mean():.1f} % of {len(per_omen)} scored omens')
+
+    # ---- Table: two corpora bin cannot separate ---------------------------
+    head('Two corpora that the binary measure cannot separate', 'tbl:discrimination')
+    for name, mask_w, mask_s in [
+        ('Enuma Anu Enlil 55 and 57', words.filename.isin(['EAE55.eBL.txt', 'EAE57.eBL.txt']),
+         signs.filename.isin(['EAE55.eBL.txt', 'EAE57.eBL.txt'])),
+        ('Neo diagnostic omens', (words.genre == 'diagnostic omens') & (words.era == 'Neo Period'),
+         (signs.genre == 'diagnostic omens') & (signs.era == 'Neo Period')),
+    ]:
+        g = C.graded_ldi(signs[mask_s])
+        n = g['words']
+        print(f'  {name:<28}bin {C.ldi(words[mask_w])[0]:.3f} | macro {g["macro"]:.3f} | '
+              f'pure {100*g["pure"]/n:.1f} % | mixed {100*g["mixed"]/n:.1f} % | '
+              f'syllabic {100*g["syllabic"]/n:.1f} %')
 
     # ---- Table: the periods under each convention -------------------------
     head('The periods recomputed under each convention', 'tbl:periods-by-convention')
@@ -178,6 +239,8 @@ def main():
 
     variants = [
         ('bin (baseline)',            lambda e: C.ldi(words[words.era == e])[0]),
+        ('per-omen mean',             lambda e: marked[marked.era == e].groupby(['filename', 'omen_id']).is_log.mean().mean()),
+        ('per-text mean',             lambda e: marked[marked.era == e].groupby('filename').is_log.mean().mean()),
         ('ina/ana logographic',       lambda e: C.ldi(words[words.era == e], monogram_as_log=True)[0]),
         ('opening particles excluded', lambda e: C.ldi(words[words.era == e], exclude_particles=True)[0]),
         ('restorations dropped',      lambda e: C.ldi(preserved[preserved.era == e])[0]),
@@ -188,6 +251,40 @@ def main():
     for name, fn in variants:
         vals = by_era(fn)
         print(f'{name:<28}' + ''.join(f'{v:>9.3f}' for v in vals) + f'{vals[1]-vals[0]:>+10.3f}')
+
+    # ---- The Old-to-Middle rise within disciplines and across texts -------
+    head('The Old-to-Middle rise within disciplines and across texts', 'sec. Results')
+    old, middle = ORDER[:2]
+
+    def rise(frame):
+        return C.ldi(frame[frame.era == middle])[0] - C.ldi(frame[frame.era == old])[0]
+
+    for genre in DISCIPLINE:
+        print(f'  {genre.split()[0]:<14}{rise(words[words.genre == genre]):>+8.3f}')
+    text_bin = marked.groupby(['era', 'filename']).is_log.mean()
+    for era in ORDER:
+        print(f'    per text, {era:<16}{text_bin[era].min():.2f} to {text_bin[era].max():.2f}')
+    base = rise(words)
+    moved = [abs(rise(words[~((words.era == old) & (words.filename == name))]) - base)
+             for name in words[words.era == old].filename.unique()]
+    print(f'  excluding one Old text moves the rise by at most {max(moved):.3f}')
+
+    # ---- Table: the index by the period labels of the editions ------------
+    head('The index by the period labels of the editions', 'tbl:labels')
+    labelled = words.assign(label=words.filename.map(edition_labels()))
+    for era in ORDER:
+        e = labelled[labelled.era == era]
+        for label, sub in e.groupby('label'):
+            print(f'  {era.split()[0]:<8}{label:<34}{C.ldi(sub)[0]:>7.3f}'
+                  f'{sub.groupby(["filename", "omen_id"]).ngroups:>7} ({sub.filename.nunique()})')
+    mid = words[words.era == middle]
+    periphery = mid.provenance.str.contains('Emar|Susa|Ḫattuša|Hattusa', na=False)
+    print(f'  Middle: periphery {C.ldi(mid[periphery])[0]:.3f} ({mid[periphery].filename.nunique()} texts) | '
+          f'the others {C.ldi(mid[~periphery])[0]:.3f} ({mid[~periphery].filename.nunique()} texts)')
+    neo_astro = words[(words.era == ORDER[2]) & (words.genre == 'astrological omens')]
+    other_topic = neo_astro.filename.isin(['EAE55.eBL.txt', 'EAE57.eBL.txt'])
+    print(f'  Neo astrological: EAE 55 and 57 {C.ldi(neo_astro[other_topic])[0]:.3f} | '
+          f'the lunar omens {C.ldi(neo_astro[~other_topic])[0]:.3f}')
 
     # ---- Table: restoration ----------------------------------------------
     head('Scored with and without the editor\'s restorations', 'tbl:restoration')
@@ -202,6 +299,13 @@ def main():
     for era in ORDER:                     # pooled, as reported in the paper
         correction = C.ldi(preserved[preserved.era == era])[0] - C.ldi(words[words.era == era])[0]
         print(f'    {era:<16}{correction:>+8.3f}')
+    print(f'  {"witness":<18}{"with":>7}{"preserved":>11}{"restored share":>16}')
+    for name, filename in [('VAT 13804', 'VAT.13804.txt'), ('BM 121034', 'BM.121034.txt'),
+                           ('VAT 10536', 'VAT.10536.txt'), ('VAT 11001', 'VAT.11001.txt'),
+                           ('W 23271', 'W.23271.txt')]:
+        full, _, n_full = C.ldi(words[words.filename == filename])
+        kept, _, n_kept = C.ldi(preserved[preserved.filename == filename])
+        print(f'  {name:<18}{full:>7.2f}{kept:>11.2f}{100*(1 - n_kept/n_full):>15.0f}%')
 
     # ---- Table: a specimen report ----------------------------------------
     head('A specimen report, one witness beside the corpus', 'tbl:reporting')
@@ -213,7 +317,7 @@ def main():
     ]:
         g = graded(signs) if name == 'whole corpus' else C.graded_ldi(ssub)
         n = g['words']
-        print(f'  {name}')
+        print(f'  {name}: {wsub.groupby(["filename", "omen_id"]).ngroups} omens, {n} scored words')
         print(f'    bin {C.ldi(wsub)[0]:.3f} | macro {g["macro"]:.3f} | micro {g["micro"]:.3f}')
         print(f'    pure {100*g["pure"]/n:.1f} % | mixed {100*g["mixed"]/n:.1f} % | '
               f'syllabic {100*g["syllabic"]/n:.1f} %')

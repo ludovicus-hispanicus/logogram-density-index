@@ -100,3 +100,12 @@ docs/*.prev
 
 # working research notes (unpublished agenda)
 docs/civil-encoding-agenda.md
+
+# Article figures: build output of scripts/make_figures.py, regenerated from the
+# corpus (the app draws the same charts live). Two stay tracked because tracked
+# files use them: general-trend.png (README) and trend-vat-10418-bin.png (the
+# app's introduction and the desktop/packaging builds, which copy it).
+assets/general-trend*.png
+assets/trend-*.png
+!assets/general-trend.png
+!assets/trend-vat-10418-bin.png
