@@ -846,6 +846,21 @@ def _drop_contentless(sub):
         return sub[sub['_signal']]
     return sub[_omen_has_signal(sub)]
 
+def unique_omens(frame):
+    """One row per omen, for counting: the "omens" column of every report.
+
+    An omen is counted when at least one of its tokens is writing — a sign, a
+    determinative, even an editorial mark — but NOT when every token is a break
+    or an illegible 'x' ('[...]', '[x x] x'). Such lines are kept as 'broken'
+    rows so the Text view still shows them, but they are not omens the batch
+    pipeline sees: compute_ratios never emits a row for them, so the manifest
+    and the article count without them. Counting them here gave the app 88
+    omens more than the published 7,211 (decided 2026-11-05: exclude)."""
+    if frame is None or frame.empty or 'omen_id' not in frame.columns:
+        return frame
+    keys = ['filename', 'omen_id'] if 'filename' in frame.columns else ['omen_id']
+    return frame[frame['type'] != 'broken'].drop_duplicates(subset=keys)
+
 def _drop_particles(sub):
     """Drop the omen-opening particle (DIŠ/BE/BAD/AŠ/UD) from a scored slice.
 
@@ -1219,18 +1234,20 @@ def corpus_subfolders(period, genre):
     return sorted(out)
 
 def save_buffer(name, text):
-    """Write a buffer to data/ and return (path, note).
+    """Write a buffer to disk and return (path, note).
 
-    A buffer opened from the corpus goes back where it came from. A new or fetched
-    one is filed by its frontmatter: the raw period is folded into Old/Middle/Neo
-    (so "Middle Assyrian" and "Middle Babylonian" share data/middle/) and the
-    discipline becomes the folder under it. Missing values are reported rather
-    than guessed at silently."""
+    A buffer opened from a text on disk goes back where it came from, whichever
+    set that is (published corpus, comparanda, KAL 5, the reader's own texts),
+    and that set alone is re-read. A new or fetched one is the reader's: it is
+    filed under data/_custom by its frontmatter — the raw period folded into
+    old/middle/new, the discipline the folder under it — exactly as the Upload
+    dialog files an import, and never into the published tree, so the published
+    figures do not move. Missing values are reported rather than guessed at."""
     src = st.session_state.get('text_sources', {}).get(name, {})
     if src.get('path'):
         return (src['path'], None) if _save_text_edit(name, text) else (None, "write failed")
     period, genre, folder = _front_pg(text)
-    _dest = os.path.dirname(data_path_for(period, genre, name, folder))
+    _dest = os.path.dirname(data_path_for(period, genre, name, folder, root=CUSTOM_DIR))
     note = None
     if not str(period or "").strip() or not str(genre or "").strip():
         note = ("no period/discipline in the frontmatter, so it was filed under "
@@ -1238,9 +1255,12 @@ def save_buffer(name, text):
     elif period not in PERIOD_MAPPING:
         note = (f"period “{period}” is not one the corpus knows, so it was filed under "
                 f"`{_dest}`")
-    path = _persist_text(name, text, period, genre)
+    try:
+        path = _persist_text(name, text, period, genre, root=CUSTOM_DIR)
+    except OSError as e:
+        return None, f"could not write `{_dest}`: {e}"
     st.session_state.setdefault('text_sources', {})[name] = {"path": path, "content": text}
-    _reload_corpus()
+    _reload_custom()
     return path, note
 
 def _esc_html(s):
@@ -1409,8 +1429,7 @@ def score_text(name, text):
         return None
     full = enrich_signs(pd.DataFrame(anns))
     pres = enrich_signs(pd.DataFrame(anns_pres)) if anns_pres else None
-    uo = (full.drop_duplicates(subset=['filename', 'omen_id'])
-          if 'omen_id' in full.columns else None)
+    uo = unique_omens(full) if 'omen_id' in full.columns else None
     return {'full': full, 'pres': pres, 'uo': uo}
 
 def report_style(df_):
@@ -2069,7 +2088,9 @@ def catalogue_ldi():
     # The cache check runs on every rerun, so it must not pay for concatenating
     # ~100k token dicts just to take a length: sum the lengths, and build the
     # combined list only on a miss.
-    n_anns = sum(len(s) for s in sets)
+    # The corpus version is part of the key: an edit that keeps the token count
+    # (KUR -> ma-a-tu) still changes the figures.
+    n_anns = (sum(len(s) for s in sets), st.session_state.get('_corpus_version', 0))
     cached = st.session_state.get('_cat_ldi')
     if cached and cached[0] == n_anns:
         return cached[1]
@@ -2079,8 +2100,9 @@ def catalogue_ldi():
     d = pd.DataFrame(anns)
     if not d.empty and {'filename', 'omen_id', 'token', 'type'} <= set(d.columns):
         # omens are counted before content-less ones are dropped: they are still
-        # omens on the tablet, they just carry no signal to score
-        omens = d.drop_duplicates(subset=['filename', 'omen_id']).groupby('filename').size()
+        # omens on the tablet, they just carry no signal to score (but a line
+        # that is nothing but breaks is not an omen; see unique_omens)
+        omens = unique_omens(d).groupby('filename').size()
         d = _drop_contentless(d)
         d = d[d['type'].isin(['logogram', 'phonetic'])]   # determinatives excluded
         sc = list(d['token'].map(_sign_counts))
@@ -2266,14 +2288,28 @@ def data_path_for(period, genre, filename, subfolder=None, root="data"):
     # every undated import to the first millennium. `unspecified` reads back as a
     # period no chart can place, which is what puts it in front of the reader.
     pf = PERIOD_FOLDER.get(broad, "unspecified")
-    gf = re.sub(r"[^a-z0-9]+", "-", str(genre).lower()).strip("-") or "unspecified"
+    gf = re.sub(r"[^a-z0-9]+", "-", str(genre or "").lower()).strip("-") or "unspecified"
     parts = list(os.path.normpath(root).split(os.sep)) + [pf, gf]
     for seg in str(subfolder or "").replace("\\", "/").split("/"):
         seg = re.sub(r"[^A-Za-z0-9._-]+", "-", seg.strip()).strip("-.")
         if seg and seg not in (".", ".."):
             parts.append(seg)
-    parts.append(filename)
+    parts.append(safe_filename(filename))
     return os.path.join(*parts)
+
+def safe_filename(name):
+    """A reader-supplied text name as one file name inside its folder.
+
+    The name is typed in the Editor's name dialog or taken from an upload, so it
+    is the one segment data_path_for cannot trust: a path ('liver/K.1', 'C:\\x')
+    is reduced to its last part, the characters no file system accepts
+    (< > : " / \\ | ? *) become '-', and an empty result is 'untitled'. Letters
+    outside ASCII are kept: 'Šumma-ālu.txt' is a fine name."""
+    name = str(name or "").replace("\\", "/").split("/")[-1].strip()
+    name = re.sub(r'[<>:"|?*\x00-\x1f]+', "-", name).strip(" .")
+    if name in ("", "..", ".txt"):
+        name = "untitled.txt"
+    return name if name.endswith(".txt") else name + ".txt"
 
 # Mapping for Diachronic Analysis (Approximated for Broad Periods)
 PERIOD_TO_YEAR_MAP = {
@@ -2318,6 +2354,11 @@ def _is_nontext(token):
     # Sîn, XX = Šamaš in the "Hand of DN" formulas), never an illegible sign
     return core != '' and set(core) == {'x'}
 
+# ATF language shift: %sux / %es / %eg open Sumerian, anything else (%akk, %sb,
+# %n …) returns to Akkadian. Mirrors compute_ratios.annotate_omen.
+LANG_MARKER = re.compile(r'^%\w+$')
+SUMERIAN_CODES = ("sux", "es", "eg")
+
 
 def get_token_type(token):
     # Illegible / editorial tokens: never counted (word level and sign level).
@@ -2355,6 +2396,11 @@ def annotate_omen(text, omen_id, metadata, preserved_only=False):
     global_index = 0
 
     new_word = [True]
+    # The language in force, set by the ATF markers below. The LDI measures how
+    # AKKADIAN is written, so Sumerian stretches (%sux) are held out of every
+    # count — typed 'other' here, exactly as compute_ratios drops them by
+    # language — while staying visible, coloured as Sumerian, in the Text view.
+    language = "akkadian"
 
     def add(token, display, t_type):
         # Each annotation carries both the cleaned `token` (drives classification
@@ -2371,6 +2417,7 @@ def annotate_omen(text, omen_id, metadata, preserved_only=False):
                "word_start": new_word[0]}
         new_word[0] = False
         ann.update(metadata)
+        ann["language"] = language   # after update(), so metadata cannot clobber it
         annotations.append(ann)
         global_index += 1
 
@@ -2381,6 +2428,14 @@ def annotate_omen(text, omen_id, metadata, preserved_only=False):
         # not a word to display or score.
         if re.match(r"^(?:[a-zA-Z]{1,2}\+)?\d+['′’]?[a-z]?['′’]?[.)]$", raw_token):
              continue
+
+        # A language marker (%sux, %akk, %sb, %n …) is not a sign: it sets the
+        # language of what follows. Kept as an unscored row so the Text view
+        # knows where the Sumerian starts; never a word in any count.
+        if LANG_MARKER.match(raw_token):
+            language = "sumerian" if raw_token[1:].lower() in SUMERIAN_CODES else "akkadian"
+            add(raw_token, raw_token, "other")
+            continue
 
         clean_token_str = _clean_for_class(raw_token)
 
@@ -2425,6 +2480,8 @@ def annotate_omen(text, omen_id, metadata, preserved_only=False):
                 is_god_number = (p_clean.isdigit() and i > 0
                                  and parts[i-1]['is_det'] and parts[i-1]['clean'] == 'd')
                 t_type = "logogram" if is_god_number else get_token_type(p_clean)
+                if language == "sumerian" and t_type in ("logogram", "phonetic"):
+                    t_type = "other"      # held out: Sumerian is not Akkadian writing
 
             add(p_clean, part['raw'], t_type)
 
@@ -2881,7 +2938,13 @@ def load_local_data(base_path="data", include_excluded=False, sources=None, pres
                             # Line number may be plain (12.) or eBL relative (a+1., a+41.).
                             clean_regex = r'^(?:(?:[a-zA-Z]{1,2}\+)?\d+[\'′’]?[a-z]?[\'′’]?[.)]\s*)?\s*(?:%\w+\s+)?' + '(?:' + '|'.join(map(re.escape, str(delimiter).split('|'))) + ')' + r'(?![0-9\u2080-\u2089a-zA-Z\-])'
                             
-                            if re.match(clean_regex, temp_line):
+                            # A line opening with a language shift ("%sux mu …", a
+                            # Sumerian year-name) always begins a new omen, so Sumerian
+                            # lines are never folded into the Akkadian omen above.
+                            # Mirrors compute_ratios.
+                            body_after_num = re.sub(r"^(?:[a-zA-Z]{1,2}\+)?\d+['′’]?[a-z]?['′’]?[.)]\s*", '', temp_line).lstrip()
+
+                            if re.match(clean_regex, temp_line) or body_after_num.startswith('%'):
                                 # Flush previous omen
                                 if current_omen_data['lines']:
                                     text = " ".join(current_omen_data['lines'])
@@ -2995,11 +3058,22 @@ def _ingest_text(filename, content):
     load_local_data. Returns (full, preserved) annotation lists."""
     tmp = tempfile.mkdtemp(prefix="omen_fetch_")
     try:
-        with open(os.path.join(tmp, filename), "w", encoding="utf-8") as f:
+        # The buffer name may be anything the reader typed; on disk it has to be
+        # one legal file name (a 'K.4031?' or 'liver/K.1' must not raise here).
+        with open(os.path.join(tmp, safe_filename(filename)), "w", encoding="utf-8") as f:
             f.write(content)
-        return _load_both(tmp)
+        full, pres = _load_both(tmp)
+        for a in full + pres:
+            a['filename'] = filename   # keep the buffer's own name on its rows
+        return full, pres
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
+
+def _bump_corpus_version():
+    """Mark the loaded token sets as changed. The LDI frames and the Sources
+    sheet cache on the token COUNT plus this number, so an edit that keeps the
+    count (KUR -> ma-a-tu) still rebuilds them."""
+    st.session_state['_corpus_version'] = st.session_state.get('_corpus_version', 0) + 1
 
 def _reload_corpus():
     """Reload the whole data/ corpus into memory (after writing files to disk),
@@ -3007,7 +3081,10 @@ def _reload_corpus():
     src = {}
     st.session_state['annotations'] = load_local_data(sources=src, preserved_only=False)
     st.session_state['annotations_pres'] = load_local_data(preserved_only=True)
-    st.session_state['text_sources'] = src
+    # Merge, never replace: the comparanda, KAL 5 and the reader's own texts
+    # were put here by their own loaders and must stay openable.
+    st.session_state.setdefault('text_sources', {}).update(src)
+    _bump_corpus_version()
 
 def _reload_custom():
     """Re-read the reader's own corpus (data/_custom) after writing to it."""
@@ -3020,7 +3097,65 @@ def _reload_custom():
     else:
         st.session_state['custom'] = []
         st.session_state['custom_pres'] = []
+    sources = st.session_state.setdefault('text_sources', {})
+    # Forget the reader's texts that are gone from disk (after "Discard my
+    # corpus"), so the Open dialog cannot offer a file that no longer exists.
+    _custom_root = os.path.normpath(CUSTOM_DIR)
+    for _name in [n for n, s in sources.items()
+                  if os.path.normpath(str(s.get('path') or '')).startswith(_custom_root)
+                  and n not in src]:
+        del sources[_name]
+    sources.update(src)
+    _bump_corpus_version()
+
+def _reload_comparanda():
+    """(Re-)read data/_comparanda, both display modes, kept out of the corpus."""
+    src = {}
+    st.session_state['comparanda'] = load_local_data(
+        "data/_comparanda", include_excluded=True, sources=src, preserved_only=False)
+    st.session_state['comparanda_pres'] = load_local_data(
+        "data/_comparanda", include_excluded=True, preserved_only=True)
     st.session_state.setdefault('text_sources', {}).update(src)
+    _bump_corpus_version()
+
+def _reload_supplementary():
+    """(Re-)read the KAL 5 supplement (data/kal5): out of the counts, browsable."""
+    src = {}
+    st.session_state['supplementary'] = load_local_data(
+        "data/kal5", include_excluded=True, sources=src, preserved_only=False)
+    st.session_state['supplementary_pres'] = load_local_data(
+        "data/kal5", include_excluded=True, preserved_only=True)
+    st.session_state.setdefault('text_sources', {}).update(src)
+    _bump_corpus_version()
+
+def _reload_heldout():
+    """(Re-)read the held-out corpus texts: files in the period folders that
+    carry `exclude: true` (too fragmentary, or duplicates of counted tablets).
+    Out of every count, loadable for inspection. Copied to a temp tree so only
+    these few files are tokenized, not the whole corpus again."""
+    hx = []
+    for dp, _, fs in os.walk("data"):
+        parts = os.path.relpath(dp, "data").split(os.sep)
+        if parts and parts[0] in ("old", "middle", "new"):
+            for f in fs:
+                if f.endswith(".txt"):
+                    p = os.path.join(dp, f)
+                    if re.search(r"^\s*exclude:\s*true",
+                                 open(p, encoding="utf-8").read(), re.M):
+                        hx.append((p, os.path.relpath(p, "data")))
+    st.session_state['heldout'] = []
+    st.session_state['heldout_pres'] = []
+    if hx:
+        with tempfile.TemporaryDirectory() as td:
+            for p, rel in hx:
+                dst = os.path.join(td, rel)
+                os.makedirs(os.path.dirname(dst), exist_ok=True)
+                shutil.copy(p, dst)
+            st.session_state['heldout'] = load_local_data(
+                td, include_excluded=True, preserved_only=False)
+            st.session_state['heldout_pres'] = load_local_data(
+                td, include_excluded=True, preserved_only=True)
+    _bump_corpus_version()
 
 def _front_pg(content):
     """Read period/genre from a text's YAML frontmatter (to choose its data/ path)."""
@@ -3070,34 +3205,60 @@ def _commit_import(filename, content, period, genre, save_to_data, mode):
     return "session", None
 
 def _save_text_edit(filename, new_content):
-    """Write an edited text back to data/, re-parse it, and swap its annotations in
-    (session + disk). Preserves the resolved period/genre if the file lacks frontmatter."""
+    """Write an edited text back to its file and re-read the set it belongs to.
+
+    The set is told by the path (see _set_of): the reader's own texts, the
+    comparanda, the KAL 5 supplement, or the published tree. A text with no
+    file yet (a session-only buffer) is filed as the reader's."""
     sources = st.session_state.setdefault('text_sources', {})
-    path = sources.get(filename, {}).get('path') or os.path.join("data", "_edited", filename)
+    path = sources.get(filename, {}).get('path')
     try:
-        os.makedirs(os.path.dirname(path), exist_ok=True)
-        with open(path, "w", encoding="utf-8", newline="\n") as fh:
-            fh.write(new_content)
+        if not path:
+            # A session-only buffer with no file yet is the reader's own text.
+            path = _persist_text(filename, new_content, root=CUSTOM_DIR)
+        else:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8", newline="\n") as fh:
+                fh.write(new_content)
     except Exception as e:
-        st.error(f"Could not write {path}: {e}")
+        st.error(f"Could not write {path or filename}: {e}")
         return False
     sources[filename] = {"path": path, "content": new_content}
-
-    old = [a for a in st.session_state.get('annotations', []) if a.get('filename') == filename]
-    new_anns, new_pres = _ingest_text(filename, new_content)
-    for lst in (new_anns, new_pres):
-        if lst and old:   # keep folder-derived period/genre if the re-parse lost them
-            if lst[0].get('period') in (None, "Unspecified") and old[0].get('period'):
-                for a in lst:
-                    a['period'] = old[0]['period']
-            if lst[0].get('genre') in (None, "Unspecified") and old[0].get('genre'):
-                for a in lst:
-                    a['genre'] = old[0]['genre']
-    st.session_state['annotations'] = [a for a in st.session_state.get('annotations', [])
-                                       if a.get('filename') != filename] + new_anns
-    st.session_state['annotations_pres'] = [a for a in st.session_state.get('annotations_pres', [])
-                                            if a.get('filename') != filename] + new_pres
+    _reload_set_for(path)
     return True
+
+def _set_of(path):
+    """Which loaded set a file on disk belongs to, told by its folder: 'custom'
+    (data/_custom, the reader's texts), 'comparanda', 'supplementary' (data/kal5)
+    or 'corpus' (the published tree, its held-out texts included)."""
+    p = os.path.normpath(os.path.abspath(str(path)))
+    for name, root in (('custom', CUSTOM_DIR),
+                       ('comparanda', os.path.join("data", "_comparanda")),
+                       ('supplementary', os.path.join("data", "kal5"))):
+        r = os.path.normpath(os.path.abspath(root))
+        if p == r or p.startswith(r + os.sep):
+            return name
+    return 'corpus'
+
+def _reload_set_for(path):
+    """Re-read from disk the one set a saved file belongs to.
+
+    Re-reading the set, rather than splicing a re-parse of the file into the
+    published token list, keeps every set true to its files: a comparandum, a
+    held-out or an imported text saved from the Editor can never slip into the
+    published figures, and a text whose `exclude: true` was added or removed
+    changes set accordingly."""
+    which = _set_of(path)
+    if which == 'custom':
+        _reload_custom()
+    elif which == 'comparanda':
+        _reload_comparanda()
+    elif which == 'supplementary':
+        _reload_supplementary()
+    else:
+        _reload_corpus()
+        _reload_heldout()
+    return which
 
 def open_in_editor(filename):
     """Open a corpus text as an Editor buffer and switch to the Editor tab.
@@ -3446,74 +3607,30 @@ if 'annotations' not in st.session_state:
     st.session_state['annotations'] = []
 
 if not st.session_state['annotations']:
-    _src = {}
-    st.session_state['annotations'] = load_local_data(sources=_src, preserved_only=False)
-    st.session_state['annotations_pres'] = load_local_data(preserved_only=True)
-    st.session_state['text_sources'] = _src
+    _reload_corpus()
 
 # Comparanda (kept out of the main corpus) — both modes, loaded once.
 if 'comparanda' not in st.session_state:
-    _csrc = {}
-    st.session_state['comparanda'] = load_local_data(
-        "data/_comparanda", include_excluded=True, sources=_csrc, preserved_only=False)
-    st.session_state['comparanda_pres'] = load_local_data(
-        "data/_comparanda", include_excluded=True, preserved_only=True)
-    st.session_state.setdefault('text_sources', {}).update(_csrc)
+    _reload_comparanda()
 
 # Imported texts (data/_custom) — the reader's own corpus. Loaded as its own set,
 # never folded into the published corpus; the scope switch on the LDI page decides
-# whether the analyses read the published corpus, these, or both.
+# whether the analyses read the published corpus, these, or both. The folder is
+# absent until the reader imports something; _reload_custom guards for that.
 if 'custom' not in st.session_state:
-    # Absent until the reader imports something, so the load is guarded:
-    # load_local_data reports a missing directory as an error banner.
-    _custsrc = {}
-    if os.path.isdir(CUSTOM_DIR):
-        st.session_state['custom'] = load_local_data(
-            CUSTOM_DIR, include_excluded=True, sources=_custsrc, preserved_only=False)
-        st.session_state['custom_pres'] = load_local_data(
-            CUSTOM_DIR, include_excluded=True, preserved_only=True)
-    else:
-        st.session_state['custom'] = []
-        st.session_state['custom_pres'] = []
-    st.session_state.setdefault('text_sources', {}).update(_custsrc)
+    _reload_custom()
 
 # Supplementary witnesses (data/kal5) — held out of the LDI counts but browsable
 # in the Text tab alongside the corpus and comparanda.
 if 'supplementary' not in st.session_state:
-    st.session_state['supplementary'] = load_local_data(
-        "data/kal5", include_excluded=True, preserved_only=False)
-    st.session_state['supplementary_pres'] = load_local_data(
-        "data/kal5", include_excluded=True, preserved_only=True)
+    _reload_supplementary()
 
 # Held-out corpus texts — files in the period folders (old/middle/new) that carry
 # `exclude: true` (too fragmentary, or duplicates of counted tablets). Out of every
 # count, but loadable here for individual inspection, as the article promises
-# (CBS 3831, Emar 700, the EAE 20 recension witnesses, ...). Copied to a temp tree
-# so only these eight-odd files are tokenized, not the whole corpus again.
+# (CBS 3831, Emar 700, the EAE 20 recension witnesses, ...).
 if 'heldout' not in st.session_state:
-    import tempfile as _tf, shutil as _sh
-    _hx = []
-    for _dp, _, _fs in os.walk("data"):
-        _parts = os.path.relpath(_dp, "data").split(os.sep)
-        if _parts and _parts[0] in ("old", "middle", "new"):
-            for _f in _fs:
-                if _f.endswith(".txt"):
-                    _p = os.path.join(_dp, _f)
-                    if re.search(r"^\s*exclude:\s*true",
-                                 open(_p, encoding="utf-8").read(), re.M):
-                        _hx.append((_p, os.path.relpath(_p, "data")))
-    st.session_state['heldout'] = []
-    st.session_state['heldout_pres'] = []
-    if _hx:
-        with _tf.TemporaryDirectory() as _td:
-            for _p, _rel in _hx:
-                _dst = os.path.join(_td, _rel)
-                os.makedirs(os.path.dirname(_dst), exist_ok=True)
-                _sh.copy(_p, _dst)
-            st.session_state['heldout'] = load_local_data(
-                _td, include_excluded=True, preserved_only=False)
-            st.session_state['heldout_pres'] = load_local_data(
-                _td, include_excluded=True, preserved_only=True)
+    _reload_heldout()
 
 # --- UI: Main Layout ---
 
@@ -3524,7 +3641,7 @@ if page == "Introduction":
         "This application is the companion to **_The Logographic Shift: Tracking the "
         "“Sumerianizing” Process in Cuneiform Divination_** *(L. Sáenz, "
         "[volume citation to fill in])*. It carries the article's complete dataset — "
-        "**6,978 omens in 196 texts**, Old Babylonian to Late Babylonian, plus the KAL 5 "
+        "**7,211 omens in 194 texts**, Old Babylonian to Late Babylonian, plus the KAL 5 "
         "supplement, the comparanda, and the held-out witnesses — as plain transliteration "
         "files with YAML metadata (period, discipline, provenance, counting mode). Every "
         "figure and table in the article can be recomputed here from those files, for any "
@@ -3572,7 +3689,7 @@ if page == "Introduction":
         "since a word containing a logogram scores 1 in bin and at most 1 in macro. **macro and "
         "micro are not ordered** — macro weighs every word alike, micro weighs each by its number "
         "of signs, so which is greater depends on whether a text's long words are its logographic "
-        "ones. Across this corpus micro is the greater in 7 of the 196 texts and in 10.5 % of "
+        "ones. Across this corpus micro is the greater in 7 of the 194 texts and in 10.5 % of "
         "omens, and in four texts it exceeds even bin. Comparing the three is a quick read on "
         "*how* a text is logographic — whole-word substitution versus dense sign-by-sign writing."
     )
@@ -3622,7 +3739,7 @@ if page == "Introduction":
         "which the three measures summarise but cannot replace: bin counts `LUGAL` and "
         "`LUGAL-um` alike, so two rows can agree in bin and still differ threefold in mixed "
         "writing. Diachronically the mixed class is the fast riser — 2.5 % of words in the "
-        "Old period against 18.2 % in the Neo."
+        "Old period against 18.4 % in the Neo."
     )
 
     st.divider()
@@ -3672,7 +3789,8 @@ if page == "Introduction":
 elif page == "Editor":
     # --- The editor: sources on the left, buffer in the middle, report on the right.
     # Nothing is scored while typing; Run scores the active buffer, Save writes it
-    # to data/ and re-reads the corpus.
+    # back to its file (a new text into data/_custom, the reader's own corpus)
+    # and re-reads the set it belongs to.
     _BUFS = st.session_state.setdefault('ed_bufs', {})
 
     _SCRATCH = ("---\nperiod: \ndiscipline: \nfolder: \ncounting: line\n---\n\n")
@@ -3708,9 +3826,12 @@ elif page == "Editor":
     def _dlg_new():
         """Start blank, or pull the text from eBL.
 
-        Either way the result is a buffer: nothing reaches data/ until it is saved."""
-        _kind = st.radio("Start from", ["Blank document", "eBL fragment",
-                                        "eBL corpus chapter"],
+        Either way the result is a buffer: nothing is written until it is saved,
+        and then into data/_custom, the reader's own corpus."""
+        # The browser build runs in a WebAssembly sandbox with no network, so
+        # the two eBL fetches are not offered there.
+        _kind = st.radio("Start from", ["Blank document"] + ([] if _OFFLINE else
+                                        ["eBL fragment", "eBL corpus chapter"]),
                          key="ed_new_kind", horizontal=True)
 
         if _kind == "Blank document":
@@ -3791,8 +3912,9 @@ elif page == "Editor":
         _files = st.file_uploader("eBL-ATF .txt file(s)", type=["txt"],
                                   accept_multiple_files=True, key="ed_up")
         _zip = st.file_uploader("…or a .zip of a data folder", type=["zip"], key="ed_upzip")
-        _folder = st.text_input("…or a folder on this machine", key="ed_uppath",
-                                placeholder="C:/…/my-texts")
+        # No disk to read in the browser build, so no folder field there.
+        _folder = "" if _OFFLINE else st.text_input(
+            "…or a folder on this machine", key="ed_uppath", placeholder="C:/…/my-texts")
         _dest = st.text_input(
             "Sub-folder below the discipline (optional)", key="ed_updest",
             placeholder="liver/martu",
@@ -3801,18 +3923,25 @@ elif page == "Editor":
                  "discipline.")
         _also = st.checkbox("Open them in the editor as well", key="ed_upopen")
 
+        def _as_text(raw):
+            """Bytes of an uploaded file as the text the loaders expect.
+
+            A file saved by Notepad or Word carries a UTF-8 byte-order mark and
+            Windows line endings; neither is writing, and both broke the
+            frontmatter readers (which look for '---' at the very start and for
+            '\\n'-terminated lines), so the text was filed as undated."""
+            return raw.decode("utf-8-sig", "replace").replace("\r\n", "\n").replace("\r", "\n")
+
         if st.button("Upload", type="primary", key="ed_upgo"):
             _items = []
             for _f in (_files or []):
-                _items.append((os.path.basename(_f.name),
-                               _f.getvalue().decode("utf-8", "replace")))
+                _items.append((safe_filename(_f.name), _as_text(_f.getvalue())))
             if _zip:
                 try:
                     with zipfile.ZipFile(io.BytesIO(_zip.getvalue())) as _z:
                         for _n in _z.namelist():
                             if _n.endswith(".txt") and not _n.endswith("/"):
-                                _items.append((os.path.basename(_n),
-                                               _z.read(_n).decode("utf-8", "replace")))
+                                _items.append((safe_filename(_n), _as_text(_z.read(_n))))
                 except zipfile.BadZipFile:
                     st.error("That file is not a valid .zip archive.")
             if _folder.strip():
@@ -3820,8 +3949,8 @@ elif page == "Editor":
                     for _root, _d, _fs in os.walk(_folder.strip()):
                         for _fn in _fs:
                             if _fn.endswith(".txt"):
-                                with open(os.path.join(_root, _fn), encoding="utf-8") as _fh:
-                                    _items.append((_fn, _fh.read()))
+                                with open(os.path.join(_root, _fn), "rb") as _fh:
+                                    _items.append((safe_filename(_fn), _as_text(_fh.read())))
                 else:
                     st.error(f"Folder not found: {_folder}")
             if not _items:
@@ -3867,6 +3996,11 @@ elif page == "Editor":
             if st.button(f"🗑 Discard my corpus ({_n_cust} text(s))", key="ed_dropcustom"):
                 shutil.rmtree(CUSTOM_DIR, ignore_errors=True)
                 _reload_custom()
+                # Buffers still open on the deleted files keep their text but
+                # no longer point at a file: a Save files them afresh.
+                for _b in _BUFS.values():
+                    if _b.get("path") and _set_of(_b["path"]) == 'custom':
+                        _b["path"], _b["saved"] = None, None
                 st.session_state['corpus_scope'] = "Published"
                 st.success("Removed your imported texts; the published corpus is unchanged.")
         else:
@@ -3898,7 +4032,8 @@ elif page == "Editor":
         name is asked for once, at the moment it starts to matter."""
         _b = _BUFS[name]
         st.caption("The file name is the tablet's name: it labels the text in every "
-                   "table and chart, and Save writes it under this name.")
+                   "table and chart, and Save writes it under this name into your "
+                   f"own corpus (`{CUSTOM_DIR}`), never into the published one.")
         _sug = (frontmatter_get(_b["text"], "publication") or "").split(";")[0].strip()
         _nm = st.text_input("File name", value="", placeholder=_sug or "K.2385.txt",
                             key=f"ed_nm_{name}")
@@ -3917,7 +4052,7 @@ elif page == "Editor":
         elif _pick == _opts[0]:
             _pick = ""
         st.caption(f"Destination: `"
-                   f"{os.path.dirname(data_path_for(_p, _g, 'x.txt', _pick))}`")
+                   f"{os.path.dirname(data_path_for(_p, _g, 'x.txt', _pick, root=CUSTOM_DIR))}`")
 
         _c1, _c2 = st.columns(2)
         if _c1.button("Save", type="primary", key=f"ed_nmok_{name}"):
@@ -3925,10 +4060,15 @@ elif page == "Editor":
             if not _nn:
                 st.warning("Give the text a name first.")
                 return
-            _nn = _nn if _nn.endswith(".txt") else f"{_nn}.txt"
+            _nn = safe_filename(_nn)   # one legal file name, never a path
+            # A name already taken would overwrite that text on disk, silently.
+            if _nn in st.session_state.get('text_sources', {}) or _nn in _BUFS:
+                st.warning(f"A text named **{_nn}** is already loaded. Choose another name.")
+                return
             if (_pick or "") != (_fold or ""):
-                _b["text"] = (frontmatter_set(_b["text"], "folder", _pick) if _pick
-                              else _b["text"])
+                # "(directly under the discipline)" clears a `folder:` the
+                # frontmatter had, so the file lands where the caption says.
+                _b["text"] = frontmatter_set(_b["text"], "folder", _pick or "")
             _bb = _BUFS.pop(name)
             _bb["path"], _bb["saved"] = None, None
             _BUFS[_nn] = _bb
@@ -3944,7 +4084,12 @@ elif page == "Editor":
     def _dlg_close(name):
         st.write(f"**{name}** has changes that were never saved.")
         _c1, _c2, _c3 = st.columns(3)
-        if _c1.button("Save & close", type="primary", key=f"ed_sc_{name}"):
+        if _PLACEHOLDER.match(name):
+            # A dialog cannot open the name dialog from inside itself, and the
+            # text must not be filed as "untitled": Save in the toolbar asks
+            # for the name first.
+            st.caption("This text has no name yet. Cancel, then press 💾 Save to name it.")
+        elif _c1.button("Save & close", type="primary", key=f"ed_sc_{name}"):
             if save_buffer(name, _BUFS[name]["text"])[0]:
                 _BUFS.pop(name, None)
                 st.session_state['ed_active'] = next(iter(_BUFS), None)
@@ -3997,7 +4142,8 @@ elif page == "Editor":
                     _close = st.button("✕", key=f"ed_x_{_act}", use_container_width=True,
                                        help="Close this buffer")
                     _save = st.button("💾", key=f"ed_save_{_act}", use_container_width=True,
-                                      help="Save to data/ and re-read the corpus")
+                                      help="Save to its file (a new text into your own "
+                                           "corpus) and re-read that set")
                     st.markdown('<div class="edtoolsep"></div>', unsafe_allow_html=True)
                     _run = st.button("▶", key=f"ed_run_{_act}", type="primary",
                                      use_container_width=True, help="Score this buffer")
@@ -4013,9 +4159,10 @@ elif page == "Editor":
                                             key=f"ed_name_{_act}",
                                             label_visibility="collapsed")
                         if st.button("Rename", key=f"ed_ren_{_act}"):
-                            _nn = (_nm or "").strip()
-                            _nn = _nn if _nn.endswith(".txt") else f"{_nn}.txt"
-                            if _nn and _nn != _act and _nn != ".txt":
+                            _nn = safe_filename((_nm or "").strip())
+                            if _nn in _BUFS and _nn != _act:
+                                st.warning(f"**{_nn}** is already open.")
+                            elif _nn and _nn != _act:
                                 _b = _BUFS.pop(_act)
                                 _b["path"], _b["saved"] = None, None
                                 _BUFS[_nn] = _b
@@ -4069,9 +4216,14 @@ elif page == "Editor":
                     _path, _note = save_buffer(_act, _buf["text"])
                     if _path:
                         _buf["saved"] = _buf["text"]
-                        st.success(f"Saved to `{_path}` and re-read the corpus.")
-                        if _note:
-                            st.warning(_note)
+                        _buf["path"] = _path
+                        _which = _set_of(_path)
+                        st.success(f"Saved to `{_path}` and re-read "
+                                   + ("your corpus. Pick the scope on the LDI page to "
+                                      "analyse it." if _which == 'custom'
+                                      else f"the {_which} set."))
+                    if _note:
+                        st.warning(_note)
 
         with _rep:
             _rh1, _rh2 = st.columns([1.6, 1.4], vertical_alignment="bottom")
@@ -4148,17 +4300,25 @@ elif page == "Editor":
             # no rerun: the tree and the pooled report below are drawn from the
             # buffers we just scored, in this same pass
         if _c2.button("💾 Save all", use_container_width=True, key="ed_save_all"):
-            _ok, _notes = 0, []
+            _ok, _notes, _unnamed = 0, [], []
             for _n, _b in list(_BUFS.items()):
                 if not _is_dirty(_n):
+                    continue
+                if _PLACEHOLDER.match(_n):
+                    # Never filed as "untitled": the single Save asks for a name.
+                    _unnamed.append(_n)
                     continue
                 _p, _nt = save_buffer(_n, _b["text"])
                 if _p:
                     _b["saved"] = _b["text"]
+                    _b["path"] = _p
                     _ok += 1
                 if _nt:
                     _notes.append(f"**{_n}**: {_nt}")
-            st.success(f"Saved {_ok} text(s) into data/ and re-read the corpus.")
+            st.success(f"Saved {_ok} text(s) to their files and re-read their sets.")
+            if _unnamed:
+                st.warning("Not saved, no name yet: " + ", ".join(f"`{_n}`" for _n in _unnamed)
+                           + ". Open each and press 💾 Save to name it.")
             for _nt in _notes:
                 st.warning(_nt)
 
@@ -4199,7 +4359,7 @@ elif page == "Editor":
             _all_pres = [r[2] for r in _rows if r[2] is not None]
             _rows.append(("All open", _all_full,
                           pd.concat(_all_pres, ignore_index=True) if _all_pres else None,
-                          _all_full.drop_duplicates(subset=['filename', 'omen_id'])
+                          unique_omens(_all_full)
                           if 'omen_id' in _all_full.columns else None))
             _ptab = standard_table(_rows, "Text")
             if _ptab is not None:
@@ -4679,15 +4839,19 @@ elif st.session_state['annotations']:
         if 'section' not in d.columns:
             d['section'] = "Unspecified"
         d['section'] = d['section'].fillna("Unspecified").replace("", "Unspecified")
-        uo = d.drop_duplicates(subset=['filename', 'omen_id'])
-        lp = d['type'].isin(['logogram', 'phonetic'])   # determinatives excluded from bin & graded
+        uo = unique_omens(d)
+        # The scored frames behind every chart node and trend line: determinatives
+        # excluded, and the content-less omens (a lone '[DIŠ ...] x#') dropped,
+        # exactly as trio()/comp() drop them for the tables — so a chart and the
+        # table beside it never score the same slice under different rules.
+        scored = _drop_contentless(d[d['type'].isin(['logogram', 'phonetic'])])
         def _held(items):
             hd = pd.DataFrame(items or [])
             if not hd.empty:
                 hd['genre'] = hd['genre'].map(lambda g: GENRE_DISPLAY.get(g, str(g).title()))
                 hd = enrich_signs(hd)
             return hd
-        return {'df': d, 'uo': uo, 'bframe': d[lp], 'gframe': d[lp],
+        return {'df': d, 'uo': uo, 'bframe': scored, 'gframe': scored,
                 'comp': _held(comps), 'supp': _held(supps), 'held': _held(helds),
                 'cust': _held(custs)}
 
@@ -4711,6 +4875,9 @@ elif st.session_state['annotations']:
                    len(st.session_state.get('heldout_pres') or ()),
                    len(st.session_state.get('custom') or ()),
                    len(st.session_state.get('custom_pres') or ()),
+                   # bumped by every reload and save, so an edit that keeps the
+                   # token count still rebuilds the frames
+                   st.session_state.get('_corpus_version', 0),
                    _scope)
     if st.session_state.get('_frames_sig') != _frames_sig:
         st.session_state['_frames'] = {
@@ -4849,13 +5016,17 @@ elif st.session_state['annotations']:
         omens = []
         for oid in text_df['omen_id'].unique():
             omen_tokens = text_df[text_df['omen_id'] == oid]
-            # A %sux line is Sumerian — colour the whole line with the sux colour.
-            is_sux = (omen_tokens['token'] == "%sux").any()
+            # Sumerian is coloured as such, token by token: the loader stamps each
+            # row with the language in force (a %sux stretch may end mid-line at
+            # a %akk). Rows without the stamp fall back to the whole-line rule.
+            _has_lang = 'language' in omen_tokens.columns
+            is_sux_line = (omen_tokens['token'] == "%sux").any()
             items = []
             for _, token_row in omen_tokens.iterrows():
-                token_text = token_row['token']
-                if token_text == "%sux":
-                    continue   # language marker — drives line colour, not shown
+                token_text = str(token_row['token'])
+                if LANG_MARKER.match(token_text):
+                    continue   # language marker — drives colour, not shown
+                is_sux = (token_row['language'] == "sumerian") if _has_lang else is_sux_line
                 # Show the raw form (brackets/damage markers preserved); fall back
                 # to the cleaned token for any row without a display field.
                 disp = token_row['display'] if ('display' in token_row and pd.notna(token_row['display'])) else token_text
@@ -4910,8 +5081,7 @@ elif st.session_state['annotations']:
         #    then the per-omen chart, at the canonical convention.
         if omens:
             st.divider()
-            _tuo = text_df_full.drop_duplicates(subset=['filename', 'omen_id'])
-            _cuo = FRAMES[False]['uo']
+            _tuo = unique_omens(text_df_full)
             _ttab = pd.DataFrame(
                 [report_row(text_df_full, text_df_pres, _tuo), corpus_report_row()],
                 index=[title, "whole corpus"], columns=REPORT_COLS)
@@ -5053,11 +5223,19 @@ elif st.session_state['annotations']:
             _n_mine = len({_a['filename'] for _a in st.session_state['custom']})
             _n_pub = len({_a['filename'] for _a in st.session_state['annotations']})
             with st.container(key="scopepick"):
-                _sc_kw = ({} if 'corpus_scope' in st.session_state
-                          else {'default': "Published"})
+                # Streamlit drops a widget's state whenever the widget is not
+                # rendered, so a visit to the Editor silently reset the scope to
+                # Published. The choice therefore lives under its own key,
+                # 'corpus_scope', and the widget only mirrors it: seeded from it
+                # when the widget is (re)created, written back on every change.
+                def _set_scope():
+                    st.session_state['corpus_scope'] = (
+                        st.session_state.get('corpus_scope_w') or "Published")
+                _sc_kw = ({} if 'corpus_scope_w' in st.session_state
+                          else {'default': st.session_state.get('corpus_scope', "Published")})
                 st.segmented_control(
-                    "Corpus scope", CORPUS_SCOPES, key='corpus_scope',
-                    label_visibility="collapsed", **_sc_kw)
+                    "Corpus scope", CORPUS_SCOPES, key='corpus_scope_w',
+                    label_visibility="collapsed", on_change=_set_scope, **_sc_kw)
                 _scope_says = {
                     "Published": f"the published corpus ({_n_pub} texts)",
                     "My texts": f"your {_n_mine} imported text(s)",
@@ -5548,7 +5726,12 @@ elif st.session_state['annotations']:
                     ostats = pd.concat([o_bin, o_agg[['macro', 'micro']]], axis=1).reset_index()
                     ostats[['bin', 'macro', 'micro']] = ostats[['bin', 'macro', 'micro']].fillna(0.0)
                     ostats['period'] = pd.Categorical(ostats['period'], categories=PERIOD_ORDER, ordered=True)
-                    ostats = ostats.sort_values(['period', 'filename', 'omen_id'])
+                    # Omen ids are strings ("1", "10", "2"): order them as the
+                    # numbers they are, so a tablet's nodes run in text order.
+                    ostats['_onum'] = pd.to_numeric(
+                        ostats['omen_id'].astype(str).str.extract(r'(\d+)')[0], errors='coerce')
+                    ostats = (ostats.sort_values(['period', 'filename', '_onum', 'omen_id'])
+                              .drop(columns='_onum'))
                     if ostats.empty:
                         return None
                     ostats['seq_index'] = range(len(ostats))
@@ -6089,11 +6272,17 @@ elif st.session_state['annotations']:
                         st.rerun()          # whole app: the open text changed
 
             st.markdown(f"**Data** · {_n_all} texts")
-            for _p in PERIOD_ORDER:
+            # The three periods first, then any period the charts cannot place
+            # (an import without `period:` reads as "Unspecified"): the header
+            # counts those texts, so the tree must offer them too.
+            _extra = sorted(str(p) for p in _df['period'].dropna().unique()
+                            if p not in PERIOD_ORDER)
+            for _p in PERIOD_ORDER + _extra:
                 _pdf = _df[_df['period'] == _p]
                 if _pdf.empty:
                     continue
-                st.button(f"{'▾' if _p in _op else '▸'} {period_disp(_p)}"
+                _plabel = period_disp(_p) if _p in PERIOD_ORDER else f"{_p} (undated)"
+                st.button(f"{'▾' if _p in _op else '▸'} {_plabel}"
                           f"  ({_pdf['filename'].nunique()})",
                           key=f"{_ns}_p_{_p}", use_container_width=True,
                           on_click=_toggle_period, args=(_p, _ns))

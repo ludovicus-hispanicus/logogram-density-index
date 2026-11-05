@@ -18,7 +18,7 @@ This repository accompanies the article *The Logographic Shift: Tracking the
 
 ![The logographic shift by period](assets/general-trend.png)
 
-Across **7,005 omens in 195 texts**, the index rises from 0.33 in the Old
+Across **7,211 omens in 194 texts**, the index rises from 0.33 in the Old
 Babylonian period to 0.70 in the Middle period and 0.75 in the first
 millennium: writing that begins as syllabic Akkadian ends up almost entirely
 logographic, without the language itself changing.
@@ -83,9 +83,9 @@ discipline:
 
 ```
 data/
-  old/          Old Babylonian ................... 761 omens (29 texts)
-  middle/       Middle Babylonian / Assyrian .... 2,354 omens (88 texts)
-  new/          First-millennium (NA / NB / LB) . 3,890 omens (78 texts)
+  old/          Old Babylonian ................... 765 omens (29 texts)
+  middle/       Middle Babylonian / Assyrian .... 2,584 omens (88 texts)
+  new/          First-millennium (NA / NB / LB) . 3,862 omens (77 texts)
       └── astrology/ diagnostic/ extispicy/ izbu/ terrestrial/
   _comparanda/  held out: Hittite and Hurrian recensions, lung and liver
                 models, an incantation and a prayer for cross-genre contrast
@@ -127,11 +127,11 @@ streamlit run app.py       # then open http://localhost:8501
 > On Windows, where `python` may resolve to an msys2 build without pip, use the
 > launcher: `py -m streamlit run app.py`.
 
-The app has four tabs: **LDI** (five views: overview, discipline, region,
-topics, and a per-text browser with sign-by-sign colour coding), **Sources** (a
-catalogue of every manuscript with its metadata, LDI and eBL link),
-**Bibliography**, and **Editor** (measure a pasted line, edit a text, import
-your own).
+The app has four tabs: **LDI** (six views: overview, discipline, region,
+topics, compare, and a per-text browser with sign-by-sign colour coding),
+**Sources** (a catalogue of every manuscript with its metadata, LDI and eBL
+link), **Bibliography**, and **Editor** (measure a pasted line, edit a text,
+import your own).
 
 ### Analysing your own texts
 
@@ -139,7 +139,9 @@ Upload in the Editor takes one file, several at once, a `.zip`, or a folder on
 your machine, read recursively. Imported texts are filed by their own
 frontmatter into `data/_custom/`, which is kept **separate from the published
 corpus**: the figures the article reports never move because you added
-something. A scope switch above the LDI views then chooses what is scored —
+something. A text written or fetched from eBL in the Editor is saved there too
+when you name it; a published text you edit goes back to its own file, and only
+the set it belongs to is re-read. A scope switch above the LDI views then chooses what is scored —
 the published corpus, your texts, or both — and every view works on the
 selection, not just the text browser.
 

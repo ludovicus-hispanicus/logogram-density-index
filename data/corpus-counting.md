@@ -105,54 +105,58 @@ plainly numbered texts.
 
 ## How the counted corpus breaks down by mode
 
-Distribution across the **196 counted texts** (excludes comparanda, KAL 5, and
-individually held-out texts):
+Distribution across the **194 counted texts** (excludes comparanda, KAL 5, and
+individually held-out texts; counts as of 2026-11-05, see `corpus-manifest.md`):
 
 | `counting:` | texts | omens | notes |
 | --- | ---: | ---: | --- |
-| `line` | 67 | 2439 | one omen per line (models + broken/peripheral texts) |
-| `DIŠ` | 61 | 2726 | logographic *šumma* |
-| `BE` | 40 | 1280 | logographic *šumma* |
-| `BAD` | 3 | 102 | logographic *šumma* |
+| `line` | 83 | 3174 | one omen per line (models + broken/peripheral texts) |
+| `DIŠ` | 47 | 2372 | logographic *šumma* |
+| `BE` | 38 | 1241 | logographic *šumma* |
+| `DIŠ\|BE` | 1 | 106 | either particle (EAE 22) |
+| `BAD` | 2 | 36 | logographic *šumma* |
 | `AŠ` | 2 | 50 | logographic *šumma* |
-| `UD` | 8 | 18 | logographic *šumma* |
-| `šum-ma` | 11 | 79 | syllabic *šumma* |
+| `UD` | 7 | 42 | logographic *šumma* |
+| `šum-ma` | 11 | 80 | syllabic *šumma* |
 | `šum₄-ma` | 1 | 27 | syllabic *šumma* |
 | `§` | 1 | 9 | paragraph markers |
-| *(numbered lines)* | 2 | 76 | fallback |
-| **Total** | **196** | **6806** | |
+| *(numbered lines)* | 1 | 74 | fallback |
+| **Total** | **194** | **7211** | |
 
 The particle delimiters (`DIŠ`/`BE`/`BAD`/`AŠ`/`UD` + `šum-ma`/`šum₄-ma`) together
-cover 126 texts / 4282 omens; they are all the *same* rule, differing only in which
+cover 109 texts / 3954 omens; they are all the *same* rule, differing only in which
 sign the edition uses to open the protasis.
 
 ## Corpus totals
 
-Counted corpus — **6806 omens in 196 texts**:
+Counted corpus — **7211 omens in 194 texts**:
 
 | Genre | Old | Middle | Neo | Total |
 | --- | ---: | ---: | ---: | ---: |
-| astrological (EAE) | 286 (6) | 159 (7) | 453 (8) | **898 (21)** |
-| diagnostic (Sakikku) | 33 (2) | 225 (13) | 1173 (32) | **1431 (47)** |
-| extispicy (liver + lung) | 188 (13) | 1156 (37) | 534 (16) | **1878 (66)** |
-| birth (Šumma izbu) | 134 (5) | 191 (14) | 696 (11) | **1021 (30)** |
-| terrestrial (Šumma Ālu) | 120 (3) | 418 (17) | 1040 (12) | **1578 (32)** |
-| **Total** | **761 (29)** | **2149 (88)** | **3896 (79)** | **6806 (196)** |
+| astrological (EAE) | 289 (6) | 275 (7) | 438 (7) | **1002 (20)** |
+| diagnostic (Sakikku) | 33 (2) | 226 (13) | 1184 (32) | **1443 (47)** |
+| extispicy (liver + lung) | 189 (13) | 1260 (37) | 534 (16) | **1983 (66)** |
+| birth (Šumma izbu) | 134 (5) | 242 (14) | 668 (11) | **1044 (30)** |
+| terrestrial (Šumma Ālu) | 120 (3) | 581 (17) | 1038 (11) | **1739 (31)** |
+| **Total** | **765 (29)** | **2584 (88)** | **3862 (77)** | **7211 (194)** |
 
 Not included in the total, and listed separately in the manifest:
 
 | Group | texts | omens | in counts? |
 | --- | ---: | ---: | --- |
-| Held out (in period folders, `exclude: true`) | 7 | 58 | no — duplicates / bilingual / preservation artifacts |
+| Held out (in period folders, `exclude: true`) | 9 | 84 | no — duplicates / bilingual / preservation artifacts |
 | Comparanda (`data/_comparanda/`) | 9 | 562 | no — used only for comparison |
-| KAL 5 supplement (`data/kal5/`) | 78 | 2909 | no — analysed separately (§ Assyria vs Babylonia) |
+| KAL 5 supplement (`data/kal5/`) | 78 | 2847 | no — analysed separately (§ Assyria vs Babylonia) |
 
 ## Notes
 
 - A text is kept out of the counts by `exclude: true` in its front-matter (whatever
   folder it sits in); comparanda live in `data/_comparanda/`.
 - Broken/illegible signs (`x`, `[...]`) contribute nothing to the *LDI* but do not
-  change the *omen* count — segmentation is by protasis, not by preservation.
+  change the *omen* count — segmentation is by protasis, not by preservation. The
+  one exception is a unit that is nothing but breaks (`[...]`, `[x x] x`): it has
+  no sign to count and is not an omen in any total. The app shows such lines in
+  the Text view but counts them nowhere, so its figures agree with the manifest.
 - Determinatives are dropped from the LDI (as unpronounced classifiers) but, again,
   play no role in counting omens.
 - Period labels follow each edition; the combined label `Neo-Assyrian / Late

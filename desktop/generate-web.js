@@ -21,11 +21,14 @@ fs.mkdirSync(appFiles, { recursive: true });
 fs.copyFileSync(path.join(repoRoot, "app.py"), path.join(appFiles, "streamlit_app.py"));
 fs.copyFileSync(path.join(repoRoot, "references.bib"), path.join(appFiles, "references.bib"));
 
-const SKIP = new Set(["__pycache__"]);
+// data/_custom is the reader's own corpus on the build machine (texts imported
+// through the app) — private, and never part of the published site. Editor
+// backups (*.bak) are not shipped either.
+const SKIP = new Set(["__pycache__", "_custom"]);
 function copyDir(src, dst) {
   fs.mkdirSync(dst, { recursive: true });
   for (const e of fs.readdirSync(src, { withFileTypes: true })) {
-    if (SKIP.has(e.name)) continue;
+    if (SKIP.has(e.name) || /\.bak(\w*)$/.test(e.name)) continue;
     const s = path.join(src, e.name), d = path.join(dst, e.name);
     e.isDirectory() ? copyDir(s, d) : fs.copyFileSync(s, d);
   }

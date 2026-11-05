@@ -26,7 +26,7 @@ ina ŠÀ MU.BI BA.ÚŠ šum₄?-ma? LÚ? [BI TI ḫa-šiḫ SAG.DU-su ú-ḫar-r
 uš-ta-pa-šaq-ma TI-uṭ KI.MIN [ZI-bu kaš-du LÚ BI Á.GU ZI.GA ana {d}AMAR.UTU ú-še-di-ma SIG₅ KI.MIN KI.ŠÚ]
 GIG IGI LÚ BI a-na {d}AMAR.UTU i-[še-e'-ú-ma ḪUL.BI DU₈]
 DIŠ {iti}GU₄ MUŠ ana UGU LÚ ŠUB-ut LÚ B[I ...]
-DIŠ {iti}SIG₄ MUŠ lu ana IGI LÚ &lt;lu&gt; a-na [EGIR LÚ ŠUB-ut ...]
+DIŠ {iti}SIG₄ MUŠ lu ana IGI LÚ <lu> a-na [EGIR LÚ ŠUB-ut ...]
 DIŠ {iti}ŠU MUŠ LÚ IGI.DU₈ [...]
 DIŠ {iti}NE MUŠ LÚ IGI.DU₈ [...]
 DIŠ {iti}KIN MUŠ LÚ IGI.DU₈ [...]
@@ -44,10 +44,10 @@ LÚ BI {d}AMAR.UTU ú-šal-la-ma SIG₅ IGI
 [DIŠ M]UŠ gi-na-a ka-la-šu a-na IGI LÚ ip-ta-na-ar-rik SAG-tuk na LAL-ti
 [DIŠ MU]Š a-na bi-rit NITA u MUNUS ŠUB-ut lu i+na-bít lu ina ze-nu-ti TAR.MEŠ
 [DIŠ MUŠ] a-na bi-rit NITA u MUNUS ŠUB-ut-ma NU È GAZ-šú ḪUL-šu DU₈-ir
-[DIŠ MUŠ a-ša]r [N]ITA u MUNUS KI.TUŠ.MEŠ ù-lu GUB.MEŠ a-na bi-ri-šú-nu ŠUB-ut-ma IGI.MEŠ NITA u MUNUS TAG₄ NITA &lt;TI?&gt;-uṭ?
+[DIŠ MUŠ a-ša]r [N]ITA u MUNUS KI.TUŠ.MEŠ ù-lu GUB.MEŠ a-na bi-ri-šú-nu ŠUB-ut-ma IGI.MEŠ NITA u MUNUS TAG₄ NITA <TI?>-uṭ?
 [DIŠ MUŠ a-ša]r EN é NIN É! DUMU.MEŠ É ÌR u GÉME NIGIN.MEŠ ana bi-ri-šú-nu ŠUB-ut EN É úŠ-ma É BIR
 [DIŠ MUŠ ana UGU MUNUS.UŠ.BAR.MEŠ ŠUB-ut-ma ú-dal-li-iḫ-ši-na-ti TÚG BI ina ŠÀ.BI NU DÙG.GA ut-ta-ka-as
-[DIŠ MUŠ ana UGU MUNUS.UŠ.B]AR.MEŠ ŠUB-ut-ma ana ŠÀ GU-e iḫ-lu-qú MUNUS.UŠ.&lt;BAR&gt;.MEŠ ši-na ana 2 ITI BA.ÚŠ.ME ti-bu dan-nu
+[DIŠ MUŠ ana UGU MUNUS.UŠ.B]AR.MEŠ ŠUB-ut-ma ana ŠÀ GU-e iḫ-lu-qú MUNUS.UŠ.<BAR>.MEŠ ši-na ana 2 ITI BA.ÚŠ.ME ti-bu dan-nu
 [TÚG BI] ina ŠÀ BI NU DÙG.GA KUD.KUD
 [DIŠ MUŠ ina É LÚ ma-gal ŠU]B.ŠUB-ut ina É LÚ ÚŠ BA.ÚŠ
 # --- page_002 ---
@@ -71,7 +71,7 @@ LÚ BI {d}AMAR.UTU ú-šal-la-ma SIG₅ IGI
 [...] EN ḪUL-šu GAZ-šu
 [...] x ti UKKIN-ši-na BIR-aḫ
 [...] NIGIN LÚ BI MU 3-KÁM ina KI.ŠÚ ŠUB-di DINGIR NIGIN-ma TI-uṭ
-[LÚ B]I? {d}AMAR.UTU i-še(Text: kur)!-ú!-ma GIZKIM KI.ŠÚ &lt;DIB&gt;-iq-šú
+[LÚ B]I? {d}AMAR.UTU i-še(Text: kur)!-ú!-ma GIZKIM KI.ŠÚ <DIB>-iq-šú
 [... N]IGIN LÚ BI ina pú-uš-qí u MUNUS.KALA.GA È-ṣi
 [DIŠ MUŠ ina É? L]Ú še-ni-šú NIGIN LÚ BI NU dul-lu DAB-su
 [DIŠ MUŠ ina?] É? KI.ŠÚ IGI-ir-ma GUR-ru LÚ NU SI.SÁ uš-ta-pa-šaq-ma TI-uṭ
@@ -79,7 +79,7 @@ LÚ BI {d}AMAR.UTU ú-šal-la-ma SIG₅ IGI
 [DIŠ MU]Š ina É LÚ tap-pa-šú GAZ É BI BIR-ma UŠ-su É.GAL UŠ-di
 [DIŠ MU]Š ana IGI LÚ GIB.GIB DINGIR ina šá-lim-tú LÚ UŠ.UŠ-di
 [DIŠ M]UŠ ina É LÚ i-tak-ka-lu ŠEŠ.MEŠ TAR.MEŠ É BI BIR
-DIŠ MUŠ.MEŠ ina É LÚ ir-tak-ka-bu É BI ŠUB-di šum₄-ma &lt;su&gt;-un-qu šum₄-ma ÚŠ BA.ÚŠ
+DIŠ MUŠ.MEŠ ina É LÚ ir-tak-ka-bu É BI ŠUB-di šum₄-ma <su>-un-qu šum₄-ma ÚŠ BA.ÚŠ
 DIŠ MUŠ MUŠ GAZ-ma ina SILA ina SILA.DAGAL.LA IGI SILA SILA i+na-kir LÚ ŠEŠ-šú GU₇ UN.MEŠ SA₁₀ DUMU.ME-ši-na GU₇.MEŠ
 
 DIŠ MUŠ ina É LÚ tap-pa-šú GAZ KUR-ad Á.ÁŠ

@@ -20,12 +20,14 @@ fs.copyFileSync(path.join(repoRoot, "app.py"), path.join(dest, "streamlit_app.py
 // Bibliography source for the Bibliography tab
 fs.copyFileSync(path.join(repoRoot, "references.bib"), path.join(dest, "references.bib"));
 
-// Bundle the corpus (data/), skipping caches and the data license file
-const SKIP = new Set(["__pycache__"]);
+// Bundle the corpus (data/), skipping caches, editor backups and data/_custom:
+// the reader's own corpus on the build machine (texts imported through the
+// app), which is private and must never ship inside the installer.
+const SKIP = new Set(["__pycache__", "_custom"]);
 function copyDir(src, dst) {
   fs.mkdirSync(dst, { recursive: true });
   for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
-    if (SKIP.has(entry.name)) continue;
+    if (SKIP.has(entry.name) || /\.bak(\w*)$/.test(entry.name)) continue;
     const s = path.join(src, entry.name);
     const d = path.join(dst, entry.name);
     if (entry.isDirectory()) copyDir(s, d);

@@ -51,12 +51,18 @@ PORD = {"Old Babylonian": 1, "Late Old Babylonian": 2, "Early Middle Babylonian"
 pnorm = lambda p: "Neo-Babylonian" if p == "Neo Babylonian" else p
 
 rows = []
-for dp, _, fs in os.walk(ROOT):
+for dp, dirs, fs in os.walk(ROOT):
+    # data/_custom holds texts a reader imported through the app: their own
+    # corpus, never part of the published catalogue.
+    dirs[:] = [d for d in dirs if d != "_custom"]
     for f in sorted(fs):
         if not f.endswith(".txt"):
             continue
         F = fm(open(os.path.join(dp, f), encoding="utf-8").read())
-        rows.append(dict(sig=sigfmt(f[:-4]), disc=DISC.get(get(F, "genre"), get(F, "genre")),
+        # The corpus field is `discipline:`; `genre:` survives only in the two
+        # comparanda that really are other genres (prayer, incantation).
+        disc = get(F, "discipline") or get(F, "genre")
+        rows.append(dict(sig=sigfmt(f[:-4]), disc=DISC.get(disc, disc),
                          period=pnorm(get(F, "period")),
                          pub=get(F, "publication") or get(F, "source") or get(F, "edition"),
                          prov=get(F, "provenance"),

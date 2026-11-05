@@ -20,7 +20,7 @@ source_note: A-lines of the Nr. 16/17 score, extracted from KAL 1 via structured
 [DIŠ EME.DIR TA AN-e] a-na UGU NA ŠUB-ut NA BI ḪA.LA GAL GU7
 [DIŠ EME.DIR ...] a-na UGU NA GU4.UD!-iṭ NA BI INIM SIG5 IGI-mar
 [DIŠ EME.DIR TA] KI a-na UGU NA E11 NA BI Á.TUK IGI-mar
-[DIŠ EME.DIR] TA É.GAR8 ana UGU NA GU4.UD-iṭ NA BI mim-ma la-a šu-a-&lt;ti&gt; ŠU-su KUR-ad
+[DIŠ EME.DIR] TA É.GAR8 ana UGU NA GU4.UD-iṭ NA BI mim-ma la-a šu-a-<ti> ŠU-su KUR-ad
 [DIŠ EME.DIR] a-na UGU ŠU NA ZAG ŠUB-ut NA BI Á.TUK TUK-ši Á.TUK-šú GU7
 [DIŠ EME.DIR] a-na UGU ŠU NA GÙB ŠUB-ut ina KÙ.BABBAR.MEŠ DUMU.MUNUS.MEŠ-šú É DÙ-uš
 [DIŠ EME.DIR] a-na bir-ki NA ŠUB-ut Á.TUK DUMU-šú TUK-ši mim-ma PÀ ana ku-širi ŠID
@@ -32,7 +32,7 @@ source_note: A-lines of the Nr. 16/17 score, extracted from KAL 1 via structured
 DIŠ EME.DIR a-na KI.TA {giš}GU.ZA NA KU4-ma ir-bi-iṣ KÚR! É BI [TUŠ-ab]
 DIŠ EME.DIR a-na UGU {giš}GU.ZA NA E11-ma ir-bi-iṣ [...] x [...]
 DIŠ EME.DIR a-na UGU {giš}BANŠUR NA ŠUB-ut ina-[an-ziq]
-DIŠ EME.DIR a-na UGU {giš}BANŠUR NA ana DUG &lt;kal&gt;-li ŠUB-ut GIG [DAB-su]
+DIŠ EME.DIR a-na UGU {giš}BANŠUR NA ana DUG <kal>-li ŠUB-ut GIG [DAB-su]
 DIŠ EME.DIR a-na UGU {giš}BANŠUR NA E11-ma ir-bi-iṣ šá KASKAL SÙ-te TE-a šá [...]
 DIŠ EME.DIR a-na KI.TA {giš}BANŠUR NA KU4-ma ir-bi-iṣ SUḪUŠ.BI [NU GI.NA]
 DIŠ EME.DIR a-na UGU {giš}NÁ NA ŠUB-ut-ma! ir-bi-iṣ SUḪUŠ.BI [GI.NA]
