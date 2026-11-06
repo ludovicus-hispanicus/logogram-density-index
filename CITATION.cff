@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or corpus, please cite it using the metadata below."
 title: "Logogram Density Index (LDI): a diachronic corpus and tool for tracking logographic density in cuneiform divination"
 abstract: >-
-  Logogram Density Index (LDI) is a Streamlit application and analysis toolkit for
+  A Streamlit application and analysis toolkit for
   measuring the Logogram Density Index (LDI) across a hand-built corpus of
   Mesopotamian omen texts, spanning the Old Babylonian, Middle, and
   first-millennium periods and the major divination genres (astrology,
