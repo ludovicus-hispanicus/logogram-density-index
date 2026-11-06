@@ -7,9 +7,7 @@ diachronic corpus of Mesopotamian omen texts: the "logographic shift", the
 increasing use of Sumerian logograms in cuneiform divination from the Old
 Babylonian period into the first millennium BCE.
 
-<!-- TODO: add once the Zenodo DOI is minted:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
--->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24010555.svg)](https://doi.org/10.5281/zenodo.24010555)
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-green.svg)](data/LICENSE)
 
@@ -211,4 +209,5 @@ users remain responsible for citing the underlying primary editions (see
 ## Citation
 
 See [`CITATION.cff`](CITATION.cff), or use GitHub's *Cite this repository*
-button. Once archived on Zenodo, please cite the concept DOI.
+button. The release is archived on Zenodo; please cite the concept DOI,
+[10.5281/zenodo.24010555](https://doi.org/10.5281/zenodo.24010555), which always points to the latest version.

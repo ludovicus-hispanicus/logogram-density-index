@@ -36,4 +36,4 @@ keywords:
 #   journal: "TODO journal"
 #   year: 2026
 #   doi: "TODO/article-doi"
-# doi: "10.5281/zenodo.TODO"  # Zenodo concept DOI, added once minted
+doi: "10.5281/zenodo.24010555"  # Zenodo concept DOI (always the latest version)
