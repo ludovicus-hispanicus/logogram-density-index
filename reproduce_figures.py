@@ -108,7 +108,7 @@ def disciplines_figure(values, overall):
 
 
 def main():
-    words, signs, preserved = T.load()
+    _, words, signs, preserved = T.load()
     values = {'bin': [], 'macro': [], 'micro': []}
     for era in T.ORDER:
         g = T.graded(signs, era)

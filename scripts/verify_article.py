@@ -180,6 +180,17 @@ NEW_PRINTED.update({
  'T16 eclipse Neo':207,
 })
 
+# Re-pinned 2026-11-06 to the article after the corpus fixes (PDF headers stripped, šum-<ma> in
+# MS 2797 opens an omen: 7212 omens). Note on labels: 'T31' and 'T32' in this file are the docx's
+# Tables 32 and 33, the docx having gained a table after this numbering was set.
+NEW_PRINTED.update({
+ 'T1 izbu Old omens':135, 'T1 total omens':7212,
+ 'T5 bin Middle':0.701, 'T5 ina/ana-log Neo':0.825, 'T5 restor-dropped Neo':0.739, 'T5 syll Neo':24.3,
+ 'prose Neo ina/ana raise':0.072,
+ 'T24 Neo-Bab pure':46.2, 'T24 Neo-Bab mixed':28.4, 'T24 Neo-Bab syll':25.4,
+ 'T32 band pure low':44.5, 'T32 band mixed high':30.0,
+})
+
 def ck(label, computed, printed, dec=2):
     """dec: decimals of the printed value; dec='pct1' = one-decimal percent;
     dec='int' = exact integer."""
@@ -295,6 +306,13 @@ for (g,e),(o,t) in T1.items():
     ck(f"T1 {g} {e.split()[0]} texts", ntx(d), t, 'int')
 ck("T1 total omens", nom(CW), 7005, 'int')
 ck("T1 total texts", ntx(CW), 195, 'int')
+# Cells that repeat or sum these counts, checked since 2026-11-06.
+_iz = CW[CW.genre=='izbu omens']
+ck("T1 izbu total omens", nom(_iz), 1045, 'int')
+ck("T1 Old total omens", nom(CW[CW.era=='Old Period']), 766, 'int')
+ck("T26 human misbirth Old omens", nom(_iz[_iz.filename.isin(['MS.1806.txt','MS.2797.txt','YOS10-56.txt'])]), 64, 'int')
+ck("T26 total Old omens", nom(_iz[_iz.era=='Old Period']), 135, 'int')
+ck("T27 izbu Old omens", nom(_iz[_iz.era=='Old Period']), 135, 'int')
 
 # ================================================================ Table 5 ====
 ck("T5 bin Old",    B(sub(CW,era='Old Period')),    0.326, 3)
@@ -748,6 +766,11 @@ for _k,_lab,_lo,_hi in [('pure','pure',44.8,64.8),('mixed','mixed',13.0,29.7),
                         ('syllabic','syll',16.8,29.0)]:
     ck(f"T32 band {_lab} low",  min(_band[_k]), _lo,'pct1')
     ck(f"T32 band {_lab} high", max(_band[_k]), _hi,'pct1')
+# §3.5.2: Neo omens, logographic signs against all signs, classifiers included (lowest, highest).
+_civ = [100*_x['log']/(_x['log']+_x['phon']+_x['det']) for _x in
+        (G(CS[(CS.genre==_g)&(CS.era=='Neo Period')]) for _g in GEN)]
+ck("3.5.2 Neo signs low", min(_civ), 51.5, 'pct1')
+ck("3.5.2 Neo signs high", max(_civ), 63.4, 'pct1')
 ck("4.1 LB2126 bin", B(CW[CW.filename=='LB.2126.txt']), 0.03, 2)
 E700 = load_stripped(lambda r: r=='middle/terrestrial/Emar.700.txt')
 ck("n103 Emar700 bin", B(E700), 1.00, 2)

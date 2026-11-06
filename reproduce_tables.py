@@ -42,20 +42,30 @@ def fold(period):
 
 
 def load():
+    """(every_omen, words, signs, preserved).
+
+    The index measures how Akkadian is written, so Sumerian (%sux) is held out of
+    words, signs and preserved, exactly as the article and verify_article.py score
+    it. every_omen keeps all languages and is for counting omens only: a wholly
+    Sumerian omen is still an omen in the corpus table.
+    """
     note('reading the corpus')
-    words = pd.DataFrame(C.load_local_data())
+    every_omen = pd.DataFrame(C.load_local_data())
     signs = pd.DataFrame(C.load_local_signs())
     preserved = pd.DataFrame(C.load_local_data(preserved_only=True))
-    for frame in (words, signs, preserved):
+    for frame in (every_omen, signs, preserved):
         frame['era'] = frame['period'].map(fold)
-    return words, signs, preserved
+    words = every_omen[every_omen['language'] == 'akkadian']
+    signs = signs[signs['language'] == 'akkadian']
+    preserved = preserved[preserved['language'] == 'akkadian']
+    return every_omen, words, signs, preserved
 
 
 def scored(frame, exclude_particles=False, monogram_as_log=False):
     """The rows compute_ratios.ldi() would score, with a 0/1 column per sign.
 
     Grouping this frame reproduces ldi() exactly but in one pass, which matters
-    when scoring all 6,990 omens individually.
+    when scoring every omen individually.
     """
     sub = frame[frame['type'].isin(['logogram', 'phonetic'])]
     sub = C._drop_contentless(sub)
@@ -132,15 +142,15 @@ def head(title, label):
 
 
 def main():
-    words, signs, preserved = load()
-    n_omens = words.groupby(['filename', 'omen_id']).ngroups
-    print(f'corpus: {n_omens} omens in {words.filename.nunique()} texts')
+    every_omen, words, signs, preserved = load()
+    n_omens = every_omen.groupby(['filename', 'omen_id']).ngroups
+    print(f'corpus: {n_omens} omens in {every_omen.filename.nunique()} texts')
 
     # ---- Table: omens (texts) by discipline and period -------------------
     head('Omens (texts) by discipline and period', 'tbl:corpus')
     print(f'{"discipline":<32}' + ''.join(f'{p.split()[0]:>14}' for p in ORDER) + f'{"total":>14}')
     for genre, label in DISCIPLINE.items():
-        sub = words[words.genre == genre]
+        sub = every_omen[every_omen.genre == genre]
         cells = []
         for era in ORDER:
             e = sub[sub.era == era]
@@ -149,9 +159,9 @@ def main():
         print(f'{label:<32}' + ''.join(f'{c:>14}' for c in cells))
     cells = []
     for era in ORDER:
-        e = words[words.era == era]
+        e = every_omen[every_omen.era == era]
         cells.append(f'{e.groupby(["filename", "omen_id"]).ngroups} ({e.filename.nunique()})')
-    cells.append(f'{n_omens} ({words.filename.nunique()})')
+    cells.append(f'{n_omens} ({every_omen.filename.nunique()})')
     print(f'{"TOTAL":<32}' + ''.join(f'{c:>14}' for c in cells))
 
     # ---- Table: the index by period --------------------------------------
@@ -271,12 +281,15 @@ def main():
 
     # ---- Table: the index by the period labels of the editions ------------
     head('The index by the period labels of the editions', 'tbl:labels')
-    labelled = words.assign(label=words.filename.map(edition_labels()))
+    labels = edition_labels()
+    labelled = words.assign(label=words.filename.map(labels))
+    counted = every_omen.assign(label=every_omen.filename.map(labels))   # omens of all languages
     for era in ORDER:
         e = labelled[labelled.era == era]
         for label, sub in e.groupby('label'):
+            all_of = counted[(counted.era == era) & (counted.label == label)]
             print(f'  {era.split()[0]:<8}{label:<34}{C.ldi(sub)[0]:>7.3f}'
-                  f'{sub.groupby(["filename", "omen_id"]).ngroups:>7} ({sub.filename.nunique()})')
+                  f'{all_of.groupby(["filename", "omen_id"]).ngroups:>7} ({all_of.filename.nunique()})')
     mid = words[words.era == middle]
     periphery = mid.provenance.str.contains('Emar|Susa|Ḫattuša|Hattusa', na=False)
     print(f'  Middle: periphery {C.ldi(mid[periphery])[0]:.3f} ({mid[periphery].filename.nunique()} texts) | '
@@ -317,7 +330,8 @@ def main():
     ]:
         g = graded(signs) if name == 'whole corpus' else C.graded_ldi(ssub)
         n = g['words']
-        print(f'  {name}: {wsub.groupby(["filename", "omen_id"]).ngroups} omens, {n} scored words')
+        omens = n_omens if name == 'whole corpus' else wsub.groupby(['filename', 'omen_id']).ngroups
+        print(f'  {name}: {omens} omens, {n} scored words')
         print(f'    bin {C.ldi(wsub)[0]:.3f} | macro {g["macro"]:.3f} | micro {g["micro"]:.3f}')
         print(f'    pure {100*g["pure"]/n:.1f} % | mixed {100*g["mixed"]/n:.1f} % | '
               f'syllabic {100*g["syllabic"]/n:.1f} %')
