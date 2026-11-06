@@ -1,7 +1,7 @@
 {
-  "name": "logograms-analyser-desktop",
+  "name": "logogram-density-index-desktop",
   "version": "1.0.0",
-  "description": "Offline desktop build of the Logograms Analyser (stlite + Electron)",
+  "description": "Offline desktop build of the Logogram Density Index (LDI) (stlite + Electron)",
   "license": "MIT",
   "author": "Luis Sáenz",
   "main": "./build/electron/main.js",
@@ -16,8 +16,8 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "build": {
-    "appId": "edu.ludovicus.logograms-analyser",
-    "productName": "Logograms Analyser",
+    "appId": "edu.ludovicus.logogram-density-index",
+    "productName": "Logogram Density Index",
     "files": [
       "build/**/*"
     ],

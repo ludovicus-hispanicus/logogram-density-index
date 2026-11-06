@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software or corpus, please cite it using the metadata below."
-title: "Logograms Analyser: a diachronic corpus and tool for tracking logographic density in cuneiform divination"
+title: "Logogram Density Index (LDI): a diachronic corpus and tool for tracking logographic density in cuneiform divination"
 abstract: >-
-  Logograms Analyser is a Streamlit application and analysis toolkit for
+  Logogram Density Index (LDI) is a Streamlit application and analysis toolkit for
   measuring the Logogram Density Index (LDI) across a hand-built corpus of
   Mesopotamian omen texts, spanning the Old Babylonian, Middle, and
   first-millennium periods and the major divination genres (astrology,
@@ -14,7 +14,7 @@ authors:
     given-names: "Luis"
     orcid: "https://orcid.org/0000-0002-9107-6574"
 license: MIT  # software; the data/ corpus is CC-BY-4.0 (see data/LICENSE)
-repository-code: "https://github.com/ludovicus-hispanicus/logograms-analyser"
+repository-code: "https://github.com/ludovicus-hispanicus/logogram-density-index"
 version: "1.0.0"
 date-released: "2026-11-06"
 keywords:

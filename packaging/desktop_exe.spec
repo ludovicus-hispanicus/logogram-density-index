@@ -7,7 +7,7 @@
 # Build (from the repo root):
 #   py -3.12 -m PyInstaller packaging/desktop_exe.spec --noconfirm ^
 #       --distpath packaging/dist --workpath packaging/build
-# Output: packaging/dist/Logograms Analyser/Logograms Analyser.exe
+# Output: packaging/dist/Logogram Density Index/Logogram Density Index.exe
 # Distribute the whole folder (zip it); the app is portable, no installer needed.
 
 import os
@@ -104,7 +104,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name="Logograms Analyser",
+    name="Logogram Density Index",
     icon=os.path.join(ROOT, "desktop", "res", "icon.ico"),
     debug=False,
     strip=False,
@@ -117,5 +117,5 @@ coll = COLLECT(
     a.datas,
     strip=False,
     upx=False,
-    name="Logograms Analyser",
+    name="Logogram Density Index",
 )

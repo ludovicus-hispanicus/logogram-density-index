@@ -1,4 +1,4 @@
-"""Desktop launcher for the Mesopotamian Omen Analyzer.
+"""Desktop launcher for the Logogram Density Index (LDI).
 
 Runs the Streamlit app under real CPython (so the eBL API fetch works — no browser
 CORS, real sockets — and edits/imports persist to the real data/ folder) and shows it

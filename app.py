@@ -3319,7 +3319,7 @@ def fetch_ebl_fragment(frag_id):
     """Fetch a fragment from the eBL fragmentarium API. Returns (atf_body, meta).
     Raises on network/HTTP error. The API is public (no auth)."""
     url = f"{EBL_BASE}/api/fragments/{urllib.parse.quote(frag_id)}"
-    req = urllib.request.Request(url, headers={"User-Agent": "logograms-analyser"})
+    req = urllib.request.Request(url, headers={"User-Agent": "logogram-density-index"})
     with urllib.request.urlopen(req, timeout=25) as resp:
         data = json.load(resp)
     body_lines = []
@@ -3361,7 +3361,7 @@ def fetch_ebl_corpus(genre, category, index, stage, name):
     """Fetch a corpus chapter and return its composite (reconstructed) ATF + meta.
     The chapter score is large, so allow a longer timeout."""
     url = f"{EBL_BASE}/api/texts/{genre}/{category}/{index}/chapters/{stage}/{name}"
-    req = urllib.request.Request(url, headers={"User-Agent": "logograms-analyser"})
+    req = urllib.request.Request(url, headers={"User-Agent": "logogram-density-index"})
     with urllib.request.urlopen(req, timeout=120) as resp:   # chapter score is large/slow
         data = json.load(resp)
     body_lines, n = [], 0

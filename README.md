@@ -1,8 +1,8 @@
 <img src="assets/logo/ldi-grid.svg" alt="" width="96" align="right"/>
 
-# Logograms Analyser
+# Logogram Density Index (LDI)
 
-A tool and corpus for measuring the **Logogram Density Index (LDI)** across a
+A tool and corpus for measuring this index across a
 diachronic corpus of Mesopotamian omen texts: the "logographic shift", the
 increasing use of Sumerian logograms in cuneiform divination from the Old
 Babylonian period into the first millennium BCE.
