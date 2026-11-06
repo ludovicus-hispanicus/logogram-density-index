@@ -855,7 +855,7 @@ def unique_omens(frame):
     rows so the Text view still shows them, but they are not omens the batch
     pipeline sees: compute_ratios never emits a row for them, so the manifest
     and the article count without them. Counting them here gave the app 88
-    omens more than the published 7,211 (decided 2026-11-05: exclude)."""
+    omens more than the manifest (decided 2026-11-05: exclude)."""
     if frame is None or frame.empty or 'omen_id' not in frame.columns:
         return frame
     keys = ['filename', 'omen_id'] if 'filename' in frame.columns else ['omen_id']
@@ -2340,7 +2340,7 @@ def period_disp(p):
 # editorial wrapper, the printed editions' '(leer)'/'(Rasur)' notes, and the
 # empty-slot mark 'ø' are typed 'other' and never counted. Mirrors
 # compute_ratios._is_nontext exactly — the two must not drift.
-NONTEXT_EDITORIAL = {'(leer)', '(rasur)', '(o)', '(blank)', '(blank?)', '(lacuna)', 'ø'}
+NONTEXT_EDITORIAL = {'(leer)', '(rasur)', '(o)', '(blank)', '(blank?)', '(lacuna)', '(erasure)', 'ø'}
 _NONTEXT_STRIP = str.maketrans('', '', "()<>⸢⸣˹˺⌈⌉'\"?!.…—–-")
 
 def _is_nontext(token):
@@ -2929,7 +2929,7 @@ def load_local_data(base_path="data", include_excluded=False, sources=None, pres
 
                             # Check if line starts with delimiter (ignoring potential line number, brackets "12. [B]AD")
                             # Strategy: Strip brackets from the line ONLY for the check.
-                            temp_line = re.sub(r'[\[\]⸢⸣˹˺]', '', line)   # breaks and damage marks do not hide the particle
+                            temp_line = re.sub(r'[\[\]⸢⸣˹˺#<>]', '', line)   # breaks, damage and supplied-sign marks do not hide the particle (šum#-ma, šum-<ma>)
                             
                             # Regex: Optional line number, optional %lang marker (e.g. %sux for
                             # a Sumerian line), then the delimiter. The language marker precedes
@@ -3640,8 +3640,8 @@ if page == "Introduction":
     st.markdown(
         "This application is the companion to **_The Logographic Shift: Tracking the "
         "“Sumerianizing” Process in Cuneiform Divination_** *(L. Sáenz, "
-        "[volume citation to fill in])*. It carries the article's complete dataset — "
-        "**7,211 omens in 194 texts**, Old Babylonian to Late Babylonian, plus the KAL 5 "
+        "forthcoming)*. It carries the article's complete dataset — "
+        "**7,212 omens in 194 texts**, Old Babylonian to Late Babylonian, plus the KAL 5 "
         "supplement, the comparanda, and the held-out witnesses — as plain transliteration "
         "files with YAML metadata (period, discipline, provenance, counting mode). Every "
         "figure and table in the article can be recomputed here from those files, for any "
@@ -3707,7 +3707,7 @@ if page == "Introduction":
         "logographic. The baseline counts them as syllabic (they are lowercase in "
         "transliteration); the **ina/ana** column re-reads them as logograms. Because they "
         "recur constantly, this is the convention that moves scores furthest: pooled bin "
-        "0.682 → 0.739, and a heavily *ina*-laden tablet like BM 121034 from 0.744 to 0.857."
+        "0.682 → 0.738, and a heavily *ina*-laden tablet like BM 121034 from 0.744 to 0.857."
     )
 
     st.markdown("##### Restorations")

@@ -11,7 +11,6 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 @obverse
 1’. A Vs.! 1’[BE MUR] ZAG ⸢ka-ṣí-iṣ⸣ [...]
 2’. A 2’ [BE M]UR GÙB ka-ṣí-iṣ [...]
-Nr. 60-61 203
 3’. A 3’ [BE M]UR i-ḫar-ru-ur [...]
 4’. A 4’ [B]E [MUR] i-ḫaš-šu-uš ILLU ⸢DU⸣ x tar [...]
 5’. A 5’ [B]E [ina MUR] SI.MEŠ GAR-in NUN GABA.RI-a [...]
@@ -106,7 +105,6 @@ Rs.!
 iš-ta-na -x [...]
 26. A 26 [BE GIŠ.Ḫ ...]UR ši-iANŠE MUR šá ZAG e-bir-ma ù ŠU.SI ⸢MUR MURUB4⸣ ZAG DU8-at KÚR UGU šu-bat
 sag-bi-ia [...]
-Nr. 60-61 205
 27. A 27 [BE GIŠ ...].ḪUR ši-i ANŠE MUR šá ZAG e-bir-ma ù ŠU.SI MUR ⸢ MURUB4 GÙB ⸣ DU8-at KÚR KI.MIN-ma NU D[U x]
 28. A 28 [BE GIŠ.Ḫ ...]UR ši-i ANŠE MUR šá ZAG e-bir-ma NU ⸢ KAR-im⸣ sag-bu-ia dam-qi-iš SAG A.Š [À -šú ikaššad ...]
 29. A 29 [BE GIŠ ...].ḪUR ši-i ANŠE MUR šá ZAG uš-te-en-ki sag-bu-ia ana KUR KÚR x [...]

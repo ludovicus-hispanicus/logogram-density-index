@@ -38,7 +38,6 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 27. [BE] ina SAG ni-ri KÁM -tu4 ŠUB -at u GE6-at
 28. [BE] ina MURUB4 ni-[r]i KÁM -tu4 ŠUB -at u GE[6]-at
 29. [BE i]na SIG ni-[r]i KÁM -tu4 ŠUB -at u GE[6]-at
-Nr. 70 231
 30. [B]E gišTUKUL [7-t]i BÙR 5-ti DU8 3-ti SILIM.MEŠ TAG.MEŠ TAG.MEŠ S[IL]IM.ME[Š]
 31. ana g[išTUKUL] 7-ti BÙR 5-tiDU8 3-ti SAG.UŠ.MEŠ NU TE.ME[Š]
 32. [ana ra-m]a-ni-šú-nu-ma a-ḫu-tu iš-tu ḪAL.MEŠ DU.MEŠ
@@ -145,7 +144,6 @@ la NU DÙ -uš
 62. [i]na ITI ZÍZ ŠE BÁRA GU4 SIG4 APIN 6 U4 20-KÁM GAL.MEŠ
 63. [0] dUTU dMES dÉ-adBu-ne-ne dE4-ru6!(Text: GABA)-a dMUATI dA-nu u dEn-líl dIŠKUR
 64. [0] dGu-la dDil-bat ma-ak-su-tu4 6-ma U4 20-KÁM TUR.M[E]Š
-Nr. 70 233
 65. ⸢ÉN⸣ MUŠEN.DÙ ŠU.BAL in-du-us-su-ma ŠU.II DINGIR.MEŠ MUŠEN.DÙ ŠU.II DINGIR.MEŠ ú-sa-an-d [e]-⸢e⸣
 66. ⸢x⸣ DU8.MEŠ TE 13 [D]U8.MEŠ 40 4 DU8 3 [x].MEŠ
 67. [ni]-ṣir-ti NAM.AZU NU ZU NU IGI NÍG.GIG dPA u ⸢d⸣[LUGAL]

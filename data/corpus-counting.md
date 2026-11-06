@@ -117,28 +117,28 @@ individually held-out texts; counts as of 2026-11-05, see `corpus-manifest.md`):
 | `BAD` | 2 | 36 | logographic *šumma* |
 | `AŠ` | 2 | 50 | logographic *šumma* |
 | `UD` | 7 | 42 | logographic *šumma* |
-| `šum-ma` | 11 | 80 | syllabic *šumma* |
+| `šum-ma` | 11 | 81 | syllabic *šumma* |
 | `šum₄-ma` | 1 | 27 | syllabic *šumma* |
 | `§` | 1 | 9 | paragraph markers |
 | *(numbered lines)* | 1 | 74 | fallback |
-| **Total** | **194** | **7211** | |
+| **Total** | **194** | **7212** | |
 
 The particle delimiters (`DIŠ`/`BE`/`BAD`/`AŠ`/`UD` + `šum-ma`/`šum₄-ma`) together
-cover 109 texts / 3954 omens; they are all the *same* rule, differing only in which
+cover 109 texts / 3955 omens; they are all the *same* rule, differing only in which
 sign the edition uses to open the protasis.
 
 ## Corpus totals
 
-Counted corpus — **7211 omens in 194 texts**:
+Counted corpus — **7212 omens in 194 texts**:
 
 | Genre | Old | Middle | Neo | Total |
 | --- | ---: | ---: | ---: | ---: |
 | astrological (EAE) | 289 (6) | 275 (7) | 438 (7) | **1002 (20)** |
 | diagnostic (Sakikku) | 33 (2) | 226 (13) | 1184 (32) | **1443 (47)** |
 | extispicy (liver + lung) | 189 (13) | 1260 (37) | 534 (16) | **1983 (66)** |
-| birth (Šumma izbu) | 134 (5) | 242 (14) | 668 (11) | **1044 (30)** |
+| birth (Šumma izbu) | 135 (5) | 242 (14) | 668 (11) | **1045 (30)** |
 | terrestrial (Šumma Ālu) | 120 (3) | 581 (17) | 1038 (11) | **1739 (31)** |
-| **Total** | **765 (29)** | **2584 (88)** | **3862 (77)** | **7211 (194)** |
+| **Total** | **766 (29)** | **2584 (88)** | **3862 (77)** | **7212 (194)** |
 
 Not included in the total, and listed separately in the manifest:
 
@@ -146,7 +146,7 @@ Not included in the total, and listed separately in the manifest:
 | --- | ---: | ---: | --- |
 | Held out (in period folders, `exclude: true`) | 9 | 84 | no — duplicates / bilingual / preservation artifacts |
 | Comparanda (`data/_comparanda/`) | 9 | 562 | no — used only for comparison |
-| KAL 5 supplement (`data/kal5/`) | 78 | 2847 | no — analysed separately (§ Assyria vs Babylonia) |
+| KAL 5 supplement (`data/kal5/`) | 77 | 2710 | no — analysed separately (§ Assyria vs Babylonia) |
 
 ## Notes
 

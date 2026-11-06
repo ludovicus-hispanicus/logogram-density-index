@@ -9,7 +9,7 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.663 on 95 tokens.
 ---
 @obverse
-Die Vorderseite ist zu zerstört, um eine Transliteration vorlegen zu können.
+$ Die Vorderseite ist zu zerstört, um eine Transliteration vorlegen zu können.
 @reverse
 1’. [BE SILIM k]i-⸢ ma⸣ x [...]
 2’. [BE SILIM] ki-ma LAL [...]
@@ -18,7 +18,6 @@ Die Vorderseite ist zu zerstört, um eine Transliteration vorlegen zu können.
 5’. [BE] SILIM ki-ma GI [...] [...]
 6’. [BE] SILIM ki-ma TU [...] [...]
 7’. [BE] SILIM ki-ma KUR AN.GE6 © BE SI[LIM ...]
-Nr. 27-28 123
 8’. [BE] SILIM ki-ma NE [...]
 9’. [BE] SILIM ki-ma GIŠ man x [...]
 10’. [BE] ⸢ SILIM⸣ ki-ma KÁM -ma BÙR x x [...]

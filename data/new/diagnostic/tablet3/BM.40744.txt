@@ -12,7 +12,7 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 @column i
 # ms C i1
 1. [... TE]-ḫi#?
-2. [...] x / [... NU] TE#?-šú Teₓtbearbeitung von Kapitel ₂ (Tafel ₃–₁₄) des Diagnosehandbuches | 247
+2. [...] x / [... NU] TE#?-šú
 3. [...]
 4. [...] (?)
 5. [... GI]G-ma TIN

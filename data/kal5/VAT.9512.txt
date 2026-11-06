@@ -28,9 +28,9 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 17. ⸢BE⸣ É.GAL ŠÀ.NIGIN a-na IM.LÍM [MU.B]A p[ur-r]u-⸢ sa⸣- at [...]
 18. [BE i+na] É.GAL ŠÀ.NIGIN gišTUKUL a-⸢ri-du È⸣-ma i+na U[GU ŠÀ.NIGIN GAR ...]
 19. Spuren
-(abgebrochen. Lücke von ca. 37 Zeilen)
+$ (abgebrochen. Lücke von ca. 37 Zeilen)
 @reverse
-(Lücke von ca. 39 Zeilen)
+$ (Lücke von ca. 39 Zeilen)
 1’. Spuren
 2’. BE ⸢MUD ŠÀ ⸣.NIGIN ka-li-šu-nu il-wi [...]
 3’. BE šik-tu 4 ŠÀ.NIGIN il-wi [...]

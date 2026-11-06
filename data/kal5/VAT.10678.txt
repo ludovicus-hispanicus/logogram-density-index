@@ -35,7 +35,7 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 24. [...] x KAla ki-nax [x x]
 25. [...] x [...]
 @reverse
-Die Rückseite ist weitgehend abgebrochen, im erhaltenen Teil sind nur zwei Zeilen beschrieben.
+$ Die Rückseite ist weitgehend abgebrochen, im erhaltenen Teil sind nur zwei Zeilen beschrieben.
 1’. [...] x x [...]
-(Größerer Freiraum)
+$ (Größerer Freiraum)
 2’. itiA-bu-LUGAL.⸢ MEŠ ⸣ U4 [x-KAM ...] x x [...]

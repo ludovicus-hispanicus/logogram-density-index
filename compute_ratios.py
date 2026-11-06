@@ -130,7 +130,7 @@ PERIOD_ORDER = ["Old Period", "Middle Period", "Neo Period"]
 # the digitized text. All of these are typed 'other', so they enter neither the
 # numerator nor the denominator of any measure, at word level and sign level
 # alike. Parenthesized real readings, e.g. '(ma-aʾ-du)', remain counted.
-NONTEXT_EDITORIAL = {'(leer)', '(rasur)', '(o)', '(blank)', '(blank?)', '(lacuna)', 'ø'}
+NONTEXT_EDITORIAL = {'(leer)', '(rasur)', '(o)', '(blank)', '(blank?)', '(lacuna)', '(erasure)', 'ø'}
 _NONTEXT_STRIP = str.maketrans('', '', "()<>⸢⸣˹˺⌈⌉'\"?!.…—–-")
 
 def _is_nontext(token):
@@ -405,7 +405,7 @@ def load_local_data(base_path="data", preserved_only=False, annotate=None):
                             cur = {'lines': [], 'section': current_section}
                         continue
                     if line.startswith('#'): continue
-                    temp = re.sub(r'[\[\]⸢⸣˹˺]', '', line)   # breaks and damage marks do not hide the particle
+                    temp = re.sub(r'[\[\]⸢⸣˹˺#<>]', '', line)   # breaks, damage and supplied-sign marks do not hide the particle (šum#-ma, šum-<ma>)
                     # Line number may be plain (12.), eBL relative (a+1., a+41.),
                     # or paren style (12), used by the KUB 37 / Boğazköy files).
                     rgx = r'^(?:(?:[a-zA-Z]{1,2}\+)?\d+[\'′’]?[a-z]?[\'′’]?[.)]\s*)?(?:%\w+\s+)?\s*' + '(?:' + '|'.join(map(re.escape, str(delim).split('|'))) + ')' + r'(?![0-9₀-₉a-zA-Z\-])'

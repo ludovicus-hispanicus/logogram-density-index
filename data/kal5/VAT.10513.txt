@@ -9,7 +9,7 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.737 on 1061 tokens.
 ---
 @obverse
-1-21 Zu abgerieben für eine Umschrift
+$ 1-21 Zu abgerieben für eine Umschrift
 22. BE SAG ŠU.SI ana EDIN ZAG ŠU.SI x x u SAG-sà BAR x KÚR [...]
 23. BE SAG ŠU.SI ana EDIN GÙB ŠU.SI x x u SAG-sà BAR x NUN [...]
 24. BE SAG ŠU.SI ana EDIN ŠU.SI MURUB4 x x u SAG-sà [...]
@@ -43,7 +43,6 @@ ________________________________________________________________________________
 50. [... ŠU.S ...]I KI.TA-ma DU8 ni-ip-ḫu [(x x)]
 51. [...] DU8 ÉRIN-ka ana SAG A.ŠÀ -šá NU KUR-ad
 52. [...] DU8 ÉRIN KÚR ana SAG A.ŠÀ -šá NU KUR-ad
-Nr. 38 151
 53. [...] x DU8 BAR? ÉRINx x ÉRIN-ni
 54. [...] DU8 BAR? ÉRINx x ÉRIN KÚR
 55. [...] x x KUR.MEŠ x x x x GAM x x an x x x x.MEŠ x TAG4.MEŠ -šu
@@ -111,4 +110,4 @@ A.[ŠÀ -šá ...]
 ______BE___________________________________BE______________________________________________
 53. BE SAG [...] SU.GU7 ina KUR GÁL -ši
 54. ŠU.NÍGIN 34? [...]
-55-56 Zu abgerieben für eine Umschrift
+$ 55-56 Zu abgerieben für eine Umschrift

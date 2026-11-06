@@ -90,7 +90,6 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 1. BE GÍR 2-ma AN.TA-⸢ ú ⸣ [... EN]DÙG.GA-šú
 2. i-šal-liṭ-su di šú ba[l] x ⸢ka⸣ šá x x x x
 3. BE GÍR 2-ma AN.TA-ú ana <<u>> 150 ma-qit KI gišTUKUL NÍG.È GAR-an
-Nr. 1 37
 4. KI tu-ṣa-ma-ra GAR-an NÍG.È
 5. BE MURUB4 GÍR ka-bi-ìs ni!(Text: ir)-ip-ḫa-ti
 6. BE MURUB4 GÍR PA TUK-[m]a PA BI ZÉ IGI KAL-an LÚ a-šib lìb-bi-šú KUR-ád
@@ -203,7 +202,6 @@ Nr. 1 37
 29. BE ina 150 ZÉ2-ta GÌR.MEŠ KÚR re-ṣa TUK-ka
 30. BE 150 ZÉ DU8 ÉRIN KÚR ŠÀ.SÌ.SÌ.KE -šá NU KUR-ád
 31. 16 liq-te ša BE ZÉ
-Nr. 1 39
 32. BE SAG ŠU.SI BAR-ma DU8 SA5-tú SÙḪ BIR-aḫÉ.GAL
 33. BE SAG ŠU.SI BAR-ma EN 2 DU8 LÚ en šá sur-ri-šú x BA.[ÚŠ ...]
 34. KUD-as SAG.DU LÚ ŠUB -t[iú-ri]
@@ -317,7 +315,6 @@ II (V) 1 BE KI.⸢ TA⸣- tu4 DU-ik u Š[U.SI MUR MURUB4 SUḪUŠ -sà KEŠDA ..
 8. BE KI.MIN u MURUB4 ⸢GÍR ⸣ x x x [...]
 9. BE KI.TA-tu[4 k]al uš [...]
 10. BE ⸢ KI.TA-tu4⸣ [DU]-ik u x x [...]
-Nr. 1 41
 11. x [...] x [...]
 12. BE ⸢KI.TA-tu4 DU-ik u⸣ x x x [...]
 13. B[E KI.TA-tu4] DU-ik [u] MURUB4 x [...]
@@ -396,7 +393,7 @@ III (VI) 1-10 Nur Spuren erhalten
 18. [...].MEŠu
 19. [...] še
 20. [...] x
-(Zwölf Zeilen weggebrochen)
+$ (Zwölf Zeilen weggebrochen)
 33. [...] ⸢na⸣
 34. [BE ina MU SAG MUR šá 15 KÁM -tu4 ŠU ...]B-at
 35. [UZU bi-bil-ti ÉRIN-ni UZU ga-mir] ÉRIN-ni
@@ -426,14 +423,13 @@ III (VI) 1-10 Nur Spuren erhalten
 61. [an-nu-tu4 BAR.MEŠ šá l]úḪAL mam-ma la Z[U-ú ...]
 62. [lúḪAL AD ana] DUMU-šú ša i-ra[m-mu]
 63. [i-na-aṣ-ṣa-ru ...] ⸢ú⸣- tam-mu-ú ú-šáḫ-ḫa-za
-Nr. 1 43
 64. [šu ...]m4-⸢⸢gišma⸣⸣a-naSILIM-um LUGAL
 65. [a-na] [T]UKUL a-na KASK[AL] ⸢ a⸣-na DAB URU
 66. [a-na DÙ ...]-eš ⸢Á ⸣.ÁŠ
 67. [(a-na SILIM GIG)? a-na SUR-an A]N-e
 68. [...] nu
-(abgebrochen; etwa 16 Zeilen fehlen bis zum Rand der Tafel.)
-Eintrag zwischen der I. und II. Kolumne mit Bezug zu ii 24:
+$ (abgebrochen; etwa 16 Zeilen fehlen bis zum Rand der Tafel.)
+$ Eintrag zwischen der I. und II. Kolumne mit Bezug zu ii 24:
 BE KI.MIN KA DÙG.GA AN.TA u KI.TA DU8 ZÚ.MEŠ L[Ú i-š]aḫ-ḫu-ḫa
-Eintrag zwischen der II. und III. Kolumne mit Bezug zu iii 23:
+$ Eintrag zwischen der II. und III. Kolumne mit Bezug zu iii 23:
 BE 2-ta ZÉ.ME-ma SUR-ši -na a-ḫe-eA.MEŠ -ši-na SUM.MEŠ DUMU LUGAL AŠ.TE AD-šú DAB-bat

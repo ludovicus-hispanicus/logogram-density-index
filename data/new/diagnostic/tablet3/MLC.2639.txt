@@ -26,7 +26,7 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 24. DIŠ ú-ru-uḫ SAG.DU-šú bé-e-er GAM#?
 25. DIŠ ú-ru-uḫ <SAG.DU>-šú bé-e-er ŠU {d} x x
 26. DIŠ ú-ru-uḫ <SAG.DU>-šú bé-e-er ṣi-bit [...]
-27. DIŠ ú-ru-uḫ SAG.DU-šú bé-e-er [...] Teₓtbearbeitung von Kapitel ₂ (Tafel ₃–₁₄) des Diagnosehandbuches | 249
+27. DIŠ ú-ru-uḫ SAG.DU-šú bé-e-er [...]
 28. DIŠ ú-ru-uḫ <SAG.DU>-šú šá-lim TIN :
 29. DIŠ MUNUS ú-ru-uḫ#-ša#? [...]
 30. DIŠ kal-li SAG.DU-šú sa-ḫir : i-saḫ-ḫur# GAM# :
@@ -86,7 +86,7 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 82. DIŠ TA# S[AG.DU]-šú EN MURUB₄-šú KÚM TA MURUB₄-šú EN# GÌR#.II#-šú# SED# SAG#.KI#-su# SÌG#.SÌG#-su# / [x (x)] ú#-[n]a#-aš#-šak# ina#! {giš}MÁ# iš#-riq DINGIR# ka-a-ri DAB-su BÚR#-ma# TIN
 83. [DIŠ TA SAG.D]U-šú EN MURUB₄-šú SIG₇ TA# MURUB₄#-šú EN GÌ[R.II-šú SA₅?] ŠU.II-šú KÚM-ma PÚŠ-ma TIN
 84. [DIŠ TA SAG.D]U-šú EN MURUB₄-šú GIG TA MURUB₄-šú EN GÌR.II-šú TIN ITI GIG GIG-su GÍD-ma TIN
-85. [DIŠ TA SAG.D]U-šú EN MURUB₄-šú TI TA# MURUB₄-šú EN GÌR.II-šú GIG e-reb GIG GIG-su GÍD-ma TIN Teₓtbearbeitung von Kapitel ₂ (Tafel ₃–₁₄) des Diagnosehandbuches | 255
+85. [DIŠ TA SAG.D]U-šú EN MURUB₄-šú TI TA# MURUB₄-šú EN GÌR.II-šú GIG e-reb GIG GIG-su GÍD-ma TIN
 86. [DIŠ TA SAG.D]U-šú EN GÌR.II-šú U₄.BU.BU.UL SA₅ DIRI u SU-šú BABBAR KI MUNUS ina KI.NÁ KUR# ŠU XXX
 87. [DIŠ TA SAG].DU-šú EN GÌR.II-šú U₄.BU.BU.UL SA₅ DIRI u SU-šú GE₆ KI.MIN KI.MIN
 88. [DIŠ TA] SAG.DU-šú EN GÌR.II#-šú# KI#.MIN# u SU-šú SIG₇ KI.MIN ŠU {d}XV

@@ -9,7 +9,7 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.375 on 56 tokens.
 ---
 @obverse
-l. Kol. 1’-4’ Zu fragmentarisch für eine Umschrift
+$ l. Kol. 1’-4’ Zu fragmentarisch für eine Umschrift
 r. Kol. 1’ Spuren
 2’. LAL.MEŠ [...]
 3’. ne pi [...]

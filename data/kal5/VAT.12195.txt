@@ -10,7 +10,6 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x x [x]
-Nr. 111-114 303
 2’. [...] ḪUL ⸢x⸣
 3’. [...] šú DU-a[k?]
 4’. [...] ⸢x⸣ GAR.GAR-an

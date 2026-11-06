@@ -9,7 +9,7 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.706 on 571 tokens.
 ---
 @obverse
-(Ca. zwölf Zeilen fehlen)
+$ (Ca. zwölf Zeilen fehlen)
 1’. [... NUN ina KI.NÁ -šú] ⸢ḪULUḪ ⸣.ḪUL [UḪ -ut]
 2’. [... DINGIR.MEŠ ina KU]R ⸢NUN⸣ GU7.⸢ MEŠ ⸣
 3’. [... NU]N ina ⸢ NAM⸣ .ÚŠ.MEŠ ÚŠ

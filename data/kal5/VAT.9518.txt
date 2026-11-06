@@ -22,7 +22,7 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 12. [B]E UDU a-na SISKUR GEŠTU ZAG GÙB im-ḫa-aṣ giš TUKUL ia x x [x x] x x
 13. [BE U]DU a-na SISKUR GEŠTU.MEŠ a-na pa-ni SISKUR tar-ṣa ÉRIN[...]
 14. [BE UDU a-n]a ⸢SISKUR GEŠTU.MEŠ a⸣-[... n]a ⸢EGIR⸣ ? x x [...]
-(Lücke von höchstens einer Zeile, dann setzt A 468 ein:)
+$ (Lücke von höchstens einer Zeile, dann setzt A 468 ein:)
 15’. [BE UDU a-n]a SISKUR ⸢GEŠTU.MEŠ ⸣ x x [...]
 16’. [BE U]DU IGI.MEŠ -šu ú-za-qá-pa GEŠTU.M [E]Š x x [...]
 17’. a-na ÉRINx [...]
@@ -49,7 +49,7 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 14. [BE U]DU a-na S[ISKU]R iš-ta-na-as-si ri [...]
 15. [BE UDU] a-na SISKUR iš-ta-na-as-si ù x [...]
 16. [BE UDU] ⸢ a⸣-na SISKUR i+na x [x] x x [...]
-(Lücke von höchstens einer Zeile, dann setzt VAT 9518 ein:)
+$ (Lücke von höchstens einer Zeile, dann setzt VAT 9518 ein:)
 17’. Spuren
 18’. [BE UDU] iš-⸢tu⸣ na-⸢ak-su⸣ 2-šu ⸢3-šu ⸣ [...]
 19’. [o] te-re-tu-ka ša-al-ma [...]

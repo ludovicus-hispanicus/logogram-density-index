@@ -51,11 +51,11 @@ DIŠ EME.DIR a-na {gi}PISAN NINDA ŠUB-ut NINDA i-qir-šu
 DIŠ EME.DIR a-na {gi}PISAN NINDA KU4-ma ir-bi-iṣ ŠU.BI.GIM.NAM
 DIŠ EME.DIR a-na DUG A.GEŠTIN.NA ŠUB-ut NÍG.BA DINGIR GÁL-ši-šu
 DIŠ EME.DIR a-na DUG A lu ana DUG KAŠ ŠUB-ut NA BI ina-ziq
-DIŠ EME.DIR a-na DUG nàr-ṭa-bi ŠUB-ut É BI maš-qa-a ú-za-am!(Text: mar)-ma
+DIŠ EME.DIR a-na DUG nàr-ṭa-bi ŠUB-ut É BI maš-qa-a ú-za-am!(Text:mar)-ma
 DIŠ EME.DIR a-na {dug}ÚTUL ŠUB-ut GÙ ina É NA GÁL-ši
 DIŠ EME.DIR a-na Ì.DUB SA5 ŠUB-ut É BI še-am i-ḫa-šaḫ
 DIŠ EME.DIR a-na Ì.DUB SÙ ŠUB-ut É BI NINDA i-šeb-bi
-DIŠ EME.DIR a-na KUŠ.LU!(Text: ku).ÚB KU4-ma ir-bi-iṣ LÚ BI ina-ziq
+DIŠ EME.DIR a-na KUŠ.LU!(Text:ku).ÚB KU4-ma ir-bi-iṣ LÚ BI ina-ziq
 DIŠ EME.DIR ina UGU NA DU.DU-ak U4.MEŠ-šú GÍD.DA.MEŠ INIM SIG5-ti GAR-šu
 DIŠ EME.DIR ina É NA ina DÙ u4-me GÙ-šú ŠUB.ŠUB-di ŠUB-tu4 GÁL-ši
 DIŠ EME.DIR ina É NA ina GE₆ GÙ-šú ŠUB.ŠUB-di ZI.GA ÌR ù GÉME
@@ -89,9 +89,9 @@ DIŠ EME.DIR ina tal-lak-ti É NA Ù.TU ŠUB-di É
 DIŠ EME.DIR ana DUG.GIŠ.Ì.MEŠ ŠUB-ut EN É BA.ÚŠ-ma is x [...]
 DIŠ EME.DIR ana ÚR NA KU₄-ub MUNUS.BI BA.ÚŠ-ma KI.ḪU[L ...]
 DIŠ EME.DIR ana ŠÀ TÚG.SAG.ÍL.EZEN.NITA KU₄-ub ÍL-ma tu [...]
-DIŠ EME.DIR ana ÚR NA KU₄-ub i-šár-ru-ma!(Text: da) ma-nu-me-e ki-i ia-a-ti-ma i-qab-be
+DIŠ EME.DIR ana ÚR NA KU₄-ub i-šár-ru-ma!(Text:da) ma-nu-me-e ki-i ia-a-ti-ma i-qab-be
 DIŠ EME.DIR GÚ NA NIGIN KÚR SÙ NAM IGI-ma šu-ma EN TI INIM KÚR-ir EME la i-šem-me
-DIŠ EME.DIR AN.TA!(Text: id) PAP.ḪAL NA È-ma GUR-ma UGU-šu GU₄.UD-iṭ NA BI ina PAP.ḪAL u MUNUS.KALA.GA È-ma ina KI.UŠ SILIM DU.DU
+DIŠ EME.DIR AN.TA!(Text:id) PAP.ḪAL NA È-ma GUR-ma UGU-šu GU₄.UD-iṭ NA BI ina PAP.ḪAL u MUNUS.KALA.GA È-ma ina KI.UŠ SILIM DU.DU
 DIŠ EME.DIR ina KI.TA NA TUŠ DU.DU NA BI UGU EN INIM-šu GUB-az
 DIŠ NA ina NU ZU EME.DIR KI.UŠ-ma ÚŠ ina di-nim i-le-e
 DIŠ NA ina NU ZU EME.DIR KI.UŠ NU ÚŠ N[A BI] Á.TUK TUK-ši

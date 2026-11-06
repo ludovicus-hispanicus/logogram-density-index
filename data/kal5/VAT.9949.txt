@@ -32,7 +32,7 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 18’. [BE ŠÀ.NIGIN k]i-⸢ma⸣ x [...]
 19’. [BE ŠÀ.NIGIN ki-m]a [...]
 @reverse
-Anfang abgebrochen, dann setzt VAT 11051 ein
+$ Anfang abgebrochen, dann setzt VAT 11051 ein
 1’. [BE ŠÀ.NIGIN ki]-⸢ma⸣ x [...]
 2’. [BE ŠÀ.NIGIN ki]-ma x x [...]
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -53,7 +53,7 @@ Anfang abgebrochen, dann setzt VAT 11051 ein
 14’. [BE ŠÀ.NIGIN ki]-⸢ma⸣ dLAMMA.KAT.MAḪ [...]
 15’. [...] x x x x [...]
 (abgebrochen: VAT 11051)
-(Lücke, dann setzt die Rs. von VAT 9949 ein:)
+$ (Lücke, dann setzt die Rs. von VAT 9949 ein:)
 16’. [BE ŠÀ ...].⸢NIGIN ki-ma⸣ [...]
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -71,4 +71,4 @@ Anfang abgebrochen, dann setzt VAT 11051 ein
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 26’. ŠU I.d[...]
 27’. DUMU [...]
-(Rand von VAT 9949)
+$ (Rand von VAT 9949)
