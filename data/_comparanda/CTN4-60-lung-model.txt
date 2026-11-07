@@ -108,21 +108,21 @@ note: near-fully logographic label model (119 entries, no apodoses) — separate
 #tr.en: Brick mould of <the lung>, to the right, stripped off downward
 49. na-al-bat MUR ša₂ ZAG AN KAR
 #tr.en: Brick mould of the lung, to the right, stripped off upward
-50. a-aḫ ID₂ MUR ša₂ ZAG ina dun-ni-šu₂ KI KAR
+50. a-ah ID₂ MUR ša₂ ZAG ina dun-ni-šu₂ KI KAR
 #tr.en: Bank of the river of the lung, to the right, in its fortified part, stripped off downward
-51. a-aḫ ID₂ MUR ša₂ ZAG ina dun-ni-šu₂ AN KAR
+51. a-ah ID₂ MUR ša₂ ZAG ina dun-ni-šu₂ AN KAR
 #tr.en: (Bank of the river of the lung, to the right, in its fortified part), stripped off upward
-52. a-aḫ ID₂# MUR ša₂ ZAG ina MURUB₄-šu₂ KI KAR
+52. a-ah ID₂# MUR ša₂ ZAG ina MURUB₄-šu₂ KI KAR
 #tr.en: Bank of the river of the lung, to the right, in its middle part, stripped off downward
-53. a-aḫ ID₂ MUR ša₂ ZAG ina MURUB₄-šu₂ AN KAR
+53. a-ah ID₂ MUR ša₂ ZAG ina MURUB₄-šu₂ AN KAR
 #tr.en: (Bank of the river of the lung, to the right, in its middle part), stripped off upward
 54. kit!-tab!-ri MUR ša₂ ZAG KI KAR
 #tr.en: @i{kittabru}-mark of the <lung>, to the right, stripped off downward
 55. kit-tab-ri MUR ša₂ ZAG AN KAR
 #tr.en: (@i{kittabru}-mark of the lung, to the right), stripped off upward
-56. KI PAP.ḪAL ZAG# KI KAR-[ma] ḪUL#
+56. KI PAP.HAL ZAG# KI KAR-[ma] HUL#
 #tr.en: Right place of narrowness, stripped off downward: negative
-57. KI PAP.ḪAL ZAG AN KAR-ma! SIG₅
+57. KI PAP.HAL ZAG AN KAR-ma! SIG₅
 #tr.en: (Right place of narrowness), stripped off upward: positive
 58. KUR MUR ša₂ ZAG KI KAR
 #tr.en: Palace of the lung, to the right, stripped off downward
@@ -140,9 +140,9 @@ note: near-fully logographic label model (119 entries, no apodoses) — separate
 #tr.en: Ring of the middle finger of the lung, stripped off toward its palace
 65. NIG₂.GEŠTUG U MUR MURUB₄ AN KAR
 #tr.en: (Ring of the middle finger of the lung), stripped off upward
-66. SUḪUŠ EDEN# ZAG U MUR MURUB₄! ana KUR;-ša₂ KAR
+66. SUHUŠ EDEN# ZAG U MUR MURUB₄! ana KUR;-ša₂ KAR
 #tr.en: Base of the right steppe of the middle finger of the lung, stripped off toward its palace
-67. SUḪUŠ EDEN ZAG U MUR MURUB₄ ana DAGAL ZAG-ša₂ KAR
+67. SUHUŠ EDEN ZAG U MUR MURUB₄ ana DAGAL ZAG-ša₂ KAR
 #tr.en: (Base of the right steppe of the middle finger of the lung), stripped off toward its right breadth
 68. MURUB₄ EDEN ZAG U# MUR MURUB₄ ana KUR-šu₂ KAR
 #tr.en: Middle of the right steppe of the middle finger of <the lung>, stripped off toward its palace
@@ -164,9 +164,9 @@ note: near-fully logographic label model (119 entries, no apodoses) — separate
 #tr.en: [Middle of the left steppe of the middle finger of the lung, stripped off toward its palace]
 77. [MURUB₄ EDEN GUB₃ U MUR MURUB₄ ana DAGAL GUB₃-ša₂ KAR]
 #tr.en: [(Middle of the left steppe of the middle finger of the lung), stripped off toward its left breadth]
-78. SU[ḪUŠ? EDEN 1]50 U# MUR# MURUB₄ [ana KUR-š]a₂? K[AR]
+78. SU[HUŠ? EDEN 1]50 U# MUR# MURUB₄ [ana KUR-š]a₂? K[AR]
 #tr.en: @i{Base} [of the] left [<steppe>] of the middle finger of the lung, stripped [off toward] @i{its} [palace]
-79. [SUḪUŠ EDEN GUB₃ U MUR MURUB₄ ana DAGAL] GUB₃-ša₂ KAR
+79. [SUHUŠ EDEN GUB₃ U MUR MURUB₄ ana DAGAL] GUB₃-ša₂ KAR
 #tr.en: [(Base of the left steppe of the middle finger of the lung)], stripped off [toward] its leftt [breadth]
 80. SAG MUR# ša₂ GUB₃ ina S[IG!?]-ša₂ KI KAR
 #tr.en: Top of the lung, to the left, in its @i{narrow} part, stripped off downward
@@ -224,21 +224,21 @@ note: near-fully logographic label model (119 entries, no apodoses) — separate
 #tr.en: Brick mould of the lung, to the left, stripped off downward
 107. na-al-bat MUR ša₂ GUB₃ AN KAR
 #tr.en: Brick mould of the lung, to the left, stripped off upward
-108. a-aḫ ID₂ MUR ša₂ GUB₃# ina dun-ni-šu₂ KI KAR
+108. a-ah ID₂ MUR ša₂ GUB₃# ina dun-ni-šu₂ KI KAR
 #tr.en: Bank of the river of the lung, to the left, in its fortified part, stripped off downward
-109. a-aḫ ID₂ MUR ša₂ GUB₃ ina dun-ni-šu₂ AN KAR
+109. a-ah ID₂ MUR ša₂ GUB₃ ina dun-ni-šu₂ AN KAR
 #tr.en: (Bank of the river of the lung, to the left, in its fortified part), stripped off upward
-110. a-aḫ ID₂# MUR# ša₂ GUB₃# ina MURUB₄-šu₂ KI KAR
+110. a-ah ID₂# MUR# ša₂ GUB₃# ina MURUB₄-šu₂ KI KAR
 #tr.en: Bank of the river of the lung, to the left, in its middle part, stripped off downward
-111. a-aḫ ID₂ MUR ša₂ GUB₃ ina MURUB₄-šu₂ AN# KAR#
+111. a-ah ID₂ MUR ša₂ GUB₃ ina MURUB₄-šu₂ AN# KAR#
 #tr.en: (Bank of the river of the lung, to the left, in its middle part), stripped off upward
 112. kit!-tab-r[i MUR] ša₂ GUB₃ KI# [KAR]
 #tr.en: @i{kittabru}-mark [of the lung], to the left, [stripped off] downward
 113. kit-tab-ri MUR ša₂ GUB₃ AN K[AR]
 #tr.en: (@i{kittabru}-mark of the lung, to the left), stripped [off] upward
-114. K[I PAP.ḪAL GUB₃] K[I KAR-ma SIG₅]
+114. K[I PAP.HAL GUB₃] K[I KAR-ma SIG₅]
 #tr.en: [Left] place [of narrowness, stripped off] downward: [positive]
-115. KI PAP.ḪAL GUB₃ AN KAR-[ma] ḪU[L]
+115. KI PAP.HAL GUB₃ AN KAR-[ma] HU[L]
 #tr.en: (Leftt place of narrowness), stripped off upward: negative
 116. KUR MUR ša₂ GUB₃ KI KAR
 #tr.en: Palace of the lung, to the left, stripped off downward

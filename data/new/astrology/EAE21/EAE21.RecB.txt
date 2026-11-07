@@ -12,15 +12,15 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] restoration
 ---
 
 @text
-1. [DIŠ {d}30 ad-riš] È-ma [...]
-2. [DIŠ {d}30 ad-r]iš È-ma [...]
+1. [DIŠ {d}30 ad-riš] E₃-ma [...]
+2. [DIŠ {d}30 ad-r]iš E₃-ma [...]
 $ single ruling
 3. [DIŠ ina ITI.BARA₂ UD.14.KAM] AN.MI GAR-ma ina IM.[U₁₈.LU SAR-ma ina IM ... iz-ku]
 4. ($___$) [... ina EN.NUN AN.USAN₂] SAR-ma ina EN.NUN MURUB₄.BA i[z-ku IM.U₁₈.LU ina ŠU-ka]
-5. ($___$) [... tu-kal KA×MI-šú] IGI-ma ana MAN URI.KI EŠ.BAR SUM-i[n LUGAL URI.KI BE]
-6. ($___$) [... šum-ma LUGAL AN.MI i-t]e-ti-iq-šú ub-bu-ṭú u S[U.KÚ GÁL-ma]
-7. ($___$) [... UN.MEŠ TUR.MEŠ-ši-na ana KI.LAM È].MEŠ KUR GAL ana KUR TUR D[U-ak]
-8. [DIŠ UD.15.KAM AN.MI GAR-m]a ina [ŠÀ].HUL it-bal M[UL GAL ŠUB-ut bi-ib-lum KUR TÙM]
-9. [DIŠ UD.16.KAM AN.MI GAR-ma] KIMIN(?) ŠÈG [ina AN-e A.KAL ina BE TAR.MEŠ]
-10. [DIŠ UD.20.KAM AN.MI] GAR-ma LU[GAL ana LUGAL SAL.KÚR KIN-ár]
+5. ($___$) [... tu-kal KA×MI-šu₂] IGI-ma ana MAN URI.KI EŠ.BAR SUM-i[n LUGAL URI.KI BE]
+6. ($___$) [... šum-ma LUGAL AN.MI i-t]e-ti-iq-šu₂ ub-bu-ṭu₂ u S[U.KU₂ GAL₂-ma]
+7. ($___$) [... UN.MEŠ TUR.MEŠ-ši-na ana KI.LAM E₃].MEŠ KUR GAL ana KUR TUR D[U-ak]
+8. [DIŠ UD.15.KAM AN.MI GAR-m]a ina [ŠA₃].HUL it-bal M[UL GAL ŠUB-ut bi-ib-lum KUR TUM₃]
+9. [DIŠ UD.16.KAM AN.MI GAR-ma] KIMIN(?) ŠEG₃ [ina AN-e A.KAL ina BE TAR.MEŠ]
+10. [DIŠ UD.20.KAM AN.MI] GAR-ma LU[GAL ana LUGAL SAL.KUR₂ KIN-ar₂]
 11. [DIŠ UD.21.KAM AN.MI GAR]-ma A.AB.[BA] U[D.DU ...]

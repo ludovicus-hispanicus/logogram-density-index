@@ -10,13 +10,13 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms E 4′
+#note: ms E 4′
 29. [... be-e]-er [...]
-30. [...]-šú! sa-ḫír : i-saḫ-[ḫur ...]
+30. [...]-šu₂! sa-hir₂ : i-sah-[hur ...]
 31. [...] sa-mi ina EN.NUN.[x ...]
-32. [... KI]R₄-šú i-raš-ši-šum-ma TAB-su tu-qù-un?-[šú ...]
-33. [...]-a#-šú ka-ṣa-a Š[U ...]
-34. [... 1]5? ú-kan-na-an-ma NU LÁ ú-š[ap-šaq-ma ...]
-36. [... i]-šag-gúm GEŠTU.II-šú GÙ.DÉ.MEŠ ŠU.SI.M[EŠ? ...]
-37. [...]-šú SA? uk-tal-lim [...]
+32. [... KI]R₄-šu₂ i-raš-ši-šum-ma TAB-su tu-qu₃-un?-[šu₂ ...]
+33. [...]-a#-šu₂ ka-ṣa-a Š[U ...]
+34. [... 1]5? u₂-kan-na-an-ma NU LA₂ u₂-š[ap-šaq-ma ...]
+36. [... i]-šag-gum₂ GEŠTU.II-šu₂ GU₃.DE₂.MEŠ ŠU.SI.M[EŠ? ...]
+37. [...]-šu₂ SA? uk-tal-lim [...]
 38. [...] SA? NU? TUK? [...]

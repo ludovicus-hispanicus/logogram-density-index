@@ -10,62 +10,66 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 $ (Ca. zwölf Zeilen fehlen)
-1’. [... NUN ina KI.NÁ -šú] ⸢ḪULUḪ ⸣.ḪUL [UḪ -ut]
-2’. [... DINGIR.MEŠ ina KU]R ⸢NUN⸣ GU7.⸢ MEŠ ⸣
-3’. [... NU]N ina ⸢ NAM⸣ .ÚŠ.MEŠ ÚŠ
-4’. [BE UGU-nu N]E ⸢MI gišTUKUL GAR-ma⸣ [AN.TA IGI g]iš TUKUL.MEŠ DUMU.MEŠ É
-5’. [BE KI.TA-nu N]E MI giš TUKUL GAR-ma ⸢ KI.TA IGI⸣ gišTUKUL bar-ti
-6’. __________________________________________________________________________________________17 MU.ŠID.BI.IM
-7’. [BE ina TÙR 1]5 BÙR ŠUB -di ÉRIN NUN ina DUGUD-šá ŠUB -ut
-8’. [BE ina TÙR 15]0 BÙR ŠUB -di ŠUB -ti lem-ni u a-a-bi
-9’. [BE ina TÙR ...]15 u TÙR 150 BÙR ŠUB -di ÉRIN-ni u ÉRIN KÚR TÉŠ.BI ŠUB.MEŠ
-10’. [BE ina TÙR ...]15 DI-ḫu ŠUB -di ÉRIN-ka ZI-ut KASKAL-šá KA⋲MI.MEŠ
-11’. [BE ina TÙ ...]R 150 DI-ḫu ŠUB -di ÉRIN KÚR ZI-ut KASKAL-šá KA⋲MI.MEŠ
-12’. BE ina TÙR 15 DI-ḫu ŠUB -di-ma SA5 ŠUB -ti ÉRIN-ni ÉR ana KUR NUN KU4-ub
-13’. BE ina TÙR 15 DI-ḫu ŠUB -di-ma GE6 dIŠKUR RA-iṣ
-14’. BE ina TÙR 15 NIN-tu4 ŠUB -át ÉRIN-ka KI DINGIR ana GAZ er-šet
-15’. BE ina TÙR 150 NIN-tu4 ŠUB -át ÉRIN KÚR KI DINGIR ana GAZ er-šet
-16’. BE ina TÙR 15 2-ta KAM.MEŠ ŠUB.MEŠ KAM-ti dMAŠ.TAB.BA
-17’. BE ina TÙR 150 2-ta KAM.MEŠ ŠUB.MEŠ KAM-ti dMAŠ.TAB.BA ana MUNUS.SIG5
-18’. BE ina TÙR 15 2-ta KAM.MEŠ ŠUB.MEŠ u GE6.MEŠ dMAŠ.TAB.BA inas KUR NUN GU7.MEŠ
-19’. BE ina TÙR 150 2-ta KAM.MEŠ ŠUB.MEŠ u GE6.MEŠ dMAŠ.TAB.BA ina KUR KÚR GU7.MEŠ
-20’. BE ina TÙR 15 gišTUKUL GAR-ma TÙR 150 IGI ÉRIN-ni MU MUNUS.SIG5 TI-qé
-21’. BE ina TÙR 150 gišTUKUL GAR-ma TÙR 15 IGI ÉRIN KÚR GABA.RI
-22’. BE ina TÙR 15 u TÙR 150 2 gišTUKUL.MEŠ GAR.MEŠ -ma IGI.IGI-lu4 IGI.IGI-tu4
-23’. BE TA ŠÀ ME.NI GIŠ.ḪUR ana TÙR 15 eṣ-ret ina ŠÀ ÉRIN KÚR !(Text:ka) UR.MAḪ LÚ ŠUB -di
-24’. BE ina ŠÀ GIŠ.ḪUR UR5-tú BÙR ŠUB -di ina SÙḪ UR5-tú ÉRIN-ka ŠUB -ut
-25’. BE TA ŠÀ ÍD BÀ GIŠ.ḪUR ana TÙR 15 eṣ-ret KARAŠ ÉRIN-ka A.MEŠ ub-ba-lu4
-26’. BE__________________________________________________________________________________________inaŠÀ GIŠ.ḪUR UR5-tú BÙR ŠUB-diina SÙḪ UR5-tú ÉRIN KÚRŠUB-ut
-27’. __________________________________________________________________________________________20 MU.DIDLI
+1’. [... NUN ina KI.NA₂-šu₂] HULUH# .HUL [UH-ut]
+2’. [... DINGIR.MEŠ ina KU]R NUN# GU₇. MEŠ# 
+3’. [... NU]N ina NAM# .UŠ₂.MEŠ UŠ₂
+4’. [BE UGU-nu N]E MI# {giš#}TUKUL# GAR#-ma# [AN.TA IGI g]iš TUKUL.MEŠ DUMU.MEŠ E₂
+5’. [BE KI.TA-nu N]E MI giš TUKUL GAR-ma KI#.TA# IGI# {giš}TUKUL bar-ti
+$ single ruling
+6’. 17 MU.ŠID.BI.IM
+$ single ruling
+7’. [BE ina TUR₃ 1]5 BUR₃ ŠUB-di ERIN₂ NUN ina DUGUD-ša₂ ŠUB-ut
+8’. [BE ina TUR₃ 15]0 BUR₃ ŠUB-di ŠUB-ti lem-ni u a-a-bi
+9’. [BE ina TUR₃ ...] 15 u TUR₃ 150 BUR₃ ŠUB-di ERIN₂-ni u ERIN₂ KUR₂ TEŠ₂.BI ŠUB.MEŠ
+10’. [BE ina TUR₃ ...] 15 DI-hu ŠUB-di ERIN₂-ka ZI-ut KASKAL-ša₂ KA⋲MI.MEŠ
+11’. [BE ina TU]R₃ 150 DI-hu ŠUB-di ERIN₂ KUR₂ ZI-ut KASKAL-ša₂ KA⋲MI.MEŠ
+12’. BE ina TUR₃ 15 DI-hu ŠUB-di-ma SA₅ ŠUB-ti ERIN₂-ni ER₂ ana KUR NUN KU₄-ub
+13’. BE ina TUR₃ 15 DI-hu ŠUB-di-ma GE₆ {d}IŠKUR RA-iṣ
+14’. BE ina TUR₃ 15 NIN-tu₄ ŠUB-at₂ ERIN₂-ka KI DINGIR ana GAZ er-šet
+15’. BE ina TUR₃ 150 NIN-tu₄ ŠUB-at₂ ERIN₂ KUR₂ KI DINGIR ana GAZ er-šet
+16’. BE ina TUR₃ 15 2-ta KAM.MEŠ ŠUB.MEŠ KAM-ti {d}MAŠ.TAB.BA
+17’. BE ina TUR₃ 150 2-ta KAM.MEŠ ŠUB.MEŠ KAM-ti {d}MAŠ.TAB.BA ana MUNUS.SIG₅
+18’. BE ina TUR₃ 15 2-ta KAM.MEŠ ŠUB.MEŠ u GE₆.MEŠ {d}MAŠ.TAB.BA inas KUR NUN GU₇.MEŠ
+19’. BE ina TUR₃ 150 2-ta KAM.MEŠ ŠUB.MEŠ u GE₆.MEŠ {d}MAŠ.TAB.BA ina KUR KUR₂ GU₇.MEŠ
+20’. BE ina TUR₃ 15 {giš}TUKUL GAR-ma TUR₃ 150 IGI ERIN₂-ni MU MUNUS.SIG₅ TI-qe₂
+21’. BE ina TUR₃ 150 {giš}TUKUL GAR-ma TUR₃ 15 IGI ERIN₂ KUR₂ GABA.RI
+22’. BE ina TUR₃ 15 u TUR₃ 150 2 {giš}TUKUL.MEŠ GAR.MEŠ-ma IGI.IGI-lu₄ IGI.IGI-tu₄
+23’. BE TA ŠA₃ ME.NI GIŠ.HUR ana TUR₃ 15 eṣ-ret ina ŠA₃ ERIN₂ KUR₂ !(Text:ka) UR.MAH LU₂ ŠUB-di
+24’. BE ina ŠA₃ GIŠ.HUR UR₅-tu₂ BUR₃ ŠUB-di ina SUH₃ UR₅-tu₂ ERIN₂-ka ŠUB-ut
+25’. BE TA ŠA₃ ID₂ BA₃ GIŠ.HUR ana TUR₃ 15 eṣ-ret KARAŠ ERIN₂-ka A.MEŠ ub-ba-lu₄
+26’. BE ina ŠA₃ GIŠ.HUR UR₅-tu₂ BUR₃ ŠUB-diina SUH₃ UR₅-tu₂ ERIN₂ KURŠUB₂-ut
+$ single ruling
+27’. 20 MU.DIDLI
+$ single ruling
 @reverse
-1. BE ki-ṣir-tu 4 GAR-at KÚR -ka ú-ṣa-am-m [a-ru-ka? ...]
-2. BE ki-ṣir-tu 4 ana 150 it-ku-šat KÚR -ka uš-te-em x [...]
-3. BE ki-ṣir-tu 4 ana SUḪUŠ ŠU.SI it-ku-šat KÚR -ka tag [...]
-4. BE ki-ṣir-tu 4 ina EGIR BÀ GAR-át SUḪUŠ.ÀM ⸢GI⸣ .[NA.MEŠ ...]
-5. BE ki-ṣir-tu 4 ina SAG BÀ GAR-át ÉRIN-ka ina giš TUKUL SUḪUŠ.MEŠ -šá NU G[I.NA.MEŠ ...]
-6. BE ki-ṣir-tu 4 TA MAŠ.GÁN -šú E11-ma IGI-et É.GAL ŠU.SI iṣ-bat LUGAL TA ŠÀ URU
-7. ana A.DAM.MEŠ È.MEŠ
-8. BE ki-ṣir-tu 4 ina 150 GAR-át KÚR -ka ud-dan-na-an-ma ŠUB -[ut]
-9. BE ki-ṣir-tu 4 na-pár-qú-da-át KÚR ina ṭú-ub-ba-ti-šú È-ma ḫi-bil-ta-šu TI-[qé ...]
-10. BE ki-ṣir-tu 4 nam-rat KÚR ud-dan-na-an-ma ŠUB -[ut]
-11. BE ki-ṣir-tu 4 GE6-át KÚR ina KI.TUŠ -šú te-de-ek-ki-[šú ...]
-12. BE ki-ṣir-tu 4 GAM-át AD.ḪAL KÚR È-ma ú-lu URU ZAG KÚR DAB-bat
-13. BE ki-ṣir-tu 4 DU8-át pa-ṭá-ka ana KÚR -ka ŠUB -u[t]
-14. BE ina UGU ki-ṣir-tu 4 gišTUKUL GAR-ma SUḪUŠ ŠU.SI IGI gišTUKUL!(Text: ma) GUR.RA MU.NI
-15. BE KI.MIN-ma AN.TA NÍG.TAB UŠ -di KÚR ina KASKAL DU-ku SÙ -sà GUR-ra
-16. BE KI.MIN-ma EDIN 15 ŠU.SI IGI KÚR KI NÍG.GIG -ia5 KUR-da
-17. BE KI.MIN-ma EDIN ŠU.SI MURUB4 IGI KÚR ina né-ep-te-a GU4.UD-iṭ
-18. BE KI.MIN-ma SIG ZÉ IGI KÚR ina DUGUD-ia5 GU4.UD-iṭ
-19. BE KI.MIN-ma SAG ZÉ IGI KÚR šá ana KUR ú-ṣa-am-ma-ru ŠU -⸢su⸣ KUR-ád
-20. BE ina 15 ki-ṣir-ti kak-su-ú GAR NUN ana URU ú-ṣa-am-ma-ru ŠU -⸢su⸣ KUR-ád
-21. BE ina 150 ki-ṣir-ti kak-su-ú GAR KÚR ana URU ú-ṣa-am-ma-ru ŠU -su ⸢KUR⸣ -[á]d
-22. BE ina KI ki-ṣir-ti kak-su-ú GAR dU.GUR ina URU ZAG-ia5 ik-kal
-23. [BE] KI ki-ṣir-ti 15 ana AN.TA KAR ina gišTUKUL ÉRIN-ni ḪA.LA GU7
-24. [BE K]I ki-ṣir-ti 15 ana KI.TA KAR KÚR ina BAR-ti-ia5 TI-qé
-25. [BE KI ki]-⸢ṣir-ti 15⸣ KAR.KAR ŠUB -ti SIG-i
-26. [BE KI ki-ṣir-ti 150 ana AN.TA] ⸢ KAR⸣ ina gišTUKUL ÉRIN KÚR ḪA.LA GU7
-27. [BE KI ki-ṣir-ti 150 ana KI.TA KAR] ina BAR-ti KÚR TI-qé
-28. [BE KI ki-ṣir-ti 150 KAR.KAR] ⸢ŠUB -ti SIG⸣-i šá KUR ⸢ KÚR ⸣
-29. [...] x Ì.DUB.MEŠ SA5.ME[Š SÙ ...]
-30. [...]⸢d⸣U.GUR ku x [x x]
+1. BE ki-ṣir-tu 4 GAR-at KUR₂-ka u₂-ṣa-am-m [a-ru-ka? ...]
+2. BE ki-ṣir-tu 4 ana 150 it-ku-šat KUR₂-ka uš-te-em x [...]
+3. BE ki-ṣir-tu 4 ana SUHUŠ ŠU.SI it-ku-šat KUR₂-ka tag [...]
+4. BE ki-ṣir-tu 4 ina EGIR BA₃ GAR-at₂ SUHUŠ.AM₃ GI# .[NA.MEŠ ...]
+5. BE ki-ṣir-tu 4 ina SAG BA₃ GAR-at₂ ERIN₂-ka ina giš TUKUL SUHUŠ.MEŠ-ša₂ NU G[I.NA.MEŠ ...]
+6. BE ki-ṣir-tu 4 TA MAŠ.GAN₂-šu₂ E₁₁-ma IGI-et E₂.GAL ŠU.SI iṣ-bat LUGAL TA ŠA₃ URU
+7. ana A.DAM.MEŠ E₃.MEŠ
+8. BE ki-ṣir-tu 4 ina 150 GAR-at₂ KUR₂-ka ud-dan-na-an-ma ŠUB-[ut]
+9. BE ki-ṣir-tu 4 na-par₂-qu₂-da-at₂ KUR₂ ina ṭu₂-ub-ba-ti-šu₂ E₃-ma hi-bil-ta-šu TI-[qe₂ ...]
+10. BE ki-ṣir-tu 4 nam-rat KUR₂ ud-dan-na-an-ma ŠUB-[ut]
+11. BE ki-ṣir-tu 4 GE₆-at₂ KUR₂ ina KI.TUŠ-šu₂ te-de-ek-ki-[šu₂ ...]
+12. BE ki-ṣir-tu 4 GAM-at₂ AD.HAL KUR₂ E₃-ma u₂-lu URU ZAG KUR₂ DAB-bat
+13. BE ki-ṣir-tu 4 DU₈-at₂ pa-ṭa₂-ka ana KUR₂-ka ŠUB-u[t]
+14. BE ina UGU ki-ṣir-tu 4 {giš}TUKUL GAR-ma SUHUŠ ŠU.SI IGI {giš}TUKUL!(Text: ma) GUR.RA MU.NI
+15. BE KI.MIN-ma AN.TA NIG₂.TAB UŠ-di KUR₂ ina KASKAL DU-ku SU₃-sa₃ GUR-ra
+16. BE KI.MIN-ma EDIN 15 ŠU.SI IGI KUR₂ KI NIG₂.GIG-ia₅ KUR-da
+17. BE KI.MIN-ma EDIN ŠU.SI MURUB₄ IGI KUR₂ ina ne₂-ep-te-a GU₄.UD-iṭ
+18. BE KI.MIN-ma SIG ZE₂ IGI KUR₂ ina DUGUD-ia₅ GU₄.UD-iṭ
+19. BE KI.MIN-ma SAG ZE₂ IGI KUR₂ ša₂ ana KUR u₂-ṣa-am-ma-ru ŠU-su# KUR-ad₂
+20. BE ina 15 ki-ṣir-ti kak-su-u₂ GAR NUN ana URU u₂-ṣa-am-ma-ru ŠU-su# KUR-ad₂
+21. BE ina 150 ki-ṣir-ti kak-su-u₂ GAR KUR₂ ana URU u₂-ṣa-am-ma-ru ŠU-su KUR#-[a]d₂
+22. BE ina KI ki-ṣir-ti kak-su-u₂ GAR {d}U.GUR ina URU ZAG-ia₅ ik-kal
+23. [BE] KI ki-ṣir-ti 15 ana AN.TA KAR ina {giš}TUKUL ERIN₂-ni HA.LA GU₇
+24. [BE K]I ki-ṣir-ti 15 ana KI.TA KAR KUR₂ ina BAR-ti-ia₅ TI-qe₂
+25. [BE KI ki]-ṣir#-ti# 15# KAR.KAR ŠUB-ti SIG-i
+26. [BE KI ki-ṣir-ti 150 ana AN.TA] KAR# ina {giš}TUKUL ERIN₂ KUR₂ HA.LA GU₇
+27. [BE KI ki-ṣir-ti 150 ana KI.TA KAR] ina BAR-ti KUR₂ TI-qe₂
+28. [BE KI ki-ṣir-ti 150 KAR.KAR] ŠUB#-ti# SIG#-i ša₂ KUR KUR₂# 
+29. [...] x I₃.DUB.MEŠ SA₅.ME[Š SU₃ ...]
+30. [...] {d#}U.GUR ku x [x x]
 31. [...] x [...]

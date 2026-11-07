@@ -231,6 +231,8 @@ def main():
     for name, mask_w, mask_s in [
         ('Enuma Anu Enlil 55 and 57', words.filename.isin(['EAE55.eBL.txt', 'EAE57.eBL.txt']),
          signs.filename.isin(['EAE55.eBL.txt', 'EAE57.eBL.txt'])),
+        ('Neo astrological omens', (words.genre == 'astrological omens') & (words.era == 'Neo Period'),
+         (signs.genre == 'astrological omens') & (signs.era == 'Neo Period')),
         ('Neo diagnostic omens', (words.genre == 'diagnostic omens') & (words.era == 'Neo Period'),
          (signs.genre == 'diagnostic omens') & (signs.era == 'Neo Period')),
     ]:

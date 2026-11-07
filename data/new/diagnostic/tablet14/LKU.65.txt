@@ -10,22 +10,22 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms L 1′
-241′. [...] šá# KI#.TA# GÌR#.II#-šú# te#-bi# SAG#.D[U ...]
-242′. [...] x-bit-ma GÌR-šú šá 150 : ZAG ú#-[kan-na-an ...]
-243′. [...].II-šú DU-ku-ma šá ŠU.II-šú ne-e-ḫu [...]
-244′. [... GÌ]R#.II-šú DU-ku-ma šá ŠU.II-šú GAR-nu KI.TA# [...]
-245′. [DIŠ] SA# GÌR.II-šú ZI-ú IGI.II-šú ana ÍL# [...] / [...] u SAG ŠÀ-šú KÚM Š#[U ...]
-246′. [DIŠ] TA DU₈!? ZI.IN.GI-šú KÚM [...]
-247′. [DIŠ] TA DU₈!? ZI.IN.GI-šú KÚ[M ...] / [...] šum₄-ma GIG-su (leer) [...]
+#note: ms L 1′
+241′. [...] ša₂# KI#.TA# GIR₃#.II#-šu₂# te#-bi# SAG#.D[U ...]
+242′. [...] x-bit-ma GIR₃-šu₂ ša₂ 150 : ZAG u₂#-[kan-na-an ...]
+243′. [...].II-šu₂ DU-ku-ma ša₂ ŠU.II-šu₂ ne-e-hu [...]
+244′. [... GI]R₃.II-šu₂ DU-ku-ma ša₂ ŠU.II-šu₂ GAR-nu KI.TA# [...]
+245′. [DIŠ] SA# GIR₃.II-šu₂ ZI-u₂ IGI.II-šu₂ ana IL₂# [...] / [...] u SAG ŠA₃-šu₂ KUM₂ Š[U ...]
+246′. [DIŠ] TA DU₈!? ZI.IN.GI-šu₂ KUM₂ [...]
+247′. [DIŠ] TA DU₈!? ZI.IN.GI-šu₂ KU[M₂ ...] / [...] šum₄-ma GIG-su (leer) [...]
 $ single ruling
 @catchline
-# ms L 10′
-[... ] UD.1.KAM GIG-ma ina SAG.DU# [...]
+#note: ms L 10′
+248′. [... ] UD.1.KAM GIG-ma ina SAG.DU# [...]
 @colophon
-# ms L 11′
-[1]2-ú DUB ana GIG ina TE-k[a ...]
-# ms L 12′
-UD#-ma# ana# É# GIG# KA#.PIRIG# DU#-[ku ...]
-# ms L 13′
-GABA.RI KÁ.DINGIR GEN₇ SUMUN-šú S[AR-ma ...]
+#note: ms L 11′
+249′. [1]2-u₂ DUB ana GIG ina TE-k[a ...]
+#note: ms L 12′
+250′. UD#-ma# ana# E₂# GIG# KA#.PIRIG# DU#-[ku ...]
+#note: ms L 13′
+251′. GABA.RI KA₂.DINGIR GEN₇ SUMUN-šu₂ S[AR-ma ...]

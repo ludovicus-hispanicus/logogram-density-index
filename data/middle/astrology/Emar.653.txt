@@ -17,16 +17,16 @@ removed: "The previous version carried a 13th line reading [BE {d}]UTU AN.GI₆ 
 ---
 
 @obverse
-1. [BE {d}UTU x x x x x] KÚR x [u] BE GE₆
+1. [BE {d}UTU x x x x x] KUR₂ x [u] BE GE₆
 2. [x x x] BA.UŠ₂
 3. [x x x] x a-dir
-4. [x x x] DÙ-uš
-5. [x x x] ina ŠÀ-šú GUB-ma
+4. [x x x] DU₃-uš
+5. [x x x] ina ŠA₃-šu₂ GUB-ma
 6. [x x x]
-7. [BE {d}UTU x x x x x x] GÁL.MEŠ
+7. [BE {d}UTU x x x x x x] GAL₂.MEŠ
 8. [x x DU]GUD
-9. [x x GÁ]L-ši
-10. [x x] ú
+9. [x x GA]L₂-ši
+10. [x x] u₂
 $ (break)
 11'. [BE {d}UTU x x x]
 12'. [x x x] x ŠUB-ut
@@ -35,13 +35,13 @@ $ (break)
 15'. [BE {d}UTU x x x x x x] a-dir
 16'. [x x x] x NUN ana NUN
 $ (break)
-17'. [x x x] x x x[...]
-18'. [x x x] GAZ-pí
+17'. [x x x] x x x [...]
+18'. [x x x] GAZ-pi₂
 19'. [BE {d}UTU x x x x] x a-dir
-20'. [x x M]UŠ Ì.KÚ!-m[a] NAG
+20'. [x x M]UŠ I₃.KU₂!-m[a] NAG
 21'. [BE {d}UTU x x x] MUL [x x] x
 22'. [x x K]UR TUR-ir
-23'. [BE {d}UTU x x] x a-dir EBUR KUR SI!.SÁ
+23'. [BE {d}UTU x x] x a-dir EBUR KUR SI!.SA₂
 24'. [BE {d}UTU x x] x dir im a tuku
 25'. [x x x] x x x
 $ (break)
@@ -55,61 +55,61 @@ $ (break)
 33'. BE [{d}UTU x x x] MEŠ
 34'. ($___$) [x x x]
 35'. BE [{d}UTU x x x]
-36'. ($___$) x[... x x]
-37'. ($___$) ana HUL[... x x]
-38'. ($___$) ina x[... x x]
-39'. ($___$) NU[... x x]
+36'. ($___$) x [... x x]
+37'. ($___$) ana HUL [... x x]
+38'. ($___$) ina x [... x x]
+39'. ($___$) NU [... x x]
 40'. [BE {d}UTU x x x] x
-41'. x[... x x]
+41'. x [... x x]
 42'. BE {d}[UTU x x x] GAR
-43'. ($___$) BE[... x x x] x-šú
+43'. ($___$) BE [... x x x] x-šu₂
 44'. BE {d}UTU [x x x] ME
 45'. ($___$) x x [x x LUGAL] URI{ki} BA.UŠ₂
 46'. ($___$) x x [x x Z]I.GA
 @reverse
 47'. BE {d}UTU GIŠ.HUR [NIGIN-mi x x]
-48'. x x {d}UTU x[x x x] MAR.TU[... x x]
-49'. BE {d}UTU GIŠ.HUR NI[GIN-m]I KÁ.GAL ina [ZA]G
+48'. x x {d}UTU x[x x x] MAR.TU [... x x]
+49'. BE {d}UTU GIŠ.HUR NI[GIN-m]I KA₂.GAL ina [ZA]G
 50'. muš-šur x[x x x] ŠUB-ut
 51'. u BE [x x x x] ZI.GA
-52'. BE {d}UTU GIŠ.HUR NIGIN-mi KÁ.GAL ina GÙB
-53'. muš-šur KUR NÌ.HUL i-mu-rù
-54'. SIG₅ IGI.LÁ
-55'. BE {d}UTU GIŠ.HUR NIGIN-mi ina ŠÀ GIŠ.HUR-šu
+52'. BE {d}UTU GIŠ.HUR NIGIN-mi KA₂.GAL ina GUB₃
+53'. muš-šur KUR NI₃.HUL i-mu-ru₃
+54'. SIG₅ IGI.LA₂
+55'. BE {d}UTU GIŠ.HUR NIGIN-mi ina ŠA₃ GIŠ.HUR-šu
 56'. 2 3 MUL.MEŠ iz-zi-zu
 57'. u im-ta-na-qu-tu ERIM.MEŠ DAGAL
 58'. ina [G]IŠ.TUKUL ŠUB-ut
-59'. [BE] {d}[UTU] ina KU₄-šú U dú-'-um
+59'. [BE] {d}[UTU] ina KU₄-šu₂ U du₂-'-um
 60'. [ERIM.MEŠ] DAGAL ina GIŠ.TUKUL ŠUB-ut
-61'. [BE {d}UTU ina K]U₄-šú U GE₆ KI.MIN
+61'. [BE {d}UTU ina K]U₄-šu₂ U GE₆ KI.MIN
 62'. [ERIM.MEŠ] DAGAL ina GIŠ.TUKUL ŠUB-ut
-63'. [BE {d}UTU ina] KU₄-šú U SU₉ SAG.PA.LAGAB ina KUR Ì.GÁL
-64'. [BE {d}UTU] ina KU₄-šú SIG₇ {d}IŠKUR ra-iṣ
-65'. ($___$) u BE {d}NÈ.IRI₁₁.GAL ina KUR KÚ
-66'. [{d}UTU] ina KU₄-šú ŠÚ ZAG-šu GE₆
+63'. [BE {d}UTU ina] KU₄-šu₂ U SU₉ SAG.PA.LAGAB ina KUR I₃.GAL₂
+64'. [BE {d}UTU] ina KU₄-šu₂ SIG₇ {d}IŠKUR ra-iṣ
+65'. ($___$) u BE {d}NE₃.IRI₁₁.GAL ina KUR KU₂
+66'. [{d}UTU] ina KU₄-šu₂ ŠU₂ ZAG-šu GE₆
 67'. KUR SIG₅-qa!-tu₄ GAR-an
-68'. {d}UTU ina KU₄-šú ŠÚ G[ÙB-šu GE₆]
+68'. {d}UTU ina KU₄-šu₂ ŠU₂ G[UB₃-šu GE₆]
 69'. LUGAL ana NUN K[I x x]
-70'. {d}UTU ina KU₄-šú MUL.MEŠ[... x x]
-71'. ÚŠ.MEŠ GÁL ŠÀ.GA[R x x]
-72'. {d}UTU ina KU₄-šú IM x[... x x]
-73'. u SAHAR.RA ki-i IM[... x x]
-74'. ERIM.MEŠ DAGAL x[... x x]
-75'. {d}UTU ina KU₄-šú ša-ru[... x x]
-76'. IM.ŠÈG i-ma i-x[... x x]
-77'. {d}UTU ina KU₄-šú ša[... x x]
+70'. {d}UTU ina KU₄-šu₂ MUL.MEŠ [... x x]
+71'. UŠ₂.MEŠ GAL₂ ŠA₃.GA[R x x]
+72'. {d}UTU ina KU₄-šu₂ IM x [... x x]
+73'. u SAHAR.RA ki-i IM [... x x]
+74'. ERIM.MEŠ DAGAL x [... x x]
+75'. {d}UTU ina KU₄-šu₂ ša-ru [... x x]
+76'. IM.ŠEG₃ i-ma i-x [... x x]
+77'. {d}UTU ina KU₄-šu₂ ša [... x x]
 78'. di-in K[UR x x]
-79'. {d}UTU ina KU₄-š[ú x x]
-80'. 3 4 5[... x x]
-81'. ina KUR[... x x]
-82'. [{d}UTU x x x x] ina ZAG-šú
-83'. [x x x] ina KUR GÁL
+79'. {d}UTU ina KU₄-š[u₂ x x]
+80'. 3 4 5 [... x x]
+81'. ina KUR [... x x]
+82'. [{d}UTU x x x x] ina ZAG-šu₂
+83'. [x x x] ina KUR GAL₂
 84'. [{d}UTU x x] MUL
-85'. [x x x] LÚ DUGUD ina KUR GÁL
+85'. [x x x] LU₂ DUGUD ina KUR GAL₂
 86'. [x x x] x
-87'. [{d}UTU x x x] ZAG u GÙB GUB-ma
-88'. [x x x] GAL ina KUR GÁ[L]
-89'. [x x x] x x[...]
+87'. [{d}UTU x x x] ZAG u GUB₃ GUB-ma
+88'. [x x x] GAL ina KUR GA[L₂]
+89'. [x x x] x x [...]
 $ (break)
 90'. [x x x] x
 91'. [x x x]

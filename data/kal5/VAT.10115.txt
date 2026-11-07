@@ -9,38 +9,45 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.749 on 311 tokens.
 ---
 @obverse
-1. B[E ina] ku-bur SIG ZÉ 2 giš TUKUL.ME a-ri-du-t[u GAR.M]EŠ !-nu A.ALAD ù dLAMMA ⸢Á ⸣[ÉRIN-ia5 D]U.⸢ MEŠ ⸣-
+1. B[E ina] ku-bur SIG ZE₂ 2 giš TUKUL.ME a-ri-du-t[u GAR.M]EŠ!-nu A.ALAD u₃ {d}LAMMA A₂# [ERIN₂-ia₅ D]U. MEŠ# -
 [ku]
-2. BE giš TUKUL.MEŠ šu-nu BAL.MEŠ -ma AN.TA IGI.ME[Š] A.ALAD ù dLAMMA Á ÉRIN KÚR DU.MEŠ-ku
-3. BE KI.MIN-ma SUḪUŠ GÙB KI.GUB IGI.LÁ ÉRIN KÚR ina man-di-ti ú-šam-qat
-4. BE KI.MIN-ma TÙR IGI.MEŠ KÚR ÉRIN-ka ina man-di-ti ú-šam-qat
-5. [BE ina MURU]B4 ZAG ZÉ 2 giš TUKUL.ME a-ri-du-tu GAR.MEŠ -nu d⸢Lugal⸣ -ir9-ra dMes-lam-ta-è Á ÉRIN -ia5 / (Z. 6
-Ende:) DU.MEŠ -ku
-6. [BE giš ...]TUKUL.MEŠ šu-nu BAL.MEŠ -ma AN.TA IGI.MEŠ KI.MIN-ma Á ÉRIN KÚR DU-ku
-7. [BE KI.MI]N-ma SILIM IGI.MEŠ KÚR ana nu-pa-ri-i[a IZI ŠUB ...]-di
-8. [BE KI.MI]N-ma MURUB4 GÙB ZÉ IGI.MEŠ ana nu-pa-ar KÚR IZI ⸢ŠUB ⸣-di
-9. [BE ina SU]R ZAG ZÉ 2 giš TUKUL.MEŠ a-ri-du-tu GAR.MEŠ -nu SÚḪ -ú ina KUR KÚR GAR-an
-10. [BE giš ...]TUKUL.MEŠ šu-nu BAL.MEŠ -ma AN.TA IGI.MEŠ SÚḪ -ú ina KUR NUN GAR-an
-11. [BE] x SAG GÙB ZÉ IGI.MEŠ ina gišTUKUL KÚR [E]N ⸢ul⸣-la-a GAZ-ak
-12. [BE] x MURUB4 GÙB ZÉ IGI.MEŠ ina gišTUKUL K[ÚR EN u]l-la-a GAZ-ni
-13. [BE ina ku-bur? ZAG] ZÉ ina MURUB4 ZAG ZÉ ina SUR ZAG ZÉ 2 giš TUKUL.MEŠ ⸢a⸣-[ri-du]-tu GAR-nu dUTU Á
-ÉRIN-ia DU-ak
-14. [BE giš TUKUL.MEŠ š]u-nu BAL.MEŠ -ma AN.TA IGI.MEŠ dUTU [Á ÉRIN KÚ ...]R DU-ak
-15. [...] IGI.MEŠ KÚRsa [...] x bar ra
-16. [...] IGI.MEŠ NUNsa [...]
-17. [...] ⸢3⸣ [gišTUKUL.M]EŠa-ri-du-tu GAR.[MEŠ -nu ...]
+2. BE giš TUKUL.MEŠ šu-nu BAL.MEŠ-ma AN.TA IGI.ME[Š] A.ALAD u₃ {d}LAMMA A₂ ERIN₂ KUR₂ DU.MEŠ-ku
+3. BE KI.MIN-ma SUHUŠ GUB₃ KI.GUB IGI.LA₂ ERIN₂ KUR₂ ina man-di-ti u₂-šam-qat
+4. BE KI.MIN-ma TUR₃ IGI.MEŠ KUR₂ ERIN₂-ka ina man-di-ti u₂-šam-qat
+$ single ruling
+5. [BE ina MURU]B₄ ZAG ZE₂ 2 giš TUKUL.ME a-ri-du-tu GAR.MEŠ-nu {d}lugal#-ir₉-ra {d}mes-lam-ta-e₃ A₂ ERIN₂-ia₅ / (Z. 6
+Ende:) DU.MEŠ-ku
+6. [BE {giš}]TUKUL.MEŠ šu-nu BAL.MEŠ-ma AN.TA IGI.MEŠ KI.MIN-ma A₂ ERIN₂ KUR₂ DU-ku
+7. [BE KI.MI]N-ma SILIM IGI.MEŠ KUR₂ ana nu-pa-ri-i[a IZI ŠUB ...]-di
+8. [BE KI.MI]N-ma MURUB₄ GUB₃ ZE₂ IGI.MEŠ ana nu-pa-ar KUR₂ IZI ŠUB#-di
+$ single ruling
+9. [BE ina SU]R ZAG ZE₂ 2 giš TUKUL.MEŠ a-ri-du-tu GAR.MEŠ-nu SUH₂-u₂ ina KUR KUR₂ GAR-an
+10. [BE {giš}]TUKUL.MEŠ šu-nu BAL.MEŠ-ma AN.TA IGI.MEŠ SUH₂-u₂ ina KUR NUN GAR-an
+11. [BE] x SAG GUB₃ ZE₂ IGI.MEŠ ina {giš}TUKUL KUR₂ [E]N ul#-la-a GAZ-ak
+12. [BE] x MURUB₄ GUB₃ ZE₂ IGI.MEŠ ina {giš}TUKUL K[UR₂ EN u]l-la-a GAZ-ni
+$ single ruling
+13. [BE ina ku-bur? ZAG] ZE₂ ina MURUB₄ ZAG ZE₂ ina SUR ZAG ZE₂ 2 giš TUKUL.MEŠ a#-[ri-du]-tu GAR-nu {d}UTU A₂
+ERIN₂-ia DU-ak
+14. [BE giš TUKUL.MEŠ š]u-nu BAL.MEŠ-ma AN.TA IGI.MEŠ {d}UTU [A₂ ERIN₂ KU]R₂ DU-ak
+15. [...] IGI.MEŠ KUR₂ sa [...] x bar ra
+16. [...] IGI.MEŠ NUN sa [...]
+$ single ruling
+17. [...] 3# [{giš}TUKUL.M]EŠ a-ri-du-tu GAR.[MEŠ-nu ...]
 @reverse
-1’. [... NÍG ...].GA LUG[AL] MAN-ma TUK-ši
-2’. [...] ⸢IGI.MEŠ NÍG ⸣.GA KÚR MAN-ma TUK-ši
-3’. [... EDIN? ŠU.S ...]I MURUB4 IGI.MEŠ ⸢ e⸣ ?-⸢si⸣?-ti-ka KÚR GAZ-ak
-4’. [...] x ŠU.SI IGI.MEŠ ŠUB -ti DU IGI ÉRIN KÚR
-5’. [...] EDIN ZAG ŠU.SIùSUḪUŠ EDIN ZAG ŠU.SI 3 gišTUKUL.MEŠ !a-[ri]-du-tu GAR-nu
-6’. [...] KÚR BÀD-ka KÚR ina KUN4DA[B-bat]
-7’. [BE giš TUKUL.MEŠ šu-nu BAL.MEŠ ...]-ma AN.TA IGI.MEŠ [B]ÀD KÚR ina KUN4 DAB-[bat]
-8’. [... MURU]B4 IGI.MEŠ [na]-⸢ ka-mat⸣ NUN SÙ.M [EŠ ...]
-9’. [... ŠU.S ...]I IGI.MEŠ ⸢ na⸣ -k[a-mat KÚ ...]R SÙ.M [EŠ ...]
-10’. [...] x ZAG ùGÙB 2gišTUKUL.MEŠ a-ri-du-tu GAR-nu x [x x z]i ku
-________________________________________MAN________________________________________________
-11’. [...] AN.TA PIŠ10GÙB-šu KI.TA IGI EGIR BI
-12’. ŠU.N [ÍGIN x M]U.BI.IM AL.TIL IGI.KÁR GABA.RI LIBIR.RA.ŠÈ
-13’. ŠU I⸢d⸣[UTU-Š ...]EŠ-SUM !-na! A.BA DUMU dUTU-SUM-MU.MEŠ [Ḫ ...]AL MAN
+1’. [... NIG₂ ...].GA LUG[AL] MAN-ma TUK-ši
+2’. [...] IGI#.MEŠ# NIG₂# .GA KUR₂ MAN-ma TUK-ši
+3’. [... EDIN? ŠU.S]I MURUB₄ IGI.MEŠ e#?-si#?-ti-ka KUR₂ GAZ-ak
+4’. [...] x ŠU.SI IGI.MEŠ ŠUB-ti DU IGI ERIN₂ KUR₂
+$ single ruling
+5’. [...] EDIN ZAG ŠU.SI u₃ SUHUŠ EDIN ZAG ŠU.SI 3 {giš}TUKUL.MEŠ !a-[ri]-du-tu GAR-nu
+6’. [...] KUR₂ BAD₃-ka KUR₂ ina KUN₄DA[B-bat]
+7’. [BE giš TUKUL.MEŠ šu-nu BAL.MEŠ ...]-ma AN.TA IGI.MEŠ [B]AD₃ KUR₂ ina KUN₄ DAB-[bat]
+8’. [... MURU]B₄ IGI.MEŠ [na]- ka#-mat# NUN SU₃.M [EŠ ...]
+9’. [... ŠU.S]I IGI.MEŠ na#-k[a-mat KU]R₂ SU₃.M [EŠ ...]
+$ single ruling
+10’. [...] x ZAG u₃ GUB₃ 2 {giš}TUKUL.MEŠ a-ri-du-tu GAR-nu x [x x z]i ku
+MAN
+$ single ruling
+11’. [...] AN.TA PIŠ₁₀ GUB₃-šu KI.TA IGI EGIR BI
+12’. ŠU.N [IGIN₂ x M]U.BI.IM AL.TIL IGI.KAR₂ GABA.RI LIBIR.RA.ŠE₃
+13’. ŠU I.{d#}[UTU-Š]EŠ-SUM!-na! A.BA DUMU {d}UTU-SUM-MU.MEŠ [H]AL MAN

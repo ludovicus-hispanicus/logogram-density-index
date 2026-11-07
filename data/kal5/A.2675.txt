@@ -10,43 +10,58 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x [...]
-2’. [... ÉRI]N KÚR ⸢NU⸣ [...]
-3’. [... É]RIN-ia NU [...]
-4’. [... ÉRI]N KÚR x [...]
-5’. [...] x KÚR x [...]
-6’. [...] x ana gišTUKUL ÉRIN-ni ḪA.LA [GU7]
-7’. [...]-ṣiana gišTUKUL ÉRIN KÚR ḪA.L [A GU7]
-8’. [... IL]LAT.MEŠ -šu [...]
-9’. [... K]ÚR [...]
-10’. [...]-ú ina KUR KÚ[R ...]
+$ single ruling
+2’. [... ERI]N₂ KUR₂ NU# [...]
+3’. [... E]RIN₂-ia NU [...]
+$ single ruling
+4’. [... ERI]N₂ KUR₂ x [...]
+5’. [...] x KUR₂ x [...]
+$ single ruling
+6’. [...] x ana {giš}TUKUL ERIN₂-ni HA.LA [GU₇]
+7’. [...]-ṣiana {giš}TUKUL ERIN₂ KUR₂ HA.L [A GU₇]
+$ single ruling
+8’. [... IL]LAT.MEŠ-šu [...]
+9’. [... K]UR₂ [...]
+$ single ruling
+10’. [...]-u₂ ina KUR KU[R₂ ...]
 11’. [...] [...]
-12’. [...] x šá ŠUB-si-ma[...]
+12’. [...] x ša₂ ŠUB-si-ma [...]
 13’. [...] [...]
-14’. [... K]ÚR ú-šar- [...]
-15’. [... KÚ ...]R tu-ša [r- ...]
+14’. [... K]UR₂ u₂-šar- [...]
+15’. [... KU]R₂ tu-ša [r- ...]
+$ single ruling
 16’. [...] x-ia x [...]
-17’. [... K]ÚR x [...]
+17’. [... K]UR₂ x [...]
+$ single ruling
 18’. [...] x [x]
-19’. [...] ÉRINx
+19’. [...] ERIN₂ x
 20’. [...] [x x]
 21’. [... t]um[x]
+$ single ruling
 @reverse
-1. [...]-ma IGI-mar ana ⸢li⸣-[...]
-2. [...]-di ḫa-⸢rab⸣ [x] ⸢ki⸣ x [...]
-3. [...]-⸢ka⸣e-mu[qKÚR ...]
+1. [...]-ma IGI-mar ana li#-[...]
+2. [...]-di ha-rab# [x] ki# x [...]
+$ single ruling
+3. [...]-ka# e-mu[q KUR₂ ...]
 4. [...]-ka e-m[u-qa-ia ...]
+$ single ruling
 5. [... K]AR-ut [...]
 6. [... K]AR-ut [...]
-7. [...]MUŠEN.DÙ EN INIM-š [ú ...]
-8. [...]xEN INIM-š[ú ...]
-9. [...]x x [...]
-10. [...]x [...]
-11. [... É]RIN-ia [...]
-12. [...]-ma tu-bu?[...]
-13. [... K]ÚR šum 4-ma GIG [...]
+$ single ruling
+7. [...] MUŠEN.DU₃ EN INIM-š [u₂ ...]
+8. [...] x EN INIM-š[u₂ ...]
+$ single ruling
+9. [...] x x [...]
+10. [...] x [...]
+11. [... E]RIN₂-ia [...]
+12. [...]-ma tu-bu? [...]
+$ single ruling
+13. [... K]UR₂ šum₄-ma GIG [...]
 14. [...] x tap-pa-a x [...]
 15. [...] KUR ki ia ana x [...]
-16. [...]-ṣi ina ŠÀ KUR KÚR a x [...]
-17. [...] x KÚR ú-[...]
+$ single ruling
+16. [...]-ṣi ina ŠA₃ KUR KUR₂ a x [...]
+17. [...] x KUR₂ u₂-[...]
 18. [...] x-šu [...]
+$ single ruling
 19. [...] x [...]

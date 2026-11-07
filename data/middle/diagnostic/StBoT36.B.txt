@@ -16,26 +16,26 @@ note: >
 ---
 
 @obverse
-2. mi-it-ḫa-r[i-iš]
-3. kaṣ-ṣí dam-ma
-4. i-na GIR.MEŠ-šu ma-ḫi-iṣ-ma u i-da-mu [pu-qu-ud-de₉ {d}UTU] a-na ŠU {d}MAŠ.TAB.BA
-5. i-na SAG.DU-šu ma-ḫi-iṣ-ma u i-da-mu pu-qu-ud-de₉ {d}Ištar a-na ŠU {d}MAŠ.TAB.BA
-6. ur-ra u mu-ša da-a-mu i-na ap-pi-šu la-a ik-kál-lu-u al-ti LÚ-lim
-7. i-ḫa-ra-aš ú-pa-aš i-bal-lu-uṭ
-8. ur-ra u mu-ša ú-pa-aš ša UD 12.KAM ŠU {d}Ni-in-nu-ur-ta
-9. i-na SAG.DU-šu ma-ḫi-iṣ-ma da-a-mu
-10. zu-um-mu-ur-šu kaṣ-ṣí-ma ṣi-bi-is-su it-ta-na-ak-ki-ir
-11. e-me-ed mu-u-ti ma-ḫi-iṣ
-12. i-na qá-ab-li-šu u ki-iṣ-ṣi-ir am-ma-ti-šu ma-ḫi-iṣ ŠU {d}Ištar
+2. mi-it-ha-r[i-iš]
+3. kaṣ-ṣi₂ dam-ma
+4. i-na GIR.MEŠ-šu ma-hi-iṣ-ma u i-da-mu [pu-qu-ud-de₉ {d}UTU] a-na ŠU {d}MAŠ.TAB.BA
+5. i-na SAG.DU-šu ma-hi-iṣ-ma u i-da-mu pu-qu-ud-de₉ {d}IŠTAR a-na ŠU {d}MAŠ.TAB.BA
+6. ur-ra u mu-ša da-a-mu i-na ap-pi-šu la-a ik-kal₂-lu-u al-ti LU₂-lim
+7. i-ha-ra-aš u₂-pa-aš i-bal-lu-uṭ
+8. ur-ra u mu-ša u₂-pa-aš ša UD 12.KAM ŠU {d}ni-in-nu-ur-ta
+9. i-na SAG.DU-šu ma-hi-iṣ-ma da-a-mu
+10. zu-um-mu-ur-šu kaṣ-ṣi₂-ma ṣi-bi-is-su it-ta-na-ak-ki-ir
+11. e-me-ed mu-u-ti ma-hi-iṣ
+12. i-na qa₂-ab-li-šu u ki-iṣ-ṣi-ir am-ma-ti-šu ma-hi-iṣ ŠU {d}IŠTAR
 13. ŠU.MEŠ-šu it-ta-na-an-ṣi-la u
-14. ši-in-na-a-šu i-kaṣ-ṣa-aṣ šu-su i-na-di ŠU {d}Ištar
-15. i-na ki-ša-a-di-šu ma-ḫi-iṣ-ma i-ra-as-su ik-ka-al-šu ŠU {d}Ištar
-16. i-na SAG.DU-šu ma-ḫi-iṣ-ma me-eš-re-ti-šu mi-it-ḫa-ri-iš ik-ka-la-šu ŠU {d}Ištar
+14. ši-in-na-a-šu i-kaṣ-ṣa-aṣ šu-su i-na-di ŠU {d}IŠTAR
+15. i-na ki-ša-a-di-šu ma-hi-iṣ-ma i-ra-as-su ik-ka-al-šu ŠU {d}IŠTAR
+16. i-na SAG.DU-šu ma-hi-iṣ-ma me-eš-re-ti-šu mi-it-ha-ri-iš ik-ka-la-šu ŠU {d}IŠTAR
 
 @reverse
-1. i-na muḫ-ḫi-šu ma-ḫi-iṣ uz-ne-e-šu la-a še-ma-a ŠU {d}Ištar
+1. i-na muh-hi-šu ma-hi-iṣ uz-ne-e-šu la-a še-ma-a ŠU {d}IŠTAR
 2. um-ma ṣa-ri-ib ke-er-ra-a-šu ma-aq-ta
-3. ŠÀ-šu ú-ma-kál i-na-as-si-su ú-ma-kál
+3. ŠA₃-šu u₂-ma-kal₂ i-na-as-si-su u₂-ma-kal₂
 4. ke-er-ra-a-šu ma-aq-ta še-pa-a-šu na-sa-a
-5. pí-šu ṣa-bi-it-ma
+5. pi₂-šu ṣa-bi-it-ma
 6. ša-ap-ta-šu it-tar i-na SAG.DU-šu

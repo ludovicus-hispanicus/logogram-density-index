@@ -9,21 +9,26 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.568 on 44 tokens.
 ---
 @obverse
-1’. [...]TUKx [...]
+1’. [...] TUK x [...]
 2’. [...] x [...]
-3’. [...] ù-lu gišMÁ ru d[u ...]
-4’. [...] x x.MEŠ za ana KASKAL SIG7.MEŠ [...]
-5’. [...] a-gu-úú-li [d-x ...]
-6’. [...] x xSÍSKUR IGI.MEŠ -šu GUR.MEŠ [...]
-7’. [...] GÁL?.MEŠ [LUG]AL? DU [...]
-8’. [...] EN SÍSKU [R] x ki šu [...]
-9’. [...] x.MEŠ EN SÍSKUR ina NU ki šu [...]
-10’. [...].MEŠx ú IGI.MEŠ NUN KUR BI x nu [...]
-11’. [...] x x x šu[...]
-12’. [...] x x ⸢šu⸣[...]
-13’. [...] x x ENx šu [...]
-14’. [...] x x[...]
+$ single ruling
+3’. [...] u₃-lu {giš}MA₂ ru d[u ...]
+4’. [...] x x.MEŠ za ana KASKAL SIG₇.MEŠ [...]
+5’. [...] a-gu-u₂-u₂-li [d-x ...]
+$ single ruling
+6’. [...] x x SISKUR₂ IGI.MEŠ-šu GUR.MEŠ [...]
+7’. [...] GAL₂?.MEŠ [LUG]AL? DU [...]
+8’. [...] EN SISKU₂ [R] x ki šu [...]
+9’. [...] x.MEŠ EN SISKUR₂ ina NU ki šu [...]
+10’. [...].MEŠ x u₂ IGI.MEŠ NUN KUR BI x nu [...]
+$ single ruling
+11’. [...] x x x šu [...]
+12’. [...] x x šu#[...]
+$ single ruling
+13’. [...] x x EN x šu [...]
+14’. [...] x x [...]
+$ single ruling
 15’. [... U]ZU [...]
-16’. [...] x ki[...]
+16’. [...] x ki [...]
 17’. [...] x ZAG x x ma [...]
-18’. [...] x x a[...]
+18’. [...] x x a [...]

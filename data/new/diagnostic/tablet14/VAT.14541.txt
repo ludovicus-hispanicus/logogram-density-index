@@ -10,20 +10,20 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms H 1a
-143. [... na]-ḫi#-id :
-144. DIŠ ÚR 15-šú GE₆-át GIG-s[u ...]
-145. [... na]-ḫi#-id :
-146. DIŠ ÚR.MEŠ-šú GE₆.MEŠ [...]
+#note: ms H 1a
+143. [... na]-hi#-id :
+144. DIŠ UR₂ 15-šu₂ GE₆-at₂ GIG-s[u ...]
+145. [... na]-hi#-id :
+146. DIŠ UR₂.MEŠ-šu₂ GE₆.MEŠ [...]
 147. [...]-su MAN-ni :
-148. DIŠ ÚR 150-šú tar-kát GIG-su# [...]
-149. [...] na#-ḫi-id :
-150. DIŠ ÚR 15-šú du-ʾ-ú-mat GIG-[su ...]
-151. [... du]-ʾ#-ú-mat ú-šá-an-na-[aḫ ...]
-152. [... du]-ʾ#-ú-ma na-ḫi-[id]
-153. [...] ú-za-bal-ma [...]
+148. DIŠ UR₂ 150-šu₂ tar-kat₂ GIG-su# [...]
+149. [...] na#-hi-id :
+150. DIŠ UR₂ 15-šu₂ du-ʾ-u₂-mat GIG-[su ...]
+151. [... du]-ʾ#-u₂-mat u₂-ša₂-an-na-[ah ...]
+152. [... du]-ʾ#-u₂-ma na-hi-[id]
+153. [...] u₂-za-bal-ma [...]
 154. [...] GIG-su [...]
-155. [...] na#-ḫi-id :
-156. DIŠ ÚR 1[5-šú muq-qú-ta-át ...]
-157. [... -t]a#-át G#[IG ...]
+155. [...] na#-hi-id :
+156. DIŠ UR₂ 1[5-šu₂ muq-qu₂-ta-at₂ ...]
+157. [... -t]a-at₂ G[IG ...]
 158. [... -t]a₅? [...]

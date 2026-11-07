@@ -10,22 +10,27 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [... DA]B?-bat
-2’. [... KÚR DAB]-bat KI.MIN
-3’. [... KÚR D]AB-bat KI.MIN
-4’. [... KÚ ...]R DAB-bat KI.MIN
-5’. [... KÚ ...]R DAB-bat KI.MIN
-6’. [... KÚ ...]R DAB-bat KI.MIN
-7’. [... KÚ ...]R DAB-bat KI.MIN
-8’. [... KÚ ...]R DAB-bat [KI.MIN]
+2’. [... KUR₂ DAB]-bat KI.MIN
+3’. [... KUR₂ D]AB-bat KI.MIN
+$ single ruling
+4’. [... KU]R₂ DAB-bat KI.MIN
+5’. [... KU]R₂ DAB-bat KI.MIN
+6’. [... KU]R₂ DAB-bat KI.MIN
+$ single ruling
+7’. [... KU]R₂ DAB-bat KI.MIN
+8’. [... KU]R₂ DAB-bat [KI.MIN]
 @reverse
-1. [... K]ÚR DAB-bat KI.MIN
-2. [... ana zanān ...] AN-e ana ṣú !-me-ra-te
-3. [... mim-ma (ma-la) šá ...] ⸢ú⸣-še!(Text: šu)-pi-šu-ka
-4. [... U]RU KÚR DAB-bat KI.MIN
-5. [... UR]U KÚR DAB-bat KI.MIN
-6. [...] KÚRDAB-bat KI.MIN
-7. [... KÚ ...]R DAB-bat KI.MIN
-8. [... KÚR ...] DAB-bat KI.MIN
-9. [... KÚR ...] ⸢DAB⸣ -bat KI.MIN
-10. [... KÚR DAB-b]at KI.MIN
-11. [... KÚR DAB-bat] ⸢KI⸣.[MIN]
+1. [... K]UR₂ DAB-bat KI.MIN
+$ single ruling
+2. [... ana zanān ...] AN-e ana ṣu₂!-me-ra-te
+3. [... mim-ma (ma-la) ša₂ ...] u₂#-še!(Text: šu)-pi-šu-ka
+4. [... U]RU KUR₂ DAB-bat KI.MIN
+5. [... UR]U KUR₂ DAB-bat KI.MIN
+6. [...] KURDAB₂-bat KI.MIN
+$ single ruling
+7. [... KU]R₂ DAB-bat KI.MIN
+8. [... KUR₂ ...] DAB-bat KI.MIN
+9. [... KUR₂ ...] DAB#-bat KI.MIN
+$ single ruling
+10. [... KUR₂ DAB-b]at KI.MIN
+11. [... KUR₂ DAB-bat] KI#.[MIN]

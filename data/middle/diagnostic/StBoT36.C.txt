@@ -17,21 +17,21 @@ note: >
 ---
 
 @obverse
-3. ḫu-ur-ba-a-šu im-ta-na-aq-qu-ut
+3. hu-ur-ba-a-šu im-ta-na-aq-qu-ut
 4. i-TA-a-am
 5. at-tar-šu-ma i-ma-a-at
-6. il₅-ta-na-an-ni-šu ŠU {d}XXX
-7. ŠU.MEŠ-šu GIR.MEŠ-šu ú-na-a-aš ŠU {d}XXX
+6. il₅-ta-na-an-ni-šu ŠU {d}30
+7. ŠU.MEŠ-šu GIR.MEŠ-šu u₂-na-a-aš ŠU {d}30
 8. aš-šum ma-ka-le-e i-bal-lu-uṭ
-9. ŠU {d}XXX sà-de₄-er-šu iš-tu SAG.DU-šu a-di GIR.MEŠ-šu
+9. ŠU {d}30 sa₃-de₄-er-šu iš-tu SAG.DU-šu a-di GIR.MEŠ-šu
 10. zu-um-mu-ur-šu sa-a-am it-ti si-ni-il-ti i-na ma-ia-li ka-ši-id ŠU {d}UTU
 11. ṣa-li-im-ta ma-li u zu-um-mu-ur-šu sa-a-am
 13. ŠU {d}UTU
 
 @reverse
 3. ṣi-bi-is-su
-4. ša GÙB
+4. ša GUB₃
 7. ṣi-bi-it {d}I-ṭem-me
-8. re-eš ŠÀ-šu it-ta-na-an-pa-aḫ
+8. re-eš ŠA₃-šu it-ta-na-an-pa-ah
 9. ṣi-bi-it {d}I-ṭem-me
 10. {d}I-ṭem-me

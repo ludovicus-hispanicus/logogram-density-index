@@ -10,80 +10,106 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. Spuren
+$ single ruling
 2’. [...] ŠUB-ut
 3’. [...] x ŠUB-ut
-4’. [... ÉRIN-ni] ⸢u⸣ ÉRIN KÚR TÉŠ.BI ŠUB.MEŠ
-5’. [... Š]UB-di KÚR BAD.BAD-ia5 GAZ-ak
-6’. [... ŠUB -d]i BAD.BAD KÚR GAZ-ak
-7’. [... ŠU ...]B-di KÚR EN ul-la-a UŠ -ni
-8’. [... KÚ ...]R EN ul-la-a UŠ -šú
-9’. [...] KÚR
+4’. [... ERIN₂-ni] u# ERIN₂ KUR₂ TEŠ₂.BI ŠUB.MEŠ
+$ single ruling
+5’. [... Š]UB-di KUR₂ BAD.BAD-ia₅ GAZ-ak
+6’. [... ŠUB-d]i BAD.BAD KUR₂ GAZ-ak
+$ single ruling
+7’. [... ŠU]B-di KUR₂ EN ul-la-a UŠ-ni
+8’. [... KU]R₂ EN ul-la-a UŠ-šu₂
+$ single ruling
+9’. [...] KUR₂
 10’. [... M]EŠ
+$ single ruling
 1’. B[E ...]
-2’. BE uzu⸢KIŠIB ⸣ [...] KÚR x [...]
-3’. BE uzuKIŠIB ZAG G[E6] ÚŠ -ut NUN ŠUB -tiSIG-i
-4’. BE uzuKIŠIB GÙB GE6 ÚŠ -ut NUN ŠUB -tiSIG-i šá KUR KÚR
-5’. BE uzuKIŠIB ZAG GE6 u BABBAR ŠUB.MEŠ šá ŠÀ.ḪA la-ab-šu !É.GALKU4.MEŠ
-6’. BE uzuKIŠIB GÙB GE6 u BABBAR ŠUB.MEŠ šá ŠÀ.ḪA KI.MIN-ma DAB-bat-ma GAZ-ak
-7’. BE uzuKIŠIB ZAG GE6.MEŠ nu-bal ÉRIN-ia5 ŠUB -ut
-8’. BE uzuKIŠIB GÙB GE6.MEŠ nu-bal ÉRIN KÚR ŠUB -ut
-9’. BE uzuKIŠIB.MEŠ IGI.IGI-ru IGI.IGI-tu4 šum 4-ma DAM NA NITA Ù.TU
-10’. BE uzuKIŠIB ZAG ZÁLAG -ir ÉRIN-ni MU SIG5 TI-qé
-11’. BE uzuKIŠIB GÙB ZÁLAG -irÉRIN⸢ KÚR ⸣ MU SIG5 TI-qé
-12’. [B]E uzuKIŠIB ZAG u GÙB ZÁLAG -ir IGI.⸢IGI⸣-tu4
-13’. [BE u]zuKIŠIB ZAG u GÙB GE6 DUḪ. ⸢UŠ ⸣
-14’. [BE uzu]KIŠIB ZAG u GÙB TAG.MEŠ -ut ip-pa-qíd
-15’. [BE uzuKIŠI ...]B [Z]AG BABBAR ŠUB.MEŠ tam-ṭa-a-tu4 ana EN SISKUR GAR.MEŠ-⸢ šu !⸣
-16’. [BE uzuKIŠIB GÙ ...]B BABBAR ŠUB.MEŠ KAL-an NA BIR KUR KÚR šum 4-ma x [...]
-17’. [...] x x up-pu-qúinaKUR[...]
-18’. [... up-pu]-qú [...]
-1’. [BE GAG.TI šá ...] ⸢ZAG⸣ GE6-at [...]
-2’. BE GAG.TI šá GÙB GE6-at [...]
-3’. BE __________________________________________________________________________________________GAG.TIšáZAGuGÙB GE6-at[]
-4’. BE GAG.TI šá ZAG TAG.MEŠ -at [...]
-5’. BE GAG.TI šá GÙB TAG.MEŠ -⸢at⸣ [...]
-6’. 10 BE __________________________________________________________________________________________GAG.TIšá ZAGuGÙB TA[G.MEŠ]
-7’. BE GAG.TI šá ZAG UZU GAR x [...]
-8’. BE __________________________________________________________________________________________GAG.TIšáGÙB UZU G[AR]
-9’. BE GAG.TI šá ZA[G ...]
-10’. BE GAG.⸢ TI šá ⸣ [GÙB ...]
+2’. BE {uzu}KIŠIB# [...] KUR₂ x [...]
+$ single ruling
+3’. BE {uzu}KIŠIB ZAG G[E₆] UŠ₂-ut NUN ŠUB-ti SIG-i
+4’. BE {uzu}KIŠIB GUB₃ GE₆ UŠ₂-ut NUN ŠUB-ti SIG-i ša₂ KUR KUR₂
+5’. BE {uzu}KIŠIB ZAG GE₆ u BABBAR ŠUB.MEŠ ša₂ ŠA₃.HA la-ab-šu !E₂.GALKU₄.MEŠ
+6’. BE {uzu}KIŠIB GUB₃ GE₆ u BABBAR ŠUB.MEŠ ša₂ ŠA₃.HA KI.MIN-ma DAB-bat-ma GAZ-ak
+7’. BE {uzu}KIŠIB ZAG GE₆.MEŠ nu-bal ERIN₂-ia₅ ŠUB-ut
+8’. BE {uzu}KIŠIB GUB₃ GE₆.MEŠ nu-bal ERIN₂ KUR₂ ŠUB-ut
+$ single ruling
+9’. BE {uzu}KIŠIB.MEŠ IGI.IGI-ru IGI.IGI-tu₄ šum₄-ma DAM NA NITA U₃.TU
+10’. BE {uzu}KIŠIB ZAG ZALAG₂-ir ERIN₂-ni MU SIG₅ TI-qe₂
+11’. BE {uzu}KIŠIB GUB₃ ZALAG₂-ir ERIN₂ KUR₂# MU SIG₅ TI-qe₂
+$ single ruling
+12’. [B]E {uzu}KIŠIB ZAG u GUB₃ ZALAG₂-ir IGI.IGI#-tu₄
+13’. [BE {u]zu}KIŠIB ZAG u GUB₃ GE₆ DUH. UŠ# 
+14’. [BE {uzu}]KIŠIB ZAG u GUB₃ TAG.MEŠ-ut ip-pa-qid₂
+$ single ruling
+15’. [BE {uzu}KIŠI]B [Z]AG BABBAR ŠUB.MEŠ tam-ṭa-a-tu₄ ana EN SISKUR GAR.MEŠ- šu#!
+16’. [BE {uzu}KIŠIB GU]B₃ BABBAR ŠUB.MEŠ KAL-an NA BIR KUR KUR₂ šum₄-ma x [...]
+$ single ruling
+17’. [...] x x up-pu-quina₂ KUR [...]
+18’. [... up-pu]-qu₂ [...]
+1’. [BE GAG.TI ša₂ ...] ZAG# GE₆-at [...]
+2’. BE GAG.TI ša₂ GUB₃ GE₆-at [...]
+3’. BE GAG.TI ša₂ ZAG u GUB₃ GE₆-at[]
+$ single ruling
+4’. BE GAG.TI ša₂ ZAG TAG.MEŠ-at [...]
+5’. BE GAG.TI ša₂ GUB₃ TAG.MEŠ-at# [...]
+6’. 10 BE GAG.TI ša₂ ZAG u GUB₃ TA[G.MEŠ]
+$ single ruling
+7’. BE GAG.TI ša₂ ZAG UZU GAR x [...]
+8’. BE GAG.TI ša₂ GUB₃ UZU G[AR]
+$ single ruling
+9’. BE GAG.TI ša₂ ZA[G ...]
+10’. BE GAG. TI# ša₂# [GUB₃ ...]
 @reverse
-I (IV) 1’ BE ⸢GAG⸣ .[ZAG.GA ZAG ka-pí-iṣ ...]
-2’. BE __________________________________________________________________________________________GAG.⸢ZAG⸣.GA ⸢GÙB⸣k[a-pí-iṣ]
-3’. BE GAG.ZAG.GA ZAG na-pá[r-qud ...]
-4’. BE __________________________________________________________________________________________GAG.ZAG.GA GÙBna-pár-qud[]
-5’. BE GAG.ZAG.GA ZAG u GÙB ka-pí-iṣ x [...]
-6’. BE __________________________________________________________________________________________GAG.ZAG.GA ZAGuGÙBna-pár-qud DUḪ.UŠx []
-7’. ⸢BE GAG⸣ .ZAG.GA ZAG TAG.MEŠ -ut nu-bal ÉRIN-i[a5 ŠUB -ut]
-8’. [BE GAG.Z]AG.GA GÙB TAG.MEŠ-ut nu-bal ÉRIN KÚR [ŠUB -ut]
-9’. [BE GAG.ZAG.G]A ZAG ZÁLAG -irÉRIN-ni MU SIG5 [TI-qé ...]
-10’. [BE GAG.ZAG.GA G]ÙB ZÁLAG -ir ÉRIN KÚR MU SIG5 [TI-qé ...]
-11’. [BE GAG.ZAG.GA Z]AG ZÁLAG -irGÙB GE6 ÉRIN-ni u ÉRIN KÚR ina M[È * ...]
-12’. [BE GAG.ZAG.GA G]ÙB ZÁLAG -ir ZAG GE6 ÉRIN KÚR u ÉRIN-ni ina M[È * ...]
-13’. [BE GAG.ZAG.GA ZA]G ZÁLAG -ir ùGE6 ŠÀ.MUD ana ÉRIN-i[a5 ŠUB -ut]
-14’. [BE GAG.ZAG.GA GÙ ...]B ZÁLAG -ir ù GE6 ŠÀ.MUD ana ÉR[IN KÚR ŠUB -ut]
-15’. [...] GE6[...]
-II (V) 1’ [... GAG.ZAG.G]A iš-tuq!-ma!(Text: ukkin) a-na 2 i-bé-[eš ...]
-2’. [BE GAG.ZAG.GA Š]U!.SI.MEŠ T[UK]-⸢ šu ⸣NUN GABA.RI-a NU TUK-ši
-3’. [BE GAG.ZAG].GA ina du-un-ni-⸢ šu ⸣GAM-iš ana MAN ḪI.GAR SU.GU7 ina KUR GÁL -šišá-níš IZI.G[AR]
-4’. [BE GAG].ZAG.GA ina MURUB4-šu ⸢GAM⸣- iš ⸢DUMU⸣ MAN ana AD-⸢ šú⸣ ḪI.GAR DÙ -uš šá-níš DUḪ.U [Š]
-5’. [B]E GAG.ZAG.GA ina SAL.LA-šu GAM-iš ZI.GA ḪAL
-6’. ⸢BE KI⸣ .TA-nu GAG.ZAG.GA TAG.MEŠ -ut ZI.GA ḪAL
-7’. BE __________________________________________________________________________________________GAG.ZAG.GASAG-sušá-miṭKAR-tu4
-8’. BE GAG.ZAG.GA ZAG ik-pí-iṣ-ma ip-pár-qid ÉRIN-ka KAR-ta5 DU-ak
-9’. BE GAG.ZAG.GA GÙB ik-pí-iṣ-ma ip-pár-qid ÉRINKÚR KAR-ta5 DU-ak
-10’. 10 BE GAG.ZAG.GA ZAG KI.MIN-ma ip-pár-qid GÙB ka-pí-iṣ KÚR ⸢x x GAZ-ak⸣
-11’. BE GAG.ZAG.GA GÙB KI.MIN-ma ip-pár-qid ZAG ka-pí-iṣ x [...]
-12’. BE GAG.ZAG.GA ZAG u GÙB ip-pár-qid ZAG ka-pí-i [ṣ ...]
-13’. BE __________________________________________________________________________________________GAG.ZAG.GA ZAGuGÙBip-pár-qidGÙBka-p[í-iṣ]
-14’. [B]E ⸢GAG⸣ .ZAG.GA ù GAG.TI DAB.DAB-tu4 [...]
-15’. [BE GAG.ZAG.G]A ⸢TA x iš-muṭ lu U4⸣ N[UN ...]
-III (VI) __________________________________________________________________________________________
-1’. [... KUR KÚR ta-maš-šá ...]-a’
-2’. [... DUMU LUGAL B]A.ÚŠ
-3’. [... DUMU LUGAL šá KUR KÚR B]A.ÚŠ
+I (IV) 1’ BE GAG# .[ZAG.GA ZAG ka-pi₂-iṣ ...]
+2’. BE GAG.ZAG#.GA GUB₃# k[a-pi₂-iṣ]
+$ single ruling
+3’. BE GAG.ZAG.GA ZAG na-pa[r₂-qud ...]
+4’. BE GAG.ZAG.GA GUB₃ na-par₂-qud[]
+$ single ruling
+5’. BE GAG.ZAG.GA ZAG u GUB₃ ka-pi₂-iṣ x [...]
+6’. BE GAG.ZAG.GA ZAG u GUB₃ na-par₂-qud DUH.UŠ x []
+$ single ruling
+7’. BE# GAG# .ZAG.GA ZAG TAG.MEŠ-ut nu-bal ERIN₂-i[a₅ ŠUB-ut]
+8’. [BE GAG.Z]AG.GA GUB₃ TAG.MEŠ-ut nu-bal ERIN₂ KUR₂ [ŠUB-ut]
+$ single ruling
+9’. [BE GAG.ZAG.G]A ZAG ZALAG₂-ir ERIN₂-ni MU SIG₅ [TI-qe₂ ...]
+10’. [BE GAG.ZAG.GA G]UB₃ ZALAG₂-ir ERIN₂ KUR₂ MU SIG₅ [TI-qe₂ ...]
+$ single ruling
+11’. [BE GAG.ZAG.GA Z]AG ZALAG₂-ir GUB₃ GE₆ ERIN₂-ni u ERIN₂ KUR₂ ina M[E₃ * ...]
+12’. [BE GAG.ZAG.GA G]UB₃ ZALAG₂-ir ZAG GE₆ ERIN₂ KUR₂ u ERIN₂-ni ina M[E₃ * ...]
+$ single ruling
+13’. [BE GAG.ZAG.GA ZA]G ZALAG₂-ir u₃ GE₆ ŠA₃.MUD ana ERIN₂-i[a₅ ŠUB-ut]
+14’. [BE GAG.ZAG.GA GU]B₃ ZALAG₂-ir u₃ GE₆ ŠA₃.MUD ana ER[IN₂ KUR₂ ŠUB-ut]
+$ single ruling
+15’. [...] GE₆ [...]
+II (V) 1’ [... GAG.ZAG.G]A iš-tuq!-ma!(Text: ukkin) a-na 2 i-be₂-[eš ...]
+2’. [BE GAG.ZAG.GA Š]U!.SI.MEŠ T[UK]- šu# NUN GABA.RI-a NU TUK-ši
+$ single ruling
+3’. [BE GAG.ZAG].GA ina du-un-ni- šu# GAM-iš ana MAN HI.GAR SU.GU₇ ina KUR GAL₂-šiša₂-niš₂ IZI.G[AR]
+4’. [BE GAG].ZAG.GA ina MURUB₄-šu GAM#- iš DUMU# MAN ana AD- šu₂# HI.GAR DU₃-uš ša₂-niš₂ DUH.U [Š]
+5’. [B]E GAG.ZAG.GA ina SAL.LA-šu GAM-iš ZI.GA HAL
+6’. BE# KI# .TA-nu GAG.ZAG.GA TAG.MEŠ-ut ZI.GA HAL
+$ single ruling
+7’. BE GAG.ZAG.GASAG-suša₂-miṭ KAR-tu₄
+$ single ruling
+8’. BE GAG.ZAG.GA ZAG ik-pi₂-iṣ-ma ip-par₂-qid ERIN₂-ka KAR-ta₅ DU-ak
+9’. BE GAG.ZAG.GA GUB₃ ik-pi₂-iṣ-ma ip-par₂-qid ERIN₂ KUR₂ KAR-ta₅ DU-ak
+10’. 10 BE GAG.ZAG.GA ZAG KI.MIN-ma ip-par₂-qid GUB₃ ka-pi₂-iṣ KUR₂ x x GAZ#-ak#
+11’. BE GAG.ZAG.GA GUB₃ KI.MIN-ma ip-par₂-qid ZAG ka-pi₂-iṣ x [...]
+12’. BE GAG.ZAG.GA ZAG u GUB₃ ip-par₂-qid ZAG ka-pi₂-i [ṣ ...]
+13’. BE GAG.ZAG.GA ZAG u GUB₃ ip-par₂-qid GUB₃ ka-p[i₂-iṣ]
+$ single ruling
+14’. [B]E GAG# .ZAG.GA u₃ GAG.TI DAB.DAB-tu₄ [...]
+15’. [BE GAG.ZAG.G]A TA# x iš#-muṭ# lu# U₄# N[UN ...]
+$ single ruling
+III (VI)
+1’. [... KUR KUR₂ ta-maš-ša₂ ...]-a’
+2’. [... DUMU LUGAL B]A.UŠ₂
+3’. [... DUMU LUGAL ša₂ KUR KUR₂ B]A.UŠ₂
+$ single ruling
 4’. [...]
-5’. [... BÀ -ut IÁG ...]-⸢d⸣XXX
-6’. [... DUMU LUGAL B]A.⸢ ÚŠ ⸣
-7’. [... DUMU LUGAL šá KUR KÚR B]A.ÚŠ
-8’. [... BÀ -ut IÁG -dXX]X
+5’. [... BA₃-ut IAG₂ ...]-{d#}30
+6’. [... DUMU LUGAL B]A. UŠ₂# 
+7’. [... DUMU LUGAL ša₂ KUR KUR₂ B]A.UŠ₂
+8’. [... BA₃-ut IAG₂-{d}3]0

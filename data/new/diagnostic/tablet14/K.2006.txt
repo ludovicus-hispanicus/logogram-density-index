@@ -10,219 +10,219 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms A 1
-1. [DIŠ GIG gi-l]iš 15-šú SA₅ TIN#?
-2. [DIŠ gi-liš 1]50-šú SA₅ GIG-su ú#-[zab?-bal]
-3. [DIŠ TUGUL?.ME]Š-šú SA₅ LÚG [NU TUK?]
-4. [DIŠ gi]-liš 15-šú SIG₇ GIG-[su ...]
-5. [DIŠ gi]-liš 150-šú SIG₇ GIG#?-[su] D#[UGUD?]
-6. [DIŠ TUGU]L?.MEŠ-š[ú SIG₇(.MEŠ) n]a-ḫi-id
-7. [DIŠ gi-li]š#[15-šú GE₆ GIG-s]u DUGUD
-8. [DIŠ gi-liš 150-šú GE₆ n]a-ḫi-id
-9. [DIŠ TUGUL.MEŠ-šú GE₆(.MEŠ)] BA#.ÚŠ
-10. [DIŠ gi-liš] 15#-šú ta-[rík GIG]-su# MAN-ni
-11. [DIŠ gi-liš] 150-šú ta-[rík GIG]-su DUGUD
-12. [DIŠ TUGU]L.MEŠ-šú tar-ka# [n]a-ḫi-id
-13. DIŠ# [gi]-liš# 15-šú du-ʾ-um [GIG-su?] ú-zab-bal
-14. DIŠ [gi-l]iš 150-šú du-ʾ-um G[IG-su] MAN-ni
-15. DIŠ [TUGUL].MEŠ-šú du-ʾ-ú-ma G[IG-s]u DUGUD
-16. DIŠ# [gi-l]iš 15-šú na-pi-iḫ G[IG]-su# MAN-ni
-17. [DIŠ gi-l]iš 150-šú na-pi-iḫ GI[G]-su DUGUD
-18. [DIŠ TUGUL].MEŠ-šú nap-ḫa GIG-su MAN-ni
-19. [DIŠ gi-liš] 15-šú muq-qut AL#.TI
-20. DIŠ [gi-liš] 150#-šú# muq#-qut# GIG#-[s]u MAN-ni
-21. DIŠ T[UGUL].MEŠ-šú muq-qú-ta₅ na-ḫi-id
-22. DIŠ gi#-[liš] 15-šú DU₈-ir GI[G]-su DUGUD
-23. DIŠ gi-[liš 1]50-šú DU₈-ir [n]a-ḫi-i[d]
-24. DIŠ TUGUL.ME[Š]-šú DU₈.MEŠ na#?-[ḫi-id?]
-25. DIŠ gi-liš 1[5-š]ú in-né-ṣil GIG-s[u ...]
-26. DIŠ gi-liš 150-šú# in#-né-ṣil GI[G-su ...]
-27. DIŠ TUGUL.MEŠ-šú in-né#-[ṣi]-la#? GIG-s#[u ...]
-28. DIŠ MUNUS TUGUL.MEŠ-šá it-te-né#-ṣ#[i?-la ...]
-29. DIŠ TUGUL.MEŠ-šú šal-[ma TIN?]
-30. DIŠ TA TUGUL-šú EN U.MEŠ GÌR.II-šú SA#.MEŠ#-š[ú# it-te-nen-ṣi-la?(-šu?)] / ki-iṣ-ṣat [UD.DA]
+#note: ms A 1
+1. [DIŠ GIG gi-l]iš 15-šu₂ SA₅ TIN#?
+2. [DIŠ gi-liš 1]50-šu₂ SA₅ GIG-su u₂#-[zab?-bal]
+3. [DIŠ TUGUL?.ME]Š-šu₂ SA₅ LUG₂ [NU TUK?]
+4. [DIŠ gi]-liš 15-šu₂ SIG₇ GIG-[su ...]
+5. [DIŠ gi]-liš 150-šu₂ SIG₇ GIG#?-[su] D[UGUD?]
+6. [DIŠ TUGU]L?.MEŠ-š[u₂ SIG₇(.MEŠ) n]a-hi-id
+7. [DIŠ gi-li]š[15-šu₂ GE₆ GIG-s]u DUGUD
+8. [DIŠ gi-liš 150-šu₂ GE₆ n]a-hi-id
+9. [DIŠ TUGUL.MEŠ-šu₂ GE₆(.MEŠ)] BA#.UŠ₂
+10. [DIŠ gi-liš] 15#-šu₂ ta-[rik₂ GIG]-su# MAN-ni
+11. [DIŠ gi-liš] 150-šu₂ ta-[rik₂ GIG]-su DUGUD
+12. [DIŠ TUGU]L.MEŠ-šu₂ tar-ka# [n]a-hi-id
+13. DIŠ# [gi]-liš# 15-šu₂ du-ʾ-um [GIG-su?] u₂-zab-bal
+14. DIŠ [gi-l]iš 150-šu₂ du-ʾ-um G[IG-su] MAN-ni
+15. DIŠ [TUGUL].MEŠ-šu₂ du-ʾ-u₂-ma G[IG-s]u DUGUD
+16. DIŠ# [gi-l]iš 15-šu₂ na-pi-ih G[IG]-su# MAN-ni
+17. [DIŠ gi-l]iš 150-šu₂ na-pi-ih GI[G]-su DUGUD
+18. [DIŠ TUGUL].MEŠ-šu₂ nap-ha GIG-su MAN-ni
+19. [DIŠ gi-liš] 15-šu₂ muq-qut AL#.TI
+20. DIŠ [gi-liš] 150#-šu₂# muq#-qut# GIG#-[s]u MAN-ni
+21. DIŠ T[UGUL].MEŠ-šu₂ muq-qu₂-ta₅ na-hi-id
+22. DIŠ gi#-[liš] 15-šu₂ DU₈-ir GI[G]-su DUGUD
+23. DIŠ gi-[liš 1]50-šu₂ DU₈-ir [n]a-hi-i[d]
+24. DIŠ TUGUL.ME[Š]-šu₂ DU₈.MEŠ na#?-[hi-id?]
+25. DIŠ gi-liš 1[5-š]u₂ in-ne₂-ṣil GIG-s[u ...]
+26. DIŠ gi-liš 150-šu₂# in#-ne₂-ṣil GI[G-su ...]
+27. DIŠ TUGUL.MEŠ-šu₂ in-ne₂#-[ṣi]-la#? GIG-s[u ...]
+28. DIŠ MUNUS TUGUL.MEŠ-ša₂ it-te-ne₂#-ṣ[i?-la ...]
+29. DIŠ TUGUL.MEŠ-šu₂ šal-[ma TIN?]
+30. DIŠ TA TUGUL-šu₂ EN U.MEŠ GIR₃.II-šu₂ SA#.MEŠ#-š[u₂ it-te-nen-ṣi-la?(-šu?)] / ki-iṣ-ṣat [UD.DA]
 $ single ruling
-31. DIŠ# GU#.DU 15-šú SA₅-át [... TIN?]
-32. [DIŠ G]U.DU 150-šú SA₅-át GIG-su ú#-[zab-bal]
-33. [DIŠ G]U.DU.MEŠ-šú SA₅.MEŠ LÚG [NU TUK?]
-34. [DIŠ G]U.DU 15-šú SIG₇-át GIG-su# MAN#-ni#
-35. [DIŠ G]U.DU 150-šú SIG₇-át GIG-su# DUGUD
-36. [DIŠ GU.D]U.MEŠ-šú SIG₇.MEŠ n[a]-ḫi#-id
-37. [DIŠ GU.D]U# 15-šú GE₆-át GIG#-su DUGUD
-38. [DIŠ GU.DU 1]50-šú GE₆-át [n]a-ḫi-id
-39. [DIŠ GU.DU.MEŠ-š]ú GE₆.MEŠ BA#.ÚŠ#
-40. [... ta]r#-kàt# ú#-[...]
+31. DIŠ# GU#.DU 15-šu₂ SA₅-at₂ [... TIN?]
+32. [DIŠ G]U.DU 150-šu₂ SA₅-at₂ GIG-su u₂#-[zab-bal]
+33. [DIŠ G]U.DU.MEŠ-šu₂ SA₅.MEŠ LUG₂ [NU TUK?]
+34. [DIŠ G]U.DU 15-šu₂ SIG₇-at₂ GIG-su# MAN#-ni#
+35. [DIŠ G]U.DU 150-šu₂ SIG₇-at₂ GIG-su# DUGUD
+36. [DIŠ GU.D]U.MEŠ-šu₂ SIG₇.MEŠ n[a]-hi#-id
+37. [DIŠ GU.D]U 15-šu₂ GE₆-at₂ GIG#-su DUGUD
+38. [DIŠ GU.DU 1]50-šu₂ GE₆-at₂ [n]a-hi-id
+39. [DIŠ GU.DU.MEŠ-š]u₂ GE₆.MEŠ BA#.UŠ₂#
+40. [... ta]r-kat₃# u₂#-[...]
 52. [...] MAN-ni
-53. [... šu-uḫ-ḫu-ṭa]-át# [GIG-s]u DUGUD
-54. DIŠ GU#.DU#.MEŠ#-šú# [šu]-uḫ#-ḫu-ṭa na-ḫi-id
-55. DIŠ GU.DU 15-šu DU₈-át GIG-su MAN-ni
-56. DIŠ GU.DU 150-šú DU₈-át GIG-su na-ḫi-id
-57. DIŠ GU.DU.MEŠ-šú DU₈.MEŠ BA.ÚŠ
-58. DIŠ GU.DU.MEŠ-šú šal-ma AL!.TI
-59. [DIŠ G]U?.DU!.MEŠ-šú GE₆#.MEŠ!-ma KI.GUB-su! NU È-a u# A NU ú-še-red / [(x x)] A#.GA# SÌG-iṣ GAM
-60. [DIŠ ina? TUGU]L?-šú u GU.DU-šú SÌG-iṣ ŠU {d}XV
-61. [DIŠ ina TUGU]L-šú u kin-ṣi-šú SÌG-iṣ ŠU {d}XV
+53. [... šu-uh-hu-ṭa]-at₂# [GIG-s]u DUGUD
+54. DIŠ GU#.DU#.MEŠ#-šu₂# [šu]-uh#-hu-ṭa na-hi-id
+55. DIŠ GU.DU 15-šu DU₈-at₂ GIG-su MAN-ni
+56. DIŠ GU.DU 150-šu₂ DU₈-at₂ GIG-su na-hi-id
+57. DIŠ GU.DU.MEŠ-šu₂ DU₈.MEŠ BA.UŠ₂
+58. DIŠ GU.DU.MEŠ-šu₂ šal-ma AL!.TI
+59. [DIŠ G]U?.DU!.MEŠ-šu₂ GE₆#.MEŠ!-ma KI.GUB-su! NU E₃-a u# A NU u₂-še-red / [(x x)] A#.GA# SIG₃-iṣ GAM
+60. [DIŠ ina? TUGU]L?-šu₂ u GU.DU-šu₂ SIG₃-iṣ ŠU {d}15
+61. [DIŠ ina TUGU]L-šu₂ u kin-ṣi-šu₂ SIG₃-iṣ ŠU {d}15
 $ single ruling
-62. [DIŠ šá-pu-la-šú B]AL.BAL-ta₅ GIG-su MAN-ni
-63. [... BAL.B]AL-ta₅ u UMUŠ LÍL!(LUḪ)-šú KÚR-šú ŠU {d}UTU TIN / [x x x M]AŠKIM GUB-iz# ár#-ḫiš{?1382} GAM
-64. [... SÌG-i]ṣ? UMUŠ-šú! NU! DAB! ina NU#? ZU# ú#-rap#-pad GAM
-65. [... G]Ù.GÙ NU ZU BA.ÚŠ
-66. [...] x ZI#.MEŠ u GE₆.M#[EŠ] ana# UD#.3#.KÁM BA.ÚŠ
-67. [...] 150 ZI.MEŠ u GE₆.MEŠ ár#-ḫiš BA.ÚŠ
+62. [DIŠ ša₂-pu-la-šu₂ B]AL.BAL-ta₅ GIG-su MAN-ni
+63. [... BAL.B]AL-ta₅ u UMUŠ LIL₂!(LUH)-šu₂ KUR₂-šu₂ ŠU {d}UTU TIN / [x x x M]AŠKIM GUB-iz# ar₂#-hiš{?1382} GAM
+64. [... SIG₃-i]ṣ? UMUŠ-šu₂! NU! DAB! ina NU#? ZU# u₂#-rap#-pad GAM
+65. [... G]U₃.GU₃ NU ZU BA.UŠ₂
+66. [...] x ZI#.MEŠ u GE₆.M[EŠ] ana# UD#.3#.KAM₂ BA.UŠ₂
+67. [...] 150 ZI.MEŠ u GE₆.MEŠ ar₂#-hiš BA.UŠ₂
 $ single ruling
-68. [...] GUB BA#?.ÚŠ
-69. [...] x TU₁₅ ina DÚR-šú È.MEŠ-a? GAM
-70. [... ÚŠ].ÚŠ-ir GAM
-71. [...] TU₁₅# ina DÚR-šú ÚŠ.ÚŠ-ir GAM
-@column ii
-# ms A ii1
-72. [DIŠ] ina#? DÚR#-šú [...]
+68. [...] GUB BA#?.UŠ₂
+69. [...] x TU₁₅ ina DUR₂-šu₂ E₃.MEŠ-a? GAM
+70. [... UŠ₂].UŠ₂-ir GAM
+71. [...] TU₁₅# ina DUR₂-šu₂ UŠ₂.UŠ₂-ir GAM
+@column 2
+#note: ms A ii1
+72. [DIŠ] ina#? DUR₂#-šu₂ [...]
 73. [...]
 74. [...]
 75. [...]
-76. [DIŠ ina] DÚR#-[šú ...]
-77. DIŠ ina DÚR-šú [...]
-78. DIŠ ina DÚR-šú x [...]
-79. DIŠ ina DÚR-šú x [...]
-80. DIŠ ina DÚR-šú MÚD# M#[UD ...]
-81. DIŠ ina DÚR-šú MÚD <u> TU₁₅# ŠUB#!?(ma?).ŠUB# [...]
-82. DIŠ ina DÚR-šú MÚD i-te-ez-zi Š[U? ...]
-83. DIŠ ina DÚR-šú MÚD MUD i-te-e[z-zi ...]
-84. DIŠ ina DÚR-šú MÚD u LUGUD i-te-[ze-zi ...]
-85. DIŠ ŠE₁₀-šú iz-z[i ...]
-86. DIŠ ŠE₁₀-šú SA₅.M[EŠ ...]
-87. DIŠ ŠE₁₀-šú SI#[G₇.MEŠ ...]
-88. DIŠ ŠE₁₀-šú [GE₆?.MEŠ ...]
-89. DIŠ ŠE₁₀-šú [...]
-90. DIŠ ŠE₁₀-šú# [...]
+76. [DIŠ ina] DUR₂#-[šu₂ ...]
+77. DIŠ ina DUR₂-šu₂ [...]
+78. DIŠ ina DUR₂-šu₂ x [...]
+79. DIŠ ina DUR₂-šu₂ x [...]
+80. DIŠ ina DUR₂-šu₂ MUD₂# M[UD ...]
+81. DIŠ ina DUR₂-šu₂ MUD₂ <u> TU₁₅# ŠUB#!?(ma?).ŠUB# [...]
+82. DIŠ ina DUR₂-šu₂ MUD₂ i-te-ez-zi Š[U? ...]
+83. DIŠ ina DUR₂-šu₂ MUD₂ MUD i-te-e[z-zi ...]
+84. DIŠ ina DUR₂-šu₂ MUD₂ u LUGUD i-te-[ze-zi ...]
+85. DIŠ ŠE₁₀-šu₂ iz-z[i ...]
+86. DIŠ ŠE₁₀-šu₂ SA₅.M[EŠ ...]
+87. DIŠ ŠE₁₀-šu₂ SI[G₇.MEŠ ...]
+88. DIŠ ŠE₁₀-šu₂ [GE₆?.MEŠ ...]
+89. DIŠ ŠE₁₀-šu₂ [...]
+90. DIŠ ŠE₁₀-šu₂# [...]
 91. DIŠ# [...]
 92. [...] x [x]
 93. [...] x [x]
 94. [...]-ma#? x
-95. [... GE₆]-át#? GAM#?
-96. [... na-ḫi]-id#
-97. [... -a]n-na-aḫ
-98. [... na]-ḫi-id
+95. [... GE₆]-at₂#? GAM#?
+96. [... na-hi]-id#
+97. [... -a]n-na-ah
+98. [... na]-hi-id
 99. [...] TIN
-100. [... -á]t?! GAM
-101. [DIŠ GÌŠ-šú šal-mat?] TIN
+100. [... -a]t₂?! GAM
+101. [DIŠ GIŠ₃-šu₂ šal-mat?] TIN
 102. [...]-ker# GAM
 103. [...].ME#? GAM
-104. [... Š]À-šú GU₇-šú ŠÀ-šú ma-ḫu / Á.II-šú GÌR#.II#-šú# ŠÀ#-šú# KÚM# NA# BI# GIG na-ki GIG / ŠU DINGIR-šú : {d}XV-šú#
-105. DIŠ ina mu-šar-ri-šú MÚD ŠUR ŠU {d}UTU MU KIDIN# G[I ...]
-106. DIŠ mu-šar-šú u SIR₄.II-šú nap-ḫu {d}dil-bat ina KI.NÁ-šú KUR-s[u]
+104. [... Š]A₃-šu₂ GU₇-šu₂ ŠA₃-šu₂ ma-hu / A₂.II-šu₂ GIR₃#.II#-šu₂# ŠA₃#-šu₂# KUM₂# NA# BI# GIG na-ki GIG / ŠU DINGIR-šu₂ : {d}15-šu₂#
+105. DIŠ ina mu-šar-ri-šu₂ MUD₂ ŠUR ŠU {d}UTU MU KIDIN# G[I ...]
+106. DIŠ mu-šar-šu₂ u SIR₄.II-šu₂ nap-hu {d}dil-bat ina KI.NA₂-šu₂ KUR-s[u]
 $ single ruling
-107. DIŠ KÀŠ.MEŠ-šú SA₅.MEŠ ŠU MU DINGIR-šú AL.TI
-108. DIŠ KÀŠ.MEŠ-šú SIG₇.MEŠ GIG-su GÍD KI.MIN UD.DA TAB-iṭ GAM
-109. DIŠ KÀŠ.MEŠ-šú GE₆.MEŠ TAG ÚŠ TAG-it GAM
-110. [DIŠ KÀŠ].MEŠ#-šú# tar-ka GAM
+107. DIŠ KAŠ₃.MEŠ-šu₂ SA₅.MEŠ ŠU MU DINGIR-šu₂ AL.TI
+108. DIŠ KAŠ₃.MEŠ-šu₂ SIG₇.MEŠ GIG-su GID₂ KI.MIN UD.DA TAB-iṭ GAM
+109. DIŠ KAŠ₃.MEŠ-šu₂ GE₆.MEŠ TAG UŠ₂ TAG-it GAM
+110. [DIŠ KAŠ₃].MEŠ#-šu₂# tar-ka GAM
 111. [... i]t-te-nen-es-ki-ra GAM
 112. [... D]U?.MEŠ GAM
 113. [... A.RI].A-su DU-ak GAM
 114. [...] x GAM
-115. [... G]IG-su GÍD-ma TIN
+115. [... G]IG-su GID₂-ma TIN
 116. [...] KI.MIN
 117. [... DU]GUD!?-ma TIN
 118. [...] TIN#
 @obverse
-# ms A 2 ii 1′
-119. DIŠ KÀŠ.[MEŠ-šú ...]
-120. DIŠ KÀŠ.[MEŠ ...]
-121. DIŠ KÀŠ.M[EŠ ...]
+#note: ms A 2 ii 1′
+119. DIŠ KAŠ₃.[MEŠ-šu₂ ...]
+120. DIŠ KAŠ₃.[MEŠ ...]
+121. DIŠ KAŠ₃.M[EŠ ...]
 $ single ruling
-122. DIŠ SIR₄.II-šú SA₅.[MEŠ? ...]
-123. DIŠ SIR₄.II-šú SIG₇.ME[Š ...]
-124. DIŠ SIR₄.II-šú GE₆.MEŠ [...]
-125. DIŠ SIR₄.II-šú tar-ka [...]
-126. DIŠ SIR₄.II-šú du-ʾ-ú!-[ma ...]
-127. DIŠ SIR₄.II-šú muq-qú-ta₅ [...]
-128. DIŠ SIR₄.II-šú šu-uḫ-ḫ[u-ṭa ...]
-129. DIŠ SIR₄.II-šú šá-a[l?-ma? TIN]
-130. DIŠ SIR₄.II-šú zi-ra [...]
-131. DIŠ SIR₄.II-šú zi-ra EME-šú i-[...] / NUNDUM.MEŠ-šú ú-na-[aš-šak ...]
-132. DIŠ SIR₄.II-šú nap-ḫu na-ḫi-id : ana# [...]
-133. DIŠ SIR₄.II-šú MÚ.MEŠ-ḫa [...]
-134. DIŠ ina SIR₄.II-šú SÌG-iṣ ana NIN.[DINGIR.RA DINGIR-šú TE-ḫi]
-135. DIŠ ina SIR₄.II-šú SÌG-iṣ {ḫe-pí}-šú# x [...]
-136. DIŠ DÙG.GAN zi-kar-ti-šú? [...] / KÀŠ.MEŠ-šú DAB.DA[B-ta₅ ...]
-137. DIŠ šap-la-tu-šú [...]
+122. DIŠ SIR₄.II-šu₂ SA₅.[MEŠ? ...]
+123. DIŠ SIR₄.II-šu₂ SIG₇.ME[Š ...]
+124. DIŠ SIR₄.II-šu₂ GE₆.MEŠ [...]
+125. DIŠ SIR₄.II-šu₂ tar-ka [...]
+126. DIŠ SIR₄.II-šu₂ du-ʾ-u₂!-[ma ...]
+127. DIŠ SIR₄.II-šu₂ muq-qu₂-ta₅ [...]
+128. DIŠ SIR₄.II-šu₂ šu-uh-h[u-ṭa ...]
+129. DIŠ SIR₄.II-šu₂ ša₂-a[l?-ma? TIN]
+130. DIŠ SIR₄.II-šu₂ zi-ra [...]
+131. DIŠ SIR₄.II-šu₂ zi-ra EME-šu₂ i-[...] / NUNDUM.MEŠ-šu₂ u₂-na-[aš-šak ...]
+132. DIŠ SIR₄.II-šu₂ nap-hu na-hi-id : ana# [...]
+133. DIŠ SIR₄.II-šu₂ MU₂.MEŠ-ha [...]
+134. DIŠ ina SIR₄.II-šu₂ SIG₃-iṣ ana NIN.[DINGIR.RA DINGIR-šu₂ TE-hi]
+135. DIŠ ina SIR₄.II-šu₂ SIG₃-iṣ {he-pi₂}-šu₂# x [...]
+136. DIŠ DUG₃.GAN zi-kar-ti-šu₂? [...] / KAŠ₃.MEŠ-šu₂ DAB.DA[B-ta₅ ...]
+137. DIŠ šap-la-tu-šu₂ [...]
 $ single ruling
-138. DIŠ ÚR 15-šú SA₅# [...]
-139. DIŠ ÚR 150-šú SA₅-[át? ...]
-140. DIŠ ÚR.MEŠ-šú [...]
-141. DIŠ ÚR 15-šú [SIG₇-át ...]
-142. DIŠ ÚR# 150#-šú# [...]
-143. DIŠ Ú[R ...]
-144. DIŠ# Ú#[R ...]
-@column iii
-# ms A iii1′f
-162′. [DIŠ ÚR-šú ú-maḫ-ḫaṣ ŠU.II-šú ú-na-aš]-šak / [Á.II-šú ana ku-tal-li-šú GUR ŠU] {d}[MAŠ.TAB].BA GAM
-163′. [DIŠ ÚR-šú TA gil-ši-šú EN ZI.IN.G]I-šú GU₇-šú / [ZI-a u DU-ka] ZU SA.GIG
-164′. [DIŠ SA.MEŠ ÚR(.MEŠ)-šú DIŠ-niš GU₇.MEŠ-šú ZI-a u D]U#.MEŠ-ka NU ZU SA.GAL
-165′. [DIŠ ina ÚR-šú šá 15 SÌG-iṣ u] e-sil GAM
-166′. [DIŠ ina ÚR-šú šá 150 SÌG-iṣ ŠÀ.MEŠ-šú eb-ṭú] SAG.KI-šú ḫe-sa-át GAM
+138. DIŠ UR₂ 15-šu₂ SA₅# [...]
+139. DIŠ UR₂ 150-šu₂ SA₅-[at₂? ...]
+140. DIŠ UR₂.MEŠ-šu₂ [...]
+141. DIŠ UR₂ 15-šu₂ [SIG₇-at₂ ...]
+142. DIŠ UR₂# 150#-šu₂# [...]
+143. DIŠ U[R₂ ...]
+144. DIŠ# U[R₂ ...]
+@column 3
+#note: ms A iii1′f
+162′. [DIŠ UR₂-šu₂ u₂-mah-haṣ ŠU.II-šu₂ u₂-na-aš]-šak / [A₂.II-šu₂ ana ku-tal-li-šu₂ GUR ŠU] {d}[MAŠ.TAB].BA GAM
+163′. [DIŠ UR₂-šu₂ TA gil-ši-šu₂ EN ZI.IN.G]I-šu₂ GU₇-šu₂ / [ZI-a u DU-ka] ZU SA.GIG
+164′. [DIŠ SA.MEŠ UR₂(.MEŠ)-šu₂ DIŠ-niš GU₇.MEŠ-šu₂ ZI-a u D]U.MEŠ-ka NU ZU SA.GAL
+165′. [DIŠ ina UR₂-šu₂ ša₂ 15 SIG₃-iṣ u] e-sil GAM
+166′. [DIŠ ina UR₂-šu₂ ša₂ 150 SIG₃-iṣ ŠA₃.MEŠ-šu₂ eb-ṭu₂] SAG.KI-šu₂ he-sa-at₂ GAM
 $ single ruling
-167′. [...] ŠU DINGIR-šú TIN
-168′. [DIŠ re-bit-su šá 150 GU₇-šú] ŠU {d}XV-šú TIN
-169′. [... -á]t ina NU ZU ú-rap-pad / [ŠU {d}IŠKUR ina AN].BAR₇ SÌG-iṣ GAM
-170′. [...]-át# ina NU ZU ú-rap-pad / [ŠU {d}dil-bat ina] šat ur-ri SÌG GAM
-171′. DIŠ r[e ...] ina DÚR-šú ZÉ i-te-ez-zí / u S#[IR₄-šú z]i-ra {ḫe-pí}
-172′. DIŠ ina re-biti-šú SÌG-iṣ ŠU {d}IŠKUR
-173′. DIŠ ina re-biti-šú SÌG-iṣ-ma ina KA-šú MÚD MUD ŠUB.ŠUB-a ŠU {d}IŠKUR GAM
-174′. DIŠ ina re-biti-šú SÌG-iṣ-ma DÚR-šú ÚŠ.ÚŠ-ir ŠU {d}NIN.GIŠ.ZI.DA
-175′. DIŠ ina re-biti-šú SÌG-iṣ-ma MÚŠ-šú uš-qa-ma-am-ma ina EDIN TAG-it# [K]I.MIN
-176′. DIŠ ina re-biti-šú SÌG-iṣ-ma MÚŠ-šú i-na-ḫi-su SUḪUŠ.MEŠ-šú i-tar-ru-[ra ...]
-177′. DIŠ ina re-biti-šú SÌG-iṣ-ma re-biti re-biti GÙ.[GÙ-si] / ina a-zi-ri-šú ZÉ i-ḫa-ḫu ŠU {d}[...]
-178′. [DIŠ] ina re-biti-šú u su-ḫa-ti-šú SÌG-iṣ ŠU [...]
+167′. [...] ŠU DINGIR-šu₂ TIN
+168′. [DIŠ re-bit-su ša₂ 150 GU₇-šu₂] ŠU {d}15-šu₂ TIN
+169′. [... -a]t₂ ina NU ZU u₂-rap-pad / [ŠU {d}IŠKUR ina AN].BAR₇ SIG₃-iṣ GAM
+170′. [...]-at₂# ina NU ZU u₂-rap-pad / [ŠU {d}dil-bat ina] šat ur-ri SIG₃ GAM
+171′. DIŠ r[e ...] ina DUR₂-šu₂ ZE₂ i-te-ez-zi₂ / u S[IR₄-šu₂ z]i-ra {he-pi₂}
+172′. DIŠ ina re-biti-šu₂ SIG₃-iṣ ŠU {d}IŠKUR
+173′. DIŠ ina re-biti-šu₂ SIG₃-iṣ-ma ina KA-šu₂ MUD₂ MUD ŠUB.ŠUB-a ŠU {d}IŠKUR GAM
+174′. DIŠ ina re-biti-šu₂ SIG₃-iṣ-ma DUR₂-šu₂ UŠ₂.UŠ₂-ir ŠU {d}NIN.GIŠ.ZI.DA
+175′. DIŠ ina re-biti-šu₂ SIG₃-iṣ-ma MUŠ₂-šu₂ uš-qa-ma-am-ma ina EDIN TAG-it# [K]I.MIN
+176′. DIŠ ina re-biti-šu₂ SIG₃-iṣ-ma MUŠ₂-šu₂ i-na-hi-su SUHUŠ.MEŠ-šu₂ i-tar-ru-[ra ...]
+177′. DIŠ ina re-biti-šu₂ SIG₃-iṣ-ma re-biti re-biti GU₃.[GU₃-si] / ina a-zi-ri-šu₂ ZE₂ i-ha-hu ŠU {d}[...]
+178′. [DIŠ] ina re-biti-šu₂ u su-ha-ti-šu₂ SIG₃-iṣ ŠU [...]
 $ single ruling
-179′. [DIŠ] bir#-ka-šú GU₇.MEŠ-šú AZAG {d}[...]
-180′. [DIŠ] bir#-ka#-šú u# MURUB₄#.MEŠ#-šú ina GE₆ [...] / [...] DAB [x]
+179′. [DIŠ] bir#-ka-šu₂ GU₇.MEŠ-šu₂ AZAG {d}[...]
+180′. [DIŠ] bir#-ka#-šu₂ u# MURUB₄#.MEŠ#-šu₂ ina GE₆ [...] / [...] DAB [x]
 @obverse
-# ms A 2 iv 1
+#note: ms A 2 iv 1
 194′. [... ŠU] {d}dil-bat
-195′. [... MÁŠ]KIM? TIN
-196′. [...] ṣu-un-dur / [mi-šit]-ti# MAŠKIM# GÍD-ma GAM
-197′. [... 1]50 i-maš-šar SÌG-iṣ {d}BA.BA₆ SÌG-iṣ GAM
-198′. [...] 15 ik-te-ner-ru ŠU {d}XV : DAB GIDIM₇ GAM
-199′. [... 1]50 ik-te-ner-ru ŠU {d}XV
-200′. [... i]k-te-ner-ra-a ŠU# {d}iš₈#?-tár#? [(x)]
-201′. [...] šá 15 ana šá 150 LÁ-at ŠU! [...]
-202′. DIŠ GÌR#.II#-šú tur-ra NU! ZU#-e#? u#? x (x) i#?-[...]
-203′. DIŠ GÌR.II-šú am-šá-ma LÁ! x [...]
-204′. DIŠ GÌR.II-šú it-x-[...]
-205′. DIŠ GÌR.II-šú it-te-nen-[ṣi-la ...] / ŠU {d}[...]
-206′. DIŠ GÌR.II-šú it-[...]
-207′. DIŠ GÌR.II-šú i-x-[...]
-208′. DIŠ GÌR.II-šú i-n#[ap?-pa-ṣa ...]
-209′. [DIŠ GÌR].II-šú KÚM#?-[ma/MEŠ? ...]
-@column iv
-# ms A iv1′f
-228′. DIŠ ina# G#[ÌR-šú ...] / pu#-qud#-[de-e ...]
-229′. DIŠ ina GÌR-šú SÌG-iṣ u GÙ.G[Ù-si ...]
-230′. DIŠ ina GÌR-šú MURUB₄.MEŠ-šú x [...] / UD.41.KÁM [...]
-231′. DIŠ U.MEŠ GÌR.II-šú GE₆.ME[Š ...]
-232′. DIŠ U.MEŠ GÌR.II-šú uṣ-ṣu#-l#[a? ...]
-233′. DIŠ U.MEŠ GÌR.II-šú šu-ut-tu-qá ina# [...] / ina AN.BAR₇ SÌG-iṣ Š#[U ...]
-234′. DIŠ U.MEŠ GÌR.II-šú MÚD DIRI.MEŠ-ma [...] / ana la-ba-aṣ GUR-šum-[ma ...]
-235′. DIŠ UMBIN U.MEŠ GÌR.II-šú SIG₇.MEŠ# (x)
-236′. DIŠ UMBIN U.MEŠ GÌR.II-šú SA₅.MEŠ i-šar TIN#?
-237′. DIŠ kar-ši U.MEŠ GÌR.II-šú GE₆.MEŠ i-ṭa-mu# [...]
-238′. DIŠ KIR₄ U.MEŠ GÌR.II-šú SED.MEŠ-šú SUMUN-šú KI#.MIN#?
-239′. DIŠ GABA.MEŠ šá GÌR.II-šú GE₆.MEŠ ŠU {d}XV GÍD-ma GAM#
-240′. DIŠ su-ḫar GÌR.II-šú SED PIŠ₁₀ IGI.II-šú nu-up-pu-ḫa GÌŠ-šú aš-ṭa-at / LI.DUR-su DU₈-át ŠU NAM.ÉRIM.MA ú-za-bal-ma GAM
-241′. DIŠ KUŠ šá KI.TA-nu GÌR.II-šú te-bi SAG.DU-su DAB.DAB-su / u ŠÀ-šú tur-ru-ur GAM
-242′. DIŠ ka-bit-ma GÌR-šú šá 150 : 15 i-kan-na-an / u i-tar-ra-aṣ BA.ÚŠ
-243′. DIŠ SA GÌR.II-šú DU-ku-ma šá ŠU.II-šú ne-e-ḫu ár-ḫiš ÚŠ : AL.TI
-244′. DIŠ SA GÌR.II-šú DU-ku-ma šá ŠU.II-šú GAR-nu / KI.TA-nu GIG KU₄-šú NÍG.GIG IGI-ma T[IN]
-245′. DIŠ SA GÌR.II-šú ZI.MEŠ-ú IGI.II-šú ana ÍL# [...] / SAG.DU-su u SAG ŠÀ-šú e-em ŠU# (x) [x x (x)]
-246′. DIŠ TA DU₈-ir ZI.IN.GI-šú KÚM NU# T#[UK ...]
-247′. DIŠ TA DU₈-ir ZI.IN.GI-šú KÚM T[UK? x x (x)] / UGU-šú i-šag-gúm TI-uṭ šum₄-ma GIG-su# [...]
+195′. [... MAŠ]KIM₂? TIN
+196′. [...] ṣu-un-dur / [mi-šit]-ti# MAŠKIM# GID₂-ma GAM
+197′. [... 1]50 i-maš-šar SIG₃-iṣ {d}BA.BA₆ SIG₃-iṣ GAM
+198′. [...] 15 ik-te-ner-ru ŠU {d}15 : DAB GIDIM₇ GAM
+199′. [... 1]50 ik-te-ner-ru ŠU {d}15
+200′. [... i]k-te-ner-ra-a ŠU# {d}iš₈#?-tar₂#? [(x)]
+201′. [...] ša₂ 15 ana ša₂ 150 LA₂-at ŠU! [...]
+202′. DIŠ GIR₃#.II#-šu₂ tur-ra NU! ZU#-e#? u#? x (x) i#?-[...]
+203′. DIŠ GIR₃.II-šu₂ am-ša₂-ma LA₂! x [...]
+204′. DIŠ GIR₃.II-šu₂ it-x-[...]
+205′. DIŠ GIR₃.II-šu₂ it-te-nen-[ṣi-la ...] / ŠU {d}[...]
+206′. DIŠ GIR₃.II-šu₂ it-[...]
+207′. DIŠ GIR₃.II-šu₂ i-x-[...]
+208′. DIŠ GIR₃.II-šu₂ i-n[ap?-pa-ṣa ...]
+209′. [DIŠ GIR₃].II-šu₂ KUM₂#?-[ma/MEŠ? ...]
+@column 4
+#note: ms A iv1′f
+228′. DIŠ ina# G[IR₃-šu₂ ...] / pu#-qud#-[de-e ...]
+229′. DIŠ ina GIR₃-šu₂ SIG₃-iṣ u GU₃.G[U₃-si ...]
+230′. DIŠ ina GIR₃-šu₂ MURUB₄.MEŠ-šu₂ x [...] / UD.41.KAM₂ [...]
+231′. DIŠ U.MEŠ GIR₃.II-šu₂ GE₆.ME[Š ...]
+232′. DIŠ U.MEŠ GIR₃.II-šu₂ uṣ-ṣu#-l[a? ...]
+233′. DIŠ U.MEŠ GIR₃.II-šu₂ šu-ut-tu-qa₂ ina# [...] / ina AN.BAR₇ SIG₃-iṣ Š[U ...]
+234′. DIŠ U.MEŠ GIR₃.II-šu₂ MUD₂ DIRI.MEŠ-ma [...] / ana la-ba-aṣ GUR-šum-[ma ...]
+235′. DIŠ UMBIN U.MEŠ GIR₃.II-šu₂ SIG₇.MEŠ# (x)
+236′. DIŠ UMBIN U.MEŠ GIR₃.II-šu₂ SA₅.MEŠ i-šar TIN#?
+237′. DIŠ kar-ši U.MEŠ GIR₃.II-šu₂ GE₆.MEŠ i-ṭa-mu# [...]
+238′. DIŠ KIR₄ U.MEŠ GIR₃.II-šu₂ SED.MEŠ-šu₂ SUMUN-šu₂ KI#.MIN#?
+239′. DIŠ GABA.MEŠ ša₂ GIR₃.II-šu₂ GE₆.MEŠ ŠU {d}15 GID₂-ma GAM#
+240′. DIŠ su-har GIR₃.II-šu₂ SED PIŠ₁₀ IGI.II-šu₂ nu-up-pu-ha GIŠ₃-šu₂ aš-ṭa-at / LI.DUR-su DU₈-at₂ ŠU NAM.ERIM₂.MA u₂-za-bal-ma GAM
+241′. DIŠ KUŠ ša₂ KI.TA-nu GIR₃.II-šu₂ te-bi SAG.DU-su DAB.DAB-su / u ŠA₃-šu₂ tur-ru-ur GAM
+242′. DIŠ ka-bit-ma GIR₃-šu₂ ša₂ 150 : 15 i-kan-na-an / u i-tar-ra-aṣ BA.UŠ₂
+243′. DIŠ SA GIR₃.II-šu₂ DU-ku-ma ša₂ ŠU.II-šu₂ ne-e-hu ar₂-hiš UŠ₂ : AL.TI
+244′. DIŠ SA GIR₃.II-šu₂ DU-ku-ma ša₂ ŠU.II-šu₂ GAR-nu / KI.TA-nu GIG KU₄-šu₂ NIG₂.GIG IGI-ma T[IN]
+245′. DIŠ SA GIR₃.II-šu₂ ZI.MEŠ-u₂ IGI.II-šu₂ ana IL₂# [...] / SAG.DU-su u SAG ŠA₃-šu₂ e-em ŠU# (x) [x x (x)]
+246′. DIŠ TA DU₈-ir ZI.IN.GI-šu₂ KUM₂ NU# T[UK ...]
+247′. DIŠ TA DU₈-ir ZI.IN.GI-šu₂ KUM₂ T[UK? x x (x)] / UGU-šu₂ i-šag-gum₂ TI-uṭ šum₄-ma GIG-su# [...]
 $ single ruling
 @catchline
-# ms A iv31′
-[DIŠ UD.1].KÁM# GIG-ma ina SAG.DU-šú SÌG-iṣ ḫa#-[si-si-šú ṣa-bit ...]
+#note: ms A iv31′
+248′. [DIŠ UD.1].KAM₂# GIG-ma ina SAG.DU-šu₂ SIG₃-iṣ ha#-[si-si-šu₂ ṣa-bit ...]
 @colophon
-# ms A iv32′
-[DUB.12].KÁM ana {lú}GIG [...]
-# ms A iv33′
-[DUB.14.KÁ]M e-nu-ma <ana> É {l}[{ú}GIG ...]
+#note: ms A iv32′
+249′. [DUB.12].KAM₂ ana {lu₂}GIG [...]
+#note: ms A iv33′
+250′. [DUB.14.KA]M₂ e-nu-ma <ana> E₂ {l}[{u₂}GIG ...]

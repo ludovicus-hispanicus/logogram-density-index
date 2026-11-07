@@ -22,11 +22,11 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If the Path falls to the right and stretches out: your army will reach its goals.
 6. BE GIR₂ ana GUB₃ ma-qit u iš-du-ud ERIN₂ KUR₂ ŠA₃.SI₃.SI₃.KE-ša₂ NU KUR-ad [...]
 #tr.en: If the Path falls to the left and stretches out: the enemy army will not reach its goals.
-7. BE GIR₂ ana ZAG ma-qit u ana {giš}TUKUL uš-te-li₃ gaba-la-aḫ-ḫu ana ERIN₂-ni Š[UB-ut]
+7. BE GIR₂ ana ZAG ma-qit u ana {giš}TUKUL uš-te-li₃ gaba-la-ah-hu ana ERIN₂-ni Š[UB-ut]
 #tr.en: If the Path falls to the right and bulges up toward a mace: despair will [fall] upon the army.
-8. BE GIR₂ ana GUB₃ ma-qit u ana {giš}TUKUL uš-te-li₃ gaba-la-aḫ-ḫu ana ERIN₂ KUR₂ [ŠUB-ut]
+8. BE GIR₂ ana GUB₃ ma-qit u ana {giš}TUKUL uš-te-li₃ gaba-la-ah-hu ana ERIN₂ KUR₂ [ŠUB-ut]
 #tr.en: If the Path falls to the left and bulges up toward a mace: despair will [fall] upon the enemy army.
-9. BE GIR₂ ana ZAG u GUB₃ ma-qit KAR-tu₄ A.MAḪ ib-bat-taq mi-iḫ-ru uš-t[a-rad-di]
+9. BE GIR₂ ana ZAG u GUB₃ ma-qit KAR-tu₄ A.MAH ib-bat-taq mi-ih-ru uš-t[a-rad-di]
 #tr.en: If the Path falls to the right and left: devastation; the canal-dike will be breached, the weir will overflow.
 10. ina di kiš 3 x [...]
 #tr.en: ... (unclear).
@@ -38,7 +38,7 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If the Path falls to right and left and on right and left bulges up toward a mace: there will be accord and well-being in the land.
 14. BE GIR₂ RA-iṣ ERIN₂ NUN [k]ar-mu-tu DU-ak
 #tr.en: If the Path is destroyed: the prince's army will fall to ruin.
-15. BE GIR₂ ip-ḫur ERIN₂-ka ŠA₃.SI₃.SI₃.KE-ša₂ NU KUR-ad₂
+15. BE GIR₂ ip-hur ERIN₂-ka ŠA₃.SI₃.SI₃.KE-ša₂ NU KUR-ad₂
 #tr.en: If the Path is contracted: your army will not reach its goals.
 16. BE GIR₂ GU sa-di-id KUR₂ A.RA₂ ana KUR NUN TAR-as
 #tr.en: If the Path is overlaid with a vein: the enemy will block the way to the prince's land.
@@ -50,7 +50,7 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If the Path is clasped by a vein on the left: distress will seize the enemy army.
 20. BE GIR₂ GU.MEŠ BABBAR.MEŠ ŠUB-di ERIN₂-ni ṣu₂-mu DAB-bat
 #tr.en: If the Path is covered with white veins: thirst will seize my army.
-21. BE GIR₂ GU.MEŠ SA₅.MEŠ ŠUB-di MU₂-iḫ IZI
+21. BE GIR₂ GU.MEŠ SA₅.MEŠ ŠUB-di MU₂-ih IZI
 #tr.en: If the Path is covered with red veins: conflagration.
 22. BE GIR₂ GU.MEŠ SIG₇.MEŠ ŠUB-di [ER]IN₂-ni A.MEŠ i-kal-lu-u₂
 #tr.en: If the Path is covered with yellow-green veins: my army will be held back by water.
@@ -70,9 +70,9 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If the Path is notched like the tooth of a saw: wearing of unkempt hair (sign of mourning).
 30. BE x GIR₂ BUR₃ ŠUB-di UR.GI₇.MEŠ IDIM.MEŠ // BE TA GIR₂ BUR₃ ŠUB-di EN.N[UN ...] x
 #tr.en: If a hole lies at the ... of the Path: dogs will go wild. // If a hole lies from the Path: the watch [...].
-31. BE ina ZAG GIR₂ KAM-tu GIM pir-ḫe-e x x ŠUB-at₂ ERIN₂-ni KI DINGIR ana [GAZ er-š]et
+31. BE ina ZAG GIR₂ KAM-tu GIM pir-he-e x x ŠUB-at₂ ERIN₂-ni KI DINGIR ana [GAZ er-š]et
 #tr.en: If to the right of the Path a seed-grain lies like a sprout: my army is marked out by a god for [death].
-32. BE ina GUB₃ GIR₂ KAM-tu GIM pir-ḫe-e ŠUB-at₂ ana ERIN₂-ni x [...] x
+32. BE ina GUB₃ GIR₂ KAM-tu GIM pir-he-e ŠUB-at₂ ana ERIN₂-ni x [...] x
 #tr.en: If to the left of the Path a seed-grain lies like a sprout: for the army ...
 33. BE ina ZAG GIR₂ bu-bu-ʾ-tu ŠUB-at ŠUB-ti ERIN₂-ni // BE ina GUB₃ GIR₂ KI.MIN ŠUB-ti ERIN₂ KUR₂
 #tr.en: If to the right of the Path a blister lies: fall of the army. // If to the left, ditto: fall of the enemy army.
@@ -80,7 +80,7 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If to the right of the Path a cross lies: [Adad] will strike in the prince's land.
 35. BE ina GUB₃ GIR₂ BAR-tu ŠUB-at [{d}IŠKUR ina] KUR KUR₂ [RA-iṣ]
 #tr.en: If to the left of the Path a cross lies: [Adad will strike in] the enemy land.
-36. BE ina MURUB₄ GIR₂ KI.MIN AN.GE₆ ḫar x x [x] // BE GIR₂ ME.NI IGI ERIN₂-ni x [...] x
+36. BE ina MURUB₄ GIR₂ KI.MIN AN.GE₆ har x x [x] // BE GIR₂ ME.NI IGI ERIN₂-ni x [...] x
 #tr.en: If in the middle of the Path ditto (a cross lies): eclipse ... // If the Path faces the Palace-Gate: my army ...
 37. BE GIR₂ ZAG GAM-iš a-šib URU EN.NUN-ka ana KUR₂ GUR₂-uš
 #tr.en: If the Path is perforated on the right: your fortress garrison must submit to the enemy.
@@ -92,13 +92,13 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If the Path is speckled white: terror will [fall] upon the army; ... crosswise; confusion.
 41. BE GIR₂ GE₆-ik a-lik KASKAL [{d}IŠKUR] RA-iṣ
 #tr.en: If the Path is dark: the expeditionary army [...]; [Adad] will strike.
-42. BE GIR₂ kub-bu-us a-lik KASKAL šu ru [...] // BE GIR₂ GIM ḪAL UŠ₄ KUR MAN-ni
+42. BE GIR₂ kub-bu-us a-lik KASKAL šu ru [...] // BE GIR₂ GIM HAL UŠ₄ KUR MAN-ni
 #tr.en: If the Path is wholly pressed down: the expeditionary army ... // If the Path is like the HAL sign: the mood of the land will change.
-43. BE GIR₂ GIM ŠU.GUR NIGIN-ma ina ŠA₃-šu DI-ḫu [ŠUB-di ...] AN.GE₆ {d}UT[U]
+43. BE GIR₂ GIM ŠU.GUR NIGIN-ma ina ŠA₃-šu DI-hu [ŠUB-di ...] AN.GE₆ {d}UT[U]
 #tr.en: If the Path is twisted like a ring and in its midst a cyst [lies]: solar eclipse.
-44. BE GIR₂ GIM {giš}U₃.ŠUB KUR NUN ana BAD₃ [ipaḫḫur ...] GAZ
+44. BE GIR₂ GIM {giš}U₃.ŠUB KUR NUN ana BAD₃ [ipahhur ...] GAZ
 #tr.en: If the Path is like a brick-mold: the prince's land [will gather] in the fortress; ... will die.
-45. BE GIR₂ ina KIR₄ NIG₂.TAB e-ṣir ni-ip-ḫu
+45. BE GIR₂ ina KIR₄ NIG₂.TAB e-ṣir ni-ip-hu
 #tr.en: If the Path is drawn at the tip of the dyeing-vat: a niphu-mark.
 46. BE GIR₂ TA ZAG NIG₂.TAB ina EGIR NIG₂.TAB e-ṣi[r] IZI.GAR
 #tr.en: If the Path is drawn from the right of the dyeing-vat to its back: a niphu-mark.
@@ -129,27 +129,27 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: ... will obtain this ...
 58. BE [... DINGIR.MEŠ A₂ ERI]N₂-ia₅ DU-ku
 #tr.en: [the gods will march at the side of] my army.
-59. BE [... ina ḫir-ri-ti]-šu₂ ŠUB-ut
+59. BE [... ina hir-ri-ti]-šu₂ ŠUB-ut
 #tr.en: ... will fall in its [trenches].
 60. BE [...] KUR₂ DUMU-ka DAB
 #tr.en: ... the enemy will seize your son.
 61. BE [... DINGIR].MEŠ A₂ ERIN₂-ia₅ DU-[k]u
 #tr.en: [the gods] will march at the side of my army.
-62. BE [... ER]IN₂ KUR₂ ina ḫir-ri-ti-šu₂ Š[U]B-ut
+62. BE [... ER]IN₂ KUR₂ ina hir-ri-ti-šu₂ Š[U]B-ut
 #tr.en: the enemy army will fall in its trenches.
-63. BE [... ana ZA]G IGI ḫi-pi₂
+63. BE [... ana ZA]G IGI hi-pi₂
 #tr.en: ... faces [the right]: (break).
 64. BE SUHUŠ GIR₂ ana KI.TA-nu PA TUK PA.BI KI.MIN NUN ILLAT.MEŠ TUK-ši DINGIR.M[EŠ] re-ṣu-ut ERIN₂-ia₅ DU-ku
 #tr.en: If the base of the Path has a branch downward and that branch ditto: the prince will gain auxiliaries, and the gods will come to the aid of my army.
-65. BE SUHUŠ GIR₂ ana AN.TA-nu PA TUK PA.BI KI.MIN ERIN₂-ni ina ḫir-ri-ti-šu₂ ŠUB-ut
+65. BE SUHUŠ GIR₂ ana AN.TA-nu PA TUK PA.BI KI.MIN ERIN₂-ni ina hir-ri-ti-šu₂ ŠUB-ut
 #tr.en: If the base of the Path has a branch upward and that branch ditto: my army will fall in its trenches.
-66. BE SUHUŠ GIR₂ ana AN.TA-nu u KI.TA-nu PA TUK PA.BI ZAG u GUB₃ IGI KAL-an ERIN₂ KUR₂ mu-kil SAG ḪUL-ti₃
+66. BE SUHUŠ GIR₂ ana AN.TA-nu u KI.TA-nu PA TUK PA.BI ZAG u GUB₃ IGI KAL-an ERIN₂ KUR₂ mu-kil SAG HUL-ti₃
 #tr.en: If the base of the Path has a branch up and down and the branch faces right and left: superiority of the enemy army; a mukil-reš-lemutti demon.
 67. BE GIR₂ ana AN.TA-nu u KI.TA-nu PA TUK NUN ina KASKAL DU-ku MUNUS.MEŠ GUR-ra
 #tr.en: If the Path has a branch up and down: the prince will bring back women from the campaign on which he marches.
 68. BE [...] GIM bi-nu-ut U₄.SAKAR LUGAL KUR KUR₂-šu₂ TI-qe₂
 #tr.en: If ... is like the form of the crescent moon: the king of the land will defeat his enemy.
-69. BE GIR₂ pu-ḫur u RA-iṣ GU₃-mu ina KUR GAL₂
+69. BE GIR₂ pu-hur u RA-iṣ GU₃-mu ina KUR GAL₂
 #tr.en: If the Path is contracted and destroyed: there will be wailing in the land.
 70. BE GIR₂ GU ṣa-bit nu-kur₂-at A.RA₂ KUR NUN TAR-as
 #tr.en: If the Path is gripped by a vein: hostilities will block the access to the prince's land.
@@ -167,53 +167,53 @@ note: "padanu (the Path, written GIR2) omens; near-complete Neo-Assyrian tablet 
 #tr.en: If the Path lies to the right: the god will march at the side of my army. // If to the left: the god will march at the side of the enemy army.
 77. BE GIR₂ šu-qu-ri[š GA]R URU bir-ti-ia KUR₂ TI-qe₂
 #tr.en: If the Path is set scarcely there: the enemy will take my fortress.
-78. BE GIR₂ ina EGIR BA₃ GAR {d}ALAD LU₂ ana MAN-ma i-sa-ḫur
+78. BE GIR₂ ina EGIR BA₃ GAR {d}ALAD LU₂ ana MAN-ma i-sa-hur
 #tr.en: If the Path lies on the back of the liver: the man's protective god will turn to another.
 79. BE GIR₂ ina EGIR BA₃ GAR-ma BAL-ut {d}ALA[D.MEŠ] ŠUB.MEŠ ana NUN GUR.MEŠ-ni
 #tr.en: If the Path lies on the back of the liver and is turned: the fallen protective gods will return to the prince.
-80. BE GIR₂ GAR-ma PAP.ḪAL ZAG DU₈ LU₂ ina KA E₂-šu₂ ina-ziq KI.MIN GU₃-mu
+80. BE GIR₂ GAR-ma PAP.HAL ZAG DU₈ LU₂ ina KA E₂-šu₂ ina-ziq KI.MIN GU₃-mu
 #tr.en: If the Path is set and the right narrows is notched: the man will be vexed by the talk of his own household. Ditto: wailing.
-81. BE GIR₂ GAR-ma PAP.ḪAL GUB₃ DU₈ KUR₂-ka ša₂ ud-dan-nak-ka DU₈ ša₂ l[a] i-man-gu-ru-ka i-ma-gur-ka ša₂ ul-la ip-pa-lu-ka an-na e-pal-ka
+81. BE GIR₂ GAR-ma PAP.HAL GUB₃ DU₈ KUR₂-ka ša₂ ud-dan-nak-ka DU₈ ša₂ l[a] i-man-gu-ru-ka i-ma-gur-ka ša₂ ul-la ip-pa-lu-ka an-na e-pal-ka
 #tr.en: If the Path is set and the left narrows is notched: you will weaken your enemy who made himself strong against you; he who did not obey you will obey you; he who answered you "No!" will answer you "Yes!".
 82. BE GIR₂ ka-bi-is qi₂-bit LUGAL DINGIR.MEŠ
 #tr.en: If the Path is pressed down: a command of the king of the gods.
-83. BE GIR₂ ka-bi-is-ma ina MAŠ.GAN₂-šu₂ {giš}TUKUL x šu x GAR E[RIN₂-ni ...] ḪA.LA GU₇ x [x x] x
+83. BE GIR₂ ka-bi-is-ma ina MAŠ.GAN₂-šu₂ {giš}TUKUL x šu x GAR E[RIN₂-ni ...] HA.LA GU₇ x [x x] x
 #tr.en: If the Path is pressed down and a mace ... lies at its position: my army will enjoy (booty)shares ...
-84. BE SAG GIR₂ ka-bi-is ŠU.II {d}Ka-ni-sur-ra
+84. BE SAG GIR₂ ka-bi-is ŠU.II {d}ka-ni-sur-ra
 #tr.en: If the tip of the Path is pressed down: Hand of Kanisurra.
 85. BE MURUB₄ GIR₂ ka-bi-is ŠU.II {d}DUG₄.GA-SIG₅ // BE SUHUŠ GIR₂ ka-bi-is ŠU.II {d}U.GUR
 #tr.en: If the middle of the Path is pressed down: Hand of Iqbi-damiq. // If the base is pressed down: Hand of Nergal.
-86. BE GIR₂ 2-ma TEŠ₂.BI e-ṣir SUHUŠ.AM₃ GI.NA.MEŠ KI.TUŠ ne-eḫ-tu₂
+86. BE GIR₂ 2-ma TEŠ₂.BI e-ṣir SUHUŠ.AM₃ GI.NA.MEŠ KI.TUŠ ne-eh-tu₂
 #tr.en: If the Path is doubled and they are drawn equally: lasting foundations, a peaceful abode.
 87. BE GIR₂ 2-ma AN.TA-u₂ ku-ri GALGA ERIN₂-ia₅ MAN-ni KUR₂ UGU e-mu-qi ERIN₂-ia₅ i-dan-nin ina {giš}TUKUL KUR₂ ina KI.TUŠ-ia₅ i-sa-kip-an-ni-ma ina KI.UŠ-ia₅ GUB-az
 #tr.en: If the Path is doubled and the upper is short: the confidence of my army will change, the enemy will become stronger than my army, in battle the enemy will drive me from my position and take my stand.
 88. BE GIR₂ 2-ma KI.TA-u₂ ku-ri GALGA ERIN₂ KUR₂ MAN-ni UGU e-mu-qi ERIN₂ KUR₂ a-dan-nin-ma ina {giš}TUKUL KUR₂ ina KI.TUŠ-šu₂ a-sa-kip-šu₂-ma ina KI.UŠ-šu₂ GUB-az
 #tr.en: If the Path is doubled and the lower is short: the confidence of the enemy army will change, I will become stronger, in battle I will drive the enemy from his position and take his stand.
-89. BE GIR₂ 2-ma a-ḫe-e ŠUB.MEŠ nu-kur₂ GALGA MAN-e UŠ₄-me KASKAL tak-pu-du ŠUB-di-ma MAN-tam-ma tal-lak LUGAL ina UKKIN INIM.MEŠ-šu₂ ŠUB.MEŠ-šu ša-na-tim-ma i-ṣab-ba-tu₂ šum-ma ana DU₃-eš {lu₂}A.ZU DU₃-uš {lu₂}A.ZU ana GIG ŠU-su NU ub-bal DUMU {lu₂}ḪAL ME-a NU GAR-an IZI.GAR tas-ri-ir-ru
+89. BE GIR₂ 2-ma a-he-e ŠUB.MEŠ nu-kur₂ GALGA MAN-e UŠ₄-me KASKAL tak-pu-du ŠUB-di-ma MAN-tam-ma tal-lak LUGAL ina UKKIN INIM.MEŠ-šu₂ ŠUB.MEŠ-šu ša-na-tim-ma i-ṣab-ba-tu₂ šum-ma ana DU₃-eš {lu₂}A.ZU DU₃-uš {lu₂}A.ZU ana GIG ŠU-su NU ub-bal DUMU {lu₂}HAL ME-a NU GAR-an IZI.GAR tas-ri-ir-ru
 #tr.en: If the Path is doubled and they lie separately: change of confidence, alteration of mind; the campaign you planned will fail, but you will march on another. In the assembly the king's plans will fail, but they will devise others. If you perform (the extispicy) for medical practice: the physician must not lay his hands on the sick, the diviner must give no verdict. A deceptive niphu-mark.
-90. BE GIR₂ 2-ma šu-ta-ḫu-qa LUGAL ana LUGAL da-aʾ-te-šu₂ NU i-pa-ša₂-ru // KUR₂ ZI-ma BAD₅.BAD₅-šu₂ GAR-an
+90. BE GIR₂ 2-ma šu-ta-hu-qa LUGAL ana LUGAL da-aʾ-te-šu₂ NU i-pa-ša₂-ru // KUR₂ ZI-ma BAD₅.BAD₅-šu₂ GAR-an
 #tr.en: If the Path is doubled and they are mingled: kings will not exchange information. // The enemy will rise, but I will bring about his defeat.
 91. BE GIR₂ 2-ma it-lu-pu ERIN₂ KUR₂ ZI-ma ina NIG₂.ŠU.MEŠ-ia GIG-ma
 #tr.en: If the Path is doubled and they are intertwined: the enemy army will rise and become sick? at my possessions.
-92. BE GIR₂ 2-ma TEŠ₂.BI e-ṣir SUHUŠ.AM₃ GI.NA.MEŠ KI.TUŠ ne-eḫ-tu₂
+92. BE GIR₂ 2-ma TEŠ₂.BI e-ṣir SUHUŠ.AM₃ GI.NA.MEŠ KI.TUŠ ne-eh-tu₂
 #tr.en: If the Path is doubled and they are drawn equally: lasting foundations, a peaceful abode.
 93. BE GIR₂ 2-ma GIR₂ ZAG ana ZAG GIR₂ GUB₃ ana GUB₃ ŠUB-tu₂ a-rad EN.NUN pa-ṭar bi-ra-a-ti te₂-mu u SILIM-mu ina KUR GAL₂-ši
 #tr.en: If the Path is doubled and the right Path falls right and the left Path falls left: abandonment of the watch, dissolution of the fortifications, there will be accord and well-being in the land.
-94. BE GIR₂ 2-ma i-ri-a GAR-nu SUHUŠ.AM₃ GI.NA.MEŠ KI.TUŠ ne-eḫ-tu₂
+94. BE GIR₂ 2-ma i-ri-a GAR-nu SUHUŠ.AM₃ GI.NA.MEŠ KI.TUŠ ne-eh-tu₂
 #tr.en: If the Path is doubled and they lie side by side: lasting foundations, a peaceful abode.
-95. BE GIR₂ 3-ma MURUB₄-u₂ ku-ri SUḪ₃ UŠ₄ KUR MAN-ni KASKAL NU ku-šir₄ ERIN₂ NUN D[U]-ak
+95. BE GIR₂ 3-ma MURUB₄-u₂ ku-ri SUH₃ UŠ₄ KUR MAN-ni KASKAL NU ku-šir₄ ERIN₂ NUN D[U]-ak
 #tr.en: If the Path is tripled and the middle is short: confusion, the mood of the land will change, the prince's army will go on an unsuccessful campaign.
-96. BE GIR₂ ZAG 3 {uru}ḫal-ṣu-ia₅ KUR₂ TI-qe₂ // BE GIR₂ GUB₃ 3 {uru}ḫal-ṣu-ia₅ [KUR₂ NU TI-qe₂]
+96. BE GIR₂ ZAG 3 {uru}hal-ṣu-ia₅ KUR₂ TI-qe₂ // BE GIR₂ GUB₃ 3 {uru}hal-ṣu-ia₅ [KUR₂ NU TI-qe₂]
 #tr.en: If the right Path is tripled: the enemy will take my fortress. // If three left Paths: the enemy [will not take] my fortress.
 97. BE GIR₂ 4-ma TEŠ₂.BI eṣ-ru ši-bu ERIN₂-ni D[AB-bat]
 #tr.en: If the Path is fourfold and they are drawn equally: the shibu-disease will seize my army.
-98. BE GIR₂ 4-ma a-ḫe-e ŠUB.MEŠ ŠUB-ti ERIN₂ ma-a[t-ti]
+98. BE GIR₂ 4-ma a-he-e ŠUB.MEŠ ŠUB-ti ERIN₂ ma-a[t-ti]
 #tr.en: If the Path is fourfold and they lie separately: fall of a vast army.
 99. BE GIR₂ 5-ma TEŠ₂.BI eṣ-ru ši-bu ERIN₂-n[i DAB-bat]
 #tr.en: If the Path is fivefold and they are drawn equally: the shibu-disease will seize my army.
-100. BE GIR₂ 6-ma KI.MIN SUḪ₃ UŠ₄ KUR MAN-ni // BE GIR₂ 6-ma [...]
+100. BE GIR₂ 6-ma KI.MIN SUH₃ UŠ₄ KUR MAN-ni // BE GIR₂ 6-ma [...]
 #tr.en: If the Path is sixfold and ditto (drawn equally): confusion, the mood of the land will change. // If sixfold and [...].
-101. BE GIR₂ 6-ma a-ḫe-e ŠUB.MEŠ KAR-ut ERIN₂-ni u₂-lu [ERIN₂-ni ina KASKAL DU-ma ...]
+101. BE GIR₂ 6-ma a-he-e ŠUB.MEŠ KAR-ut ERIN₂-ni u₂-lu [ERIN₂-ni ina KASKAL DU-ma ...]
 #tr.en: If the Path is sixfold and they lie separately: flight of the army, or [my army will go on a campaign and ...].
 102. BE GIR₂ 7 ZI-ut ERIN₂-man-da u₂-x [...]
 #tr.en: If the Path is sevenfold: attack of the Umman-manda ...

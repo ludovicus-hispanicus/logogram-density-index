@@ -9,51 +9,51 @@ source: "Schmidtchen 2021 (BAM 13), Tafel 4 score pp. 288-300, the rows of ms F,
 note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/restoration (dropped in preserved-only), x illegible (always lowercase, never with '#'; XX and XXX are the numeral logograms), '#' after a damaged sign. Schmidtchen's half-brackets for damage at the top, at the bottom, and their mixed forms (also where a half-bracket pairs with a full bracket) are all written '#': damaged but legible; an unmatched half-bracket in his print marks the one sign next to it. '/' is his tablet line break inside an entry; his '(Strich)' becomes '$ single ruling' after the entry ('(Strich?)' is dropped). Catchline and colophon, where the manuscript has them, are under @catchline and @colophon (not counted)."
 ---
 
-@column i
-# ms F i1′f
-27. [... G]U₇#-šú# (x) IGI#{II?}-šú# šá# 15# [GISSU DÙ] / [... U]RU-šú iq-bi BÚR#-m[a x]
-28. [...] x-šú u!(DIŠ) IGI-šú šá 150 GIS[SU DÙ] / [ŠU {d}ŠU]L.PA.È.A BÚR-ma [x]
-29. [DIŠ SAG].KI#-šú šá 15 u 150 GU₇#-šú# IGI.II-šú šá# 15# u# 150# GISSU# [...] / LÚ BI DINGIR#-šú u# DINGIR URU-šú iz-[zur] / ik#-ri#-bi ana DINGIR URU-šú iq-bi BÚR-ma T#[IN]
-30. [DIŠ SA]G.KI 15#-šú GU₇#-šú-ma IGI 15-šú nap-ḫat u ÍR DÉ-qí / ŠU GIDIM₇ šá-né-e {d}XV
-31. [DIŠ] SAG#.KI 150-šú GU₇#-šú-ma! IGI 150-šú nap-ḫat u ÍR DÉ-qí / ŠU GIDIM₇# šá-né-e {d}XV
-32. [DIŠ S]AG.KI-šú šá 15 u [150] GU₇#-šú-ma KÚM-šú mit-ḫar# ŠU DINGIR-šú TIN
-33. [DIŠ S]AG.KI-šú šá 15 u [150] GU₇-šú-ma KÚM-šú NU# mit-ḫar / ŠU DINGIR URU#-šú GIG-su GÍD-ma TIN
-34. [DIŠ] SAG#.KI-šú GU₇#-šú ú-maḫ-ḫa-ṣa-šú SA.MEŠ IGI.II-šú / ú-zaq-qa-tu-šú SA GÚ-šú GU₇.ME-šú ŠU GIDI[M₇]
-35. DIŠ ina SAG.KI-šú SÌG-iṣ ŠU {d}kù!(XV)-bi
-36. DIŠ ina SAG.KI-šú šá 15 SÌG-iṣ ŠU {d}UTU MU# DAM# LÚ
-37. [DIŠ] ina SAG.KI-šú šá 150 SÌG-iṣ ŠU DINGIR#-šú#? [:? {d}kù]-bi#?
-38. [DIŠ ina S]AG.KI-šú šá# 15# SÌG#-iṣ# u# IGI#.II#-šú# ÍR#-a# ŠU# {d}X#[XX/XV/UT]U#?
-@column ii
-# ms F ii1′
-71. [DIŠ] S[A SAG.KI-šú ...]
-72. DIŠ SA S[AG.KI-šú ...]
+@column 1
+#note: ms F i1′f
+27. [... G]U₇-šu₂# (x) IGI#{II?}-šu₂# ša₂# 15# [GISSU DU₃] / [... U]RU-šu₂ iq-bi BUR₂#-m[a x]
+28. [...] x-šu₂ u!(DIŠ) IGI-šu₂ ša₂ 150 GIS[SU DU₃] / [ŠU {d}ŠU]L.PA.E₃.A BUR₂-ma [x]
+29. [DIŠ SAG].KI#-šu₂ ša₂ 15 u 150 GU₇#-šu₂# IGI.II-šu₂ ša₂# 15# u# 150# GISSU# [...] / LU₂ BI DINGIR#-šu₂ u# DINGIR URU-šu₂ iz-[zur] / ik#-ri#-bi ana DINGIR URU-šu₂ iq-bi BUR₂-ma T[IN]
+30. [DIŠ SA]G.KI 15#-šu₂ GU₇#-šu₂-ma IGI 15-šu₂ nap-hat u IR₂ DE₂-qi₂ / ŠU GIDIM₇ ša₂-ne₂-e {d}15
+31. [DIŠ] SAG#.KI 150-šu₂ GU₇#-šu₂-ma! IGI 150-šu₂ nap-hat u IR₂ DE₂-qi₂ / ŠU GIDIM₇# ša₂-ne₂-e {d}15
+32. [DIŠ S]AG.KI-šu₂ ša₂ 15 u [150] GU₇#-šu₂-ma KUM₂-šu₂ mit-har# ŠU DINGIR-šu₂ TIN
+33. [DIŠ S]AG.KI-šu₂ ša₂ 15 u [150] GU₇-šu₂-ma KUM₂-šu₂ NU# mit-har / ŠU DINGIR URU#-šu₂ GIG-su GID₂-ma TIN
+34. [DIŠ] SAG#.KI-šu₂ GU₇#-šu₂ u₂-mah-ha-ṣa-šu₂ SA.MEŠ IGI.II-šu₂ / u₂-zaq-qa-tu-šu₂ SA GU₂-šu₂ GU₇.ME-šu₂ ŠU GIDI[M₇]
+35. DIŠ ina SAG.KI-šu₂ SIG₃-iṣ ŠU {d}ku₃!(15)-bi
+36. DIŠ ina SAG.KI-šu₂ ša₂ 15 SIG₃-iṣ ŠU {d}UTU MU# DAM# LU₂
+37. [DIŠ] ina SAG.KI-šu₂ ša₂ 150 SIG₃-iṣ ŠU DINGIR#-šu₂#? [:? {d}ku₃]-bi#?
+38. [DIŠ ina S]AG.KI-šu₂ ša₂# 15# SIG₃#-iṣ# u# IGI#.II#-šu₂# IR₂#-a# ŠU# {d}3[0/15/UT]U?
+@column 2
+#note: ms F ii1′
+71. [DIŠ] S[A SAG.KI-šu₂ ...]
+72. DIŠ SA S[AG.KI-šu₂ ...]
 73. DIŠ SA SAG#.[KI ...]
 74. DIŠ SA# SAG#.[KI ...]
-75. DIŠ SA SAG#.KI#-[šú ...]
-76. DIŠ SA SAG#.KI-šú# [...]
-77. DIŠ SA SAG.KI-šú DA[B ...]
-78. DIŠ SA# SAG#.KI#-šú šá 15 ka#-[bar ...]
-@column iii
-# ms F iii1
+75. DIŠ SA SAG#.KI#-[šu₂ ...]
+76. DIŠ SA SAG#.KI-šu₂# [...]
+77. DIŠ SA SAG.KI-šu₂ DA[B ...]
+78. DIŠ SA# SAG#.KI#-šu₂ ša₂ 15 ka#-[bar ...]
+@column 3
+#note: ms F iii1
 82. DIŠ SA SAG#.[KI ...]
-83. DIŠ SA SAG.K[I]-šú# [...]
-84. DIŠ SA# SAG#.KI#-šú šá#? 150#? [...]
+83. DIŠ SA SAG.K[I]-šu₂# [...]
+84. DIŠ SA# SAG#.KI#-šu₂ ša₂#? 150#? [...]
 84b. DIŠ# SA SAG#.KI# x (x) GE₆#? [...]
-85. DIŠ# SA SAG#.KI[{II?}]-šú# šá# 15#? x [...]
-86. DIŠ SA SAG#.KI.II#-šú šá#? [...]
-87. DIŠ# SA SAG.KI[.II-šú] šá#? 15 DU [...]
+85. DIŠ# SA SAG#.KI[{II?}]-šu₂# ša₂# 15#? x [...]
+86. DIŠ SA SAG#.KI.II#-šu₂ ša₂#? [...]
+87. DIŠ# SA SAG.KI[.II-šu₂] ša₂#? 15 DU [...]
 88. [...] 150#? [...]
-@column iv
-# ms F iv1f
-112. [...] x-šú DAL.MEŠ# GAR#.MEŠ-ma PA# IGI.II-šú# DAB# [...] / [šu-ú] u# ÚŠ DAB!.DAB#-tu₄ TA É ana É KÚ[R-šú-ma] TIN#
-113. [DIŠ SA SA]G.KI.II#-šú# tal#-lu la ip-rik u pa#-su-<šú?> r[a]-mu#-ú# / ÉN#? ŠUB#-šum#-ma# [TI]N#?
-114. DIŠ# ZI SAG.KI T[UK-ši-ma] u# SU-šú GU₇-šú ŠU [GIDI]M₇
-115. DIŠ# ZI# SAG.KI TUK-ši-ma ŠU.II-šú u GÌR.II-šú i-šam-ma-ma-šú Š[U ...]
+@column 4
+#note: ms F iv1f
+112. [...] x-šu₂ DAL.MEŠ# GAR#.MEŠ-ma PA# IGI.II-šu₂# DAB# [...] / [šu-u₂] u# UŠ₂ DAB!.DAB#-tu₄ TA E₂ ana E₂ KU[R₂-šu₂-ma] TIN#
+113. [DIŠ SA SA]G.KI.II#-šu₂# tal#-lu la ip-rik u pa#-su-<šu₂?> r[a]-mu#-u₂# / EN₂#? ŠUB#-šum#-ma# [TI]N?
+114. DIŠ# ZI SAG.KI T[UK-ši-ma] u# SU-šu₂ GU₇-šu₂ ŠU [GIDI]M₇
+115. DIŠ# ZI# SAG.KI TUK-ši-ma ŠU.II-šu₂ u GIR₃.II-šu₂ i-šam-ma-ma-šu₂ Š[U ...]
 116. [DIŠ ZI S]AG.KI šim-ma-ta₅ u ri-mu-ta₅ TUK.TUK-ši Š[U ...]
-117. [...]-uḫ# SA SAG.KI-šú šá 15 bé-e#-[er] / [S]A#.ME-šú šá 150 ZI.ME DAB-it x [x] / u# SAG# ŠÀ-šú tur-ru-ur SÌG-iṣ MAŠKIM# [...]
-118. [DIŠ SA]G.KI-su KÚM ú-kal [...]
-119. [DIŠ SAG.KI]-su# IR ú-kal [...]
+117. [...]-uh# SA SAG.KI-šu₂ ša₂ 15 be₂-e#-[er] / [S]A.ME-šu₂ ša₂ 150 ZI.ME DAB-it x [x] / u# SAG# ŠA₃-šu₂ tur-ru-ur SIG₃-iṣ MAŠKIM# [...]
+118. [DIŠ SA]G.KI-su KUM₂ u₂-kal [...]
+119. [DIŠ SAG.KI]-su# IR u₂-kal [...]
 120. [...] x ka#-ṣa#-at# [...]
 @colophon
-# ms F Us
-[x] x? 30 8#-ÀM x [...]
+#note: ms F Us
+121. [x] x? 30 8#-AM₃ x [...]

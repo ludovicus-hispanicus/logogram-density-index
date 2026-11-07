@@ -10,29 +10,30 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. Spuren
-2’. [...] x-di-šuŠUB-diGIG TI.LA
-3’. [... KÁ.GA ...]L ⸢2 DU8⸣ NUN ṣu-mi-ra-ti-šu KUR-ad GIG BA.ÚŠ
-4’. [... KÁ.G ...]AL ù sip-pí GÙB KÁ.GAL 2 TA.ÀM DU8.DU8 téš-mu-ú ki-nu i+na KUR ⸢ GÁL -ši⸣ [(x x x)]
-5’. [... KÁ.G ...]AL 3 DU8 ni-ip-ḫuÉRIN KÚR KASKAL ŠÀ.MUD DU-ak
-6’. [... KÁ.GA ...]L 3 DU8 ni-ip-ḫuÉRIN-ni KASKAL ŠÀ.MUD DU-ak
-7’. [... KÁ.GA ...]L ù sip-pí GÙB KÁ.GAL 3 TA.ÀM DU8.DU8 téš-mu-ú NU ki-nu ⸢i+na KUR⸣ GÁL -ši ⸢GIG⸣
+2’. [...] x-di-šu ŠUB-di GIG TI.LA
+3’. [... KA₂.GA]L 2# DU₈# NUN ṣu-mi-ra-ti-šu KUR-ad GIG BA.UŠ₂
+4’. [... KA₂.G]AL u₃ sip-pi₂ GUB₃ KA₂.GAL 2 TA.AM₃ DU₈.DU₈ teš₂-mu-u₂ ki-nu i+na KUR GAL₂#-ši# [(x x x)]
+5’. [... KA₂.G]AL 3 DU₈ ni-ip-hu ERIN₂ KUR₂ KASKAL ŠA₃.MUD DU-ak
+6’. [... KA₂.GA]L 3 DU₈ ni-ip-hu ERIN₂-ni KASKAL ŠA₃.MUD DU-ak
+7’. [... KA₂.GA]L u₃ sip-pi₂ GUB₃ KA₂.GAL 3 TA.AM₃ DU₈.DU₈ teš₂-mu-u₂ NU ki-nu i#+na# KUR# GAL₂-ši GIG#
 [TI.LA]
-8’. [...] KAR KÚR i+na ŠÀ KUR NAM.RA È -[a]
-9’. [...] KAR i+na ŠÀ KUR KÚR NAM.RA È -a
-10’. [...] ZAG GÙB KAR a-na gišTUKUL KAR-ut ÉRIN KÚR GIG BA.ÚŠ
-11’. [...] GÙB ZAG KAR a-na gišTUKUL KAR-ut ÉRIN-ni GIG TI.LA
+8’. [...] KAR KUR₂ i+na ŠA₃ KUR NAM.RA E₃-[a]
+9’. [...] KAR i+na ŠA₃ KUR KUR₂ NAM.RA E₃-a
+10’. [...] ZAG GUB₃ KAR a-na {giš}TUKUL KAR-ut ERIN₂ KUR₂ GIG BA.UŠ₂
+11’. [...] GUB₃ ZAG KAR a-na {giš}TUKUL KAR-ut ERIN₂-ni GIG TI.LA
 12’. [...] kam SIG-ed NIN-ti a-ra-ri-im
-13’. [...] ⸢GIB⸣ IZI i+na É LÚ MÚ -aḫ
+13’. [...] GIB# IZI i+na E₂ LU₂ MU₂-ah
 14’. Nur Spuren erhalten
 @reverse
-1’. [...] x ⸢ta⸣ x x x ⸢ta nu igi šu⸣
-2’. [... mim-m]a ⸢ma⸣ -la ta-ak-pu-du KI DINGIR KUR-ad
-3’. [...] x aa-naSIG5-ti
-4’. [...] xa-naḪUL-ti
+1’. [...] x ta# x x x ta# nu# igi# šu#
+2’. [... mim-m]a ma#-la ta-ak-pu-du KI DINGIR KUR-ad
+3’. [...] x aa-na SIG₅-ti
+4’. [...] xa-na HUL-ti
 5’. [... GIG] TI.LA
-6’. [... GIG] BA.ÚŠ
+6’. [... GIG] BA.UŠ₂
 7’. [...] IGI-mar
 8’. [...] NU IGI-mar
 9’. [... N]U GAR-an
+$ single ruling
 10’. [... nu]ndum?man
 11’. [...] x

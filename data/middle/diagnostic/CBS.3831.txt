@@ -19,23 +19,23 @@ note: >
   (ilimmu.u) are commented out as non-omen text.
 ---
 
-# --- CBS 3831, transliteration (Rutz 2011, Appendix B); held out (exclude: true) ---
+#note: --- CBS 3831, transliteration (Rutz 2011, Appendix B); held out (exclude: true) ---
 @obverse
-1. [...] u GIR₃-MIN-šú TEŠ₂.BI x [x (x)]
+1. [...] u GIR₃-MIN-šu₂ TEŠ₂.BI x [x (x)]
 2. [...]-ak ŠU x [x (x)]
 3. [...] x ki ŠU ZAG u mu? ma x [...]
 4. [ŠU?] GIDIM šag-ga-ši x [...]
-5. [...]-šú i-tur BA.[UG₇?]
+5. [...]-šu₂ i-tur BA.[UG₇?]
 6. [...] ilimmu.u ilimmu.u ilimmu.u ilimmu.u ilimmu.u ilimmu.u ilimmu.u ilimmu.u [(blank?)]   (numeric tally, not omen text)
 $ (blank) / (lacuna)
 @reverse
 $ (lacuna)
 1'. [...] x [...]
-2'. [...] iz-za(-)[...]
+2'. [...] iz-za(-) [...]
 3'. [...] x bal-ṭam-ma? [...]
 4'. (blank?)
 5'. [...] x (x) ki-ma id [...]
 6'. [...] x EGIR-nu ki? [...]
-7'. [...] x ú-suk-ka-a x [...]
-8'. [...] x-šú ib-bal-la-x [...]
+7'. [...] x u₂-suk-ka-a x [...]
+8'. [...] x-šu₂ ib-bal-la-x [...]
 9'. [...] ilimmu.u ilimmu.u ilimmu.u ilimmu.u ilimmu.[u?]   (numeric tally, not omen text)

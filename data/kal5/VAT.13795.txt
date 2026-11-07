@@ -10,22 +10,26 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’-2’ Spuren
-3’. [...] dUTU ri-⸢iṣ⸣K[ÚR ...]
-4’. [...]-ru-urÉRIN KÚR ina hir-[ri-ti-šú ŠUB -ut]
-5’. [... ÉRIN-ni] iṣ-tu ÉRIN KÚR ḪÁ -t[a GAZ-ak]
-6’. [...] x anaḪUL-tiNA UGU EN I[NIM-šu GUB-az]
-7’. [...] xsu-ḫu-ruKÚR ina KI.TUŠ -šu x [x (x)]
-8’. [... b]u?šá ti šal-pú!(Text:gigir)-tiÉRIN-i[a]
-9’. [... gaba-ra]ḫ-ḫuana ÉRIN KÚR ŠUB -ut
-10’. [...] x ri-iṣ KÚR KÚRina AN.BAR7 GAZ-ni
-11’. [... ina u]4-um ⸢UR5⸣ DÙ -šu KÚR GAZ-ak
-12’. [...] ⸢ú⸣-ṣa-ma-ra-maKUR-ni
-13’. [...] ⸢ú⸣-ṣa-ma-ra-ma KUR-ad
-14’. [... KÚR URU-ka in]a GE6 ina gam-lim DAB-bat
-15’. [... gišTUKUL.MEŠ -k]a KUR KÚR -ka ú-šam-qat-tu
-16’. [...] x ḫi INIM NÍG.GIGana NUN
-17’. [...] ana KUR KÚR
-18’. [... INIM (MUNUS.)S]IG5 ana NUN-e TE-ḫiSAG.DU.MEŠ ÉRIN KÚR ana KUR-ia
-19’. [...]-ti šá KÚR
-20’. [... gaba-raḫ-ḫ]u [(0)] ana ÉRIN KÚR ŠUB -ut
-21’. [... ina u4-u]m UR5 ⸢DÙ ⸣-šu KÚ [R GAZ-ak]
+$ single ruling
+3’. [...] {d}UTU ri-iṣ# K[UR₂ ...]
+4’. [...]-ru-ur ERIN₂ KUR₂ ina hir-[ri-ti-šu₂ ŠUB-ut]
+5’. [... ERIN₂-ni] iṣ-tu ERIN₂ KUR₂ HA₂-t[a GAZ-ak]
+6’. [...] x ana HUL-ti NA UGU EN I[NIM-šu GUB-az]
+7’. [...] xsu-hu-ru KUR₂ ina KI.TUŠ-šu x [x (x)]
+$ single ruling
+8’. [... b]u?ša₂ ti šal-pu₂!(Text:gigir)-ti ERIN₂-i[a]
+9’. [... gaba-ra]h-huana ERIN₂ KUR₂ ŠUB-ut
+10’. [...] x ri-iṣ KUR₂ KUR₂ ina AN.BAR₇ GAZ-ni
+11’. [... ina u₄]-um UR₅# DU₃-šu KUR₂ GAZ-ak
+$ single ruling
+12’. [...] u₂#-ṣa-ma-ra-ma KUR-ni
+13’. [...] u₂#-ṣa-ma-ra-ma KUR-ad
+14’. [... KUR₂ URU-ka in]a GE₆ ina gam-lim DAB-bat
+15’. [... {giš}TUKUL.MEŠ-k]a KUR KUR₂-ka u₂-šam-qat-tu
+$ single ruling
+16’. [...] x hi INIM NIG₂.GIG ana NUN
+17’. [...] ana KUR KUR₂
+18’. [... INIM (MUNUS.)S]IG₅ ana NUN-e TE-hi SAG.DU.MEŠ ERIN₂ KUR₂ ana KUR-ia
+19’. [...]-ti ša₂ KUR₂
+20’. [... gaba-rah-h]u [(0)] ana ERIN₂ KUR₂ ŠUB-ut
+21’. [... ina u₄-u]m UR₅ DU₃#-šu KU₂ [R GAZ-ak]

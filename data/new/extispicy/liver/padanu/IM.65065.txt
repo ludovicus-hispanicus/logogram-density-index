@@ -61,7 +61,7 @@ $ rest of obverse broken
 #tr.en: [If] there are two Paths and they are split towards the right: The enemy will claim the territory of the prince.
 21. [BE] GIR₂# 2-ma ša₂ GUB₃ DU₈-MEŠ NUN# KUR KUR₂-šu₂ i-baq-qar
 #tr.en: [If] there are two Paths and they are split towards the left: The prince will claim the territory of the enemy.
-22. BE# GIR₂ 2-ma {giš}TUKUL SILIM GAR-in KUR₂ n[i#-tu₂ NI]GIN-an-ni-ma KA LA₂-a [GAR-an]
+22. BE# GIR₂ 2-ma {giš}TUKUL SILIM GAR-in KUR₂ n[i-tu₂ NI]GIN-an-ni-ma KA LA₂-a [GAR-an]
 #tr.en.(r 23): If there are two Paths and there is a propitious Weapon: The enemy will lay siege to me and [will bring] humiliation (over me) but the gods will help my army in battle and [I will defeat the enemy].
 #note: Parallel: @akk{GU₃-mu GAR-an} “will make noise”.
 23. ($___$) ina {giš}TUKUL DINGIR-MEŠ# A₂# ERIN₂#-MU# DU#-MEŠ#-ma# [KUR₂ a-dak]

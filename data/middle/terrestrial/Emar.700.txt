@@ -10,10 +10,11 @@ note: BE = šumma (omen opener); GU₄.ḪI.A = cattle. Late Bronze Emar periphe
 ---
 
 @obverse
-[B]E x x [...]
-BE GU₄ x [...]
-BE GU₄.ḪI.A [...]
-BE GU₄.ḪI.A x x [...]
-BE GU₄.ḪI.A [...]
-BE GU₄.Ḫ[I.A ...]
-BE G[U₄ ...]
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. [B]E x x [...]
+2. BE GU₄ x [...]
+3. BE GU₄.HI.A [...]
+4. BE GU₄.HI.A x x [...]
+5. BE GU₄.HI.A [...]
+6. BE GU₄.H[I.A ...]
+7. BE G[U₄ ...]

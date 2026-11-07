@@ -8,52 +8,54 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.470 on 304 tokens.
 ---
 @obverse
-1. [BE UDU ...] i+na ṭe4-ḫe-ka iṣ-ri-it ša-ra-at zu-um-ri-šu iz-zi-iz [...] x
-2. SÍSKUR LÚ DINGIR im-ḫu-ur
-3. [BE UDU GEŠTU.ME]Š-šu tar-ṣa i+na-šu pa-ar-da ša-ra-at zu-⸢um⸣-ri-šu iz!-za-az-za
-4. si-ba-sú ú-na-ra-aṭ uš-še-er UDU du-uk KÚR
-5. [BE UDU i]š-tu kar-bu im-me-a is-si GEŠTU -šu ú-na-ra-aṭ !(Text: ba) uš-še-er UDU du-uk KÚR
-6. [BE UDU] ⸢ i⸣+na IGI-šu ša GÙB i-ba-ki GEŠTU -šu ša ZAG GÙB ú-ma-ḫa-aṣ uš-še-er UDU du-uk KÚR
-7. [BE UD]U da-mu-šu ki-ma il-lu-ri sa-a-mu NUN giš GU.ZA-šu ú-la-bar
-8. a-na gišTUKUL ŠÀ UDU la tu-ba-a uš-še-er UDU du-uk KÚR
-9. [BE U]DU li-ša-an-šu GÙB ú-na-ša-ak ù da-mu-šu ki-ma il-lu-ri sa-a-mu
-10. uš-še-er UDU du-uk KÚR
-11. [BE] UDU i+na ka-ra-bi-ka GEŠTU.MEŠ -šu tar-ṣa DINGIR i+na-ṭa-al
-12. [B]E UDU a-na SISKUR GEŠTU ZAG GÙB im-ḫa-aṣ giš TUKUL ia x x [x x] x x
-13. [BE U]DU a-na SISKUR GEŠTU.MEŠ a-na pa-ni SISKUR tar-ṣa ÉRIN[...]
-14. [BE UDU a-n]a ⸢SISKUR GEŠTU.MEŠ a⸣-[... n]a ⸢EGIR⸣ ? x x [...]
+1. [BE UDU ...] i+na ṭe₄-he-ka iṣ-ri-it ša-ra-at zu-um-ri-šu iz-zi-iz [...] x
+2. SISKUR₂ LU₂ DINGIR im-hu-ur
+3. [BE UDU GEŠTU.ME]Š-šu tar-ṣa i+na-šu pa-ar-da ša-ra-at zu-um#-ri-šu iz!-za-az-za
+4. si-ba-su₂ u₂-na-ra-aṭ uš-še-er UDU du-uk KUR₂
+5. [BE UDU i]š-tu kar-bu im-me-a is-si GEŠTU-šu u₂-na-ra-aṭ !(Text: ba) uš-še-er UDU du-uk KUR₂
+6. [BE UDU] i#+na IGI-šu ša GUB₃ i-ba-ki GEŠTU-šu ša ZAG GUB₃ u₂-ma-ha-aṣ uš-še-er UDU du-uk KUR₂
+7. [BE UD]U da-mu-šu ki-ma il-lu-ri sa-a-mu NUN giš GU.ZA-šu u₂-la-bar
+8. a-na {giš}TUKUL ŠA₃ UDU la tu-ba-a uš-še-er UDU du-uk KUR₂
+9. [BE U]DU li-ša-an-šu GUB₃ u₂-na-ša-ak u₃ da-mu-šu ki-ma il-lu-ri sa-a-mu
+10. uš-še-er UDU du-uk KUR₂
+11. [BE] UDU i+na ka-ra-bi-ka GEŠTU.MEŠ-šu tar-ṣa DINGIR i+na-ṭa-al
+12. [B]E UDU a-na SISKUR GEŠTU ZAG GUB₃ im-ha-aṣ giš TUKUL ia x x [x x] x x
+13. [BE U]DU a-na SISKUR GEŠTU.MEŠ a-na pa-ni SISKUR tar-ṣa ERIN₂ [...]
+14. [BE UDU a-n]a SISKUR# GEŠTU#.MEŠ# a#-[... n]a EGIR#? x x [...]
 $ (Lücke von höchstens einer Zeile, dann setzt A 468 ein:)
-15’. [BE UDU a-n]a SISKUR ⸢GEŠTU.MEŠ ⸣ x x [...]
-16’. [BE U]DU IGI.MEŠ -šu ú-za-qá-pa GEŠTU.M [E]Š x x [...]
-17’. a-na ÉRINx [...]
+15’. [BE UDU a-n]a SISKUR GEŠTU#.MEŠ# x x [...]
+16’. [BE U]DU IGI.MEŠ-šu u₂-za-qa₂-pa GEŠTU.M [E]Š x x [...]
+17’. a-na ERIN₂ x [...]
 18’. BE UDU i+na SISKUR is-si [...]
 19’. BE UDU i+na ka-ra-bi-ka is-si [...]
-20’. BE UDU i+na SISKUR ša-ra-at ZAG-⸢šu⸣ i+na [...]
-21’. ⸢a⸣-na i maš šar ? x[...]
-22’. BE UDU i+na SISKUR ša-ra-at GÙB -šu i+na na x x [...]
+20’. BE UDU i+na SISKUR ša-ra-at ZAG-šu# i+na [...]
+21’. a#-na i maš šar? x [...]
+22’. BE UDU i+na SISKUR ša-ra-at GUB₃-šu i+na na x x [...]
 23’. BE UDU ka-bu-su id-di be x [...]
 24’. BE UDU i+na SISKUR re-ši-šu iš-ši-ma iš-pu-uk da? [...]
 25’. pad x [...]
-26’. BE UDU re-ši-šu iš-ši-ma pa-ra-su ú-ta-t [u-uk ...]
-27’. gišTUKUL [...]
-28’. BE UDU re-ši-šu iš-ši-ma da-ma ú-ta-t [u-uk ...]
-29’. [B]E UDU iṣ-ṣa-ri-it [x] ri x ⸢ti⸣ [...]
-30’. [BE] UDU i+na SISKUR ú-ṣa-ra-a [t ...] x x [...]
+26’. BE UDU re-ši-šu iš-ši-ma pa-ra-su u₂-ta-t [u-uk ...]
+27’. {giš}TUKUL [...]
+28’. BE UDU re-ši-šu iš-ši-ma da-ma u₂-ta-t [u-uk ...]
+29’. [B]E UDU iṣ-ṣa-ri-it [x] ri x ti# [...]
+30’. [BE] UDU i+na SISKUR u₂-ṣa-ra-a [t ...] x x [...]
+$ single ruling
 @reverse
 1. [BE UDU iṣ]-ṣa-ri-it x [...]
 2-9 Nur wenige Zeichen erhalten
-10. [BE UDU] ⸢ a-na SISKUR i⸣ x x pa i+na-ar-ru-uṭ iš-t [a- ...]
-11. ù si-ba-sú ZAG ù !GÙB ú-ma-ḫa-aṣ [...]
-12. BE UDU ḫi-píka-li-su i-né-ṭe 4-er [...]
-13. BE UDU ḫi-pí x-šu is-si ri x[...]
+10. [BE UDU] a#-na# SISKUR# i# x x pa i+na-ar-ru-uṭ iš-t [a- ...]
+11. u₃ si-ba-su₂ ZAG u₃ !GUB₃ u₂-ma-ha-aṣ [...]
+12. BE UDU hi-pika₂-li-su i-ne₂-ṭe 4-er [...]
+13. BE UDU hi-pi₂ x-šu is-si ri x [...]
 14. [BE U]DU a-na S[ISKU]R iš-ta-na-as-si ri [...]
-15. [BE UDU] a-na SISKUR iš-ta-na-as-si ù x [...]
-16. [BE UDU] ⸢ a⸣-na SISKUR i+na x [x] x x [...]
+15. [BE UDU] a-na SISKUR iš-ta-na-as-si u₃ x [...]
+16. [BE UDU] a#-na SISKUR i+na x [x] x x [...]
 $ (Lücke von höchstens einer Zeile, dann setzt VAT 9518 ein:)
 17’. Spuren
-18’. [BE UDU] iš-⸢tu⸣ na-⸢ak-su⸣ 2-šu ⸢3-šu ⸣ [...]
+18’. [BE UDU] iš-tu# na-ak#-su# 2-šu 3#-šu# [...]
 19’. [o] te-re-tu-ka ša-al-ma [...]
-20’. [BE UDU] ⸢ iš⸣-tu ZAG a-na GÙB it-ta-ba-⸢ lak-ka-at te⸣ [...]
-21’. __________________________________________________________________________________________[o] te-er-ta-ka la-ap-ta-atUZU-⸢šu⸣(-)[(nu)]
-22’. [BE UDU K]UN-sú 3-šu it-ru-uk i+na ŠÀ UDU kàr-šum ZAG ⸢ta-ri-ik⸣
-23’. [o] 40 ⸢MU⸣ .BI
+20’. [BE UDU] iš#-tu ZAG a-na GUB₃ it-ta-ba- lak#-ka#-at# te# [...]
+21’. [o] te-er-ta-ka la-ap-ta-at UZU-šu#(-)[(nu)]
+$ single ruling
+22’. [BE UDU K]UN-su₂ 3-šu it-ru-uk i+na ŠA₃ UDU kar₃-šum ZAG ta#-ri#-ik#
+23’. [o] 40 MU# .BI

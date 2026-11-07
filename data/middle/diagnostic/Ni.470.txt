@@ -11,20 +11,20 @@ note: Hand-transcribed from Kraus. Kraus prints Sumerograms in lowercase (German
 ---
 
 @obverse
-1. DIŠ SA SAG.KI-šu te-bu-ú [...]
-2. DIŠ ŠU.2-šú ṣa-al-ma ù x x x [x] x [...]
-3. DIŠ u-r[u]-uḫ SA SAG.KI-šu ša ZAG bé-e-[ṣ]ir [...]
-4. SAG ŠÀ-šu za-qir SÌG-iṣ MAŠKIM PA [...]
-5. DIŠ SA SAG.KI-šu ša ZAG u GÙB TÉŠ.BI DU-ku u SAG [...]
+1. DIŠ SA SAG.KI-šu te-bu-u₂ [...]
+2. DIŠ ŠU.2-šu₂ ṣa-al-ma u₃ x x x [x] x [...]
+3. DIŠ u-r[u]-uh SA SAG.KI-šu ša ZAG be₂-e-[ṣ]ir [...]
+4. SAG ŠA₃-šu za-qir SIG₃-iṣ MAŠKIM PA [...]
+5. DIŠ SA SAG.KI-šu ša ZAG u GUB₃ TEŠ₂.BI DU-ku u SAG [...]
 6. a-ši-pu-ut te-ep-pu-us-su-um-ma [...]
-7. DIŠ SA SAG.KI-šu ša ZAG u GÙB TÉŠ.BI DU-ku ù x [...]
-8. DIŠ SAG.KI-šu ša ZAG i-rat-ma ša GÙB ne-e-et x [...]
-9. DIŠ me-e AŠ ra-ma-ki-šu iš-tu ÍD ina e-li-šu i-[ṣ]u-[ud ...]
-10. MAŠKIM ÍD [...]
-11. DIŠ iš-tu me-e ina e-li-šu pa-gàr-šu iḫ-mu-šu-ma [...]
-12. DIŠ GIG-su ina GE₆ DIB.DIB-šu MAŠKIM Í[D ...]
-13. DIŠ GIG-su ina GE₆.Ù.NA DIB.DIB-su x [...]
+7. DIŠ SA SAG.KI-šu ša ZAG u GUB₃ TEŠ₂.BI DU-ku u₃ x [...]
+8. DIŠ SAG.KI-šu ša ZAG i-rat-ma ša GUB₃ ne-e-et x [...]
+9. DIŠ me-e AŠ ra-ma-ki-šu iš-tu ID₂ ina e-li-šu i-[ṣ]u-[ud ...]
+10. MAŠKIM ID₂ [...]
+11. DIŠ iš-tu me-e ina e-li-šu pa-gar₃-šu ih-mu-šu-ma [...]
+12. DIŠ GIG-su ina GE₆ DIB.DIB-šu MAŠKIM I[D₂ ...]
+13. DIŠ GIG-su ina GE₆.U₃.NA DIB.DIB-su x [...]
 
 @reverse
-14. DIŠ KU-šú ša x ma x x x ṣa-bi-it [...]
+14. DIŠ KU-šu₂ ša x ma x x x ṣa-bi-it [...]
 15. x x x x x x x [...]

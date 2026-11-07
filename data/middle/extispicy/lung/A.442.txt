@@ -24,11 +24,11 @@ note: forerunner to Bārûtu šumma ḫašû Tablet 9; parallels K 8690 (Boissie
 #tr.en: [If the] right and left [outer lung-finger] are divided on the inside: it will be re-examined.
 7'. [BE ŠU.SI MUR ki-di-t]u₄ ša ZAG GAM-at DAM LU₂ in-na-a-a[k ...]
 #tr.en: [If the] right [outer lung-finger] is perforated: the man's wife will have illicit intercourse.
-8'. [BE ŠU.SI MUR ki-di-t]u₄ ša GUB₃ GAM-at AD.ḪAL KUR₂ E₃ šu [...]
+8'. [BE ŠU.SI MUR ki-di-t]u₄ ša GUB₃ GAM-at AD.HAL KUR₂ E₃ šu [...]
 #tr.en: [If the] left [outer lung-finger] is perforated: the enemy's secret will be betrayed, ...
 9'. [BE ŠU.SI MUR ki-di-t]u₄ ša ZAG u₃ GUB₃ GAM-at GIR₃-ka a+na KUR KUR₂ [...]
 #tr.en: [If the] right and left [outer lung-finger] are perforated: your foot (will go) to the enemy land ...
-10'. [BE ŠU.SI MUR ki-di-t]u₄ ša ZAG GUB₃ 1/3? GAM-at ḫi-il-lu₄ du₃ [...]
+10'. [BE ŠU.SI MUR ki-di-t]u₄ ša ZAG GUB₃ 1/3? GAM-at hi-il-lu₄ du₃ [...]
 #tr.en: [If the] right and left [outer lung-finger] are perforated by a third(?): a covering ...
 11'. [BE ŠU.SI MUR ki-di-t]u₄ ša ZAG GAM.GAM-at MAŠ.MAŠ-ti x [...]
 #tr.en: [If the] right [outer lung-finger] is repeatedly perforated: the art of exorcism ...
@@ -43,11 +43,11 @@ note: forerunner to Bārûtu šumma ḫašû Tablet 9; parallels K 8690 (Boissie
 @reverse
 1'. [BE ŠU.SI MUR ki-di-tu₄ š]a GUB₃ BAL [...]
 #tr.en: [If the] left [outer lung-finger] is turned over: ...
-2'. [BE ŠU.SI MUR ki-di-tu]₄ ša ZAG SUHUŠ-sa₃ sa₃-ḫ[i-ir ...]
+2'. [BE ŠU.SI MUR ki-di-tu]₄ ša ZAG SUHUŠ-sa₃ sa₃-h[i-ir ...]
 #tr.en: [If] the base of the right [outer lung-finger] is twi[sted: ...]
-3'. [BE ŠU.SI MUR ki-di-tu]₄ ša GUB₃ SUHUŠ-sa₃ sa₃-ḫi-ir [...]
+3'. [BE ŠU.SI MUR ki-di-tu]₄ ša GUB₃ SUHUŠ-sa₃ sa₃-hi-ir [...]
 #tr.en: [If] the base of the left [outer lung-finger] is twisted: ...
-4'. [BE ŠU.SI MUR ki-di-tu]₄ ša ZAG saḫ-rat u₃ lu/ib? x x [...]
+4'. [BE ŠU.SI MUR ki-di-tu]₄ ša ZAG sah-rat u₃ lu/ib? x x [...]
 #tr.en: [If the] right [outer lung-finger] is twisted and ...
 5'. [BE ŠU.SI MUR ki-d]i-tu₄ ša ZAG a-na IGI GU₂.MUR eṣ!-ret-ma x x [...]
 #tr.en: [If the] right [outer lung-finger] is drawn toward the front of the trachea and ...

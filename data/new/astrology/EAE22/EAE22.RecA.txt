@@ -13,167 +13,167 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] restoration
 ---
 
 @text
-# Part I § I (p. 253)
-1. DIŠ TA SAG MU TA ITI.BARA₂ UD.14.KAM AN.TA.LÙ {d}EN.ZU GAR ú-ru-ba-a-tum ina KUR KÚR GÁL.MEŠ-ma KUR TUR 3,20 BE
-2. DIŠ UD.15.KAM AN.MI GAR hu-šah-hu UN.MEŠ TUR.MEŠ-ši-na ana KÙ.BABBAR BÚR.MEŠ
-3. DIŠ UD.16.KAM AN.MI GAR im-hul-lu KUR-ma {d}Ṣal-bat-a-nu KUR-ma MÁŠ.ANŠE ZÁH
-4. DIŠ UD.20.KAM 3,20 ŠÈ 3,20 nu-kúr-tam KIN-ár
-5. DIŠ UD.21.KAM kùr-rum ŠUB-ut
+#note: Part I § I (p. 253)
+1. DIŠ TA SAG MU TA ITI.BARA₂ UD.14.KAM AN.TA.LU₃ {d}EN.ZU GAR u₂-ru-ba-a-tum ina KUR KUR₂ GAL₂.MEŠ-ma KUR TUR 3,20 BE
+2. DIŠ UD.15.KAM AN.MI GAR hu-šah-hu UN.MEŠ TUR.MEŠ-ši-na ana KU₃.BABBAR BUR₂.MEŠ
+3. DIŠ UD.16.KAM AN.MI GAR im-hul-lu KUR-ma {d}ṣal-bat-a-nu KUR-ma MAŠ₂.ANŠE ZAH₂
+4. DIŠ UD.20.KAM 3,20 ŠE₃ 3,20 nu-kur₂-tam KIN-ar₂
+5. DIŠ UD.21.KAM kur₃-rum ŠUB-ut
 $ single ruling
-# Part I § II (p. 254)
-1. DIŠ TA II ITI TA UD.14.KAM sah-maš-tum Ì-GÁL-ma ub-bu-ṭú GAR.MEŠ-ma 3,20 BA.BE
-2. DIŠ UD.15.KAM 3,20 ŠÈ 3,20 SAL.KÚR KIN-ma 3,20 kiš-ša-ti BE
-3. DIŠ UD.16.KAM 3,20 {d}MAR ina GIŠ.TUKUL ŠUB-ma KUR-su ZÁH
+#note: Part I § II (p. 254)
+1. DIŠ TA II ITI TA UD.14.KAM sah-maš-tum I₃-GAL₂-ma ub-bu-ṭu₂ GAR.MEŠ-ma 3,20 BA.BE
+2. DIŠ UD.15.KAM 3,20 ŠE₃ 3,20 SAL.KUR₂ KIN-ma 3,20 kiš-ša-ti BE
+3. DIŠ UD.16.KAM 3,20 {d}MAR ina GIŠ.TUKUL ŠUB-ma KUR-su ZAH₂
 4. DIŠ UD.20.KAM 3,20 {d}MAR TA GIŠ.GU.ZA KUR-bi
-5. DIŠ UD.21.KAM A.AB.BA <ib>-bal-ma hi-ṣib-šá ZÁH
+5. DIŠ UD.21.KAM A.AB.BA <ib>-bal-ma hi-ṣib-ša₂ ZAH₂
 $ single ruling
-# Part I § III (pp. 254-255)
-1. DIŠ TA III ITI TA UD.14.KAM ŠÈG ina AN-e A.KAL ina IDIM-bi DU-ni {d}IŠKUR RA-iṣ ERIN₂ URI.KI mat-tum ZÁH
-2. DIŠ UD.15.KAM 3,20 ŠÈ 3,20 nu-kúr-tam KIN-ma 3,20 kiš-ša-ti BE
-3. DIŠ UD.16.KAM 3,20 GAZ-ma 3,20 MAN-ma GIŠ.GU.ZA DÁB-at
-4. DIŠ UD.20.KAM 3,20 DUMU-šú HI.GAR-šu ŠÈG.MEŠ šu-qú-úr
-5. DIŠ UD.21.KAM si-in-nu ta-su he-pí KUR KÚR GÁL.LA
+#note: Part I § III (pp. 254-255)
+1. DIŠ TA III ITI TA UD.14.KAM ŠEG₃ ina AN-e A.KAL ina IDIM-bi DU-ni {d}IŠKUR RA-iṣ ERIN₂ URI.KI mat-tum ZAH₂
+2. DIŠ UD.15.KAM 3,20 ŠE₃ 3,20 nu-kur₂-tam KIN-ma 3,20 kiš-ša-ti BE
+3. DIŠ UD.16.KAM 3,20 GAZ-ma 3,20 MAN-ma GIŠ.GU.ZA DAB₂-at
+4. DIŠ UD.20.KAM 3,20 DUMU-šu₂ HI.GAR-šu ŠEG₃.MEŠ šu-qu₂-ur₂
+5. DIŠ UD.21.KAM si-in-nu ta-su he-pi₂ KUR KUR₂ GAL₂.LA
 $ single ruling
-# Part I § IV (p. 256)
-1. DIŠ TA IV ITI TA UD.14.KAM ŠÈG ina AN-e A.KAL ina IDIM ib-ba-lu {d}IŠKUR RA-iṣ hu-šah-hu GÁL-ma KUR GAL-tum ana KUR TUR ana TI-ṭi DU
-2. DIŠ UD.15.KAM ŠÈG ina AN-e A.KAL ina IDIM ib-ba-lu hu-šah-hu ina KUR GÁL
-3. DIŠ UD.16.KAM hu-šah-hu KUR-ti Ì.GÁL
-4. DIŠ UD.20.KAM ŠUB-tim 3,20 u ERIN₂-šú bar-tum Ì.GÁL
-5. DIŠ UD.21.KAM {d}IŠKUR GIŠ-šú ŠUB-ma A.AB.BA hi-ṣib-šá ZÁH
+#note: Part I § IV (p. 256)
+1. DIŠ TA IV ITI TA UD.14.KAM ŠEG₃ ina AN-e A.KAL ina IDIM ib-ba-lu {d}IŠKUR RA-iṣ hu-šah-hu GAL₂-ma KUR GAL-tum ana KUR TUR ana TI-ṭi DU
+2. DIŠ UD.15.KAM ŠEG₃ ina AN-e A.KAL ina IDIM ib-ba-lu hu-šah-hu ina KUR GAL₂
+3. DIŠ UD.16.KAM hu-šah-hu KUR-ti I₃.GAL₂
+4. DIŠ UD.20.KAM ŠUB-tim 3,20 u ERIN₂-šu₂ bar-tum I₃.GAL₂
+5. DIŠ UD.21.KAM {d}IŠKUR GIŠ-šu₂ ŠUB-ma A.AB.BA hi-ṣib-ša₂ ZAH₂
 $ single ruling
-# Part I § V (p. 257)
-1. DIŠ TA V ITI TA UD.14.KAM ŠÈG ina AN-e A.KAL ina IDIM DU.MEŠ-ni EBUR KUR i-si-ir 3,20 ŠÈ 3,20 SILIM.MA KIN-ár
-2. DIŠ UD.15.KAM {d}Nergal KÚ BE.MEŠ ina KUR KÚR GÁL.MEŠ
-3. DIŠ UD.16.KAM e-ri-a-tum šà ŠÀ-ši-na ŠUB-di-a
-4. DIŠ UD.20.KAM UR.MAH.MEŠ in-nam-da-ru-ma A.RÁ.MEŠ TAR.MEŠ
-5. DIŠ UD.21.KAM a-gar-ga-ru-tum hi-ṣib A.AB.BA ZÁH
+#note: Part I § V (p. 257)
+1. DIŠ TA V ITI TA UD.14.KAM ŠEG₃ ina AN-e A.KAL ina IDIM DU.MEŠ-ni EBUR KUR i-si-ir 3,20 ŠE₃ 3,20 SILIM.MA KIN-ar₂
+2. DIŠ UD.15.KAM {d}NERGAL KU₂ BE.MEŠ ina KUR KUR₂ GAL₂.MEŠ
+3. DIŠ UD.16.KAM e-ri-a-tum ša₃ ŠA₃-ši-na ŠUB-di-a
+4. DIŠ UD.20.KAM UR.MAH.MEŠ in-nam-da-ru-ma A.RA₂.MEŠ TAR.MEŠ
+5. DIŠ UD.21.KAM a-gar-ga-ru-tum hi-ṣib A.AB.BA ZAH₂
 $ single ruling
-# Part I § VI (pp. 257-258)
-1. DIŠ TA VI ITI TA UD.14.KAM bar-tum GÁL ERIN₂.ME mat-tum ZÁH MUŠ.ME in-nam-[da-ru-m]a a-mi-lu-ti ú-na-áš-<ša>-ku
-2. DIŠ UD.15.KAM UR.MAH.ME in-nam-da-ru-ma A.RÁ.[MEŠ] TAR.MEŠ
+#note: Part I § VI (pp. 257-258)
+1. DIŠ TA VI ITI TA UD.14.KAM bar-tum GAL₂ ERIN₂.ME mat-tum ZAH₂ MUŠ.ME in-nam-[da-ru-m]a a-mi-lu-ti u₂-na-aš₂-<ša>-ku
+2. DIŠ UD.15.KAM UR.MAH.ME in-nam-da-ru-ma A.RA₂.[MEŠ] TAR.MEŠ
 3. DIŠ UD.16.KAM KUR šul-pu-ut-tum [ina GIŠ.GU.ZA 3,20 MAN-ma] TUŠ-ab
-4. DIŠ UD.20.KAM DUMU 3,20 AD-šú [GAZ-ma AŠ].TE DIB-bat
-5. DIŠ UD.21.KAM LUGAL GIŠ.GU.ZA ú-lab-bar
+4. DIŠ UD.20.KAM DUMU 3,20 AD-šu₂ [GAZ-ma AŠ].TE DIB-bat
+5. DIŠ UD.21.KAM LUGAL GIŠ.GU.ZA u₂-lab-bar
 $ single ruling
-# Part I § VII (p. 258)
-1. DIŠ TA VII ITI TA UD.14.KAM ERIN₂.MEŠ TA ki nu ŠÀ-ru-ba-tú
+#note: Part I § VII (p. 258)
+1. DIŠ TA VII ITI TA UD.14.KAM ERIN₂.MEŠ TA ki nu ŠA₃-ru-ba-tu₂
 2. DIŠ UD.15.KAM KUR-ut nam ga URU.MEŠ BAL.MEŠ-tum
-3. DIŠ UD.16.KAM qí-ti BAL ina GIŠ.GU.ZA 3,20 MAN-ma TUŠ-ab
-4. DIŠ UD.20.KAM GAN-bu ina SU KUR Ì.GÁL GIG TA gu he-pí
-5. DIŠ UD.21.KAM KUR-ut ag bi ERÍN ku kur a kur du
+3. DIŠ UD.16.KAM qi₂-ti BAL ina GIŠ.GU.ZA 3,20 MAN-ma TUŠ-ab
+4. DIŠ UD.20.KAM GAN-bu ina SU KUR I₃.GAL₂ GIG TA gu he-pi₂
+5. DIŠ UD.21.KAM KUR-ut ag bi ERIN₂ ku kur a kur du
 $ single ruling
-# Part I § VIII (p. 259)
-1. DIŠ TA VIII ITI TA UD.14.KAM ŠÈG TA IGI MU.1.KAM Ì.GÁL bi-ib-lum KUR ub-bal a-ki-lum u di-ma-nu ina A.ŠÀ KUR GÁL ú-ru-ba-a-tum GAR.MEŠ-ma 3,20 ša UGU KUR-šu DÙG.GA BE
-2. DIŠ UD.15.KAM hi-ṣib A.AB.BA ZÁH
-3. DIŠ UD.16.KAM ú-ru-ba-a-tum dan-nat GÁL.MEŠ
+#note: Part I § VIII (p. 259)
+1. DIŠ TA VIII ITI TA UD.14.KAM ŠEG₃ TA IGI MU.1.KAM I₃.GAL₂ bi-ib-lum KUR ub-bal a-ki-lum u di-ma-nu ina A.ŠA₃ KUR GAL₂ u₂-ru-ba-a-tum GAR.MEŠ-ma 3,20 ša UGU KUR-šu DUG₃.GA BE
+2. DIŠ UD.15.KAM hi-ṣib A.AB.BA ZAH₂
+3. DIŠ UD.16.KAM u₂-ru-ba-a-tum dan-nat GAL₂.MEŠ
 4. DIŠ UD.20.KAM LUGAL ina GIŠ.TUKUL ŠUB-ut
-5. DIŠ UD.21.KAM ERIN₂ 3,20 ha-am-mi-e-šú KUR.KUR-in
+5. DIŠ UD.21.KAM ERIN₂ 3,20 ha-am-mi-e-šu₂ KUR.KUR-in
 $ single ruling
-# Part I § IX (p. 260)
-1. DIŠ TA IX ITI TA UD.14.KAM ŠÈG.MEŠ ina AN-e A.KAL.MEŠ ina IDIM-bi KUR.MEŠ-ni bi-ib-lu ub-bal KI GAL-a TUR.MEŠ SU.KÚ KI.LAM ŠUB-ut hu-šah-hu GÁL
-2. DIŠ UD.15.KAM BÀD.MEŠ in-na-qá-ru KUR ár-bu-tú DU
-3. DIŠ UD.16.KAM MAN KUR-su BAL-su-ma ZÁH
-4. DIŠ UD.20.KAM ŠÈG.MEŠ sa!(ŠÀ)-ad-ru GIŠ.MEŠ {d}IŠKUR TUR+DIŠ-na
-5. DIŠ UD.21.KAM GIG.MEŠ ina KUR GÁL.MEŠ KUR GIŠ.MEŠ {d}IŠKUR i-ta-na-ar-hi-iṣ
+#note: Part I § IX (p. 260)
+1. DIŠ TA IX ITI TA UD.14.KAM ŠEG₃.MEŠ ina AN-e A.KAL.MEŠ ina IDIM-bi KUR.MEŠ-ni bi-ib-lu ub-bal KI GAL-a TUR.MEŠ SU.KU₂ KI.LAM ŠUB-ut hu-šah-hu GAL₂
+2. DIŠ UD.15.KAM BAD₃.MEŠ in-na-qa₂-ru KUR ar₂-bu-tu₂ DU
+3. DIŠ UD.16.KAM MAN KUR-su BAL-su-ma ZAH₂
+4. DIŠ UD.20.KAM ŠEG₃.MEŠ sa!(ŠA₃)-ad-ru GIŠ.MEŠ {d}IŠKUR TUR+DIŠ-na
+5. DIŠ UD.21.KAM GIG.MEŠ ina KUR GAL₂.MEŠ KUR GIŠ.MEŠ {d}IŠKUR i-ta-na-ar-hi-iṣ
 $ single ruling
-# Part I § X: omitted in all sources (p. 260)
-# Part I § XI (p. 261)
-1. DIŠ TA XI ITI TA UD.14.KAM 3,20 GAL BE ŠÈG.MEŠ ina AN-e DU.MEŠ-ni SILIM.MU SIG₅ ina KUR.KUR GAR
+#note: Part I § X: omitted in all sources (p. 260)
+#note: Part I § XI (p. 261)
+1. DIŠ TA XI ITI TA UD.14.KAM 3,20 GAL BE ŠEG₃.MEŠ ina AN-e DU.MEŠ-ni SILIM.MU SIG₅ ina KUR.KUR GAR
 2. DIŠ UD.15.KAM la ha-as-su AŠ.TE DIB-bat
-3. DIŠ UD.16.KAM ZÁH-aq <...> BÀD.MEŠ in-na-qá-ru
+3. DIŠ UD.16.KAM ZAH₂-aq <...> BAD₃.MEŠ in-na-qa₂-ru
 4. DIŠ UD.20.KAM 3,20 URI.KI BE-ma bi-ib-lu KUR ub-bal
-5. DIŠ UD.21.KAM KUR ina KA {d}KUR.GAL ZÁH
+5. DIŠ UD.21.KAM KUR ina KA {d}KUR.GAL ZAH₂
 $ single ruling
-# Part I § XII (pp. 261-262)
-1. DIŠ TA XII ITI TA UD.14.KAM ub-bu-ṭú GÁL ŠUB-tim ERIN₂ ra ti {d}IŠKUR RA UN.MEŠ šèr-ri-ši-na ana KÙ.BABBAR BÚR.MEŠ
-2. DIŠ UD.15.KAM HA he-pí ši-ip-ri-im
-3. DIŠ UD.16.KAM KUR lá HUL-tum uš-tál-pat
-4. DIŠ UD.20.KAM ša-ah-lu-uq-ti É.GIŠ.NU₁₁.GÁL
-5. DIŠ UD.21.KAM BAL 3,20 qá-ti KUR 3,20 ár-bu-tú DU-ak
+#note: Part I § XII (pp. 261-262)
+1. DIŠ TA XII ITI TA UD.14.KAM ub-bu-ṭu₂ GAL₂ ŠUB-tim ERIN₂ ra ti {d}IŠKUR RA UN.MEŠ šer₃-ri-ši-na ana KU₃.BABBAR BUR₂.MEŠ
+2. DIŠ UD.15.KAM HA he-pi₂ ši-ip-ri-im
+3. DIŠ UD.16.KAM KUR la₂ HUL-tum uš-tal₂-pat
+4. DIŠ UD.20.KAM ša-ah-lu-uq-ti E₂.GIŠ.NU₁₁.GAL₂
+5. DIŠ UD.21.KAM BAL 3,20 qa₂-ti KUR 3,20 ar₂-bu-tu₂ DU-ak
 $ single ruling
-6. DIŠ TA BI(?) TA(?)-ma ina UD.15.KAM ina UD.16.KAM ina UD.20.KAM ina UD.21.KAM AN.MI GAR ZÁH he-pí ZÁH-aq GUL
-7. DIŠ TA la a-dan-ni-šú a-dir 3,20 he-pí ŠUB-ma BE-at
+6. DIŠ TA BI(?) TA(?)-ma ina UD.15.KAM ina UD.16.KAM ina UD.20.KAM ina UD.21.KAM AN.MI GAR ZAH₂ he-pi₂ ZAH₂-aq GUL
+7. DIŠ TA la a-dan-ni-šu₂ a-dir 3,20 he-pi₂ ŠUB-ma BE-at
 $ single ruling
-# Part II § I (pp. 262-263)
-1. DIŠ ina ITI.BARA₂ TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ub-bu-ṭú GAR LUGAL šá-lim ŠE GU-um TUR
-2. BE {d}IŠKUR KA-šú ŠUB-di ŠE GU-um TUR-ír
+#note: Part II § I (pp. 262-263)
+1. DIŠ ina ITI.BARA₂ TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ub-bu-ṭu₂ GAR LUGAL ša₂-lim ŠE GU-um TUR
+2. BE {d}IŠKUR KA-šu₂ ŠUB-di ŠE GU-um TUR-ir₂
 3. BE ri-i-bu i-ru-ub LUGAL KUR-su BAL-su nap-pah-tum in-nap-pah
-4. BE IM.GÚ KUR is-húp ŠÈG.MEŠ ina KUR TAR.MEŠ
+4. BE IM.GU₂ KUR is-hup₂ ŠEG₃.MEŠ ina KUR TAR.MEŠ
 $ single ruling
-# Part II § II (pp. 263-264)
-1. DIŠ ina ITI.GU₄ TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ŠE ina GÁ×ŠE.MEŠ ia-ru-ur
-2. BE {d}IŠKUR KA-šú ŠUB-di ZÍZ.AN.NA u GÚ.GAL ina A.ŠÀ NU SI.SÁ.MEŠ
+#note: Part II § II (pp. 263-264)
+1. DIŠ ina ITI.GU₄ TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ŠE ina GA₂×ŠE.MEŠ ia-ru-ur
+2. BE {d}IŠKUR KA-šu₂ ŠUB-di ZIZ₂.AN.NA u GU₂.GAL ina A.ŠA₃ NU SI.SA₂.MEŠ
 3. BE ri-i-bu i-ru-ub ha-rab na-me-e
-4. BE IM.GÚ KUR is-húp MU 10.KAM KUR di-bi-ri IGI-mar
+4. BE IM.GU₂ KUR is-hup₂ MU 10.KAM KUR di-bi-ri IGI-mar
 $ single ruling
-# Part II § III (p. 264)
-1. DIŠ ina ITI.SIG₄ TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši EBUR KUR NU SI.SÁ
-2. BE {d}IŠKUR KA-šú ŠUB ŠE GU-um ina KISLAH.MEŠ TUR a-ru-ur-tum
-3. BE ri-i-bu i-ru-ub LUGAL še-eṭ KI IDIM.MEŠ-šú i-qal-lil
-4. BE IM.GÚ KUR is-húp MU.3.KAM LUGAL KUR ina di-bi-ri DU.ME(?)
+#note: Part II § III (p. 264)
+1. DIŠ ina ITI.SIG₄ TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši EBUR KUR NU SI.SA₂
+2. BE {d}IŠKUR KA-šu₂ ŠUB ŠE GU-um ina KISLAH.MEŠ TUR a-ru-ur-tum
+3. BE ri-i-bu i-ru-ub LUGAL še-eṭ KI IDIM.MEŠ-šu₂ i-qal-lil
+4. BE IM.GU₂ KUR is-hup₂ MU.3.KAM LUGAL KUR ina di-bi-ri DU.ME(?)
 $ single ruling
-# Part II § IV (pp. 264-265)
-1. DIŠ ina ITI.ŠU TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ŠE.GIŠ.Ì NU SI.SÁ
-2. BE {d}IŠKUR KA-šú ŠUB-di ŠE.GIŠ.Ì u ZÚ.LUM.MA NU SI.SÁ
-3. BE ri-i-bu i-ru-ub ne-ru-ba-a-tum GÁL.MEŠ
-4. BE IM.GÚ KUR is-húp MU.3.KAM {d}IŠKUR KUR KÚ KI.LAM TUR-ir
+#note: Part II § IV (pp. 264-265)
+1. DIŠ ina ITI.ŠU TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ŠE.GIŠ.I₃ NU SI.SA₂
+2. BE {d}IŠKUR KA-šu₂ ŠUB-di ŠE.GIŠ.I₃ u ZU₂.LUM.MA NU SI.SA₂
+3. BE ri-i-bu i-ru-ub ne-ru-ba-a-tum GAL₂.MEŠ
+4. BE IM.GU₂ KUR is-hup₂ MU.3.KAM {d}IŠKUR KUR KU₂ KI.LAM TUR-ir
 $ single ruling
-# Part II § V (p. 265)
-1. DIŠ ina ITI.NE TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ZÚ.LUM.MA NU SI.SÁ
-2. BE {d}IŠKUR KA-šú ŠUB ŠÈG u A.KAL TAR.MEŠ me-ri-šú NU SI.SÁ
+#note: Part II § V (p. 265)
+1. DIŠ ina ITI.NE TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ZU₂.LUM.MA NU SI.SA₂
+2. BE {d}IŠKUR KA-šu₂ ŠUB ŠEG₃ u A.KAL TAR.MEŠ me-ri-šu₂ NU SI.SA₂
 3. BE ri-i-bu i-ru-ub LUGAL KUR su-un-qam IGI-mar
-4. BE IM.GÚ KUR is-húp DINGIR.MEŠ ina SU KUR MU.5.KAM BAD.MEŠ
+4. BE IM.GU₂ KUR is-hup₂ DINGIR.MEŠ ina SU KUR MU.5.KAM BAD.MEŠ
 $ single ruling
-# Part II § VI (pp. 265-266)
-1. DIŠ ina ITI.KIN TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ri-iṭ-ba-tum NU SI.SÁ.MEŠ
-2. BE {d}IŠKUR KA-šú ŠUB ŠÈG u mi-lum har-pu
+#note: Part II § VI (pp. 265-266)
+1. DIŠ ina ITI.KIN TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ri-iṭ-ba-tum NU SI.SA₂.MEŠ
+2. BE {d}IŠKUR KA-šu₂ ŠUB ŠEG₃ u mi-lum har-pu
 3. BE ri-i-bu i-ru-ub LUGAL KUR su-un-qam IGI-mar
-4. BE IM.GÚ KUR is-húp MU.6.KAM KUR SU.KÚ IGI-mar
+4. BE IM.GU₂ KUR is-hup₂ MU.6.KAM KUR SU.KU₂ IGI-mar
 $ single ruling
-# Part II § VII (p. 266)
-1. DIŠ ina ITI.DU₆ TA UD.1.KAM <EN UD.30.KAM> AN.TA.LÙ it-tab-ši ŠÈG u A.KAL LÁ.MEŠ-ma EBUR KUR NU SI.SÁ
-2. BE {d}IŠKUR KA-šú ŠUB A.KAL.MEŠ GÁL.MEŠ ŠE.GIŠ.Ì NU SI.SÁ
-3. BE ri-i-bu i-ru-ub EBUR KUR SI.SÁ SAL.KÚR GÁL
-4. BE IM.GÚ KUR is-húp EBUR KUR SI.SÁ KUR ina ŠÀ-bi DÙG.GA DU.DU
+#note: Part II § VII (p. 266)
+1. DIŠ ina ITI.DU₆ TA UD.1.KAM <EN UD.30.KAM> AN.TA.LU₃ it-tab-ši ŠEG₃ u A.KAL LA₂.MEŠ-ma EBUR KUR NU SI.SA₂
+2. BE {d}IŠKUR KA-šu₂ ŠUB A.KAL.MEŠ GAL₂.MEŠ ŠE.GIŠ.I₃ NU SI.SA₂
+3. BE ri-i-bu i-ru-ub EBUR KUR SI.SA₂ SAL.KUR₂ GAL₂
+4. BE IM.GU₂ KUR is-hup₂ EBUR KUR SI.SA₂ KUR ina ŠA₃-bi DUG₃.GA DU.DU
 $ single ruling
-# Part II § VIII (p. 267)
-1. DIŠ ina ITI.APIN TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši di-hu ina KUR GÁL-ši
-2. BE {d}IŠKUR KA-šú ŠUB A.KAL u bu-ti-iq-tum DU-kam
-3. BE ri-i-bu i-ru-ub KUR NU NU eš i-šá-pa-ar
-4. BE IM.GÚ KUR is-húp EBUR SI.SÁ KUR ina ŠÀ-bi DÙG.GA DU.DU
+#note: Part II § VIII (p. 267)
+1. DIŠ ina ITI.APIN TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši di-hu ina KUR GAL₂-ši
+2. BE {d}IŠKUR KA-šu₂ ŠUB A.KAL u bu-ti-iq-tum DU-kam
+3. BE ri-i-bu i-ru-ub KUR NU NU eš i-ša₂-pa-ar
+4. BE IM.GU₂ KUR is-hup₂ EBUR SI.SA₂ KUR ina ŠA₃-bi DUG₃.GA DU.DU
 $ single ruling
-# Part II § IX (p. 267)
-1. DIŠ ina ITI.GAN TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši UR.KU.MEŠ BE.ME {d}U+GUR
-2. BE {d}IŠKUR KA-šú ŠUB ina IM.ŠÈG RI.RI.GA MÁŠ.ANŠE GÁL
-3. BE ri-i-bu i-ru-ub É.GAL LUGAL ŠUB-di
-4. BE IM.GÚ KUR is-húp KI.LAM TUR ana IGI KUR i-dir-tum TAR.MEŠ
+#note: Part II § IX (p. 267)
+1. DIŠ ina ITI.GAN TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši UR.KU.MEŠ BE.ME {d}U+GUR
+2. BE {d}IŠKUR KA-šu₂ ŠUB ina IM.ŠEG₃ RI.RI.GA MAŠ₂.ANŠE GAL₂
+3. BE ri-i-bu i-ru-ub E₂.GAL LUGAL ŠUB-di
+4. BE IM.GU₂ KUR is-hup₂ KI.LAM TUR ana IGI KUR i-dir-tum TAR.MEŠ
 $ single ruling
-# Part II § X (p. 268)
-1. DIŠ ina ITI.AB TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ZI-ut BURU₅.HI.A EBUR KUR TUR
-2. BE {d}IŠKUR KA-šú ŠUB UD.MEŠ ŠÚ.ŠÚ-ma IM.ŠÈG NU SUR šu-ri-pu GÁL-ši
-3. BE ri-i-bu i-ru-ub LUGAL ina URU KÚR uš-ša-ab
-4. BE IM.GÚ KUR is-húp ana A.RA.ZU LUGAL DINGIR.MEŠ i-qul-lu
+#note: Part II § X (p. 268)
+1. DIŠ ina ITI.AB TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ZI-ut BURU₅.HI.A EBUR KUR TUR
+2. BE {d}IŠKUR KA-šu₂ ŠUB UD.MEŠ ŠU₂.ŠU₂-ma IM.ŠEG₃ NU SUR šu-ri-pu GAL₂-ši
+3. BE ri-i-bu i-ru-ub LUGAL ina URU KUR₂ uš-ša-ab
+4. BE IM.GU₂ KUR is-hup₂ ana A.RA.ZU LUGAL DINGIR.MEŠ i-qul-lu
 $ single ruling
-# Part II § XI (p. 268)
-1. DIŠ ina ITI.ZÍZ TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši he-pí
-2. BE {d}IŠKUR KA-šú ŠUB IM.U₁₉.LU ZI-ma É.MEŠ ub-bak
-3. BE ri-i-bu i-ru-ub ger-ret KÚR GÁL.MEŠ
-4. BE IM.GÚ KUR is-húp KUR.BI ul-tab-bar MU.6.KAM ŠÀ.BI NU DÙG.GA
+#note: Part II § XI (p. 268)
+1. DIŠ ina ITI.ZIZ₂ TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši he-pi₂
+2. BE {d}IŠKUR KA-šu₂ ŠUB IM.U₁₉.LU ZI-ma E₂.MEŠ ub-bak
+3. BE ri-i-bu i-ru-ub ger-ret KUR₂ GAL₂.MEŠ
+4. BE IM.GU₂ KUR is-hup₂ KUR.BI ul-tab-bar MU.6.KAM ŠA₃.BI NU DUG₃.GA
 $ single ruling
-# Part II § XII (p. 269)
-1. DIŠ ina ITI.ŠE TA UD.1.KAM EN UD.30.KAM AN.TA.LÙ it-tab-ši ina IGI MU A.KAL ZI-ma A.MAH.MEŠ ú-bat-taq
-2. BE {d}IŠKUR KA-šú ŠUB UD.MEŠ ip-pi-rid-du-ma na-an-dur UR.MAH u UR.BAR.RA
-3. BE ri-i-bu i-ru-ub ger-ret KÚR GÁL.MEŠ
-4. BE IM.GÚ KUR is-húp KUR.BI ub-bu-ṭa HUL IGI ka-ri-e KUR i-ri-iq-qu
+#note: Part II § XII (p. 269)
+1. DIŠ ina ITI.ŠE TA UD.1.KAM EN UD.30.KAM AN.TA.LU₃ it-tab-ši ina IGI MU A.KAL ZI-ma A.MAH.MEŠ u₂-bat-taq
+2. BE {d}IŠKUR KA-šu₂ ŠUB UD.MEŠ ip-pi-rid-du-ma na-an-dur UR.MAH u UR.BAR.RA
+3. BE ri-i-bu i-ru-ub ger-ret KUR₂ GAL₂.MEŠ
+4. BE IM.GU₂ KUR is-hup₂ KUR.BI ub-bu-ṭa HUL IGI ka-ri-e KUR i-ri-iq-qu
 $ single ruling
-# Concluding tamītu paragraph (pp. 269-270); not an omen
-1. ta-mi-a-tum an-na-a-tum e-nu-ma {d}30 mit-lu-uk-ta GAR-nu DINGIR.MEŠ šá AN-e u KI-tim
-2. ep-šet a-me-lu-ti tu-bu-ul-šú-nu i-ši-im-ma
-3. AN.TA.LÙ ri-ih-ṣu mur-ṣu mu-tum GAL₅.LÁ.MEŠ.GAL.MEŠ {d}IMIN.BI
+#note: Concluding tamītu paragraph (pp. 269-270); not an omen
+1. ta-mi-a-tum an-na-a-tum e-nu-ma {d}30 mit-lu-uk-ta GAR-nu DINGIR.MEŠ ša₂ AN-e u KI-tim
+2. ep-šet a-me-lu-ti tu-bu-ul-šu₂-nu i-ši-im-ma
+3. AN.TA.LU₃ ri-ih-ṣu mur-ṣu mu-tum GAL₅.LA₂.MEŠ.GAL.MEŠ {d}IMIN.BI
 4. ma-har {d}30 it-ta-nap-ri-ku
 @colophon
-# Subscript of source A, rev. 17 (p. 270): tablet 23 in source A's own numbering (Rochberg)
-DUB.23.KAM DIŠ UD.AN.{d}En-líl 1 UŠ 10.ÀM MU ŠID.BI.IM
+#note: Subscript of source A, rev. 17 (p. 270): tablet 23 in source A's own numbering (Rochberg)
+8. DUB.23.KAM DIŠ UD.AN.{d}en-lil₂ 1 UŠ 10.AM₃ MU ŠID.BI.IM
 @catchline
-# Catchline to EAE 23, source F 12' (p. 270)
-[DIŠ MAN ina ITI.BARA₂ UD.1.KAM ina IGI.LÁ-šú GIM di-pa-ri] SA₅ u IM.DIRI BABBAR ina IGI-šu i-ṣa-ad
+#note: Catchline to EAE 23, source F 12' (p. 270)
+9. [DIŠ MAN ina ITI.BARA₂ UD.1.KAM ina IGI.LA₂-šu₂ GIM di-pa-ri] SA₅ u IM.DIRI BABBAR ina IGI-šu i-ṣa-ad

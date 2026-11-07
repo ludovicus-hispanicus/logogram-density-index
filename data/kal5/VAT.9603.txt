@@ -10,17 +10,24 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x [...]
-2’. [...] ⸢KÚR⸣ [...]
-3’. [... K]ÚR DAB-ma ÉRIN KÚR ina KI.TUŠ -⸢šá⸣ [ŠUB -ut (u DAB) ...]
-4’. [...] LÚ i tar [...]
-5’. [...] i n aÉ DÙ-šuNU[...]
-6’. [... Š]UB-ut šá-níš UR.MAḪ EN DU11.DU11 ta x [...]
-7’. [... EN] DU11.DU11 ina É DÙ -šu NU [...]
-8’. [... ZI-b]u? ana NUN ip-pa-qíd ina gišTUKUL KÚR SAG.DU DU IGI ÉR[IN-ia ...]
-9’. [...] inagišTUKULana KÚR SAG.DU DU IGI ÉRIN KÚR ú -⸢na⸣ ?-[kis?]
-10’. [...] x ÉRIN-ni ina KI.TUŠ -šá ŠUB -ut u DAB ÉRIN-ni dIŠKUR RA-iṣ šá-níš [...]
-11’. [...] ÉRIN KÚRina KI.TUŠ -šá ŠUB -ut u DAB ÉRIN KÚR dIŠKUR RA-i[ṣ ( ... ) ...]
-12’. [...] dIš8-tár SÚḪ UGU ÉRIN-ia ŠUB -[ut]
-13’. [...] dIš8-tárSÚḪ UGU ÉRIN KÚR ŠU [B-ut]
-14’. [...] gišTUKUL LUGAL GI.NA KAL-⸢ an⸣ [...]
-15’. [...] x x ⸢KAL⸣-[an ...]
+$ single ruling
+2’. [...] KUR₂# [...]
+3’. [... K]UR₂ DAB-ma ERIN₂ KUR₂ ina KI.TUŠ-ša₂# [ŠUB-ut (u DAB) ...]
+$ single ruling
+4’. [...] LU₂ i tar [...]
+5’. [...] i n a E₂ DU₃-šu NU [...]
+$ single ruling
+6’. [... Š]UB-ut ša₂-niš₂ UR.MAH EN DU₁₁.DU₁₁ ta x [...]
+7’. [... EN] DU₁₁.DU₁₁ ina E₂ DU₃-šu NU [...]
+$ single ruling
+8’. [... ZI-b]u? ana NUN ip-pa-qid₂ ina {giš}TUKUL KUR₂ SAG.DU DU IGI ER[IN₂-ia ...]
+9’. [...] ina {giš}TUKUL ana KUR₂ SAG.DU DU IGI ERIN₂ KUR₂ u₂-na#?-[kis?]
+$ single ruling
+10’. [...] x ERIN₂-ni ina KI.TUŠ-ša₂ ŠUB-ut u DAB ERIN₂-ni {d}IŠKUR RA-iṣ ša₂-niš₂ [...]
+11’. [...] ERIN₂ KUR₂ ina KI.TUŠ-ša₂ ŠUB-ut u DAB ERIN₂ KUR₂ {d}IŠKUR RA-i[ṣ ( ... ) ...]
+$ single ruling
+12’. [...] {d}iš₈-tar₂ SUH₂ UGU ERIN₂-ia ŠUB-[ut]
+13’. [...] {d}iš₈-tar₂ SUH₂ UGU ERIN₂ KUR₂ ŠU [B-ut]
+$ single ruling
+14’. [...] {giš}TUKUL LUGAL GI.NA KAL- an# [...]
+15’. [...] x x KAL#-[an ...]

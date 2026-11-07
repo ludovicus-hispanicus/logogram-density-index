@@ -10,7 +10,9 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] ka [...]
-2’. [... DU]8? dIŠKUR [...]
+$ single ruling
+2’. [... DU₈]? {d}IŠKUR [...]
 3’. [...] x šu ru p[u ...]
-4’. [... É]RIN-ni [...]
-5’. [...] d⸢IŠKUR⸣ [...]
+$ single ruling
+4’. [... E]RIN₂-ni [...]
+5’. [...] {d}IŠKUR# [...]

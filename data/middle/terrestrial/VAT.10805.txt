@@ -7,28 +7,29 @@ counting: line
 source_note: Extracted from KAL 1 via structured OCR. Determinatives {}, restorations [], breaks x/.../[...]. Trust the preserved-only LDI.
 ---
 @obverse
-[... EN é NÍG.GI]G IGI-ma ÚŠ
-[... SÁ.DUG₄-š]ú LAL!-ṭi
-[... LÚ BI DINGIR-šú ana SIG₅-ti] UŠ.UŠ-šu
-[... ḪU]L-ma SÁ.SÁ
-[... NA] BI ina MUNUS.KALA.GA
-[EN INIM-šú] KUR-ád
-[... MU SI]G₅.GA TUK-ši
-[... MU-šú ina] MUNUS.ḪUL DU₈-ár
-[... MU] 3-KÁM ina K[I.ŠÚ] ŠUB
-[DINGIR i-saḫ-ḫar-ma] TI-uṭ
-[... GIZKIM-šu] DIB!-iq-šú
-[...] x du
-[...] x [...]
-DIŠ MUŠ [...]
-DIŠ e-nu-[ma ...]
-ti-[...]
-DIŠ MUŠ x [...]
-ri x [...]
-DIŠ MUŠ [...]
-DIŠ MUŠ [...]
-x [...]
-x [...]
-x [...]
-DIŠ M[UŠ ...]
-DIŠ [...]
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. [... EN e₂ NIG₂.GI]G IGI-ma UŠ₂
+2. [... SA₂.DUG₄-š]u₂ LAL!-ṭi
+3. [... LU₂ BI DINGIR-šu₂ ana SIG₅-ti] UŠ.UŠ-šu
+4. [... HU]L-ma SA₂.SA₂
+5. [... NA] BI ina MUNUS.KALA.GA
+6. [EN INIM-šu₂] KUR-ad₂
+7. [... MU SI]G₅.GA TUK-ši
+8. [... MU-šu₂ ina] MUNUS.HUL DU₈-ar₂
+9. [... MU] 3-KAM₂ ina K[I.ŠU₂] ŠUB
+10. [DINGIR i-sah-har-ma] TI-uṭ
+11. [... GIZKIM-šu] DIB!-iq-šu₂
+12. [...] x du
+13. [...] x [...]
+14. DIŠ MUŠ [...]
+15. DIŠ e-nu-[ma ...]
+16. ti-[...]
+17. DIŠ MUŠ x [...]
+18. ri x [...]
+19. DIŠ MUŠ [...]
+20. DIŠ MUŠ [...]
+21. x [...]
+22. x [...]
+23. x [...]
+24. DIŠ M[UŠ ...]
+25. DIŠ [...]

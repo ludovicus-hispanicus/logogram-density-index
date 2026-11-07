@@ -14,91 +14,91 @@ note: Hand-transcribed from Arnaud. He prints Sumerograms in lowercase roman and
 caveat: This text is built on ditto marks — MIN/KI.MIN for the repeated month and eclipse formulae — so the surviving protasis skeleton is almost purely logographic. Where an apodosis is broken away the line scores near 1.00 as a preservation artifact, not as evidence of logographic usage. Note that restored [] material is counted in the default mode and only dropped under preserved_only, so both modes are affected; per-line LDI for the heavily broken stretch 47'-76' should not be read as usage data. The whole-file LDI is 0.676 (473 log / 227 phon over 83 scorable lines); the previous 8-line sample gave 0.770, i.e. the old selection was biased about +0.09 high.
 ---
 
-1. DIŠ ina {iti}BÁRA.ZAG.GAR U₄.14 KU₁₀ [GAR A]N.TA.LÙ GAR-i[n DUM]U? LUGAL URI{ki} URU u UNÙ.MEŠ šal-mu šum-ma LUGAL NU B[A.UŠ₂]
-2. MIN U₄.15 KU₁₀ GAR DINGIR ina HUL ŠÀ.BI it-bal x x GAL ŠUB URU LUGAL UNÙ.MEŠ.BI KUR.BI [...]
-3. MIN [U]₄.[1]6 KU₁₀ GAR x-šú x x NU BIR UNÙ.MEŠ LU[GAL a-na] LUGAL sa-li-ma i-šap-pa-ar
-4. MIN [U₄.2]0 KU₁₀ GAR-ma LUGAL [a-na LUGAL] nu-kúr-ta i-šap-pa-ar
+1. DIŠ ina {iti}BARA₂.ZAG.GAR U₄.14 KU₁₀ [GAR A]N.TA.LU₃ GAR-i[n DUM]U? LUGAL URI{ki} URU u UNU₃.MEŠ šal-mu šum-ma LUGAL NU B[A.UŠ₂]
+2. MIN U₄.15 KU₁₀ GAR DINGIR ina HUL ŠA₃.BI it-bal x x GAL ŠUB URU LUGAL UNU₃.MEŠ.BI KUR.BI [...]
+3. MIN [U]₄.[1]6 KU₁₀ GAR x-šu₂ x x NU BIR UNU₃.MEŠ LU[GAL a-na] LUGAL sa-li-ma i-šap-pa-ar
+4. MIN [U₄.2]0 KU₁₀ GAR-ma LUGAL [a-na LUGAL] nu-kur₂-ta i-šap-pa-ar
 5. MIN [U₄.21] KU₁₀ GAR-ma [KUR.BI] tur-ir
-6. MIN [ina la-]a i-da-[a-ni-šu AN.T]A.LÙ GAR-ma [x x x] x-ma KUR.KUR
+6. MIN [ina la-]a i-da-[a-ni-šu AN.T]A.LU₃ GAR-ma [x x x] x-ma KUR.KUR
 7. DIŠ ina {iti}[x x x GIŠ.G]U.ZA DIB-ma KUR-su tur-ir
-8. [x x x LUGAL a-na LUGAL] nu-kúr-ta i-šap-pa-ar
-9. [DIŠ] ina {iti}[x x x] ZÁH
+8. [x x x LUGAL a-na LUGAL] nu-kur₂-ta i-šap-pa-ar
+9. [DIŠ] ina {iti}[x x x] ZAH₂
 10. [M]IN [x x LUGAL a-na LUGAL sa-li-ma] i-šap-pa-ar
-11. [M]IN [x x AN.T]A.LÙ G[AR x x x] KUR AL.TUR
-12. MIN [x x AN.TA.L]Ù GAR-[i]n šá-mu-ú [x x x x x x GIŠ.GU.ZA] DIB-at ina BAL-šú KUR AL.TUR
-13. MIN [x x] LUGAL MAR.TU ÌR.MEŠ-šú [ina b]a-ar-t[i x x x x GA]Z-šú
-14. MIN [U₄.x KU₁₀ GA]R LUGAL SU.BIR₄ ina GIŠ.TUKUL [GA]Z-šú [x x x x x x x x] DIB-at
-15. MIN [ina] la-a-da-ni-šu AN.TA.LÙ GAR ár-bu-tu [GAR]
-16. DIŠ ina {iti}ŠE.KIN.KUD U₄.14.KÁM KI.<MIN> AN.TA.LÙ GAR-ma nap-pa-[r-t]u₄ GAR-an [x x x x x] BA.UŠ₂ zu-un-nu i-[na AN-e mi-lu i-na ÍD i-la-kám]
-17. [M]IN U₄.15.KÁM MIN MIN KUR? [GAL a-n]a KUR TUR ana bu-ta-al-lu-[ṭi] DU
-18. [M]IN U₄.16.KÁM MIN MIN [zu-un-nu] ina AN-e mi-lu ina Í[D ip-pa-ar-r]a-su GAR-an er-re-[bi]
-19. [M]IN U₄.20.KÁM MIN MIN [x x x] ŠUB MÁŠ.ANŠE {d}GÌR
-20. [M]IN U₄.21.KÁM MIN MIN [x x x KUR in-n]i-eš-ši
-21. [M]IN [ina] la-a-da-[ni-šu AN.TA.L]Ù GAR LUGAL GAL BA.UŠ₂ ár-bu-tu GAR-an KUR in-ni-[eš-ši]
-22. [DIŠ ina {iti}NE.NE.GAR U₄.14.KÁM MIN MIN ár-bu-tu] GAR-nu LUGAL MAR.TU BA.UŠ₂ KUR s[e]-kir ÍD-šu i-bal [...]
-23. [MIN U₄.15.KÁM MIN MIN zu-un-n]u u mi-lu GÁL.MEŠ EBUR KUR SI.S[Á LUG]AL a-na LUGAL sa-[li-ma i-šap-pa-ar]
-24. [MIN U₄.16.KÁM MIN MIN {d}]U.GUR KÚ ÚŠ.MEŠ GÁL.MEŠ ZI ERIM-Ma-an-da [...]
-25. [MIN U₄.20.KÁM MIN MIN MÍ.PE]Š₄.MEŠ šá [lib]-bi-ši-na ú-ul ú-[šak-la-la UR.MA]H
-26. [in-na-an-dar-ma a-lak-ta ana] a-ṣi-it KÁ.GAL UR.MAH i-pár-ra-ás
-27. MIN [U₄.21.KÁM MIN MI]N A.KÁR.KÁR.KU₆ ina ÍD GÁL-ši-ma hi-ṣi-ib x [Z]ÁH
-28. MIN [ina la-a-d]a-ni-šu KI.MIN GAR mi-lu ina ÍD i-sa-dar LUG[AL] ana LUGAL s[a-li-ma i-šap-pa-ar]
-29. DIŠ ina {iti}<KIN>.{d}INANNA [U₄.14.K]ÁM MIN MIN 1 LUGAL ŠÚ D[U] BE-ma KI.MIN x x IQ PAD x im x [...]
-30. MIN [U₄.15.KÁ]M MIN MIN DUMU LUGAL a-ba-šu i-da-ak-ma [GIŠ.G]U.[Z]A DIB-bat
-31. MIN [U₄.16.KÁ]M MIN MIN LUGAL KUR ha-liq-[t]i ana KUR a-ši-ib ti [x x] x GIŠ.GU.ZA [a-bi-šu DIB-at]
-32. MIN [U₄.20.]<KÁM> MIN MIN DUMU LUGAL [GI]Š.GU.ZA a-bi-šu DIB-at
-33. MIN [U₄.2]1.<KÁM> MIN MIN LUGAL GIŠ[.GU.]ZA ú-la-ba-a[r]
+11. [M]IN [x x AN.T]A.LU₃ G[AR x x x] KUR AL.TUR
+12. MIN [x x AN.TA.L]U₃ GAR-[i]n ša₂-mu-u₂ [x x x x x x GIŠ.GU.ZA] DIB-at ina BAL-šu₂ KUR AL.TUR
+13. MIN [x x] LUGAL MAR.TU IR₃.MEŠ-šu₂ [ina b]a-ar-t[i x x x x GA]Z-šu₂
+14. MIN [U₄.x KU₁₀ GA]R LUGAL SU.BIR₄ ina GIŠ.TUKUL [GA]Z-šu₂ [x x x x x x x x] DIB-at
+15. MIN [ina] la-a-da-ni-šu AN.TA.LU₃ GAR ar₂-bu-tu [GAR]
+16. DIŠ ina {iti}ŠE.KIN.KUD U₄.14.KAM₂ KI.<MIN> AN.TA.LU₃ GAR-ma nap-pa-[r-t]u₄ GAR-an [x x x x x] BA.UŠ₂ zu-un-nu i-[na AN-e mi-lu i-na ID₂ i-la-kam₂]
+17. [M]IN U₄.15.KAM₂ MIN MIN KUR? [GAL a-n]a KUR TUR ana bu-ta-al-lu-[ṭi] DU
+18. [M]IN U₄.16.KAM₂ MIN MIN [zu-un-nu] ina AN-e mi-lu ina I[D₂ ip-pa-ar-r]a-su GAR-an er-re-[bi]
+19. [M]IN U₄.20.KAM₂ MIN MIN [x x x] ŠUB MAŠ₂.ANŠE {d}GIR₃
+20. [M]IN U₄.21.KAM₂ MIN MIN [x x x KUR in-n]i-eš-ši
+21. [M]IN [ina] la-a-da-[ni-šu AN.TA.L]U₃ GAR LUGAL GAL BA.UŠ₂ ar₂-bu-tu GAR-an KUR in-ni-[eš-ši]
+22. [DIŠ ina {iti}NE.NE.GAR U₄.14.KAM₂ MIN MIN ar₂-bu-tu] GAR-nu LUGAL MAR.TU BA.UŠ₂ KUR s[e]-kir ID₂-šu i-bal [...]
+23. [MIN U₄.15.KAM₂ MIN MIN zu-un-n]u u mi-lu GAL₂.MEŠ EBUR KUR SI.S[A₂ LUG]AL a-na LUGAL sa-[li-ma i-šap-pa-ar]
+24. [MIN U₄.16.KAM₂ MIN MIN {d}]U.GUR KU₂ UŠ₂.MEŠ GAL₂.MEŠ ZI ERIM-ma-an-da [...]
+25. [MIN U₄.20.KAM₂ MIN MIN MI₂.PE]Š₄.MEŠ ša₂ [lib]-bi-ši-na u₂-ul u₂-[šak-la-la UR.MA]H
+26. [in-na-an-dar-ma a-lak-ta ana] a-ṣi-it KA₂.GAL UR.MAH i-par₂-ra-as₂
+27. MIN [U₄.21.KAM₂ MIN MI]N A.KAR₂.KAR₂.KU₆ ina ID₂ GAL₂-ši-ma hi-ṣi-ib x [Z]AH₂
+28. MIN [ina la-a-d]a-ni-šu KI.MIN GAR mi-lu ina ID₂ i-sa-dar LUG[AL] ana LUGAL s[a-li-ma i-šap-pa-ar]
+29. DIŠ ina {iti}<KIN>.{d}INANNA [U₄.14.K]AM₂ MIN MIN 1 LUGAL ŠU₂ D[U] BE-ma KI.MIN x x IQ PAD x im x [...]
+30. MIN [U₄.15.KA]M₂ MIN MIN DUMU LUGAL a-ba-šu i-da-ak-ma [GIŠ.G]U.[Z]A DIB-bat
+31. MIN [U₄.16.KA]M₂ MIN MIN LUGAL KUR ha-liq-[t]i ana KUR a-ši-ib ti [x x] x GIŠ.GU.ZA [a-bi-šu DIB-at]
+32. MIN [U₄.20.]<KAM₂> MIN MIN DUMU LUGAL [GI]Š.GU.ZA a-bi-šu DIB-at
+33. MIN [U₄.2]1.<KAM₂> MIN MIN LUGAL GIŠ[.GU.]ZA u₂-la-ba-a[r]
 34. MIN [ina la-a-d]a-ni-šu KI.MIN bar-tu₄ ana LUGAL ŠUB ERIM DAGAL.LA
-35. DIŠ ina {iti}DU₆.KÙ U₄.14.KÁM MIN MIN x.MEŠ [LUGAL ERIM-š]ú DAGAL.LA ŠUB ZI.GA ELAM.MA{ki} [...]
-36. MIN U₄.15.KÁM MIN MIN [er-bu] zi-ma EBUR [i-ma]h-<ha>-aṣ KUR [...]
-37. MIN U₄.16.KÁM MIN MIN [x x] x šu x [bi-ib-la-at] KUR-su it-b[al]
-38. MIN U₄.20.KÁM MIN MIN NÌ.HA.LAM.MA [x x] x ù li-'-bu GÁL-ši [...]
-39. MIN U₄.21.KÁM MIN MIN ZI.GA [x x] ana KUR GÁL-ši
-40. MIN ina la-a-da-ni-šu KI.[MIN MIN ŠUB ERI]M GAL u MÁŠ.ANŠE GÁL-[ši]
-41. DIŠ [ina] {iti}[APIN.DU₈.A] U₄.14.KÁM MIN MIN zu-un-nu ina AN-e mi-lu ina ÍD LÁ-ma ŠUB [MÁŠ.ANŠE]
-42. MIN U₄.15.KÁM MIN MIN <Í>D i-bal hi-ṣi-ib-šu ZÁH mi-šir-t[i]
-43. MIN U₄.16.KÁM MIN MIN šal-pu-ut-tu URI{ki}
-44. [MIN] U₄.20.KÁM MIN MIN ŠUB LUGAL ina GIŠ.TUKUL GÁL-ši
-45. [MIN] U₄.21.KÁM MIN MIN ZI.GA ELAM.MA{ki} u ZI ina KUR GÁL-[ši]
-46. [MIN ina la-a-da-ni-šu] KI.MIN MIN ŠUB ERIM GAL u MÁŠ.ANŠE GÁL-š[i]
+35. DIŠ ina {iti}DU₆.KU₃ U₄.14.KAM₂ MIN MIN x.MEŠ [LUGAL ERIM-š]u₂ DAGAL.LA ŠUB ZI.GA ELAM.MA{ki} [...]
+36. MIN U₄.15.KAM₂ MIN MIN [er-bu] zi-ma EBUR [i-ma]h-<ha>-aṣ KUR [...]
+37. MIN U₄.16.KAM₂ MIN MIN [x x] x šu x [bi-ib-la-at] KUR-su it-b[al]
+38. MIN U₄.20.KAM₂ MIN MIN NI₃.HA.LAM.MA [x x] x u₃ li-'-bu GAL₂-ši [...]
+39. MIN U₄.21.KAM₂ MIN MIN ZI.GA [x x] ana KUR GAL₂-ši
+40. MIN ina la-a-da-ni-šu KI.[MIN MIN ŠUB ERI]M GAL u MAŠ₂.ANŠE GAL₂-[ši]
+41. DIŠ [ina] {iti}[APIN.DU₈.A] U₄.14.KAM₂ MIN MIN zu-un-nu ina AN-e mi-lu ina ID₂ LA₂-ma ŠUB [MAŠ₂.ANŠE]
+42. MIN U₄.15.KAM₂ MIN MIN <I₂>D i-bal hi-ṣi-ib-šu ZAH₂ mi-šir-t[i]
+43. MIN U₄.16.KAM₂ MIN MIN šal-pu-ut-tu URI{ki}
+44. [MIN] U₄.20.KAM₂ MIN MIN ŠUB LUGAL ina GIŠ.TUKUL GAL₂-ši
+45. [MIN] U₄.21.KAM₂ MIN MIN ZI.GA ELAM.MA{ki} u ZI ina KUR GAL₂-[ši]
+46. [MIN ina la-a-da-ni-šu] KI.MIN MIN ŠUB ERIM GAL u MAŠ₂.ANŠE GAL₂-š[i]
 $ (break)
 47'. [x x x] x x x [...]
 48'. [x x x] GAZ-šu-ma [...]
 49'. [x x i-na m]a-ti {d}IŠKUR ka-s[u i-na-ad-di]
-50'. [x x x] nu-kúr-tu₄ GÁL-šú
+50'. [x x x] nu-kur₂-tu₄ GAL₂-šu₂
 51'. [MIN ina la-a-da-ni-šu KI.MIN MIN] {d}IŠKUR i-ra-hi-iṣ-ma KI.LAM [...]
-52'. [DIŠ ina {iti}x x x MIN] MIN MÁŠ SI.SÁ x x [x] GÁL ina [x] x lu MÁŠ.AN[ŠE]
-53'. [MIN x x x MIN] MIN zu-un-nu ina AN-e [mi-lu ina ÍD] GÁL-ši sa-d[i-ir]
-54'. [MIN x x x MIN MIN] la ha-as-su GIŠ.[GU.ZA DIB-at] KI.[BAL] né-kúr-ra-te GÁL-ši [...]
-55'. GAR tah-lu-uq-[ti LUGAL KUR-su ina KA-]šú [la] ú-uš-ša-ab
-56'. [MIN x x x MIN MIN] LUGAL KUR ha-liq-ti [ú-u]š-ša-ab
-57'. [MIN ina la-a-da-ni-š]u KI.MIN MIN LUGAL BA.U[Š₂-ma EBU]R SI.SÁ KI.LAM ana SIG₅-qá-ti [...]
-58'. [DIŠ ina {iti}x x x K]I.MIN MIN zu-un-nu ina AN-e mi-lu ina ÍD GÁL-ši a-ṣi-i[t KÁ.GAL UR.MAH i-par-ra-as]
+52'. [DIŠ ina {iti}x x x MIN] MIN MAŠ₂ SI.SA₂ x x [x] GAL₂ ina [x] x lu MAŠ₂.AN[ŠE]
+53'. [MIN x x x MIN] MIN zu-un-nu ina AN-e [mi-lu ina ID₂] GAL₂-ši sa-d[i-ir]
+54'. [MIN x x x MIN MIN] la ha-as-su GIŠ.[GU.ZA DIB-at] KI.[BAL] ne₂-kur₂-ra-te GAL₂-ši [...]
+55'. GAR tah-lu-uq-[ti LUGAL KUR-su ina KA-]šu₂ [la] u₂-uš-ša-ab
+56'. [MIN x x x MIN MIN] LUGAL KUR ha-liq-ti [u₂-u]š-ša-ab
+57'. [MIN ina la-a-da-ni-š]u KI.MIN MIN LUGAL BA.U[Š₂-ma EBU]R SI.SA₂ KI.LAM ana SIG₅-qa₂-ti [...]
+58'. [DIŠ ina {iti}x x x K]I.MIN MIN zu-un-nu ina AN-e mi-lu ina ID₂ GAL₂-ši a-ṣi-i[t KA₂.GAL UR.MAH i-par-ra-as]
 59'. [x x i-na n]a-ra-ru-ti DU-[m]a š[u-ba]t-su KUR-su BA.UŠ₂ [...]
-60'. [x x MIN] MIN KUR NÌ.HA.LAM.MA KÙ.BA[B]BAR IGI.DU₈ GISKIM SIG₅.GA
-61'. [x x x] ù GIŠ.GU.ZA DIB-at [É.]GAL-ši-na [DIB]-at
+60'. [x x MIN] MIN KUR NI₃.HA.LAM.MA KU₃.BA[B]BAR IGI.DU₈ GISKIM SIG₅.GA
+61'. [x x x] u₃ GIŠ.GU.ZA DIB-at [E₂.]GAL-ši-na [DIB]-at
 62'. [x x URU-k]a il-la-mi-[ma MA]Š.SUD-ka in-na-aš-ši
-63'. [x x x] È-ma GIŠ.GU.ZA DIB-at
-64'. [x x x] x-lu KU[R] N[U SI.SÁ]
+63'. [x x x] E₃-ma GIŠ.GU.ZA DIB-at
+64'. [x x x] x-lu KU[R] N[U SI.SA₂]
 65'. [x x x] x
-66'. [x x zu-un-nu ina AN-e mi-lu] ina ÍD GÁL EBUR SI.SÁ
-67'. [x x x] x BA.UŠ₂ UR.GI₇.MEŠ iš-še-gu-ma ú-na-[aš-ša-ku]
-68'. [x x x] BAL UR.MAH.MEŠ iš-ši-ig-gu₅-m[a ú-na-aš-ša-ku]
+66'. [x x zu-un-nu ina AN-e mi-lu] ina ID₂ GAL₂ EBUR SI.SA₂
+67'. [x x x] x BA.UŠ₂ UR.GI₇.MEŠ iš-še-gu-ma u₂-na-[aš-ša-ku]
+68'. [x x x] BAL UR.MAH.MEŠ iš-ši-ig-gu₅-m[a u₂-na-aš-ša-ku]
 69'. [x x x] x-ta uš-tal-pa-at
 70'. [x x x] URI{ki}
-71'. [x x x] x ú-šal-pat KUR ana s[e-]e-ker [...]
-72'. [MIN x x x] KI.MIN MIN ár-bu-tu GAR ERIM[-Ma-an-d]a ú-šal[-pa-tu]
-73'. [x x M]Í.NITA-ši-na ana KÙ.BABBAR [burù]
-74'. [x x x] GÁL-ši e [x x x x] x [...]
+71'. [x x x] x u₂-šal-pat KUR ana s[e-]e-ker [...]
+72'. [MIN x x x] KI.MIN MIN ar₂-bu-tu GAR ERIM[-ma-an-d]a u₂-šal[-pa-tu]
+73'. [x x M]I₂.NITA-ši-na ana KU₃.BABBAR [buru₃]
+74'. [x x x] GAL₂-ši e [x x x x] x [...]
 75'. [x x t]u [...]
 76'. [x x x] x KI uš-ta[l-pa-at]
-77'. DIŠ [ina {iti}BÁRA.ZAG.GAR x x x] x bi uz nu-huš ni-ši DIŠ ina {iti}GU₄.SI.S[Á KI.MIN]
-78'. DIŠ [ina] {iti}[SIG₄.GA KI.MIN x x x x] DIŠ ina {iti}ŠU.NUMUN.NA KI.MIN ŠE.Ì.GIŠ SI.SÁ [DIŠ ina {iti}NE.NE.GAR KI.MIN]
-79'. DIŠ ina {iti}KIN.{d}INA[NNA K]I.MIN [x x S]I.SÁ DIŠ ina DU₆.KÚ KI.MIN mi-šìr-ti S[I.SÁ]
-80'. x mím-ma an-nu-ú [U₄ AN] {d}en-líl {d}é-a DINGIR.MEŠ GAL.[GA]L ina mil-ki-šú-nu GIŠ.HUR [AN-e u KI-tì iš-ku-nu]
-81'. [ù ZAL]AG.GA ana na-[ma]-ri 30 ú-ki-in-nu U₄-ma ba-na-a ITI ud-du-šu [...]
+77'. DIŠ [ina {iti}BARA₂.ZAG.GAR x x x] x bi uz nu-huš ni-ši DIŠ ina {iti}GU₄.SI.S[A₂ KI.MIN]
+78'. DIŠ [ina] {iti}[SIG₄.GA KI.MIN x x x x] DIŠ ina {iti}ŠU.NUMUN.NA KI.MIN ŠE.I₃.GIŠ SI.SA₂ [DIŠ ina {iti}NE.NE.GAR KI.MIN]
+79'. DIŠ ina {iti}KIN.{d}INA[NNA K]I.MIN [x x S]I.SA₂ DIŠ ina DU₆.KU₂ KI.MIN mi-šir₃-ti S[I.SA₂]
+80'. x mim₂-ma an-nu-u₂ [U₄ AN] {d}en-lil₂ {d}e₂-a DINGIR.MEŠ GAL.[GA]L ina mil-ki-šu₂-nu GIŠ.HUR [AN-e u KI-ti₃ iš-ku-nu]
+81'. [u₃ ZAL]AG.GA ana na-[ma]-ri 30 u₂-ki-in-nu U₄-ma ba-na-a ITI ud-du-šu [...]
 82'. [ma-g]u-ur AN-[e] x x x x [...]
 
 @colophon
-83'. [ṭup-]pí ŠU {m}{d}20-a-bu DUB.SAR [...]
-84'. [ÌR] {d}NÀ u {d}NISABA ÌR {d}[...]
-85'. [u {d}]dam-ki-in-na gáb-ba [...]
+83'. [ṭup-]pi₂ ŠU {m}{d}20-a-bu DUB.SAR [...]
+84'. [IR₃] {d}NA₃ u {d}NISABA IR₃ {d}[...]
+85'. [u {d}]dam-ki-in-na gab₂-ba [...]

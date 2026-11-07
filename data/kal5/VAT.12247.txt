@@ -10,13 +10,18 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x [...]
+$ single ruling
 2’. [...] x.MEŠ x ud bar
 3’. [...] x KUR LUGAL? man ši?
+$ single ruling
 4’. [...] x.MEŠ x x x
 5’. [...] x ka i - m a - a t
+$ single ruling
 6’. [...] mi ti
 7’. [...] zi im
-8’. [...] x.MEŠx x
-9’. [...] ⸢ḫi⸣-pí
-10’. [... ḫ]i-pí
+$ single ruling
+8’. [...] x.MEŠ x x
+$ single ruling
+9’. [...] hi#-pi₂
+10’. [... h]i-pi₂
 11’. [...] x

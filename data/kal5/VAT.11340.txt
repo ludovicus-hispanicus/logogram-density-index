@@ -10,9 +10,12 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x [...] x [...]
-2’. [... ŠU ...].⸢SI GIŠ ⸣.ḪUR TA SUḪUŠ -šá ⸢EN⸣ [...]
-3’. [... Š]U.SI GIŠ.ḪUR TA SUḪUŠ -šá EN [...]
-4’. [... ŠU ...].SI GIŠ.ḪUR ana SUḪUŠ ŠU.SI [...]
-5’. [... Š]U.SI GIŠ.ḪUR ana ⸢ SAG⸣ ŠU. [SI ...]
-6’. [... GIŠ.ḪU ...]R ḪUR -e[t ...]
-7’. [...] ⸢ḪUR⸣[...]
+$ single ruling
+2’. [... ŠU ...].SI# GIŠ# .HUR TA SUHUŠ-ša₂ EN# [...]
+3’. [... Š]U.SI GIŠ.HUR TA SUHUŠ-ša₂ EN [...]
+$ single ruling
+4’. [... ŠU ...].SI GIŠ.HUR ana SUHUŠ ŠU.SI [...]
+5’. [... Š]U.SI GIŠ.HUR ana SAG# ŠU. [SI ...]
+$ single ruling
+6’. [... GIŠ.HU]R HUR-e[t ...]
+7’. [...] HUR#[...]

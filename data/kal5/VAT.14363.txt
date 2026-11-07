@@ -11,14 +11,15 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 @obverse
 1’. [...] x [...]
 2’. [...] x x [...]
-3’. [...] KÚRNAM.R[A? ...]
+3’. [...] KURNAM₂.R[A? ...]
 4’. [...] x ti [...]
 @reverse
-1’. [...] NUx [...]
-2’. [...] x ṣú-ub-bu-tuṣir [...]
-3’. [...]-⸢in?⸣ AN.TA [...]
-4’. [...] AN.TA[...]
+1’. [...] NU x [...]
+2’. [...] x ṣu₂-ub-bu-tuṣir [...]
+3’. [...]-in#? AN.TA [...]
+4’. [...] AN.TA [...]
 5’. [...] x [...]
-6’. [... Z]AG BÙR ŠUB NUN i+na É.GALq[u-bur-šú ipette]
-7’. [...] ŠUB⸢NUN⸣ ša KUR KÚR i+na [...]
+6’. [... Z]AG BUR₃ ŠUB NUN i+na E₂.GAL q[u-bur-šu₂ ipette]
+7’. [...] ŠUB NUN# ša KUR KUR₂ i+na [...]
+$ single ruling
 (drei leere Zeilen, danach abgebrochen)

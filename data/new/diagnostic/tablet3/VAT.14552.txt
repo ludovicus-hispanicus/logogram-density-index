@@ -10,19 +10,19 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms J 1′
-95. [... S]AG#.DU#-[šú] x x ina# ED#[IN? ...]
-96. [... S]AG.DU-šú i#-sal#-li#-iḫ# [...]
+#note: ms J 1′
+95. [... S]AG.DU#-[šu₂] x x ina# ED[IN? ...]
+96. [... S]AG.DU-šu₂ i#-sal#-li#-ih# [...]
 $ single ruling
 98. [...]
-99. [... s]a!-pat ÚŠ :
-100. DIŠ SÍK SAG.DU-šú is-se-ni-i[p ...]
-101. [DIŠ SÍK SAG.DU-šú i]s-sa!-la-ʾ ina EDIN TAG KI.MIN :
-102. DIŠ SÍK S[AG.DU-šú ...]
-103. [... S]U-šú DIŠ-niš zuq-qú-pat ina EDIN TAG ÚŠ :
-104. DIŠ SÍK [...]
+99. [... s]a!-pat UŠ₂ :
+100. DIŠ SIK₂ SAG.DU-šu₂ is-se-ni-i[p ...]
+101. [DIŠ SIK₂ SAG.DU-šu₂ i]s-sa!-la-ʾ ina EDIN TAG KI.MIN :
+102. DIŠ SIK₂ S[AG.DU-šu₂ ...]
+103. [... S]U-šu₂ DIŠ-niš zuq-qu₂-pat ina EDIN TAG UŠ₂ :
+104. DIŠ SIK₂ [...]
 105. [...] ZI#-at GAM :
-106. DIŠ SÍK SAG.DU-šú GE[N₇? ...]
+106. DIŠ SIK₂ SAG.DU-šu₂ GE[N₇? ...]
 107. [...]
-108. DIŠ# SÍK# SAG.DU-šú SA₅ SÌG-i[ṣ ...]
-109. [...] x DAB# GÍD#.DA#? [...]
+108. DIŠ# SIK₂# SAG.DU-šu₂ SA₅ SIG₃-i[ṣ ...]
+109. [...] x DAB# GID₂#.DA#? [...]

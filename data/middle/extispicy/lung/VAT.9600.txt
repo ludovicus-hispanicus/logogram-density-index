@@ -10,15 +10,15 @@ note: colophon records 73 omens (1 šuši 13); scribe Šamaš-nādin-aḫḫē
 ---
 
 @obverse
-1. BE+ma ŠU.SI MUR MURUB₄ i+na mu-uḫ!-ḫi-ša ḫi-pi₂ DA[M ...]
+1. BE+ma ŠU.SI MUR MURUB₄ i+na mu-uh!-hi-ša hi-pi₂ DA[M ...]
 #tr.en: If the middle lung-finger has a break on its upper side: the wif[e ...].
-2. BE+ma ŠU.SI MUR MURUB₄ mu-uḫ!-ḫa-ša ša-ti-iq re-ṣ[u?-ut? ...]
+2. BE+ma ŠU.SI MUR MURUB₄ mu-uh!-ha-ša ša-ti-iq re-ṣ[u?-ut? ...]
 #tr.en: If the upper side of the middle lung-finger is split: the hel[p? ...].
-3. BE+ma ŠU.SI MUR MURUB₄ mu-uḫ!-ḫa-ša pa-ṭe₄-er x [...]
+3. BE+ma ŠU.SI MUR MURUB₄ mu-uh!-ha-ša pa-ṭe₄-er x [...]
 #tr.en: If the upper side of the middle lung-finger is notched: ...
 4. BE+ma ŠU.SI MUR MURUB₄ ib-ba-al-ki-it-ma GU₂.MUR iṭ-ṭul URU [...]
 #tr.en: If the middle lung-finger turns over and faces the trachea: the city [...].
-5. BE+ma ŠU.SI MUR MURUB₄ ZAG-ša a-na GUB₃-ma GUB₃-ša a-na ZAG-ša is-ḫu-u[r ...]
+5. BE+ma ŠU.SI MUR MURUB₄ ZAG-ša a-na GUB₃-ma GUB₃-ša a-na ZAG-ša is-hu-u[r ...]
 #tr.en: If the right side of the middle lung-finger twists to the left and its left side to its right [...],
 6. BE+ma i+na ne₂-ke-em!-ti [(x)] x ib-ba-la-ka-at x [...]
 #tr.en: or because of the removal(?) [...] he will become treaty-breaking ... [...].

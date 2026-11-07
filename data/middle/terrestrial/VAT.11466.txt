@@ -10,11 +10,12 @@ note: Logographic Middle Assyrian terrestrial omens.
 ---
 
 @obverse
-[...] su x⸣ [...]
-[... ma]r mim-ma m[a-la ...]
-[...]-ma uš-te-eš-[ši-ru ...]
-[DIŠ e-ri]b É LÚ ḫa-du-[...]
-[DIŠ e-rib É L]Ú ud-du-ru [...]
-[DIŠ KI.MIN i-k]ar-ra-bu [...]
-[...] ú na da x⸣ [...]
-[...] x⸣ ú [...]
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. [...] su x [...]
+2. [... ma]r mim-ma m[a-la ...]
+3. [...]-ma uš-te-eš-[ši-ru ...]
+4. [DIŠ e-ri]b E₂ LU₂ ha-du-[...]
+5. [DIŠ e-rib E₂ L]U₂ ud-du-ru [...]
+6. [DIŠ KI.MIN i-k]ar-ra-bu [...]
+7. [...] u₂ na da x [...]
+8. [...] x u₂ [...]

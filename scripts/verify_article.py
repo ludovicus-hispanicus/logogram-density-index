@@ -190,6 +190,24 @@ NEW_PRINTED.update({
  'T24 Neo-Bab pure':46.2, 'T24 Neo-Bab mixed':28.4, 'T24 Neo-Bab syll':25.4,
  'T32 band pure low':44.5, 'T32 band mixed high':30.0,
 })
+# Re-pinned 2026-11-07: article patched after the eBL-ATF corrections (names written like
+# {d}en-lil2 count as syllabic, like {d}ISTAR as logographic; glued words split).
+NEW_PRINTED.update({
+ 'T5 bin Old':0.326, 'T5 bin Middle':0.700, 'T5 bin corpus':0.681,
+ 'T5 micro Old':0.192, 'T5 micro Neo':0.591, 'T5 micro corpus':0.495,
+ 'T5 ina/ana-log Neo':0.824,
+ 'T5 restor-dropped Old':0.310, 'T5 restor-dropped Middle':0.679, 'T5 restor-dropped Neo':0.738,
+ 'T5 no-particle Old':0.280, 'T5 mixed Old':2.4, 'T5 syll Neo':24.4,
+ 'prose O->M rise min':0.316,
+ 'prose ina/ana one-sign Middle':1158, 'prose ina/ana one-sign Neo':2689,
+ 'T17 astro Neo micro':0.62,
+ 'T21 EAE20+21+22 mixed':16.3, 'T21 EAE20+21+22 syll':27.1,
+ 'T21 pooled micro':0.63, 'T21 pooled mixed':14.1, 'T21 pooled syll':26.0,
+ 'T23 diag Middle bin':0.51,
+ 'T25 StBoT bin':0.21,
+ 'T27 izbu Old bin':0.18, 'T27 izbu Old micro':0.08,
+ '3.5.2 Neo signs low':51.4,
+})
 
 def ck(label, computed, printed, dec=2):
     """dec: decimals of the printed value; dec='pct1' = one-decimal percent;

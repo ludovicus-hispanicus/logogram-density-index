@@ -9,61 +9,62 @@ note: Logographic Middle Assyrian terrestrial omens.
 ---
 
 @obverse
-DIŠ KI?.UŠ? [...] x [...]
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. DIŠ KI?.UŠ? [...] x [...]
 $ single ruling
-DIŠ {d}ALAD [ina] É ?NA? IG[I].DU₈ BI[R-aḫ É]
-DIŠ {d}ALAD ina É up-ta-na-[ra-ad KI.MIN]
-DIŠ {d}ALAD ana É KÁ G[Ù].GÙ-si [KI.MIN]
+2. DIŠ {d}ALAD [ina] E₂ ?NA? IG[I].DU₈ BI[R-ah E₂]
+3. DIŠ {d}ALAD ina E₂ up-ta-na-[ra-ad KI.MIN]
+4. DIŠ {d}ALAD ana E₂ KA₂ G[U₃].GU₃-si [KI.MIN]
 $ single ruling
-DIŠ GIDIM₄ ina É IGI.DU₈ BI[R-aḫ É]
-DIŠ GID[I]M₄ ina É up-ta-na-ra-ad KI.MIN [o]
-DIŠ GIDIM₄ ina É KÁ GÙ.GÙ-si KI.MIN [o]
-DIŠ G[ID]IM₄ is-si-[m]a še-mu-u iš-me-šu ni-di [ṭēmi]
-DIŠ ?GIDIM₄? ug-d[a-n]a-la-su qí-ti u₄-m[i]
-DIŠ G[IDIM]₄ KI.TA {giš}NÁ-šú i-na-az-zu nu-kúr KI.NÁ ina [...]
+5. DIŠ GIDIM₄ ina E₂ IGI.DU₈ BI[R-ah E₂]
+6. DIŠ GID[I]M₄ ina E₂ up-ta-na-ra-ad KI.MIN [o]
+7. DIŠ GIDIM₄ ina E₂ KA₂ GU₃.GU₃-si KI.MIN [o]
+8. DIŠ G[ID]IM₄ is-si-[m]a še-mu-u iš-me-šu ni-di [ṭēmi]
+9. DIŠ ?GIDIM₄? ug-d[a-n]a-la-su qi₂-ti u₄-m[i]
+10. DIŠ G[IDIM]₄ KI.TA {giš}NA₂-šu₂ i-na-az-zu nu-kur₂ KI.NA₂ ina [...]
 $ single ruling
-DIŠ mi-tu₄ GIM TI.LA i+na É IGI.DU₈ BIR-aḫ É
-DIŠ mi-tu₄ GIM TI.LA i+na É up-ta-na-rad KI.MIN
-DIŠ mi-tu₄ GIM TI.LA ana É KÁ GÙ.GÙ-si KI.MIN
+11. DIŠ mi-tu₄ GIM TI.LA i+na E₂ IGI.DU₈ BIR-ah E₂
+12. DIŠ mi-tu₄ GIM TI.LA i+na E₂ up-ta-na-rad KI.MIN
+13. DIŠ mi-tu₄ GIM TI.LA ana E₂ KA₂ GU₃.GU₃-si KI.MIN
 $ single ruling
-DIŠ ḫal-lu-la-a-a ana É uš-ta-na-ar É BI i-ḫar-ru-ub
-DIŠ ḫal-lu-la-a-a ina A[B] É a-sur-re i-ša-az-na-an KI.MIN
-DIŠ ḫal-lu-la-a-a ina ka-la u₄-mi KI.MIN DAG.GI₄.A i-ḫar-ru-ub
+14. DIŠ hal-lu-la-a-a ana E₂ uš-ta-na-ar E₂ BI i-har-ru-ub
+15. DIŠ hal-lu-la-a-a ina A[B] E₂ a-sur-re i-ša-az-na-an KI.MIN
+16. DIŠ hal-lu-la-a-a ina ka-la u₄-mi KI.MIN DAG.GI₄.A i-har-ru-ub
 $ single ruling
-DIŠ ina É LÚ DINGIR ana qé-re-ti KU₄ ti-bu ṣal-tu₄ pu-uḫ-pu-ḫu-u ana É BI sa-dir
-DIŠ ina É LÚ NINDA na-din KI.MIN
-DIŠ ina É LÚ {munus}UD.SAL.ḪÚB i+na É.GAR₈ sa-ni-ip KI.MI[N]
-DIŠ ina É LÚ UR.[M]AḪ i+na É.GAR₈ e-ṣir [KI].MIN
-DIŠ [ina] É LÚ UR.[A] i+na É.GAR₈ e-ṣir KI.MIN
-[... ni]-ziq-tu₄ sad-rat-su
-[... s]a-dir-šu
-[...] DÙG.GA
-[...] x
+17. DIŠ ina E₂ LU₂ DINGIR ana qe₂-re-ti KU₄ ti-bu ṣal-tu₄ pu-uh-pu-hu-u ana E₂ BI sa-dir
+18. DIŠ ina E₂ LU₂ NINDA na-din KI.MIN
+19. DIŠ ina E₂ LU₂ {munus}UD.SAL.HUB₂ i+na E₂.GAR₈ sa-ni-ip KI.MI[N]
+20. DIŠ ina E₂ LU₂ UR.[M]AH i+na E₂.GAR₈ e-ṣir [KI].MIN
+21. DIŠ [ina] E₂ LU₂ UR.[A] i+na E₂.GAR₈ e-ṣir KI.MIN
+22. [... ni]-ziq-tu₄ sad-rat-su
+23. [... s]a-dir-šu
+24. [...] DUG₃.GA
+25. [...] x
 
 @reverse
-[...] x x [...]
+26. [...] x x [...]
 $ single ruling
-[DIŠ] ina É NA x [...] x
-[DIŠ?] ina É?.MEŠ-šú x [...] KÚR-ir
+27. [DIŠ] ina E₂ NA x [...] x
+28. [DIŠ?] ina E₂?.MEŠ-šu₂ x [...] KUR₂-ir
 $ single ruling
-[DIŠ ina (x)] É ?NA? BÁRA IGI [...] x x [...] ZI
-[DIŠ ina (x)] É ?NA? BÁRA e-mi?-id [...] É
-[DIŠ ina ZA]G É NA BÁRA GAR É BI iš-di-ḫa TUK-š[i]
-[DIŠ ina GÙ]B É NA BÁRA GAR EN É ina ŠÀ-šú ina ŠÀ NU DÙG.GA TUŠ-ab
-[DIŠ ina MURUB]₄ É NA BÁRA GAR É BI ul-tab-bar
-[DIŠ ina EGIR] É NA BÁRA e-mi-id SUḪUŠ.ÀM ki-na-a-tu₄
-[DIŠ ina É].SIG₄ É NA BÁRA šu-uq-qú-ma DÙ-uš EN É KÚR-ir EN min-du TUK-ši
+29. [DIŠ ina (x)] E₂ ?NA? BARA₂ IGI [...] x x [...] ZI
+30. [DIŠ ina (x)] E₂ ?NA? BARA₂ e-mi?-id [...] E₂
+31. [DIŠ ina ZA]G E₂ NA BARA₂ GAR E₂ BI iš-di-ha TUK-š[i]
+32. [DIŠ ina GU]B₃ E₂ NA BARA₂ GAR EN E₂ ina ŠA₃-šu₂ ina ŠA₃ NU DUG₃.GA TUŠ-ab
+33. [DIŠ ina MURUB]₄ E₂ NA BARA₂ GAR E₂ BI ul-tab-bar
+34. [DIŠ ina EGIR] E₂ NA BARA₂ e-mi-id SUHUŠ.AM₃ ki-na-a-tu₄
+35. [DIŠ ina E₂].SIG₄ E₂ NA BARA₂ šu-uq-qu₂-ma DU₃-uš EN E₂ KUR₂-ir EN min-du TUK-ši
 $ single ruling
-[DIŠ ina/TA É] LÚ ša NIR.DA SA₅ GÁL-ši e-neš É LÚ
-[DIŠ KI.MIN] ša SAḪAR.ŠUB.BA SA₅ GÁL-ši KI.MIN
-[DIŠ KI.MIN] ša um-ṣa-ti SA₅ GÁL-ši KI.MIN
-[DIŠ KI.MIN] ša a-ga-nu-ti-<la> SA₅ GÁL-ši KI.MIN
-[DIŠ KI.MIN] ša ṣer-šá SA₅ GÁL-ši KI.MIN
-[DIŠ] ša MUŠ.LÚ.U₁₉.LU IGI.DU₈ É BI MU TUK-[ši]
-[...] gub-bu-ḫu IGI.DU₈ É BI NITA TUK-[ši]
-[...] x gam ú IGI.DU₈ É BI x [...]
-[...] IGI.DU₈ É BI ul-[tab-bar]
-[... d]u-tu₄ GÁL.MEŠ É BI x [...]
-[...] x GÁL.MEŠ É BI [...]
-[...] GÁL.MEŠ ki? [...]
-[... GÁ]L.MEŠ [...]
+36. [DIŠ ina/TA E₂] LU₂ ša NIR.DA SA₅ GAL₂-ši e-neš E₂ LU₂
+37. [DIŠ KI.MIN] ša SAHAR.ŠUB.BA SA₅ GAL₂-ši KI.MIN
+38. [DIŠ KI.MIN] ša um-ṣa-ti SA₅ GAL₂-ši KI.MIN
+39. [DIŠ KI.MIN] ša a-ga-nu-ti-<la> SA₅ GAL₂-ši KI.MIN
+40. [DIŠ KI.MIN] ša ṣer-ša₂ SA₅ GAL₂-ši KI.MIN
+41. [DIŠ] ša MUŠ.LU₂.U₁₉.LU IGI.DU₈ E₂ BI MU TUK-[ši]
+42. [...] gub-bu-hu IGI.DU₈ E₂ BI NITA TUK-[ši]
+43. [...] x gam u₂ IGI.DU₈ E₂ BI x [...]
+44. [...] IGI.DU₈ E₂ BI ul-[tab-bar]
+45. [... d]u-tu₄ GAL₂.MEŠ E₂ BI x [...]
+46. [...] x GAL₂.MEŠ E₂ BI [...]
+47. [...] GAL₂.MEŠ ki? [...]
+48. [... GA]L₂.MEŠ [...]

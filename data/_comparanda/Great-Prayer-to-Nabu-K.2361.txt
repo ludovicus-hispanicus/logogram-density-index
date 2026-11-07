@@ -88,7 +88,7 @@ $ single ruling
 $ single ruling
 49. [k]i-ma le-e ša₂ ina nap-la-qu pal-qu   i-ram#-mu#-um ši-i[g-miš]
 50. [i]na pi#-i# le#-ʾ-u₂ da-ab-ru na-di-ma u₂-gan-na-a[n? x x x]
-#note: The expression @i{ina pī lē’î} is obscure, von Soden (@bib{RN685@64}) suggests it might be some sort of demon. The verbal form occurring after the caesura is tentatively restored, and other verbs are also possible, such as, for example, the rare verb @i{genû}, “to thrust”  (@i{CAD} G 60; @i{AHw} 284). 
+#note: The expression @i{ina pī lē’î} is obscure, von Soden (@bib{RN685@64}) suggests it might be some sort of demon. The verbal form occurring after the caesura is tentatively restored, and other verbs are also possible, such as, for example, the rare verb @i{genû}, “to thrust”  (@i{CAD} G 60; @i{AHw} 284).
 $ single ruling
 $ end of column
 51. ki-tu#/li# x x [x x x x x x x] x [x x x]
@@ -137,7 +137,7 @@ $ single ruling
 80. [x x r]it?-ti-ka ta-at-ta-di du#-u[š?-ma?-ka?]
 $ single ruling
 81. [a?-šam?]-ša₂#-niš hal-lu-la-a-a DINGIR lem-ni ta#-x [x x x x]
-82. [x x-tu]l?# la-ga#-mi du-tuš ta-bar-ri?# x [x x x x]
+82. [x x-tu]l? la-ga#-mi du-tuš ta-bar-ri?# x [x x x x]
 $ single ruling
 83. [x x-u]š? uš-ha-ri-ir i-laq#-qe₂# x [x x x x (x)]
 84. [x x] i#-ta-šar ig-da#-mar# [x x x x (x)]
@@ -225,7 +225,7 @@ $ single ruling
 135. min₃-su x [(x)] x (x) [x x x x x x x x (x)]
 $ single ruling
 136. ša₂ rag-gi u x [x x x x x x x x (x)]
-137. [š]u?#-ut# lum-n[u x x x x x x x x (x)]
+137. [š]u?-ut# lum-n[u x x x x x x x x (x)]
 $ single ruling
 138. [x x] x [x x x x x x x x (x)]
 $ rest of column broken

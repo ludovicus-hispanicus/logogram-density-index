@@ -9,20 +9,20 @@ source: "Schmidtchen 2021 (BAM 13), Tafel 14 score pp. 563-580, the rows of ms B
 note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/restoration (dropped in preserved-only), x illegible (always lowercase, never with '#'; XX and XXX are the numeral logograms), '#' after a damaged sign. Schmidtchen's half-brackets for damage at the top, at the bottom, and their mixed forms (also where a half-bracket pairs with a full bracket) are all written '#': damaged but legible; an unmatched half-bracket in his print marks the one sign next to it. '/' is his tablet line break inside an entry; his '(Strich)' becomes '$ single ruling' after the entry ('(Strich?)' is dropped). Catchline and colophon, where the manuscript has them, are under @catchline and @colophon (not counted)."
 ---
 
-@column i
-# ms B i1a
+@column 1
+#note: ms B i1a
 1. [...] (leer) [x x]
-2. [...] x ú-za-bal#
+2. [...] x u₂-za-bal#
 @obverse
-# ms B 2
+#note: ms B 2
 3. [... N]U TUK
 4. [...]-su MAN-ni
 5. [... GIG]-su DUGUD-it
-6. [... na]-ḫi-id
+6. [... na]-hi-id
 7. [...]-su DUGUD
 8. [...]-id
-9. [...] ÚŠ
+9. [...] UŠ₂
 10. [... GI]G-su MAN-ni
-11. [... GI]G#-su DUGUD
-12. [... na]-ḫi-id
-13. [...] x x ú#?-za#-bal#
+11. [... GI]G-su DUGUD
+12. [... na]-hi-id
+13. [...] x x u₂#?-za#-bal#

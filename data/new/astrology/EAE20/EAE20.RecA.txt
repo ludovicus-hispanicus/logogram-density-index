@@ -13,124 +13,124 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] restoration
 ---
 
 @text
-# § I (pp. 180-181)
-1. [DIŠ ina IT]I.BARA₂ UD.14.KAM AN.MI GAR-ma DI[NGIR ina KA×MI-šú Á IM.U₁₈.LU] AN.TA KA×MI-ma
-2. ($___$) Á IM.SI.SÁ KI.TA iz-ku ina ŠÀ.HUL-šú IM.MAR.TU ZI-ma [...]-ti ina šu-ri-in-ni-šu {d}Dil-bat
-3. ($___$) [ana ŠÀ-šú TU] DUMU LUGAL ana AŠ.TE AD-šú KIMIN ana É AD-šú TU
-4. ($___$) [DINGIR šá ina šu-ri-in-ni-šú {d}Dil]-bat ana ŠÀ-šú TU KA×MI-šú IGI-ma IM.MAR.TU ina ŠU-ka tu-kal
-5. ($___$) ana ŠÀ A.GA.DÈ.KI [EŠ.BAR SUM-in LUGAL] [A].GA.DÈ.KI BE u UN.MEŠ-šú SILIM.MA
-6. ($___$) BAL A.GA.DÈ.KI in-niš-ši EGIR.MEŠ-šú SIG₅.MEŠ
-7. ($___$) [DINGIR šá ina KA×MI-šú EN.NUN U₄.ZAL.LI] SAR-ma 1/3.TA.ÀM EN.NUN uh-hu-ru-ma
-8. ($___$) [... ina ITI.GAN UD.28].KAM UD.29.KAM SAG IGI.DU₈.A-šú IGI-ma
-9. ($___$) MUL.Dil-bat ana ŠÀ-šú TU DUMU LUGAL ana [É AD-šú TU]
-10. ($___$) [ina ITI.GAN UD.28.KAM // UD.29.KAM SAG IGI].DU₈.A-šú IGI-ma
-11. ($___$) AN.MI ta-qab-bi UD.NÁ-A AN.MI ú-kal-lam-ka
+#note: § I (pp. 180-181)
+1. [DIŠ ina IT]I.BARA₂ UD.14.KAM AN.MI GAR-ma DI[NGIR ina KA×MI-šu₂ A₂ IM.U₁₈.LU] AN.TA KA×MI-ma
+2. ($___$) A₂ IM.SI.SA₂ KI.TA iz-ku ina ŠA₃.HUL-šu₂ IM.MAR.TU ZI-ma [...]-ti ina šu-ri-in-ni-šu {d}dil-bat
+3. ($___$) [ana ŠA₃-šu₂ TU] DUMU LUGAL ana AŠ.TE AD-šu₂ KIMIN ana E₂ AD-šu₂ TU
+4. ($___$) [DINGIR ša₂ ina šu-ri-in-ni-šu₂ {d}dil]-bat ana ŠA₃-šu₂ TU KA×MI-šu₂ IGI-ma IM.MAR.TU ina ŠU-ka tu-kal
+5. ($___$) ana ŠA₃ A.GA.DE₃.KI [EŠ.BAR SUM-in LUGAL] [A].GA.DE₃.KI BE u UN.MEŠ-šu₂ SILIM.MA
+6. ($___$) BAL A.GA.DE₃.KI in-niš-ši EGIR.MEŠ-šu₂ SIG₅.MEŠ
+7. ($___$) [DINGIR ša₂ ina KA×MI-šu₂ EN.NUN U₄.ZAL.LI] SAR-ma 1/3.TA.AM₃ EN.NUN uh-hu-ru-ma
+8. ($___$) [... ina ITI.GAN UD.28].KAM UD.29.KAM SAG IGI.DU₈.A-šu₂ IGI-ma
+9. ($___$) MUL.dil-bat ana ŠA₃-šu₂ TU DUMU LUGAL ana [E₂ AD-šu₂ TU]
+10. ($___$) [ina ITI.GAN UD.28.KAM // UD.29.KAM SAG IGI].DU₈.A-šu₂ IGI-ma
+11. ($___$) AN.MI ta-qab-bi UD.NA₂-A AN.MI u₂-kal-lam-ka
 $ single ruling
-# § I.2, intercalary Nisannu (p. 185)
-1. DIŠ ina ITI.BARA₂ UD.14.KAM AN.MI GAR-ma DINGIR i[na KA×MI]-šu Á IM.SI.SÁ AN.TA KA×MI-ma
-2. ($___$) Á IM.SI.SÁ KI.TA iz-[ku] ina ŠÀ.HUL-šú IM.MAR.TU EN.NUN AN.USAN₂ im-šul-ma
-3. ($___$) [DINGIR ša ina KA×MI-šú Á IM.SI.SÁ AN.TA KA×MI-ma] Á IM.SI.SÁ KI.TA iz-ku K[A×MI-šú IGI-ma]
-4. ($___$) [IM.M]AR.TU ina ŠU-ka tu-kal [ina ŠÀ A.G]A.DÈ.KI EŠ.BAR SUM-[in]
-5. ($___$) [A.G]A.DÈ.KI NIG.ŠU-šá KAR-aʾ
+#note: § I.2, intercalary Nisannu (p. 185)
+1. DIŠ ina ITI.BARA₂ UD.14.KAM AN.MI GAR-ma DINGIR i[na KA×MI]-šu A₂ IM.SI.SA₂ AN.TA KA×MI-ma
+2. ($___$) A₂ IM.SI.SA₂ KI.TA iz-[ku] ina ŠA₃.HUL-šu₂ IM.MAR.TU EN.NUN AN.USAN₂ im-šul-ma
+3. ($___$) [DINGIR ša ina KA×MI-šu₂ A₂ IM.SI.SA₂ AN.TA KA×MI-ma] A₂ IM.SI.SA₂ KI.TA iz-ku K[A×MI-šu₂ IGI-ma]
+4. ($___$) [IM.M]AR.TU ina ŠU-ka tu-kal [ina ŠA₃ A.G]A.DE₃.KI EŠ.BAR SUM-[in]
+5. ($___$) [A.G]A.DE₃.KI NIG.ŠU-ša₂ KAR-aʾ
 6. ($___$) [...] KIMIN i-da-iṣ
 7. ($___$) [... KUR GAL] ana KUR TUR ana TI-ṭi DU
 $ single ruling
-# § II: no Recension A transliteration in Rochberg (witnesses C, D keep only a few signs, pp. 188-189)
-# § III (pp. 190-191)
-1. [DIŠ ina ITI.SIG₄ UD.14.KAM AN.MI] GAR-ma D[INGIR ina KA×MI-šú Á IM.KUR.RA AN.TA KA×MI-ma]
-2. ($___$) Á IM.MAR.TU KI.TA iz-ku [IM.SI.SÁ EN.NUN A]N.USAN₂ ZI-ma [EN.NUN MUR]B₄.BA TAG-ut
-3. ($___$) DINGIR ša ina KA×MI-šú Á IM.KUR.RA AN.TA KA×MI-ma [Á] IM.MAR.TU KI.TA iz-ku-[ú]
-4. ($___$) [KA×MI-šú IGI-ma I]M.SI.SÁ ina ŠU-ka tu-kal
-5. ($___$) [ina ŠÀ ana Uri₂.KI-ma EŠ.BAR SUM-in] Uri₂.KI SU.KÚ IGI BE.MEŠ i-man-du
-6. ($___$) [LUGAL Uri₂].KI DUMU-šú i-ha-bil-šu-ma DU[MU ha-bil AD-šú {d}U]TU KUR-su ina KI.HUL AD-šú BE
+#note: § II: no Recension A transliteration in Rochberg (witnesses C, D keep only a few signs, pp. 188-189)
+#note: § III (pp. 190-191)
+1. [DIŠ ina ITI.SIG₄ UD.14.KAM AN.MI] GAR-ma D[INGIR ina KA×MI-šu₂ A₂ IM.KUR.RA AN.TA KA×MI-ma]
+2. ($___$) A₂ IM.MAR.TU KI.TA iz-ku [IM.SI.SA₂ EN.NUN A]N.USAN₂ ZI-ma [EN.NUN MUR]B₄.BA TAG-ut
+3. ($___$) DINGIR ša ina KA×MI-šu₂ A₂ IM.KUR.RA AN.TA KA×MI-ma [A₂] IM.MAR.TU KI.TA iz-ku-[u₂]
+4. ($___$) [KA×MI-šu₂ IGI-ma I]M.SI.SA₂ ina ŠU-ka tu-kal
+5. ($___$) [ina ŠA₃ ana URI₂.KI-ma EŠ.BAR SUM-in] URI₂.KI SU.KU₂ IGI BE.MEŠ i-man-du
+6. ($___$) [LUGAL URI₂].KI DUMU-šu₂ i-ha-bil-šu-ma DU[MU ha-bil AD-šu₂ {d}U]TU KUR-su ina KI.HUL AD-šu₂ BE
 7. ($___$) DUMU LUGAL [ša ana NAM.LUGAL la zak-ru AŠ.TE DIB-bat]
-8. ($___$) [ina ITI.BARA₂] UD.28.KAM SAG IGI.DU₈.A-šú IGI-ma ina MU[L(?) ...]
-9. ($___$) [... a]-dir-ma ú-šá-pil-ma S[AR]
-10. ($___$) [ina UD].28.KAM SAG IGI.DU₈.A-šú IGI-ma ina ITI.SI[G₄(?) UD.14.KAM AN.MI ta-qab-bi]
-11. ($___$) [UD.NÁ.À]M AN.MI ú-kal-lam-ka
+8. ($___$) [ina ITI.BARA₂] UD.28.KAM SAG IGI.DU₈.A-šu₂ IGI-ma ina MU[L(?) ...]
+9. ($___$) [... a]-dir-ma u₂-ša₂-pil-ma S[AR]
+10. ($___$) [ina UD].28.KAM SAG IGI.DU₈.A-šu₂ IGI-ma ina ITI.SI[G₄(?) UD.14.KAM AN.MI ta-qab-bi]
+11. ($___$) [UD.NA₂.A]M₃ AN.MI u₂-kal-lam-ka
 $ single ruling
-# § IV (p. 193)
-1. [DIŠ ina ITI.ŠU UD.14.KAM AN.MI GAR-m]a DINGIR ina KA×MI-šu Á IM.KUR.RA AN.TA KA×MI-ma Á IM.U₁₈ KI.TA iz-ku
-2. ($___$) [IM.SI.SÁ E]N.NUN AN.USAN₂ im-šul-ma [ina šu-ri-in-ni-šu MUL.MEŠ AN.T]A È.MEŠ-ni
-3. ($___$) DINGIR šá ina KA×MI-šú Á IM.KUR.RA AN.T[A KA×MI-ma Á IM.U₁₈.LU KI.T]A iz-ku-ú
-4. ($___$) [KA×MI-šú IGI-ma I]M.SI.SÁ ina ŠU-k[a tu-kal ina ŠÀ Uri₂.KI-ma] EŠ.BAR SUM-in
+#note: § IV (p. 193)
+1. [DIŠ ina ITI.ŠU UD.14.KAM AN.MI GAR-m]a DINGIR ina KA×MI-šu A₂ IM.KUR.RA AN.TA KA×MI-ma A₂ IM.U₁₈ KI.TA iz-ku
+2. ($___$) [IM.SI.SA₂ E]N.NUN AN.USAN₂ im-šul-ma [ina šu-ri-in-ni-šu MUL.MEŠ AN.T]A E₃.MEŠ-ni
+3. ($___$) DINGIR ša₂ ina KA×MI-šu₂ A₂ IM.KUR.RA AN.T[A KA×MI-ma A₂ IM.U₁₈.LU KI.T]A iz-ku-u₂
+4. ($___$) [KA×MI-šu₂ IGI-ma I]M.SI.SA₂ ina ŠU-k[a tu-kal ina ŠA₃ URI₂.KI-ma] EŠ.BAR SUM-in
 $ 2 lines not given in the composite (ll. 5-6)
-7. ($___$) [... ina ITI.BARA₂(?) UD.2]8.KAM SAG IGI.DU₈.A-[šú IGI-ma ina ITI.ŠU UD.14.KAM AN.MI ta-qab-bi] [UD.NÁ.À]M [AN.MI ú-kal-lam-ka]
+7. ($___$) [... ina ITI.BARA₂(?) UD.2]8.KAM SAG IGI.DU₈.A-[šu₂ IGI-ma ina ITI.ŠU UD.14.KAM AN.MI ta-qab-bi] [UD.NA₂.A]M₃ [AN.MI u₂-kal-lam-ka]
 $ single ruling
-# § V (pp. 196-197)
-1. [DIŠ ina ITI.NE UD.14.KAM AN.MI GAR-ma] DINGIR ina KA×MI-šú Á IM.MA[R.TU AN.TA KA×MI-ma Á IM.SI.SÁ KI.TA iz-ku]
-2. ($___$) [IM.SI.S]Á EN.NUN [MURUB₄.BA] im-šul-ma ŠU.NIR S[I-šú ša ZAG tar]-ṣa-at šá GÙB kap-p[at]
-3. ($___$) [DINGIR šá ina šu-ri-in-ni-šu SI-šú šá ZAG] tar-ṣa-at šá GÙB kap-pat K[A×MI-šú IGI-ma]
-4. ($___$) [IM.SI.SÁ ina] ŠU-ka tu-kal ina ŠÀ ÈŠ.N[UN.NA.KI EŠ.BAR SUM-in ARAD ÁG EN]-šú EN-šú i-dak x
-5. ($___$) KUR i-ár-ru-[ur DUMU LUGAL ina IGI GAZ ana URU] ÁG(?)-<šú> GUD.UD-ma ŠU AD-šú GUR[-ár]
-6. ($___$) [ARAD GAZ AD-šú ri-it-ta-šú KUD-is KUR] NU UR₅-ti ana šu-a-šú IGI-[šú i-ša-ak-ka-an-šú]
-7. ($___$) [ana URU ÁG-šú NU G]UR-ma IDIM LAL-ma ina ITI.ŠU ŠU.[NIR na-bal-kut(?)]
-8. ($___$) [ina ITI.NE U]D.14.KAM AN.MI ta-qab-[bi ki-a-am GISKIM-šú u EŠ.BAR-šú]
-9. ($___$) [...] SI.MEŠ-šú kan-ša-ma šá-ma-m[i IGI.MEŠ ...]
+#note: § V (pp. 196-197)
+1. [DIŠ ina ITI.NE UD.14.KAM AN.MI GAR-ma] DINGIR ina KA×MI-šu₂ A₂ IM.MA[R.TU AN.TA KA×MI-ma A₂ IM.SI.SA₂ KI.TA iz-ku]
+2. ($___$) [IM.SI.S]A₂ EN.NUN [MURUB₄.BA] im-šul-ma ŠU.NIR S[I-šu₂ ša ZAG tar]-ṣa-at ša₂ GUB₃ kap-p[at]
+3. ($___$) [DINGIR ša₂ ina šu-ri-in-ni-šu SI-šu₂ ša₂ ZAG] tar-ṣa-at ša₂ GUB₃ kap-pat K[A×MI-šu₂ IGI-ma]
+4. ($___$) [IM.SI.SA₂ ina] ŠU-ka tu-kal ina ŠA₃ EŠ₃.N[UN.NA.KI EŠ.BAR SUM-in ARAD AG₂ EN]-šu₂ EN-šu₂ i-dak x
+5. ($___$) KUR i-ar₂-ru-[ur DUMU LUGAL ina IGI GAZ ana URU] AG₂(?)-<šu₂> GUD.UD-ma ŠU AD-šu₂ GUR[-ar₂]
+6. ($___$) [ARAD GAZ AD-šu₂ ri-it-ta-šu₂ KUD-is KUR] NU UR₅-ti ana šu-a-šu₂ IGI-[šu₂ i-ša-ak-ka-an-šu₂]
+7. ($___$) [ana URU AG₂-šu₂ NU G]UR-ma IDIM LAL-ma ina ITI.ŠU ŠU.[NIR na-bal-kut(?)]
+8. ($___$) [ina ITI.NE U]D.14.KAM AN.MI ta-qab-[bi ki-a-am GISKIM-šu₂ u EŠ.BAR-šu₂]
+9. ($___$) [...] SI.MEŠ-šu₂ kan-ša-ma ša₂-ma-m[i IGI.MEŠ ...]
 10. ($___$) [...]
 $ single ruling
-# § VI (p. 200)
-1. DIŠ ina ITI.KIN UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á [IM.KUR.RA AN.TA KA×MI-ma]
-2. ($___$) Á IM.U₁₈.LU KI.TA iz-ku [... EN.NUN AN.USAN₂] ú-qat-ti
-3. ($___$) IM.SI.SÁ ZI-ma MI ik-k[i(?) ...]
-4. ($___$) [DINGIR ša ina KA×MI-šú Á IM.K]UR.RA AN.TA KA×MI-ma Á IM.U₁₈.[LU KI.TA iz-ku]
-5. ($___$) KA×MI-šu IGI-ma IM.SI.SÁ ina ŠU-ka tu-kal ina [ŠÀ ana URI.KI EŠ.BAR SUM-in]
-6. ($___$) LUGAL URI.KI SILIM.ME ina bi-ri-š[ú ...]x KUR GAL ana KUR TUR ana D[IN-ṭi DU]
-7. ($___$) sa-lim ki-na-a-ti GAR-an [ma-aš-šu-ú ana(?)] KUR ÍL-ma ina bi-[ri-šú-nu HI.GAR GÁL]
-8. ($___$) MÁŠ.ANŠE ZÁH ina ITI.NE [UD.28.KAM SAG IGI.DU₈.A-šú IGI-ma]
-9. ($___$) ina ITI.KIN UD.14.KAM AN.MI [ta-qab-bi UD.NÁ.ÀM AN.MI ú-kal-lam-ka]
+#note: § VI (p. 200)
+1. DIŠ ina ITI.KIN UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ [IM.KUR.RA AN.TA KA×MI-ma]
+2. ($___$) A₂ IM.U₁₈.LU KI.TA iz-ku [... EN.NUN AN.USAN₂] u₂-qat-ti
+3. ($___$) IM.SI.SA₂ ZI-ma MI ik-k[i(?) ...]
+4. ($___$) [DINGIR ša ina KA×MI-šu₂ A₂ IM.K]UR.RA AN.TA KA×MI-ma A₂ IM.U₁₈.[LU KI.TA iz-ku]
+5. ($___$) KA×MI-šu IGI-ma IM.SI.SA₂ ina ŠU-ka tu-kal ina [ŠA₃ ana URI.KI EŠ.BAR SUM-in]
+6. ($___$) LUGAL URI.KI SILIM.ME ina bi-ri-š[u₂ ...]x KUR GAL ana KUR TUR ana D[IN-ṭi DU]
+7. ($___$) sa-lim ki-na-a-ti GAR-an [ma-aš-šu-u₂ ana(?)] KUR IL₂-ma ina bi-[ri-šu₂-nu HI.GAR GAL₂]
+8. ($___$) MAŠ₂.ANŠE ZAH₂ ina ITI.NE [UD.28.KAM SAG IGI.DU₈.A-šu₂ IGI-ma]
+9. ($___$) ina ITI.KIN UD.14.KAM AN.MI [ta-qab-bi UD.NA₂.AM₃ AN.MI u₂-kal-lam-ka]
 $ single ruling
-# § VII (p. 203)
-1. [DIŠ ina ITI.DU₆ UD.14.KAM AN.MI GAR-ma DI]NGIR ina KA×MI-šú Á I[M.MAR].TU AN.TA KA×MI-ma [Á IM ... iz-ku]
-2. ($___$) [IM.SI.SÁ] EN.NUN MURUB₄.BA ig-mur [... im]-šul-ma e-l[i(?) ...]
-3. ($___$) [DINGIR šá ina KA×MI-šú Á IM.MAR.TU AN.TA KA×MI-ma Á IM ... iz-ku] KA×MI-šu IGI-ma
-4. ($___$) [IM.SI.SÁ] ina ŠU-ka tu-kal [ina ŠÀ ana URU mu-ta-bal] EŠ.BAR SUM-in [...]
-5. ($___$) [...] LUGAL ana LUGAL SAL.KÚR KIN
+#note: § VII (p. 203)
+1. [DIŠ ina ITI.DU₆ UD.14.KAM AN.MI GAR-ma DI]NGIR ina KA×MI-šu₂ A₂ I[M.MAR].TU AN.TA KA×MI-ma [A₂ IM ... iz-ku]
+2. ($___$) [IM.SI.SA₂] EN.NUN MURUB₄.BA ig-mur [... im]-šul-ma e-l[i(?) ...]
+3. ($___$) [DINGIR ša₂ ina KA×MI-šu₂ A₂ IM.MAR.TU AN.TA KA×MI-ma A₂ IM ... iz-ku] KA×MI-šu IGI-ma
+4. ($___$) [IM.SI.SA₂] ina ŠU-ka tu-kal [ina ŠA₃ ana URU mu-ta-bal] EŠ.BAR SUM-in [...]
+5. ($___$) [...] LUGAL ana LUGAL SAL.KUR₂ KIN
 $ single ruling
-# § VIII (pp. 205-206)
-1. [DIŠ ina ITI.APIN UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú] Á IM.KUR.RA AN.TA KA×MI-ma
-2. ($___$) [Á IM.MAR.TU KI.TA i]z-ku IM.SI.SÁ [EN.NUN MU]RUB₄.BA ig-mur
-3. ($___$) [EN.NUN U₄.ZAL.LI i]m-šul SI.MEŠ-[šú ša-ma-mi] nak-pa [DINGIR ša ina KA×MI-šú]
-4. ($___$) [SI.M]EŠ-šú ša-ma-mi na[k-pa KA×MI-šú IGI-ma IM.SI.SÁ ina ŠU]-ka tu-kal
-5. ($___$) [i]na ŠÀ ana NUN.K[I EŠ.BAR SU]M-in [...] iš-šag-gi-šú
-6. ($___$) [BAL LUGAL ina-kir URU ŠUB-di LUGA]L ik-kam-mu [LUGAL EN IM.RI.A-šú GAZ]
-7. ($___$) [DUMU LUGAL] ZI-šú KAR-ir [ina ITI.APIN UD.28.KAM {d}Dil-bat ana ŠÀ] Sin TU
-8. ($___$) LUGAL(?) [URU u UN.MEŠ-šú SILIM GÌR KÚR] ina KUR TAR-as
+#note: § VIII (pp. 205-206)
+1. [DIŠ ina ITI.APIN UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂] A₂ IM.KUR.RA AN.TA KA×MI-ma
+2. ($___$) [A₂ IM.MAR.TU KI.TA i]z-ku IM.SI.SA₂ [EN.NUN MU]RUB₄.BA ig-mur
+3. ($___$) [EN.NUN U₄.ZAL.LI i]m-šul SI.MEŠ-[šu₂ ša-ma-mi] nak-pa [DINGIR ša ina KA×MI-šu₂]
+4. ($___$) [SI.M]EŠ-šu₂ ša-ma-mi na[k-pa KA×MI-šu₂ IGI-ma IM.SI.SA₂ ina ŠU]-ka tu-kal
+5. ($___$) [i]na ŠA₃ ana NUN.K[I EŠ.BAR SU]M-in [...] iš-šag-gi-šu₂
+6. ($___$) [BAL LUGAL ina-kir URU ŠUB-di LUGA]L ik-kam-mu [LUGAL EN IM.RI.A-šu₂ GAZ]
+7. ($___$) [DUMU LUGAL] ZI-šu₂ KAR-ir [ina ITI.APIN UD.28.KAM {d}dil-bat ana ŠA₃] SIN TU
+8. ($___$) LUGAL(?) [URU u UN.MEŠ-šu₂ SILIM GIR₃ KUR₂] ina KUR TAR-as
 $ single ruling
-# § IX (p. 207); the rest of the paragraph is broken
-1. [DIŠ ina ITI.GAN UD.14.KAM AN.MI GAR-ma DINGIR ina] KA×MI-šú [Á I]M.SI.SÁ AN.T[A KA×MI-ma]
-2. ($___$) [Á IM.U₁₈.LU KI.TA] iz-ku [IM.MAR.TU EN.NU]N U₄.[ZAL.L]I im-[šul ...]
-3. ($___$) [...] DI(?) DINGIR [ša ina KA×MI-šú(?) ...]
+#note: § IX (p. 207); the rest of the paragraph is broken
+1. [DIŠ ina ITI.GAN UD.14.KAM AN.MI GAR-ma DINGIR ina] KA×MI-šu₂ [A₂ I]M.SI.SA₂ AN.T[A KA×MI-ma]
+2. ($___$) [A₂ IM.U₁₈.LU KI.TA] iz-ku [IM.MAR.TU EN.NU]N U₄.[ZAL.L]I im-[šul ...]
+3. ($___$) [...] DI(?) DINGIR [ša ina KA×MI-šu₂(?) ...]
 $ single ruling
-# § X: no composite; Recension A text Q 1'-5' (p. 210). Text C col. ii 1'-5' is a second, shorter witness.
-# The opening line is lost; every EAE 20 paragraph opens with DIŠ (p. 176; Rec. B § X: [DIŠ ina ITI.AB U]D.14.KAM).
-[DIŠ ...]
+#note: § X: no composite; Recension A text Q 1'-5' (p. 210). Text C col. ii 1'-5' is a second, shorter witness.
+#note: The opening line is lost; every EAE 20 paragraph opens with DIŠ (p. 176; Rec. B § X: [DIŠ ina ITI.AB U]D.14.KAM).
+1. [DIŠ ...]
 $ lines lost before Q 1'
 1'. ($___$) [... NU ik-bi]-ir(?) [DIŠ-et NU iq-tin ...]
-2'. ($___$) [... IM.MAR].TU ina ŠU-k[a tu-kal ina ŠÀ ana SU.BIR₄.KI]
-3'. ($___$) [EŠ.BAR SUM-in SU.BIR₄].KI u Gu-ti-um x[...]
-4'. ($___$) [ŠEŠ ŠEŠ i-ra-sip UN.MEŠ ŠUB].MEŠ al-ma-na-a-tum i-m[ìn-da ...]
-5'. ($___$) [...] IGI.LÁ DINGIR šá UGU ma-šá-lim DU ki-a-[am ...]
+2'. ($___$) [... IM.MAR].TU ina ŠU-k[a tu-kal ina ŠA₃ ana SU.BIR₄.KI]
+3'. ($___$) [EŠ.BAR SUM-in SU.BIR₄].KI u gu-ti-um x [...]
+4'. ($___$) [ŠEŠ ŠEŠ i-ra-sip UN.MEŠ ŠUB].MEŠ al-ma-na-a-tum i-m[in₃-da ...]
+5'. ($___$) [...] IGI.LA₂ DINGIR ša₂ UGU ma-ša₂-lim DU ki-a-[am ...]
 $ single ruling
-# § XI (pp. 211-212)
-1. DIŠ ina ITI.ZÍZ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á IM.U₁₈.LU AN.TA KA×MI-ma
-2. ($___$) Á IM.KUR.RA KI.TA iz-ku IM.SI.SÁ EN.NUN U₄.ZAL.LI SAR-ma KI {d}UTU IGI-ir SI.MEŠ-šú AN-e nak-pa
-3. ($___$) ŠU.NIR KAL-šú NU DUL-ma it-bal ina UD.28.KAM IGI-ma AN.MI qur-ru-ub SAR-ma SA₅-ma
-4. ($___$) AN.MI ú-kal-lam-ka DINGIR ša ina KA×MI-šú IGI-ma TÙM KA×MI-šú IGI-ma IM.SI.SÁ ina ŠU-ka tu-kal
-5. ($___$) ina ŠÀ ana KÁ.DINGIR.RA.KI EŠ.BAR SUM-in KÁ.DINGIR.RA.KI ZÁH-šú qur-ru-ub KUR BIR-tum BIR-ah(?)
-6. ($___$) qit-ru-ub {d}En-líl KUR DÙ.A.BI-šá i-ru-ur it-ta-za-ar LUGAL šá an-na-a iq-bu-šú UN.MEŠ-šú BIR.MEŠ
-7. ($___$) BAL-šú TIL ina K[A DINGIR.M]EŠ ZÁH-šú qur-ru-ub BAL URU.KÁ.DINGIR.RA.KI Uri₂.KI KAR-ir
-8. ($___$) ŠÚ-ut KÁ.DINGIR.RA.KI Uri₂.KI TI-qí DINGIR šá ina KA×MI-šú MI is-suh ki-a-am GISKIM-šú u EŠ.BAR-šú
+#note: § XI (pp. 211-212)
+1. DIŠ ina ITI.ZIZ₂ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ IM.U₁₈.LU AN.TA KA×MI-ma
+2. ($___$) A₂ IM.KUR.RA KI.TA iz-ku IM.SI.SA₂ EN.NUN U₄.ZAL.LI SAR-ma KI {d}UTU IGI-ir SI.MEŠ-šu₂ AN-e nak-pa
+3. ($___$) ŠU.NIR KAL-šu₂ NU DUL-ma it-bal ina UD.28.KAM IGI-ma AN.MI qur-ru-ub SAR-ma SA₅-ma
+4. ($___$) AN.MI u₂-kal-lam-ka DINGIR ša ina KA×MI-šu₂ IGI-ma TUM₃ KA×MI-šu₂ IGI-ma IM.SI.SA₂ ina ŠU-ka tu-kal
+5. ($___$) ina ŠA₃ ana KA₂.DINGIR.RA.KI EŠ.BAR SUM-in KA₂.DINGIR.RA.KI ZAH₂-šu₂ qur-ru-ub KUR BIR-tum BIR-ah(?)
+6. ($___$) qit-ru-ub {d}en-lil₂ KUR DU₃.A.BI-ša₂ i-ru-ur it-ta-za-ar LUGAL ša₂ an-na-a iq-bu-šu₂ UN.MEŠ-šu₂ BIR.MEŠ
+7. ($___$) BAL-šu₂ TIL ina K[A DINGIR.M]EŠ ZAH₂-šu₂ qur-ru-ub BAL URU.KA₂.DINGIR.RA.KI URI₂.KI KAR-ir
+8. ($___$) ŠU₂-ut KA₂.DINGIR.RA.KI URI₂.KI TI-qi₂ DINGIR ša₂ ina KA×MI-šu₂ MI is-suh ki-a-am GISKIM-šu₂ u EŠ.BAR-šu₂
 $ single ruling
-# § XII (pp. 213-214)
-1. DIŠ ina ITI.ŠE UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á IM.SI.SÁ AN.TA KA×MI-ma Á IM.KUR.RA KI.TA iz-ku
-2. ($___$) IM.KUR.RA EN.NUN U₄.ZAL.LI ú-qat-ti SI.MEŠ-šú ina SAR-šú la in-na-ṭa-la-ma ina ŠÚ-šú IGI.MEŠ
-3. ($___$) KA×MI-šú IGI-ma IM.KUR.RA ina ŠU-ka tu-kal ina ŠÀ ana MAR.TU.KI EŠ.BAR SUM
-4. ($___$) KUR.MAR.TU TA re-ši-šá x[...] DINGIR.MEŠ KUR na-az-[...]
-5. ($___$) [k]a-mar URU.MEŠ qur-ru-ub KUR.KUR KÚ.MEŠ [U]N(?).MEŠ HUL [...]
+#note: § XII (pp. 213-214)
+1. DIŠ ina ITI.ŠE UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ IM.SI.SA₂ AN.TA KA×MI-ma A₂ IM.KUR.RA KI.TA iz-ku
+2. ($___$) IM.KUR.RA EN.NUN U₄.ZAL.LI u₂-qat-ti SI.MEŠ-šu₂ ina SAR-šu₂ la in-na-ṭa-la-ma ina ŠU₂-šu₂ IGI.MEŠ
+3. ($___$) KA×MI-šu₂ IGI-ma IM.KUR.RA ina ŠU-ka tu-kal ina ŠA₃ ana MAR.TU.KI EŠ.BAR SUM
+4. ($___$) KUR.MAR.TU TA re-ši-ša₂ x [...] DINGIR.MEŠ KUR na-az-[...]
+5. ($___$) [k]a-mar URU.MEŠ qur-ru-ub KUR.KUR KU₂.MEŠ [U]N(?).MEŠ HUL [...]
 6. ($___$) [...]x(?)-ma URU RA mim-ma(?) GAR-an {d}PAP.SUKKAL [...] x x x [...]
-7. ($___$) [KI NAM].LÚ.U₁₈.LU MÁŠ.ANŠE GU₄.MEŠ [U₈.UDU.HI.A ...]
-8. ($___$) [uh-h]u-rat UN.MEŠ BE.MEŠ DINGIR <šá> ina KA×MI-šú EN.NUN U₄.ZAL.LI ú-qat-ti KA×MI-sú I[GI-ma]
+7. ($___$) [KI NAM].LU₂.U₁₈.LU MAŠ₂.ANŠE GU₄.MEŠ [U₈.UDU.HI.A ...]
+8. ($___$) [uh-h]u-rat UN.MEŠ BE.MEŠ DINGIR <ša₂> ina KA×MI-šu₂ EN.NUN U₄.ZAL.LI u₂-qat-ti KA×MI-su₂ I[GI-ma]
 9. ($___$) [ana EŠ.BAR] AN.MI(!).MEŠ AN.TA a-dir-ma KI.TA iz-[ku]
-10. ($___$) [...] x AN.TA.LÙ ú-kal-x[...]
+10. ($___$) [...] x AN.TA.LU₃ u₂-kal-x [...]
 $ single ruling

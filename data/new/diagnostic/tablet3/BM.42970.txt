@@ -9,18 +9,18 @@ source: "Schmidtchen 2021 (BAM 13), Tafel 3 score pp. 246-256, the rows of ms B,
 note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/restoration (dropped in preserved-only), x illegible (always lowercase, never with '#'; XX and XXX are the numeral logograms), '#' after a damaged sign. Schmidtchen's half-brackets for damage at the top, at the bottom, and their mixed forms (also where a half-bracket pairs with a full bracket) are all written '#': damaged but legible; an unmatched half-bracket in his print marks the one sign next to it. '/' is his tablet line break inside an entry; his '(Strich)' becomes '$ single ruling' after the entry ('(Strich?)' is dropped). Catchline and colophon, where the manuscript has them, are under @catchline and @colophon (not counted)."
 ---
 
-@column i
-# ms B i1
-1. [...] x x x x (x) GIG# NU# TE#-ḫ[i]
-2. [...] x x ú#? x x (x) x / [(...)] na#?-kud#? NU#? TE#-šú
-3. [... GAB]A-su u SAG ŠÀ-šú i#-nar#-ru#?-uṭ ÚŠ
-4. [...] KA-šú ú-kal (leer) ÚŠ
-5. [... SAG.KI].II-šú ne-eḫ-a UD.1.KAM GIG#-ma! TIN
-6. [... SAG.KI].II-šú KÚM la <ḫa>-aḫ-ḫa-šá# UD# 1.KAM# GIG-ma! TIN
-7. [... K]ÚM-ma UD.3.KAM GIG#-ma TIN
+@column 1
+#note: ms B i1
+1. [...] x x x x (x) GIG# NU# TE#-h[i]
+2. [...] x x u₂#? x x (x) x / [(...)] na#?-kud#? NU#? TE#-šu₂
+3. [... GAB]A-su u SAG ŠA₃-šu₂ i#-nar#-ru#?-uṭ UŠ₂
+4. [...] KA-šu₂ u₂-kal (leer) UŠ₂
+5. [... SAG.KI].II-šu₂ ne-eh-a UD.1.KAM GIG#-ma! TIN
+6. [... SAG.KI].II-šu₂ KUM₂ la <ha>-ah-ha-ša₂# UD# 1.KAM# GIG-ma! TIN
+7. [... K]UM₂-ma UD.3.KAM GIG#-ma TIN
 8. [...].KAM#? [GIG m]a? TIN#?
-@column ii
-# ms B ii1
+@column 2
+#note: ms B ii1
 37. DIŠ SAG.DU-su# [...]
 38. DIŠ SAG.DU-[su ...]
 39. DIŠ SAG.D[U-su ...]

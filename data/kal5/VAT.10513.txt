@@ -10,104 +10,136 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 $ 1-21 Zu abgerieben für eine Umschrift
-22. BE SAG ŠU.SI ana EDIN ZAG ŠU.SI x x u SAG-sà BAR x KÚR [...]
-23. BE SAG ŠU.SI ana EDIN GÙB ŠU.SI x x u SAG-sà BAR x NUN [...]
-24. BE SAG ŠU.SI ana EDIN ŠU.SI MURUB4 x x u SAG-sà [...]
-25. BE SAG ŠU.SI x ma ta EDIN ZAG ŠU.SI x x u SAG-sà BAR ku [...]
-26. BE SAG ŠU.SI ana KUR GÙB ŠU.SI ŠUB -ma SAG-sà GÙB ŠU.SI NIGIN-mi [...]
-27. BE ina SAG ŠU.SI DI-ḫuŠUB -ma SIG7 ma-ṭir x x ana KUR dIŠKUR R[A-iṣ ...]
-28. BE ina ZAG ŠU.SI DI-ḫuŠUB -ma x x x SÚḪ -ú ana KUR-ia ŠUB -ut
-29. BE ina GÙB ŠU.SI DI-ḫuŠUB -ma x x x SÚḪ -ú ana KUR KÚR ŠUB -ut
-30. BE ina ZAG ŠU.SI DI-ḫuGE6 ŠUB -di DINGIR ina KUR NUN e-rib
-31. BE ina GÙB ŠU.SI DI-ḫuGE6 ŠUB -di DINGIR ina KUR KÚR e-[rib]
-32. BE ina ZAG ŠU.SI DI-ḫuŠUB -ma ina ŠÀ -šu BAR-tu4 ŠUB -at SÚḪ -ú ina KUR NUN GÁL -ši
-33. BE ina GÙB ŠU.SI DI-ḫuŠUB -ma ina ŠÀ -šu BAR-tu4 ŠUB -atSÚḪ -ú ina KUR KÚR GÁL -ši
-34. BE ina SUḪUŠ KUR ŠU.SI DI-ḫunu-ru-bu ŠUB -di NUN a-di-ra-tu-šu NU KUR.MEŠ
-35. BE ina SUḪUŠ KUR ŠU.SI DI-ḫu te-mer u ṣu-lu-ul ? ILLU DU
-36. BE ina SAG ZAG ŠU.SI DI-ḫuŠUB -di ŠUB -tiÉRIN-ni
-37. BE ina SAG GÙB ŠU.SI DI-ḫuŠUB -di ŠUB -tiÉRINKÚR
-38. ⸢BE⸣ SAG ŠU.SI DI-ḫa a-lit ÚŠ -ut N[UN]
-39. [BE i]na É.GAL ŠU.SI BÙR.MEŠ ŠUB.MEŠ ZI-ut a-ri-b[i]
-40. [BE] ina SAG KUR ŠU.SI BÙR šad-du ŠUB -ma u SA5 KA-ú ki-nu
-41. [BE ina] SAG KUR ŠU.SI BÙR šad-du ŠUB -ma u BABBAR KA-ú NU ki-nu
-42. [BE x] x ZAG ŠU.SI BÙR šad-du ŠUB -di di-ºu ÉRIN-ni [ŠUB -ut]
-43. [BE ...] GÙB ŠU.SI BÙR šad-du ŠUB -di di-ºu ÉRINKÚR [ŠUB ...]-u[t]
-44. [BE EDIN Z]AG ŠU.SI EDIN GÙB ŠU.SI EDIN ŠU.SI MURUB4 DU8.MEŠ téš-mu-ú TÉŠ.BI ina KUR GÁL -š[i]
-45. [BE x x] ŠU.SI ZAG u GÙB 2.TA.ÀM DU8.MEŠ EN.NU.UN.MEŠ BÀD e-g[a-a]
-46. [BE x x] ŠU.SI KI.MIN x en x x ZI.MEŠ -ma MAN-tu GAR-an ana giš TUKUL KA.KEŠDA.MEŠ -ia?
+22. BE SAG ŠU.SI ana EDIN ZAG ŠU.SI x x u SAG-sa₃ BAR x KUR₂ [...]
+23. BE SAG ŠU.SI ana EDIN GUB₃ ŠU.SI x x u SAG-sa₃ BAR x NUN [...]
+24. BE SAG ŠU.SI ana EDIN ŠU.SI MURUB₄ x x u SAG-sa₃ [...]
+25. BE SAG ŠU.SI x ma ta EDIN ZAG ŠU.SI x x u SAG-sa₃ BAR ku [...]
+$ single ruling
+26. BE SAG ŠU.SI ana KUR GUB₃ ŠU.SI ŠUB-ma SAG-sa₃ GUB₃ ŠU.SI NIGIN-mi [...]
+27. BE ina SAG ŠU.SI DI-hu ŠUB-ma SIG₇ ma-ṭir x x ana KUR {d}IŠKUR R[A-iṣ ...]
+$ single ruling
+28. BE ina ZAG ŠU.SI DI-hu ŠUB-ma x x x SUH₂-u₂ ana KUR-ia ŠUB-ut
+29. BE ina GUB₃ ŠU.SI DI-hu ŠUB-ma x x x SUH₂-u₂ ana KUR KUR₂ ŠUB-ut
+$ single ruling
+30. BE ina ZAG ŠU.SI DI-hu GE₆ ŠUB-di DINGIR ina KUR NUN e-rib
+31. BE ina GUB₃ ŠU.SI DI-hu GE₆ ŠUB-di DINGIR ina KUR KUR₂ e-[rib]
+$ single ruling
+32. BE ina ZAG ŠU.SI DI-hu ŠUB-ma ina ŠA₃-šu BAR-tu₄ ŠUB-at SUH₂-u₂ ina KUR NUN GAL₂-ši
+33. BE ina GUB₃ ŠU.SI DI-hu ŠUB-ma ina ŠA₃-šu BAR-tu₄ ŠUB-at SUH₂-u₂ ina KUR KUR₂ GAL₂-ši
+$ single ruling
+34. BE ina SUHUŠ KUR ŠU.SI DI-hunu-ru-bu ŠUB-di NUN a-di-ra-tu-šu NU KUR.MEŠ
+35. BE ina SUHUŠ KUR ŠU.SI DI-hu te-mer u ṣu-lu-ul? ILLU DU
+$ single ruling
+36. BE ina SAG ZAG ŠU.SI DI-hu ŠUB-di ŠUB-ti ERIN₂-ni
+37. BE ina SAG GUB₃ ŠU.SI DI-hu ŠUB-di ŠUB-ti ERIN₂ KUR₂
+38. BE# SAG ŠU.SI DI-ha a-lit UŠ₂-ut N[UN]
+$ single ruling
+39. [BE i]na E₂.GAL ŠU.SI BUR₃.MEŠ ŠUB.MEŠ ZI-ut a-ri-b[i]
+40. [BE] ina SAG KUR ŠU.SI BUR₃ šad-du ŠUB-ma u SA₅ KA-u₂ ki-nu
+41. [BE ina] SAG KUR ŠU.SI BUR₃ šad-du ŠUB-ma u BABBAR KA-u₂ NU ki-nu
+$ single ruling
+42. [BE x] x ZAG ŠU.SI BUR₃ šad-du ŠUB-di di-ºu ERIN₂-ni [ŠUB-ut]
+43. [BE ...] GUB₃ ŠU.SI BUR₃ šad-du ŠUB-di di-ºu ERIN₂ KUR₂ [ŠUB ...]-u[t]
+$ single ruling
+44. [BE EDIN Z]AG ŠU.SI EDIN GUB₃ ŠU.SI EDIN ŠU.SI MURUB₄ DU₈.MEŠ teš₂-mu-u₂ TEŠ₂.BI ina KUR GAL₂-š[i]
+45. [BE x x] ŠU.SI ZAG u GUB₃ 2.TA.AM₃ DU₈.MEŠ EN.NU.UN.MEŠ BAD₃ e-g[a-a]
+46. [BE x x] ŠU.SI KI.MIN x en x x ZI.MEŠ-ma MAN-tu GAR-an ana giš TUKUL KA.KEŠDA.MEŠ-ia?
 uš-te-mi-d [u] x ne bat
-47. [BE Š]U.SI KI.MIN bi-ra-a-ti x ÉRIN NUN x ti ILLAT.MEŠ -šu
-____________________________________________________________________________________________tu-dan-na-an
-48. [... ŠU ...].SI šu?-qu-ma DU8 a-rad URUki
-49. [... ŠU.S ...]I BAR-ma DU8 DUḪ.UŠ [(x x)]
-50. [... ŠU.S ...]I KI.TA-ma DU8 ni-ip-ḫu [(x x)]
-51. [...] DU8 ÉRIN-ka ana SAG A.ŠÀ -šá NU KUR-ad
-52. [...] DU8 ÉRIN KÚR ana SAG A.ŠÀ -šá NU KUR-ad
-53. [...] x DU8 BAR? ÉRINx x ÉRIN-ni
-54. [...] DU8 BAR? ÉRINx x ÉRIN KÚR
-55. [...] x x KUR.MEŠ x x x x GAM x x an x x x x.MEŠ x TAG4.MEŠ -šu
+47. [BE Š]U.SI KI.MIN bi-ra-a-ti x ERIN₂ NUN x ti ILLAT.MEŠ-šu
+tu-dan-na-an
+$ single ruling
+48. [... ŠU ...].SI šu?-qu-ma DU₈ a-rad URU{ki}
+49. [... ŠU.S]I BAR-ma DU₈ DUH.UŠ [(x x)]
+50. [... ŠU.S]I KI.TA-ma DU₈ ni-ip-hu [(x x)]
+$ single ruling
+51. [...] DU₈ ERIN₂-ka ana SAG A.ŠA₃-ša₂ NU KUR-ad
+52. [...] DU₈ ERIN₂ KUR₂ ana SAG A.ŠA₃-ša₂ NU KUR-ad
+$ single ruling
+53. [...] x DU₈ BAR? ERIN₂ x x ERIN₂-ni
+54. [...] DU₈ BAR? ERIN₂ x x ERIN₂ KUR₂
+55. [...] x x KUR.MEŠ x x x x GAM x x an x x x x.MEŠ x TAG₄.MEŠ-šu
 @reverse
-1. [BE ŠU.SI ...] TA SUḪUŠ -šá EN SAG-šá DU8-at NIN-t[u in-ner-ri-šu NU SUM]-in
-2. [BE ZAG ŠU ...].SI DAR-iq u GÌR ÚŠ -ut [M]AN URIki © BE GÙB ⸢ŠU ⸣.[S]I[DAR-iq u GÌR ÚŠ -ut MAN M]AR.TUki
-3. [BE x Š]U.SI DAR-ma ina ŠÀ -šu gišTUKUL GUB-iz NUN ILLAT.M[EŠ -šu ...] ú-šam-qat
-4. [BE x] ŠU.SI DAR-ma ina ŠÀ -šu gišTUKUL GUB-iz KÚR ILLAT.ME[Š-šu ...] x x
-5. [BE ZAG] ŠU.SI DAR-ma u SAG.UŠ IGI NUN ILLAT.MEŠ -šu TAG4.MEŠ -šu
-6. [BE GÙ ...]B ŠU.SI DAR-ma u SAG.UŠ IGI KÚR ILLAT.MEŠ -šu TAG4.MEŠ -šu
-7. [BE ZAG] ŠU.SI DAR-ma ina ŠÀ -šá BAR-tu ŠUB -at SÚḪ -ú ina KUR NUN GÁL -ši
-8. [BE GÙ ...]B ŠU.SI DAR-ma ina ŠÀ -šá BAR-tu ŠUB -at SÚḪ -ú ina KUR KÚR GÁL -ši
-9. [BE] ŠU.SI TA ZAG ana GÙB saḫ-rat ṭar-duÈ -ṣi© BE ŠU.SI TA GÙB ana ZAG saḫ-rat ṭar-du⸢ KU4⸣ ?-⸢ub⸣?
-10. [BE Š]U.SI TA SUḪUŠ -šá EN SAG-šá ki-ma SI ÙZ GÁL -ši-ma TA ZAG ana GÙB saḫ-rat ṭar-du È
-11. [BE Š]U.SI TA SUḪUŠ -šá EN SAG-šá ki-ma SI ÙZ GÁL -ši-ma TA GÙB ana ZAG saḫ-rat ṭar-duKU4?-⸢ ub⸣?
+1. [BE ŠU.SI ...] TA SUHUŠ-ša₂ EN SAG-ša₂ DU₈-at NIN-t[u in-ner-ri-šu NU SUM]-in
+2. [BE ZAG ŠU ...].SI DAR-iq u GIR₃ UŠ₂-ut [M]AN URI{ki} © BE GUB₃ ŠU# .[S]I[DAR-iq u GIR₃ UŠ₂-ut MAN M]AR.TU{ki}
+$ single ruling
+3. [BE x Š]U.SI DAR-ma ina ŠA₃-šu {giš}TUKUL GUB-iz NUN ILLAT.M[EŠ-šu ...] u₂-šam-qat
+4. [BE x] ŠU.SI DAR-ma ina ŠA₃-šu {giš}TUKUL GUB-iz KUR₂ ILLAT.ME[Š-šu ...] x x
+$ single ruling
+5. [BE ZAG] ŠU.SI DAR-ma u SAG.UŠ IGI NUN ILLAT.MEŠ-šu TAG₄.MEŠ-šu
+6. [BE GU]B₃ ŠU.SI DAR-ma u SAG.UŠ IGI KUR₂ ILLAT.MEŠ-šu TAG₄.MEŠ-šu
+$ single ruling
+7. [BE ZAG] ŠU.SI DAR-ma ina ŠA₃-ša₂ BAR-tu ŠUB-at SUH₂-u₂ ina KUR NUN GAL₂-ši
+8. [BE GU]B₃ ŠU.SI DAR-ma ina ŠA₃-ša₂ BAR-tu ŠUB-at SUH₂-u₂ ina KUR KUR₂ GAL₂-ši
+$ single ruling
+9. [BE] ŠU.SI TA ZAG ana GUB₃ sah-rat ṭar-du E₃-ṣi© BE ŠU.SI TA GUB₃ ana ZAG sah-rat ṭar-du KU₄#?-ub#?
+10. [BE Š]U.SI TA SUHUŠ-ša₂ EN SAG-ša₂ ki-ma SI UZ₃ GAL₂-ši-ma TA ZAG ana GUB₃ sah-rat ṭar-du E₃
+11. [BE Š]U.SI TA SUHUŠ-ša₂ EN SAG-ša₂ ki-ma SI UZ₃ GAL₂-ši-ma TA GUB₃ ana ZAG sah-rat ṭar-du KU₄?- ub#?
+$ single ruling
 12. [BE (x) Š]U.SI GU ZI-ma SAG ŠU.SI NU te am? iṣ-bat DUMU MAN giš GU.ZA AD-šu DAB-[bat]
-13. [BE x Š]U.SI TA SUḪUŠ ŠU.SI liš it-ru-uṣ-ma MURUB4 ZÉ iṣ-bat URU KI.TA ina KUN4 DAB-[bat]
-14. [BE x Š]U.SI TA SUḪUŠ ŠU.SI liš it-ru-uṣ-ma SAG ZÉiṣ-bat URU AN.TA ina KUN4 DAB-b[at]
-15. [BE x Š]U.SI TA SUḪUŠ ŠU.SI liš it-ru-uṣ-ma MURUB4 U iṣ-bat URU NIGIN-ta ina KUN4 DAB-bat
-16. [BE x Š]U.SI TA SUḪUŠ ŠU.SI liš it-ru-uṣ-ma SAG U iṣ-bat URU AN.TA ina KUN4 DAB-bat
-17. [BE x Š]U.SI ina ŠÀ ŠU.SI MAN MAS.SÙ -su ŠU -su KUR-ad
-18. [BE x Š]U.SI ina SUḪUŠ ŠU.SI DUMU MAN giš GU.ZA AD-šu DAB-bat
-19. [BE x Š]U.SI ana GÙB TAB-et LÚ ina NU INIM-šu ana ṣi-bit-tiSUM-nu x
-___________________________________________________ BE ______________________________________
-20. [... (0) ...] ŠU.NÍGIN 77 MU.MEŠ SUMUN-te? MU.MEŠ šá ina ŠÀ ṭup-pi an-ni-ti še-lu -ni ina ṭup-pa-ti šá-na-te-ma šá
-ŠU.SI____________________________________________________________________________________________x [... (x x) ...]
-21. [BE x] ŠU.SI ana gišTUKUL GUR-ur [... (0) ...] gišTUKUL ana MAN KI.EN.G[I]
-22. [BE x] ŠU.SI giš[TUKUL] GAR-ma SUḪUŠ EDIN ZAG ŠU.SI IGI KÚR ana KUR-ia iḫ-ḫab-ba-tú
-23. [BE x] ŠU.SI giš[TUKUL] GAR-ma SUḪUŠ EDIN GÙB ŠU.SI IGI ÉRIN-ni ana KUR KÚR iḫ-ḫa-bat
-24. B[E ina EDI]N U MURUB4 gišTUKUL GAR-ma ana KUR ŠU.SI GUR-ur na-ṣir KÚR BÀD BAL-at šá-níš DUMU MAN
-gišGU.ZA [AD]-šu DAB-bat
-25. B[E ina EDI]N U MURUB4 gišTUKUL GAR-ma KI.TA IGI ka šu ut? KAM.MEŠ -at gišTUKUL IZI.GAR u tas-ri-ri šá-
+13. [BE x Š]U.SI TA SUHUŠ ŠU.SI liš it-ru-uṣ-ma MURUB₄ ZE₂ iṣ-bat URU KI.TA ina KUN₄ DAB-[bat]
+14. [BE x Š]U.SI TA SUHUŠ ŠU.SI liš it-ru-uṣ-ma SAG ZE₂ iṣ-bat URU AN.TA ina KUN₄ DAB-b[at]
+$ single ruling
+15. [BE x Š]U.SI TA SUHUŠ ŠU.SI liš it-ru-uṣ-ma MURUB₄ U iṣ-bat URU NIGIN-ta ina KUN₄ DAB-bat
+16. [BE x Š]U.SI TA SUHUŠ ŠU.SI liš it-ru-uṣ-ma SAG U iṣ-bat URU AN.TA ina KUN₄ DAB-bat
+$ single ruling
+17. [BE x Š]U.SI ina ŠA₃ ŠU.SI MAN MAS.SU₃-su ŠU-su KUR-ad
+18. [BE x Š]U.SI ina SUHUŠ ŠU.SI DUMU MAN giš GU.ZA AD-šu DAB-bat
+19. [BE x Š]U.SI ana GUB₃ TAB-et LU₂ ina NU INIM-šu ana ṣi-bit-ti SUM-nu x
+$ single ruling
+BE
+$ single ruling
+20. [... (0) ...] ŠU.NIGIN₂ 77 MU.MEŠ SUMUN-te? MU.MEŠ ša₂ ina ŠA₃ ṭup-pi an-ni-ti še-lu-ni ina ṭup-pa-ti ša₂-na-te-ma ša₂
+ŠU.SI x [... (x x) ...]
+$ single ruling
+21. [BE x] ŠU.SI ana {giš}TUKUL GUR-ur [... (0) ...] {giš}TUKUL ana MAN KI.EN.G[I]
+22. [BE x] ŠU.SI {giš}[TUKUL] GAR-ma SUHUŠ EDIN ZAG ŠU.SI IGI KUR₂ ana KUR-ia ih-hab-ba-tu₂
+23. [BE x] ŠU.SI {giš}[TUKUL] GAR-ma SUHUŠ EDIN GUB₃ ŠU.SI IGI ERIN₂-ni ana KUR KUR₂ ih-ha-bat
+$ single ruling
+24. B[E ina EDI]N U MURUB₄ {giš}TUKUL GAR-ma ana KUR ŠU.SI GUR-ur na-ṣir KUR₂ BAD₃ BAL-at ša₂-niš₂ DUMU MAN
+{giš}GU.ZA [AD]-šu DAB-bat
+25. B[E ina EDI]N U MURUB₄ {giš}TUKUL GAR-ma KI.TA IGI ka šu ut? KAM.MEŠ-at {giš}TUKUL IZI.GAR u tas-ri-ri ša₂-
 ṭir KI.TA x x x [...] x
-26. B[E ina x] ŠU.SI gišTUKUL GAR-ma ŠUB GU.ZA IGI gišTUKUL x [x]
-27. BE ina ZAG U giš TUKUL GAR-ma AN.TA IGI DINGIR.MEŠ ina pu-ut ÉRIN KÚR NU DU.MEŠ gišTUKUL.MEŠ -ka ©
-BE ina GÙB U gišTUKUL GAR-ma AN.TA IGI DINGIR.ME[Š ina p]u-ut ÉRIN KÚR DU.MEŠ giš[TUKUL.MEŠ KÚR (x
+26. B[E ina x] ŠU.SI {giš}TUKUL GAR-ma ŠUB GU.ZA IGI {giš}TUKUL x [x]
+$ single ruling
+27. BE ina ZAG U giš TUKUL GAR-ma AN.TA IGI DINGIR.MEŠ ina pu-ut ERIN₂ KUR₂ NU DU.MEŠ {giš}TUKUL.MEŠ-ka ©
+BE ina GUB₃ U {giš}TUKUL GAR-ma AN.TA IGI DINGIR.ME[Š ina p]u-ut ERIN₂ KUR₂ DU.MEŠ {giš}[TUKUL.MEŠ KUR₂ (x
 x)]
-28. BE ina x ŠU.SI gišTUKUL GAR-ma ŠUB GU.ZA IGI BÀ -utIRi-muš [LUGAL]
-29. BE ina KUR ŠU.SI gišTUKUL TA ZAG ana GÙB ZI-ma ana IGI-šu EDIN GÙB U DU8 ÉRIN-ni ÉRINKÚR ina SAG
-A.[ŠÀ -šá ...]
-30. BE ina KUR ŠU.SI gišTUKUL TA GÙB [ana ZA]G ZI-ma ana IGI-šu EDIN ZAG U DU8 ÉRINKÚR ÉRIN-ni ina SAG
-A.[ŠÀ -šá ...]
-31. BE ina KUR ŠU.SI gišTUKUL TA ZAG ana GÙB ZI-ma šur-ru-ur u ŠUB.MEŠ -ut ÉRIN-ka [...]
-32. BE ina KUR ŠU.SI gišTUKUL TA GÙB ana ZAG ZI-ma šur-ru-ur u ŠUB.MEŠ -ut ÉRINKÚR [...]
-33. BE ina SUḪUŠ EDIN U MURUB4 [...]
-34. BE ina SUḪUŠ EDIN U MURUB4 x x x ana ŠÀ -šú [...]
-35. BE____________________________________________________________________________________________inaSUḪUŠ EDIN U MURUB4[...]
-36. BE ina MURUB4 EDIN U MURUB4 2 gišTUKUL.MEŠ GAR.MEŠ -ma AN.TA IGI.MEŠ [...]
-37. BE ina MURUB4 EDIN U MURUB4 KI.TA IGI.MEŠ -ma ZAG ŠU.SI DU8 [...]
-38. BE ina MURUB4 EDIN U MURUB4 AN?.TA IGI.MEŠ -ma GÙB ŠU.SI DU8 [...]
-39. BE ina MURUB4 EDIN U MURUB4 [...]
-40. BE ina MURUB4 EDIN U MURUB4 x x IGI.MEŠ -ma [...]
-41. BE ina MURUB4 EDIN U MURUB4 x x IGI.MEŠ -ma [...]
-42. BE ina MURUB4 EDIN U MURUB4 [...]
-43. BE ina MURUB4 EDIN U MURUB4 [...]
-44. BE ina MURUB4 EDIN U MURUB4 [...]
+28. BE ina x ŠU.SI {giš}TUKUL GAR-ma ŠUB GU.ZA IGI BA₃-ut IRi-muš [LUGAL]
+29. BE ina KUR ŠU.SI {giš}TUKUL TA ZAG ana GUB₃ ZI-ma ana IGI-šu EDIN GUB₃ U DU₈ ERIN₂-ni ERIN₂ KUR₂ ina SAG
+A.[ŠA₃-ša₂ ...]
+30. BE ina KUR ŠU.SI {giš}TUKUL TA GUB₃ [ana ZA]G ZI-ma ana IGI-šu EDIN ZAG U DU₈ ERIN₂ KUR₂ ERIN₂-ni ina SAG
+A.[ŠA₃-ša₂ ...]
+31. BE ina KUR ŠU.SI {giš}TUKUL TA ZAG ana GUB₃ ZI-ma šur-ru-ur u ŠUB.MEŠ-ut ERIN₂-ka [...]
+32. BE ina KUR ŠU.SI {giš}TUKUL TA GUB₃ ana ZAG ZI-ma šur-ru-ur u ŠUB.MEŠ-ut ERIN₂ KUR₂ [...]
+$ single ruling
+33. BE ina SUHUŠ EDIN U MURUB₄ [...]
+34. BE ina SUHUŠ EDIN U MURUB₄ x x x ana ŠA₃-šu₂ [...]
+35. BE ina SUHUŠ EDIN U MURUB₄ [...]
+$ single ruling
+36. BE ina MURUB₄ EDIN U MURUB₄ 2 {giš}TUKUL.MEŠ GAR.MEŠ-ma AN.TA IGI.MEŠ [...]
+37. BE ina MURUB₄ EDIN U MURUB₄ KI.TA IGI.MEŠ-ma ZAG ŠU.SI DU₈ [...]
+38. BE ina MURUB₄ EDIN U MURUB₄ AN?.TA IGI.MEŠ-ma GUB₃ ŠU.SI DU₈ [...]
+$ single ruling
+39. BE ina MURUB₄ EDIN U MURUB₄ [...]
+40. BE ina MURUB₄ EDIN U MURUB₄ x x IGI.MEŠ-ma [...]
+41. BE ina MURUB₄ EDIN U MURUB₄ x x IGI.MEŠ-ma [...]
+42. BE ina MURUB₄ EDIN U MURUB₄ [...]
+$ single ruling
+43. BE ina MURUB₄ EDIN U MURUB₄ [...]
+44. BE ina MURUB₄ EDIN U MURUB₄ [...]
 45. BE ina SAG U giš TUKUL GAR-ma [...]
 46. BE ina SAG U giš TUKUL GAR-ma [...]
-47. BE ina SAG EDIN U MURUB4 gišTUKUL GAR-ma x x IGI [...]
-48. BE ina DAGAL ZAG ŠU.SI gišTUKUL GAR-ma [EDI]N? ZAG ŠU.SI IGI [...]
-49. BE ina DAGAL GÙB ŠU.SI gišTUKUL GAR-ma [EDI]N? GÙB ŠU.SI IGI [...]
-50. BE ina DAGAL ZAG ŠU.SI gišTUKUL GAR-ma [EDI]N? ŠU.SI MURUB4 IGI [...]
-51. BE ina DAGAL GÙB ŠU.SI gišTUKUL GAR-ma [EDI]N? ŠU.SI MURUB4 IGI [...]
+$ single ruling
+47. BE ina SAG EDIN U MURUB₄ {giš}TUKUL GAR-ma x x IGI [...]
+48. BE ina DAGAL ZAG ŠU.SI {giš}TUKUL GAR-ma [EDI]N? ZAG ŠU.SI IGI [...]
+49. BE ina DAGAL GUB₃ ŠU.SI {giš}TUKUL GAR-ma [EDI]N? GUB₃ ŠU.SI IGI [...]
+$ single ruling
+50. BE ina DAGAL ZAG ŠU.SI {giš}TUKUL GAR-ma [EDI]N? ŠU.SI MURUB₄ IGI [...]
+51. BE ina DAGAL GUB₃ ŠU.SI {giš}TUKUL GAR-ma [EDI]N? ŠU.SI MURUB₄ IGI [...]
 52. BE SAG ŠU.SI [...]
-______BE___________________________________BE______________________________________________
-53. BE SAG [...] SU.GU7 ina KUR GÁL -ši
-54. ŠU.NÍGIN 34? [...]
+$ single ruling
+BE BE
+$ single ruling
+53. BE SAG [...] SU.GU₇ ina KUR GAL₂-ši
+54. ŠU.NIGIN₂ 34? [...]
 $ 55-56 Zu abgerieben für eine Umschrift

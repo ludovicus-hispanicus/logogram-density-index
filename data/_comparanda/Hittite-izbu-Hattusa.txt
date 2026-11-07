@@ -10,9 +10,10 @@ note: Hittite cuneiform izbu omens. The "LDI" here = Sumerogram + AKKADOGRAM den
 ---
 
 @text
-ták-ku IZ-BU GEŠTU.ḪI.A IGI.ḪI.A ga-ri-ia-an ḫar-kán-zi LUGAL a-ra-aḫ-zé-né-eš ku-na-an-zi
-ták-ku IZ-BU ZAG-an GEŠTU-an NU GÁL LÚ.KÚR KUR LUGAL e-ep-zi
-ták-ku IZ-BU GÙB-la-an GEŠTU-an NU GÁL LUGAL KUR LÚ.KÚR e-ep-zi
-ták-ku IZ-BU GEŠTU.ḪI.A-ŠU GÚ-ši ki-ia-an-ta-ri É LÚ ḫar-ak-zi na-aš-ma-kán LUGAL-uš LÚ.MEŠ ḫa-bi-ri-ia-aš an-da i-ia-an-da-ri
-ták-ku IZ-BU GEŠTU.ḪI.A-ŠU kap-pa-a-an Ú-UL iš-ta-ma-aš-ša-an ut-tar iš-ta-ma-aš-ši
-ták-ku IZ-BU GEŠTU.ḪI.A-ŠU NU GÁL LUGAL-wa-aš U₄.ḪI.A zi-in-na-an-te-eš na-aš-ma-kán LUGAL-uš LÚ.MEŠ ḫa-at-ta-an-du-šu-uš ku-en-zi
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. tak₂-ku IZ-BU GEŠTU.HI.A IGI.HI.A ga-ri-ia-an har-kan₂-zi LUGAL a-ra-ah-ze₂-ne₂-eš ku-na-an-zi
+2. tak₂-ku IZ-BU ZAG-an GEŠTU-an NU GAL₂ LU₂.KUR₂ KUR LUGAL e-ep-zi
+3. tak₂-ku IZ-BU GUB₃-la-an GEŠTU-an NU GAL₂ LUGAL KUR LU₂.KUR₂ e-ep-zi
+4. tak₂-ku IZ-BU GEŠTU.HI.A-ŠU GU₂-ši ki-ia-an-ta-ri E₂ LU₂ har-ak-zi na-aš-ma-kan₂ LUGAL-uš LU₂.MEŠ ha-bi-ri-ia-aš an-da i-ia-an-da-ri
+5. tak₂-ku IZ-BU GEŠTU.HI.A-ŠU kap-pa-a-an U₂-UL iš-ta-ma-aš-ša-an ut-tar iš-ta-ma-aš-ši
+6. tak₂-ku IZ-BU GEŠTU.HI.A-ŠU NU GAL₂ LUGAL-wa-aš U₄.HI.A zi-in-na-an-te-eš na-aš-ma-kan₂ LUGAL-uš LU₂.MEŠ ha-at-ta-an-du-šu-uš ku-en-zi

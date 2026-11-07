@@ -9,18 +9,19 @@ note: "The genuine Ḫattuša-periphery AKKADIAN Šumma Ālu witness (≈ Tablet
 ---
 
 @reverse col. i
-[... L]Ú i-lík-ma NÍTA it-bé-a-ma a-na ZAG-šu ir-[qú-ud ...]
-[... L]Ú i-lík-ma NÍTA it-bé-a-ma a-na GÙB-šu i[r-qú-ud ...]
-[... ZAG] SU.GU₇ ina KUR [...]
-[... L]Ú i-lík-ma NÍTA a-na IGI-šu ir-qú-ud GURUN i-za-a[ḫ ...]
-[...] mi-lum DU.DU-ma [...] KUR x [...]
-[... NÍTA] a-na EGIR LÚ-lim ir-qú-ud ti-bu KALA.[GA ...]
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. [... L]U₂ i-lik₂-ma NITA₂ it-be₂-a-ma a-na ZAG-šu ir-[qu₂-ud ...]
+2. [... L]U₂ i-lik₂-ma NITA₂ it-be₂-a-ma a-na GUB₃-šu i[r-qu₂-ud ...]
+3. [... ZAG] SU.GU₇ ina KUR [...]
+4. [... L]U₂ i-lik₂-ma NITA₂ a-na IGI-šu ir-qu₂-ud GURUN i-za-a[h ...]
+5. [...] mi-lum DU.DU-ma [...] KUR x [...]
+6. [... NITA₂] a-na EGIR LU₂-lim ir-qu₂-ud ti-bu KALA.[GA ...]
 
 @reverse col. ii
-[BE UDU SAG.DU-šú a-na EGI]R ZAG-šú ú-s[a₂₀-aḫ-ḫi-ir ...]
-[BE UDU SAG.DU-šú] a-na EGIR GÙB-šú ú-s[a₂₀-aḫ-ḫi-ir ...]
-[BE UDU GÌR ZAG-š]ú ú-na-aš-ša-ak ti-bi L[Ú.KÚR ...]
-[BE UDU GÌR GÙ]B-šú ú-na-aš-ša-ak ti-bi É[RIN-ia a-na KUR LÚ.KÚR ...]
-[BE UDU ba]-ma-at ZAG-šú i-il-lak TUŠ [ÉRIN-ia ...]
-[BE UDU b]a-ma-at GÙB-šú i-il-lak TUŠ L[Ú.KÚR-ia ...]
-[BE SAG.DU ...]
+7. [BE UDU SAG.DU-šu₂ a-na EGI]R ZAG-šu₂ u₂-s[a₂₀-ah-hi-ir ...]
+8. [BE UDU SAG.DU-šu₂] a-na EGIR GUB₃-šu₂ u₂-s[a₂₀-ah-hi-ir ...]
+9. [BE UDU GIR₃ ZAG-š]u₂ u₂-na-aš-ša-ak ti-bi L[U₂.KUR₂ ...]
+10. [BE UDU GIR₃ GU]B₃-šu₂ u₂-na-aš-ša-ak ti-bi E[RIN₂-ia a-na KUR LU₂.KUR₂ ...]
+11. [BE UDU ba]-ma-at ZAG-šu₂ i-il-lak TUŠ [ERIN₂-ia ...]
+12. [BE UDU b]a-ma-at GUB₃-šu₂ i-il-lak TUŠ L[U₂.KUR₂-ia ...]
+13. [BE SAG.DU ...]

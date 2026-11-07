@@ -11,11 +11,12 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 @obverse
 1’. Spuren
 2’. [...] x x mu MAN-ma [...]
-3’. [...] x NU GUR.MEŠ -ni [...]
-4’. [...] BAL-ma KÁ.GAL KI.TA ŠÀ -b[i? ...]
-5’. [... M]EŠ URU È.MEŠ -ma [...]
-6’. [... B]AL-ma TÙR IGI GAM-áš [TÙR ...]
-7’. [...] BAL-ma SUḪUŠ U IGI [...]
-8’. [...] x- š uGÌR GAR-át [...]
-9’. [...] x-⸢šu⸣BÙR ŠUB [...]
-10’. [... D]U8.DU8 [...]
+3’. [...] x NU GUR.MEŠ-ni [...]
+4’. [...] BAL-ma KA₂.GAL KI.TA ŠA₃-b[i? ...]
+5’. [... M]EŠ URU E₃.MEŠ-ma [...]
+6’. [... B]AL-ma TUR₃ IGI GAM-aš₂ [TUR₃ ...]
+7’. [...] BAL-ma SUHUŠ U IGI [...]
+8’. [...] x- š u GIR₃ GAR-at₂ [...]
+9’. [...] x-šu# BUR₃ ŠUB [...]
+10’. [... D]U₈.DU₈ [...]
+$ single ruling

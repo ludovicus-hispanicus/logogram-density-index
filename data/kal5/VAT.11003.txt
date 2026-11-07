@@ -11,26 +11,34 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 @obverse
 1. [...] x [...]
 2. [...] x [...]
-3. [...] KÚ[R] ⸢LUGAL⸣ [...]
-4. [...] xLUGAL ÉRIN.MEŠ -šu [...]
-5. [...] xKUR šu na? kaskal ana SAG A.[ŠÀ ...]
-6. [...] x KUR šu KÚR KÚR [...]
-7. [... T]I-qé ek-let ZÁLAG -at [...]
-8. [... T]I-qé ZÁLAG -at ek-l[e]t-ma x [...]
-9. [...] LUGAL I[LL]AT.M[EŠ -šu ...]
-10. [...] LUGAL ⸢ILLAT⸣ .M[EŠ -šu ...]
-11. [...] šum4-maLUGAL ILLAT.MEŠ -š[u ...]
-12. [...] LUGAL x ri šu šum 4-ma [...]
-13. [... Ḫ ...]UL? ina ṭu-ba-te URU ZAG-ia5 ana KÚR SUM [...]
-14. [... ḪU ...]L? KÚR ina ṭu-ba-te URU ZAG-[šu SUM ...]
-15. [... šu ...]m4-ma x x ku EN-el šum 4-m[a ...]
-16. [...] x [x] x ka šu ḫa x [...]
+$ single ruling
+3. [...] KU[R₂] LUGAL# [...]
+4. [...] x LUGAL ERIN₂.MEŠ-šu [...]
+$ single ruling
+5. [...] x KUR šu na? kaskal ana SAG A.[ŠA₃ ...]
+6. [...] x KUR šu KUR₂ KUR₂ [...]
+$ single ruling
+7. [... T]I-qe₂ ek-let ZALAG₂-at [...]
+8. [... T]I-qe₂ ZALAG₂-at ek-l[e]t-ma x [...]
+$ single ruling
+9. [...] LUGAL I[LL]AT.M[EŠ-šu ...]
+10. [...] LUGAL ILLAT# .M[EŠ-šu ...]
+11. [...] šum₄-ma LUGAL ILLAT.MEŠ-š[u ...]
+12. [...] LUGAL x ri šu šum₄-ma [...]
+$ single ruling
+13. [... H]UL? ina ṭu-ba-te URU ZAG-ia₅ ana KUR₂ SUM [...]
+14. [... HU]L? KUR₂ ina ṭu-ba-te URU ZAG-[šu SUM ...]
+$ single ruling
+15. [... šu]m₄-ma x x ku EN-el šum 4-m[a ...]
+16. [...] x [x] x ka šu ha x [...]
 17. [...] x [...]
 @reverse
-1’. [...] x munus[...]
+1’. [...] x munus [...]
+$ single ruling
 2’. [...] sa x [...]
-3’. [... d]ù?ina di x [...]
+3’. [... d]u₃?ina di x [...]
 4’. [... LU]GAL [...]
+$ single ruling
 5’. [... GABA.RI LIBIR].RA-šu
-6’. [...] x [...] ḪAL
-7’. [...] x U41?-KÁM [li-mu d]⸢ A⸣ -šur -KAR-a-ni
+6’. [...] x [...] HAL
+7’. [...] x U₄ 1?-KAM₂ [li-mu d] A#-šur-KAR-a-ni

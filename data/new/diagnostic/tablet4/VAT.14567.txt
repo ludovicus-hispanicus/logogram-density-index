@@ -10,7 +10,7 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms H 1′
+#note: ms H 1′
 43. [...] x [(x)]
 44. [... DINGI]R? TI
 45. [...] TI
@@ -19,20 +19,20 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 48. [...] GAM
 49. [...] GAM
 50. [...] x ŠU#? {d}AMAR#?.UTU#?
-51. [... {d}kù]-bi?
-52. [... ŠU] XXX# u XX
+51. [... {d}ku₃]-bi?
+52. [... ŠU] 30# u XX
 53. [...] lu# ŠU XX
 55. [... -š]u? {d}UTU
-56. [...] {d}XXX
-57. [...] DINGIR ÚŠ
+56. [...] {d}30
+57. [...] DINGIR UŠ₂
 58. [... {d}A].ZU
 59. [... {d}A].ZU#
 @reverse
-# ms H Rs1′
+#note: ms H Rs1′
 83. [...]-kid#
-84. [...]-su# GÍD-ma TIN
-85. [... SÌG]-iṣ GIG-su DUGUD-ma TIN
-86. [...] SÌG-iṣ GIG-su DUGUD-ma GAM
+84. [...]-su# GID₂-ma TIN
+85. [... SIG₃]-iṣ GIG-su DUGUD-ma TIN
+86. [...] SIG₃-iṣ GIG-su DUGUD-ma GAM
 87. [...] TIN
 88. [...] ma#?-aq-tu GAM
 89. [...] GAM

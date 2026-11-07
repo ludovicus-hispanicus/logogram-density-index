@@ -10,15 +10,15 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms I 1′
-164′. [... Z]U# SA#.[GAL]
+#note: ms I 1′
+164′. [... Z]U SA#.[GAL]
 165′. [...]
-166′. [... SA]G#.KI-šú ḫe-sa-á[t ...]
-167′. [... DINGI]R-šú TIN#
-168′. [...] {d}XV-šú TIN
-169′. [...] ina NU ZU-ú ú-rap-pad / [ŠU {d}IŠKUR ina AN].BAR₇ SÌG-iṣ GAM
-170′. [... -á]t ina NU ZU-ú ú-rap-pad / [... SÌG]-iṣ#? GAM
-171′. [... Z]É# i-te-ez-zi SIR₄-šú zi?-[ra ...]
+166′. [... SA]G.KI-šu₂ he-sa-a[t₂ ...]
+167′. [... DINGI]R-šu₂ TIN#
+168′. [...] {d}15-šu₂ TIN
+169′. [...] ina NU ZU-u₂ u₂-rap-pad / [ŠU {d}IŠKUR ina AN].BAR₇ SIG₃-iṣ GAM
+170′. [... -a]t₂ ina NU ZU-u₂ u₂-rap-pad / [... SIG₃]-iṣ#? GAM
+171′. [... Z]E₂ i-te-ez-zi SIR₄-šu₂ zi?-[ra ...]
 172′. [...] {d}IŠKUR
 173′. [... ŠU]B.ŠUB-a ŠU {d}IŠKUR GAM
 174′. [...] {d}NIN.GIŠ.ZI.D[A]

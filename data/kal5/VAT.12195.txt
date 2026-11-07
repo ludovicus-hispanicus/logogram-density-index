@@ -10,11 +10,15 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x x [x]
-2’. [...] ḪUL ⸢x⸣
-3’. [...] šú DU-a[k?]
-4’. [...] ⸢x⸣ GAR.GAR-an
+$ single ruling
+2’. [...] HUL x
+3’. [...] šu₂ DU-a[k?]
+4’. [...] x GAR.GAR-an
+$ single ruling
 5’. [... GI]G TI-uṭ
 6’. [...] IGI-mar
+$ single ruling
 7’. [...] MAN-ni
-8’. [...] x ú x
+8’. [...] x u₂ x
+$ single ruling
 9’. [...] x x

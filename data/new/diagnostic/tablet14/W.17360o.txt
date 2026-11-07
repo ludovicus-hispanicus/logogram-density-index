@@ -10,11 +10,11 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms K 2′
+#note: ms K 2′
 231′. [...]-ma# GAM
-232′. [... iš]-ḫa-ra
-233′. [... AN].BAR₇ SÌG-iṣ ŠU dU.GUR GAM
-234′. [... ana la-ba]-ṣú#? GUR#-šum-ma GAM
+232′. [... iš]-ha-ra
+233′. [... AN].BAR₇ SIG₃-iṣ ŠU {d}U.GUR GAM
+234′. [... ana la-ba]-ṣu₂#? GUR#-šum-ma GAM
 235′. [...] GAM
 236′. [...] TIN#?
 237′. [... -m]u GAM

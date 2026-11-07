@@ -9,36 +9,37 @@ note: Logographic Middle Assyrian terrestrial omens.
 ---
 
 @obverse
-[...] x [x]
-[...] na-šu-nu 1-ma
-[...] mi-li GABA ana EN TÙR
-[...] e ṣe em x ra-bé-e-šú
-[...] ana EN TÙR
-[...] na-aḫ-su
-[... T]ÙR
-[... K]ÁM
-[...] x
-DIŠ ÁB [...] x [...]
-($___$) x x [...]
-($___$) mi-li [GABA ...]
-DIŠ! ÁB ana Ù.TU [...]
-($___$) kal ba x x [...]
-($___$) re qu x [...]
-DIŠ ÁB ana Ù.TU ana sag [...]
-($___$) KUN.MEŠ-šá su [...]
-DIŠ ÁB ana Ù.TU ana ḫu x [...]
-($___$) ana KU₄-ub [...]
-DIŠ ÁB ana Ù.[TU ...]
-DIŠ LÚ ina MU[RUB₄ ...]
-DIŠ LÚ ina MURUB₄ [...]
-DIŠ LÚ la-ḫ[a-an-nu/na ...]
-DIŠ LÚ la-ḫa-an-[nu/na ...]
-[... t]a ana IGI [...]
-[...] x GIM ud ḫ[i ...]
-[...] ina ZAG šá-qa-a [...]
-[... ina G]ÙB šá-qa-a [...]
-[...] x x [...]
-[...] KI.MIN
-[...] KI.MIN
-[...] KI.MIN
-[...] KI.MIN
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. [...] x [x]
+2. [...] na-šu-nu 1-ma
+3. [...] mi-li GABA ana EN TUR₃
+4. [...] e ṣe em x ra-be₂-e-šu₂
+5. [...] ana EN TUR₃
+6. [...] na-ah-su
+7. [... T]UR₃
+8. [... K]AM₂
+9. [...] x
+10. DIŠ AB₂ [...] x [...]
+11. ($___$) x x [...]
+12. ($___$) mi-li [GABA ...]
+13. DIŠ! AB₂ ana U₃.TU [...]
+14. ($___$) kal ba x x [...]
+15. ($___$) re qu x [...]
+16. DIŠ AB₂ ana U₃.TU ana sag [...]
+17. ($___$) KUN.MEŠ-ša₂ su [...]
+18. DIŠ AB₂ ana U₃.TU ana hu x [...]
+19. ($___$) ana KU₄-ub [...]
+20. DIŠ AB₂ ana U₃.[TU ...]
+21. DIŠ LU₂ ina MU[RUB₄ ...]
+22. DIŠ LU₂ ina MURUB₄ [...]
+23. DIŠ LU₂ la-h[a-an-nu/na ...]
+24. DIŠ LU₂ la-ha-an-[nu/na ...]
+25. [... t]a ana IGI [...]
+26. [...] x GIM ud h[i ...]
+27. [...] ina ZAG ša₂-qa-a [...]
+28. [... ina G]UB₃ ša₂-qa-a [...]
+29. [...] x x [...]
+30. [...] KI.MIN
+31. [...] KI.MIN
+32. [...] KI.MIN
+33. [...] KI.MIN

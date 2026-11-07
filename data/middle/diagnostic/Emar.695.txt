@@ -19,10 +19,10 @@ caveat: Poorly preserved. Its LDI rests largely on the repeated logographic prog
 ---
 
 1. [x x x D]IB.DIB-su BE-ma! [...]
-2. [x x] a ÍD ŠUB-di [...]
+2. [x x] a ID₂ ŠUB-di [...]
 3. [KI.]MIN GAR ina 50 MU.[MEŠ]
-4. [x x] A.RI.A {d}ŠUL.PA.È [...]
-5. [x x] x NU GÌR.BAL [...]
+4. [x x] A.RI.A {d}ŠUL.PA.E₃ [...]
+5. [x x] x NU GIR₃.BAL [...]
 6. [KI.MI]N GAR ina 3 MU.MEŠ [...]
 7. [x x] su sa x [...]
 8. [KI.MIN GA]R ina 6 M[U.MEŠ]
@@ -31,7 +31,7 @@ caveat: Poorly preserved. Its LDI rests largely on the repeated logographic prog
 $ (break)
 11'. [x x] x x [...]
 12'. KI.MIN [...]
-13'. ($___$) MIN LÚ šá x [...]
+13'. ($___$) MIN LU₂ ša₂ x [...]
 14'. a-di {d}IŠKUR x [...]
 15'. [KI.MIN] GAR ina 15 M[U.MEŠ]
 16'. [x x] x x x x [...]

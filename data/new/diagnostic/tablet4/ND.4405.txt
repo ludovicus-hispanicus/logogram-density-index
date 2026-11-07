@@ -10,18 +10,18 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms C 1
-1. DIŠ# SAG#.KI# ḫe#-si#-ma# K[Ú]M-im [...]
-2. [DIŠ] SAG#.KI# ḫe#-si#-ma# ŠÀ#!.MEŠ#-šú# AL#.[D]U? [...]
-3. DIŠ SAG#.KI# ḫe-si#-ma# [Š]À.[MEŠ]-šú# it-te-ne#[n- ...]
-4. DIŠ S[AG].KI ḫe#-si#-ma# GEŠTU.ME[Š-šú?] NU ŠE.GA-a Š[U ...]
-5. DIŠ# S#[AG.K]I#-šú šal-mat [x (:)]
+#note: ms C 1
+1. DIŠ# SAG#.KI# he#-si#-ma# K[U]M₂-im [...]
+2. [DIŠ] SAG#.KI# he#-si#-ma# ŠA₃#!.MEŠ#-šu₂# AL#.[D]U? [...]
+3. DIŠ SAG#.KI# he-si#-ma# [Š]A₃.[MEŠ]-šu₂# it-te-ne[n- ...]
+4. DIŠ S[AG].KI he#-si#-ma# GEŠTU.ME[Š-šu₂?] NU ŠE.GA-a Š[U ...]
+5. DIŠ# S[AG.K]I-šu₂ šal-mat [x (:)]
 6. DIŠ? [...]
-7. DIŠ S#[AG].KI#-[š]ú# ŠUB#-ut#-ma# [... Í]R-a# [...]
-8. [DIŠ S]A#[G].KI#-šú# DAB#-su#-m#[a GÙ.GÙ-s]i# [MÚ]D ina K#[IR₄ ...]
-9. [(x)] <SAG>.KI!(ku)-šú DAB-su!? [x] MEŠ#? [x (x)] SAG#? ŠÀ# x [...]
-10. [DIŠ SA]G.KI#-šú DAB-su-ma# [x x (x)] SA# SAG# [...]
+7. DIŠ S[AG].KI#-[š]u₂ ŠUB#-ut#-ma# [... I]R₂-a# [...]
+8. [DIŠ S]A[G].KI#-šu₂# DAB#-su#-m[a GU₃.GU₃-s]i [MU]D₂ ina K[IR₄ ...]
+9. [(x)] <SAG>.KI!(ku)-šu₂ DAB-su!? [x] MEŠ#? [x (x)] SAG#? ŠA₃# x [...]
+10. [DIŠ SA]G.KI#-šu₂ DAB-su-ma# [x x (x)] SA# SAG# [...]
 11. [... D]AB-su-ma [...]
-12. [DIŠ S]A[G.KI-šú] DAB-su-m[a] ŠÀ# ŠÀ# [...]
-13. DIŠ# SAG#.KI#-šú# [DA]B#-[su-ma? T]A#? [...]
-14. [DI]Š SAG#.KI#-šú# [...]
+12. [DIŠ S]A[G.KI-šu₂] DAB-su-m[a] ŠA₃# ŠA₃# [...]
+13. DIŠ# SAG#.KI#-šu₂# [DA]B-[su-ma? T]A? [...]
+14. [DI]Š SAG#.KI#-šu₂# [...]

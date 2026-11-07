@@ -9,48 +9,48 @@ source: "Schmidtchen 2021 (BAM 13), Tafel 14 score pp. 563-580, the rows of ms G
 note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/restoration (dropped in preserved-only), x illegible (always lowercase, never with '#'; XX and XXX are the numeral logograms), '#' after a damaged sign. Schmidtchen's half-brackets for damage at the top, at the bottom, and their mixed forms (also where a half-bracket pairs with a full bracket) are all written '#': damaged but legible; an unmatched half-bracket in his print marks the one sign next to it. '/' is his tablet line break inside an entry; his '(Strich)' becomes '$ single ruling' after the entry ('(Strich?)' is dropped). Catchline and colophon, where the manuscript has them, are under @catchline and @colophon (not counted)."
 ---
 
-@column iii
-# ms G iii1′
-137. [... ša]p#-la#-tu-šú nap-ḫ[a ...]
+@column 3
+#note: ms G iii1′
+137. [... ša]p-la#-tu-šu₂ nap-h[a ...]
 $ single ruling
-138. [DIŠ Ú]R 15-šú SA₅-át ú-šap#-šaq#?-[ma TIN?]
+138. [DIŠ U]R₂ 15-šu₂ SA₅-at₂ u₂-šap#-šaq#?-[ma TIN?]
 139. [...]
-140. DIŠ# ÚR.MEŠ-šú SA₅.MEŠ na-ʾ-id :
+140. DIŠ# UR₂.MEŠ-šu₂ SA₅.MEŠ na-ʾ-id :
 141. [...]
-142. DIŠ ÚR 150-šú SIG₇-át x [...]
-143. DIŠ ÚR.MEŠ-šú SIG₇.MEŠ na-ḫi-id# [: ...]
+142. DIŠ UR₂ 150-šu₂ SIG₇-at₂ x [...]
+143. DIŠ UR₂.MEŠ-šu₂ SIG₇.MEŠ na-hi-id# [: ...]
 144. [...]
-145. DIŠ ÚR 150-šú GE₆-át na-ḫi-id :
+145. DIŠ UR₂ 150-šu₂ GE₆-at₂ na-hi-id :
 146. [...]
-147. DIŠ# ÚR 15-šú tar-kát# GIG-su MAN-ni :
+147. DIŠ# UR₂ 15-šu₂ tar-kat₂# GIG-su MAN-ni :
 148. [...]
-149. DIŠ# ÚR.MEŠ-šú tar-ka na-ḫi-id :
-150. DIŠ ÚR# [...]
-151. DIŠ# ÚR 150-šú du-ʾ-ú-mat ú-[...]
-152. DIŠ ÚR.MEŠ-šú du-ʾ-ú-ma [...]
-153. DIŠ ÚR 15-šú nap-ḫat ú-za-bal-ma [...]
-154. DIŠ ÚR 150-šú nap-ḫat GI[G-su ...]
-155. DIŠ ÚR.MEŠ-šú nap-ḫa na-ḫi-id :
-156. DIŠ ÚR [...]
-157. DIŠ ÚR 150-šú muq-qú-ta-át GI[G-su ...]
-158. DIŠ ÚR.MEŠ-šú muq-qú-ta₅ [...]
-159. DIŠ ÚR 15-šú šu-uḫ-ḫu-ṭa#-át# [...]
-160. DIŠ ÚR 150-šú šu-uḫ#-ḫ#[u-ṭa-át ...]
-161. DIŠ# ÚR.MEŠ-šú# [šu-uḫ-ḫu-ṭa ...]
-@column iv
-# ms G iv1′
-203′. [...] NU# ZU#-e# [u] UMUŠ#-šú# [NU] DAB# [...]
+149. DIŠ# UR₂.MEŠ-šu₂ tar-ka na-hi-id :
+150. DIŠ UR₂# [...]
+151. DIŠ# UR₂ 150-šu₂ du-ʾ-u₂-mat u₂-[...]
+152. DIŠ UR₂.MEŠ-šu₂ du-ʾ-u₂-ma [...]
+153. DIŠ UR₂ 15-šu₂ nap-hat u₂-za-bal-ma [...]
+154. DIŠ UR₂ 150-šu₂ nap-hat GI[G-su ...]
+155. DIŠ UR₂.MEŠ-šu₂ nap-ha na-hi-id :
+156. DIŠ UR₂ [...]
+157. DIŠ UR₂ 150-šu₂ muq-qu₂-ta-at₂ GI[G-su ...]
+158. DIŠ UR₂.MEŠ-šu₂ muq-qu₂-ta₅ [...]
+159. DIŠ UR₂ 15-šu₂ šu-uh-hu-ṭa#-at₂# [...]
+160. DIŠ UR₂ 150-šu₂ šu-uh#-h[u-ṭa-at₂ ...]
+161. DIŠ# UR₂.MEŠ-šu₂# [šu-uh-hu-ṭa ...]
+@column 4
+#note: ms G iv1′
+203′. [...] NU# ZU#-e# [u] UMUŠ#-šu₂# [NU] DAB# [...]
 204′. [...] x-gi-ra ŠU# {d}UTU
-205′. [...]-ṣi-la u it-ta-nak-na-an-na / [ŠU {d}X]V? GAR#/ana!? KUR ME RU?
-206′. [... it-ta-n]a-aš-gag-ga ina KI.ÚS# MAŠKIM GUB-iz TIN
-207′. [... i-šam-ma?]-ma-šú ru-mi-ka-a-ti ik-bu-us
-208′. [... i-nap-pa?]-ṣa ŠU.II-šú ne-e-ḫa na-ḫi-id
-209′. [... ŠU.II-šú?] SED#.MEŠ DU₈-ár GIG
-210′. [DIŠ GÌR.II-šú ... mi-šit-t]i? DAB#-su BÚR-ma TIN
-211′. [DIŠ GÌR.II-šú ... mi-šit?]-ti# DAB-su ina#? BÚR-šú-ma TIN
-212′. [DIŠ GÌR.II-šú ...] MUNUS#? DIŠ-ma
-213′. [DIŠ GÌR.II-šú ...] x NA BI x [...]
-214′. [DIŠ GÌR.II-šú? ...] LÚG#? NU TUK ki-iṣ-ṣ#[a-tu (x)]
+205′. [...]-ṣi-la u it-ta-nak-na-an-na / [ŠU {d}1]5? GAR#/ana!? KUR ME RU?
+206′. [... it-ta-n]a-aš-gag-ga ina KI.US₂# MAŠKIM GUB-iz TIN
+207′. [... i-šam-ma?]-ma-šu₂ ru-mi-ka-a-ti ik-bu-us
+208′. [... i-nap-pa?]-ṣa ŠU.II-šu₂ ne-e-ha na-hi-id
+209′. [... ŠU.II-šu₂?] SED#.MEŠ DU₈-ar₂ GIG
+210′. [DIŠ GIR₃.II-šu₂ ... mi-šit-t]i? DAB#-su BUR₂-ma TIN
+211′. [DIŠ GIR₃.II-šu₂ ... mi-šit?]-ti# DAB-su ina#? BUR₂-šu₂-ma TIN
+212′. [DIŠ GIR₃.II-šu₂ ...] MUNUS#? DIŠ-ma
+213′. [DIŠ GIR₃.II-šu₂ ...] x NA BI x [...]
+214′. [DIŠ GIR₃.II-šu₂? ...] LUG₂#? NU TUK ki-iṣ-ṣ[a-tu (x)]
 215′. [...] GIG#-su [...]
 216′. [...] x du [...]
 217′. [...]x ta [...]

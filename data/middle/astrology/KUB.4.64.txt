@@ -10,35 +10,36 @@ note: AN.TA.LÙ/antalû = eclipse; EN.NU.UN = watch; AN.TA/MURUB₄ = upper/midd
 ---
 
 @text
-[...] x(-)x-un-š[u ...]
-[...{d}]U₁₈.LU ú-sar-ri-m[a ...]
-[AN.T]A.LÙ ina {d}MAR.TU ú-sar-ri-ma x [...]
-AN.TA.LÙ ina {d}KUR.RA ú-sar-ri-ma
-AN.TA.LÙ ina {d}SI.SÁ ú-sar-ri-ma Š[UB ...]
-AN.TA.LÙ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-[šu ig-mur ...]
-AN.TA.LÙ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-šu ig-m[ur ...]
-AN.TA.LÙ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-šu ig-mur
-[AN.TA.L]Ù ina EN.NU.UN AN.TA GAR-an EN.NU.UN-šu ig-mur
-[AN.TA.LÙ in]a EN.NU.UN MÚRU.BA GAR-an EN.NU.UN-šu ig-mur
-[AN.TA.LÙ ina E]N.NU.UN MÚRU.BA GAR-an EN.NU.UN-šu ig-mur
-[AN.TA.L]Ù ina EN.NU.UN MÚRU.BA GAR-an EN.NU.UN-šu i[g-mur ...]
-[AN.TA.LÙ] ina EN.N[U U]N MÚRU.BA GAR-an E[N.NU.UN-šu ig-mur ...]
-[AN.TA.LÙ] ina EN.NU.[UN ...]
-[AN.TA.LÙ in]a EN.NU.UN x [...]
-AN.[TA.LÙ ...]
-AN.T[A.LÙ ...]
-AN.TA.[LÙ ...]
-AN.TA.LÙ [...]
-AN.TA.L[Ù ...]
-AN.TA.L[Ù ...]
-[A]N.TA.[LÙ ...]
-AN.TA.[LÙ ...]
-[...] x [... ...]
-[...] x GAR x[... ...]
-[...] x [... ...]
-[AN].TA.[LÙ ...]
-[AN.T]A.LÙ ina
-AN.TA.LÙ ina ga-še-er x(-)nu(-)x [... ...]
-[AN.TA.L]Ù ina MÚRU-šú DADAG LUGAL {d}SU.BIR₄
-[...n]a-bal-ku-ta-at a-na nu-ru-[... ...]
-[...]-šú MÚRU.BA ga-še-er
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. [...] x(-)x-un-š[u ...]
+2. [...{d}]U₁₈.LU u₂-sar-ri-m[a ...]
+3. [AN.T]A.LU₃ ina {d}MAR.TU u₂-sar-ri-ma x [...]
+4. AN.TA.LU₃ ina {d}KUR.RA u₂-sar-ri-ma
+5. AN.TA.LU₃ ina {d}SI.SA₂ u₂-sar-ri-ma Š[UB ...]
+6. AN.TA.LU₃ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-[šu ig-mur ...]
+7. AN.TA.LU₃ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-šu ig-m[ur ...]
+8. AN.TA.LU₃ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-šu ig-mur
+9. [AN.TA.L]U₃ ina EN.NU.UN AN.TA GAR-an EN.NU.UN-šu ig-mur
+10. [AN.TA.LU₃ in]a EN.NU.UN MURU₂.BA GAR-an EN.NU.UN-šu ig-mur
+11. [AN.TA.LU₃ ina E]N.NU.UN MURU₂.BA GAR-an EN.NU.UN-šu ig-mur
+12. [AN.TA.L]U₃ ina EN.NU.UN MURU₂.BA GAR-an EN.NU.UN-šu i[g-mur ...]
+13. [AN.TA.LU₃] ina EN.N[U U]N MURU₂.BA GAR-an E[N.NU.UN-šu ig-mur ...]
+14. [AN.TA.LU₃] ina EN.NU.[UN ...]
+15. [AN.TA.LU₃ in]a EN.NU.UN x [...]
+16. AN.[TA.LU₃ ...]
+17. AN.T[A.LU₃ ...]
+18. AN.TA.[LU₃ ...]
+19. AN.TA.LU₃ [...]
+20. AN.TA.L[U₃ ...]
+21. AN.TA.L[U₃ ...]
+22. [A]N.TA.[LU₃ ...]
+23. AN.TA.[LU₃ ...]
+24. [...] x [... ...]
+25. [...] x GAR x [... ...]
+26. [...] x [... ...]
+27. [AN].TA.[LU₃ ...]
+28. [AN.T]A.LU₃ ina
+29. AN.TA.LU₃ ina ga-še-er x(-)nu(-)x [... ...]
+30. [AN.TA.L]U₃ ina MURU₂-šu₂ DADAG LUGAL {d}SU.BIR₄
+31. [...n]a-bal-ku-ta-at a-na nu-ru-[... ...]
+32. [...]-šu₂ MURU₂.BA ga-še-er

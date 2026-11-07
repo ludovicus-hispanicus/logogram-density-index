@@ -10,14 +10,15 @@ note: AN.TA.LÙ/antalû = eclipse; EN.NU.UN = watch; AN.TA/MURUB₄ = upper/midd
 ---
 
 @text
-]x[...]
-[KI.1] ITU KI.1 [{d}30 ir-bi-ma
-[GE₆]-ša uš-tén-m[e-er
-[KI].2 ITU KI.2 [{d}30 ir-bi-ma
-[ŠÈ] KUR-tim a-x[...]
-[B]URU₁₄ KUR
-[K]I.3 ITU KI.3 [{d}30 ir-bi-ma
-GE₆-ša uš-tén-m[e-er
-i-na {d}GU.ZA-šu u[š-ša-ab]
-KI.4 ITU KI.4 {d}30 i[r-bi-ma
-GE₆-ša uš-tén-me-er {d}S[U.BIR₄{d} i-ma-at]
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. ]x[...]
+2. [KI.1] ITU KI.1 [{d}30 ir-bi-ma
+3. [GE₆]-ša uš-ten₂-m[e-er
+4. [KI].2 ITU KI.2 [{d}30 ir-bi-ma
+5. [ŠE₃] KUR-tim a-x [...]
+6. [B]URU₁₄ KUR
+7. [K]I.3 ITU KI.3 [{d}30 ir-bi-ma
+8. GE₆-ša uš-ten₂-m[e-er
+9. i-na {d}GU.ZA-šu u[š-ša-ab]
+10. KI.4 ITU KI.4 {d}30 i[r-bi-ma
+11. GE₆-ša uš-ten₂-me-er {d}S[U.BIR₄{d} i-ma-at]

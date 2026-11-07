@@ -10,9 +10,10 @@ note: Hurrian cuneiform izbu omens. The "LDI" here = Sumerogram + AKKADOGRAM den
 ---
 
 @text
-DIŠ IZ-BU-ni-e KA-ši šum-mi
-DIŠ IZ-BU-ni-e GEŠTU.ḪI.A-iš ši-i-il i-ra
-DIŠ IZ-BU-ni-e GEŠTU-i ZAG-en NU GÁL-ma LÚ.KÚR-ni
-DIŠ IZ-BU-ni-e GEŠTU-i GÙB-en NU GÁL-ma LUGAL-aš
-DIŠ IZ-BU-ni-e GEŠTU.ḪI.A-il GÚ-da
-DIŠ IZ-BU-ni-e GEŠTU.ḪI.A-il a-ši-i-bi
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. DIŠ IZ-BU-ni-e KA-ši šum-mi
+2. DIŠ IZ-BU-ni-e GEŠTU.HI.A-iš ši-i-il i-ra
+3. DIŠ IZ-BU-ni-e GEŠTU-i ZAG-en NU GAL₂-ma LU₂.KUR₂-ni
+4. DIŠ IZ-BU-ni-e GEŠTU-i GUB₃-en NU GAL₂-ma LUGAL-aš
+5. DIŠ IZ-BU-ni-e GEŠTU.HI.A-il GU₂-da
+6. DIŠ IZ-BU-ni-e GEŠTU.HI.A-il a-ši-i-bi

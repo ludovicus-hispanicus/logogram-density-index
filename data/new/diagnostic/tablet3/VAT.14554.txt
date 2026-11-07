@@ -10,17 +10,17 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms G 1′
+#note: ms G 1′
 34. DIŠ# [...]
 35. DIŠ# [...]
 36. DIŠ [...]
 37. DIŠ [...]
 38. DIŠ [...]
-39. DIŠ SA#[G ...]
-40. DIŠ SA#[G ...] / [...] šá-niš# ana x [x] x a#-rì#? u# x [...]
-41. DIŠ SAG.DU-su DAB.DAB-su u KÚ[M ...]
+39. DIŠ SA[G ...]
+40. DIŠ SA[G ...] / [...] ša₂-niš# ana x [x] x a#-ri₃#? u# x [...]
+41. DIŠ SAG.DU-su DAB.DAB-su u KU[M₂ ...]
 42. [...]
-43. DIŠ SAG.DU-su DAB.DAB-su u KÚM [...] / LÁ-šú UMUŠ#-šú KÚR-šum-m[a? ...]
-44. DIŠ SAG.DU-su TÉŠ.BI DAB.DA[B ...]
-45. DIŠ SAG.DU-su i-tar-ru-ur [...]/ ina KA-šú ÚḪ-šú D[U ...] / ina DU-šú ana IGI-šú i#?-[...]
-46. DIŠ SAG#.DU#-su# ŠU#-šú# u GÌR[{II?}-šú ...]
+43. DIŠ SAG.DU-su DAB.DAB-su u KUM₂ [...] / LA₂-šu₂ UMUŠ#-šu₂ KUR₂-šum-m[a? ...]
+44. DIŠ SAG.DU-su TEŠ₂.BI DAB.DA[B ...]
+45. DIŠ SAG.DU-su i-tar-ru-ur [...]/ ina KA-šu₂ UH₂-šu₂ D[U ...] / ina DU-šu₂ ana IGI-šu₂ i#?-[...]
+46. DIŠ SAG#.DU#-su# ŠU#-šu₂# u GIR₃[{II?}-šu₂ ...]

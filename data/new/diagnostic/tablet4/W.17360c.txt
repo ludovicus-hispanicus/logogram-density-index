@@ -10,15 +10,15 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms I 1′
-78. [...] 15# Š#[U ...]
-79. [... IG]I šá 150 ŠU# GID#[IM₇]
+#note: ms I 1′
+78. [...] 15# Š[U ...]
+79. [... IG]I ša₂ 150 ŠU# GID[IM₇]
 80. [...]
 81. [... ta]r-ku na-šar GIG#
 82. [...]
 83. [...] na-kid!
-84. [...] GÍD-ma TIN
-85. [... G]ABA.RI SÌG-iṣ GIG-su DUGUD-ma TIN
+84. [...] GID₂-ma TIN
+85. [... G]ABA.RI SIG₃-iṣ GIG-su DUGUD-ma TIN
 86. [... -s]u DUGUD-ma GAM
 87. [...] TIN
 88. [... ma]-aq#-tu# GAM

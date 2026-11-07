@@ -10,11 +10,11 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x [...]
-2’. [...] ÉRIN KÚR [...]
-3’. [...] x DUḪ.UŠ [...]
-4’. [...] ⸢ŠUB-di⸣ ŠUB -ti [...]
-5’. [...] x-šú [ŠU]B-di ŠUB -ti [...]
+2’. [...] ERIN₂ KUR₂ [...]
+3’. [...] x DUH.UŠ [...]
+4’. [...] ŠUB#-di# ŠUB-ti [...]
+5’. [...] x-šu₂ [ŠU]B-di ŠUB-ti [...]
 6’. [...] x x ib NUN [...]
-7’. [...] x x ib NUN šá KUR KÚ [R ...]
-8’. [...] SÙḪ [...]
+7’. [...] x x ib NUN ša₂ KUR KU₂ [R ...]
+8’. [...] SUH₃ [...]
 9’. [...] zi x [...]

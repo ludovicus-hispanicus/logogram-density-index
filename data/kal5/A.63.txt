@@ -10,9 +10,12 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. [...] x šu x x [...]
-2’. [BE GAG.ZAG.GA Á.MEŠ -šú ki-la]-⸢ la⸣-an ik-pí-iṣ- ⸢ma šá⸣ ZA[G ...]
-3’. [BE GAG.ZAG.GA Á.MEŠ -šú ki-la-l]a-an ik-pí-iṣ-ma šá GÙ [B ...]
-4’. [BE GAG.ZAG.GA MIN-ma i-r]i-aGAR.MEŠ -nu x [...]
-5’. [BE GAG.ZAG.GA ik-pí-iṣ]-⸢ma⸣ du-na-⸢ šu ⸣KUR-ud [...]
-6’. [BE GAG.ZAG.GA ZAG ik-pí-iṣ -m]a du-na-šu KUR-ud [...]
-7’. [BE GAG.ZAG.GA GÙB ik-pí-iṣ -ma] ⸢ du⸣ -na-šu KUR-ud [...]
+$ single ruling
+2’. [BE GAG.ZAG.GA A₂.MEŠ-šu₂ ki-la]- la#-an ik-pi₂-iṣ- ma# ša₂# ZA[G ...]
+3’. [BE GAG.ZAG.GA A₂.MEŠ-šu₂ ki-la-l]a-an ik-pi₂-iṣ-ma ša₂ GU₃ [B ...]
+$ single ruling
+4’. [BE GAG.ZAG.GA MIN-ma i-r]i-a GAR.MEŠ-nu x [...]
+5’. [BE GAG.ZAG.GA ik-pi₂-iṣ]-ma# du-na- šu# KUR-ud [...]
+$ single ruling
+6’. [BE GAG.ZAG.GA ZAG ik-pi₂-iṣ-m]a du-na-šu KUR-ud [...]
+7’. [BE GAG.ZAG.GA GUB₃ ik-pi₂-iṣ-ma] du#-na-šu KUR-ud [...]

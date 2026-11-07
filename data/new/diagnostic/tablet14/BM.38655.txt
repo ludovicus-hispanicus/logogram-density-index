@@ -10,34 +10,34 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms F 2′f
-104. [... Š]À?-šú ma-[ḫu] / [...] GIG ŠU DINGIR-šú u {d}XV#-šú
+#note: ms F 2′f
+104. [... Š]A₃?-šu₂ ma-[hu] / [...] GIG ŠU DINGIR-šu₂ u {d}15#-šu₂
 105. [...] KI DIN GI E? GAM
-106. [... N]Á-šú KUR-su
+106. [... N]A₂-šu₂ KUR-su
 $ single ruling
-107. [... DIN]GIR-šú#? TIN
+107. [... DIN]GIR-šu₂#? TIN
 108. [...]-iṭ GAM
 109. [...] TAG-it GAM
 110. [...] GAM
 111. [...] GAM
 112. [...] GAM#
 @reverse
-# ms F Rs1′
-178′. [...]-šú# SÌG#!-iṣ#!ŠU#[...]
+#note: ms F Rs1′
+178′. [...]-šu₂# SIG₃#!-iṣ#! ŠU# [...]
 $ single ruling
-179′. [... G]U₇#.MEŠ#?-šú AZAG {d}UTU GU₇#
-180′. [... MUR]UB₄.ME-šú ina GE₆ GU₇.ME#-šú SU-šú KÚM NU TUK lu#-ʾ-tú DAB-[su]
-181′. [...] it#-te#-né#-ep#-ta#-a# GAM#
-182′. [... -š]ú it-ta-na-az-qa-pa TI[N]
+179′. [... G]U₇.MEŠ#?-šu₂ AZAG {d}UTU GU₇#
+180′. [... MUR]UB₄.ME-šu₂ ina GE₆ GU₇.ME#-šu₂ SU-šu₂ KUM₂ NU TUK lu#-ʾ-tu₂ DAB-[su]
+181′. [...] it#-te#-ne₂#-ep#-ta#-a# GAM#
+182′. [... -š]u₂ it-ta-na-az-qa-pa TI[N]
 $ single ruling
-183′. [... ki-mi]-is-su šá 15 GU₇-šú KÚM-šú mit-ḫar ŠU# {d}da-m[u ...]
-184′. [... ki-m]i?-is-su šá 150 GU₇-šú KÚM-šú NU mit-ḫar# GIG-su# GÍD-ma [...]
-185′. [DIŠ kin-ṣ]a-a-šú GU₇.MEŠ-šú KÚM-šú NU mit#-ḫar# {x} ŠU# DINGIR-šú BÚR-m#[a? TIN?]
-186′. [DIŠ kin-ṣa]-a-šú GU₇.MEŠ-šú ŠU# DINGIR URU-šú : ŠU DINGIR-š[ú]
-187′. [...]-šú GU₇.MEŠ-šú ŠU# {d}UTU MU KÙ.BABBAR ZAG.10.MEŠ T[IN]
-188′. [...]-šú ki-iṣ-ṣa-ta₅ i#-šá#-a#! ina# DU₁₁#.DU₁₁#-šú# ÚḪ#-su# ana# IGI#!-šú#? [x (x)] / [(x x) BA]L ru-mi-ka-ti# ik#?-bu#-us u? kiš-pi šu-k[ul (x)]
-189′. [... GI]G.MEŠ# UZU#.ME-šú GU₄.UD.MEŠ u mim-ma šá GU₇ i-ḫa-[ḫu ...]
-190′. [...] x ŠU {d}XX#? (x)
-191′. [...] x u# ina# KA#-šú# MÚD# BURU₈# [GAM]
-192′. [...] KA-šú MÚD MUD [ŠUB-di? GAM]
+183′. [... ki-mi]-is-su ša₂ 15 GU₇-šu₂ KUM₂-šu₂ mit-har ŠU# {d}da-m[u ...]
+184′. [... ki-m]i?-is-su ša₂ 150 GU₇-šu₂ KUM₂-šu₂ NU mit-har# GIG-su# GID₂-ma [...]
+185′. [DIŠ kin-ṣ]a-a-šu₂ GU₇.MEŠ-šu₂ KUM₂-šu₂ NU mit#-har# {x} ŠU# DINGIR-šu₂ BUR₂-m[a? TIN?]
+186′. [DIŠ kin-ṣa]-a-šu₂ GU₇.MEŠ-šu₂ ŠU# DINGIR URU-šu₂ : ŠU DINGIR-š[u₂]
+187′. [...]-šu₂ GU₇.MEŠ-šu₂ ŠU# {d}UTU MU KU₃.BABBAR ZAG.10.MEŠ T[IN]
+188′. [...]-šu₂ ki-iṣ-ṣa-ta₅ i#-ša₂#-a#! ina# DU₁₁#.DU₁₁#-šu₂# UH₂#-su# ana# IGI#!-šu₂#? [x (x)] / [(x x) BA]L ru-mi-ka-ti# ik#?-bu#-us u? kiš-pi šu-k[ul (x)]
+189′. [... GI]G.MEŠ# UZU#.ME-šu₂ GU₄.UD.MEŠ u mim-ma ša₂ GU₇ i-ha-[hu ...]
+190′. [...] x ŠU {d}20#? (x)
+191′. [...] x u# ina# KA#-šu₂# MUD₂# BURU₈# [GAM]
+192′. [...] KA-šu₂ MUD₂ MUD [ŠUB-di? GAM]
 193′. [...] (leer) [...]

@@ -14,6 +14,15 @@ IGNORE_TOKENS = {'x', '($___$)', '.', '..', '...'}
 # counted as logograms (cf. the {d}30 god-number already handled in annotate).
 NUMBER_LOGOGRAMS = {'15', '150', '30'}
 
+
+def is_god_number(part):
+    """A divine name written as a number after {d}: {d}30, {d}20?, {d}15-šú.
+
+    eBL-ATF writes these with digits, never as XXX, XX or XV, so the complement
+    in {d}15-šú must not turn the word phonetic the way a bare 15-šú does."""
+    bare = part.rstrip('?!')
+    return bare.isdigit() or part.split('-')[0].rstrip('?!') in NUMBER_LOGOGRAMS
+
 # Function words written with a SINGLE sign (a monogram), not a phonetic spelling:
 # the preposition ina (sign AŠ) and ana (sign ana). They are transliterated in
 # lowercase, so by default they count as phonetic/syllabic — but as one-sign,
@@ -190,7 +199,7 @@ def annotate_omen(text, omen_id, metadata, preserved_only=False):
             if part['is_det']:
                 t = "determinative"
             else:
-                if p.isdigit() and i > 0 and parts[i-1]['is_det'] and parts[i-1]['text'] == 'd':
+                if is_god_number(p) and i > 0 and parts[i-1]['is_det'] and parts[i-1]['text'] == 'd':
                     t = "logogram"
                 else:
                     t = get_token_type(p)
@@ -256,7 +265,7 @@ def annotate_signs(text, omen_id, metadata, preserved_only=False):
             if not part['text']: continue
             if part['is_det']:
                 signs = [(part['text'], 'determinative')]
-            elif part['text'].isdigit() and i > 0 and parts[i-1]['is_det'] and parts[i-1]['text'] == 'd':
+            elif part['text'].rstrip('?!').isdigit() and i > 0 and parts[i-1]['is_det'] and parts[i-1]['text'] == 'd':
                 signs = [(part['text'], 'logogram')]  # divine name as number, e.g. {d}30
             else:
                 signs = [(s, get_token_type(s)) for s in _content_signs(part['text'])]

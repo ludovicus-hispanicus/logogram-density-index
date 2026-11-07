@@ -197,12 +197,12 @@ KBo.8.6.txt,held-out,Middle Period,astrological omens,11,True
 CBS.3831.txt,held-out,Middle Period,diagnostic omens,14,True
 KAR.444-lung-model.txt,comparandum,Middle Period,extispicy model,39,True
 A.120.txt,kal5,Middle Period,extispicy omens,81,True
-A.2675.txt,kal5,Middle Period,extispicy omens,34,True
+A.2675.txt,kal5,Middle Period,extispicy omens,32,True
 A.455.txt,kal5,Middle Period,extispicy omens,23,True
 A.463.txt,kal5,Middle Period,extispicy omens,17,True
 A.63.txt,kal5,Middle Period,extispicy omens,7,True
 A.73.txt,kal5,Middle Period,extispicy omens,57,True
-VAT.10114.txt,kal5,Middle Period,extispicy omens,91,True
+VAT.10114.txt,kal5,Middle Period,extispicy omens,90,True
 VAT.10115.txt,kal5,Middle Period,extispicy omens,34,True
 VAT.10156.txt,kal5,Middle Period,extispicy omens,41,True
 VAT.10326.txt,kal5,Middle Period,extispicy omens,14,True
@@ -223,12 +223,12 @@ VAT.10765.txt,kal5,Middle Period,extispicy omens,24,True
 VAT.10868.txt,kal5,Middle Period,extispicy omens,47,True
 VAT.10946.txt,kal5,Middle Period,extispicy omens,34,True
 VAT.11003.txt,kal5,Middle Period,extispicy omens,21,True
-VAT.11134.txt,kal5,Middle Period,extispicy omens,17,True
+VAT.11134.txt,kal5,Middle Period,extispicy omens,16,True
 VAT.11315.txt,kal5,Middle Period,extispicy omens,14,True
 VAT.11552.txt,kal5,Middle Period,extispicy omens,66,True
 VAT.11615.txt,kal5,Middle Period,extispicy omens,10,True
 VAT.11735.txt,kal5,Middle Period,extispicy omens,8,True
-VAT.11871.txt,kal5,Middle Period,extispicy omens,10,True
+VAT.11871.txt,kal5,Middle Period,extispicy omens,9,True
 VAT.12218.txt,kal5,Middle Period,extispicy omens,7,True
 VAT.12247.txt,kal5,Middle Period,extispicy omens,9,True
 VAT.12942.txt,kal5,Middle Period,extispicy omens,10,True
@@ -243,7 +243,7 @@ VAT.9139.txt,kal5,Middle Period,extispicy omens,10,True
 VAT.9353.txt,kal5,Middle Period,extispicy omens,19,True
 VAT.9413.txt,kal5,Middle Period,extispicy omens,108,True
 VAT.9468.txt,kal5,Middle Period,extispicy omens,5,True
-VAT.9476.txt,kal5,Middle Period,extispicy omens,14,True
+VAT.9476.txt,kal5,Middle Period,extispicy omens,13,True
 VAT.9488.txt,kal5,Middle Period,extispicy omens,40,True
 VAT.9492.txt,kal5,Middle Period,extispicy omens,26,True
 VAT.9512.txt,kal5,Middle Period,extispicy omens,39,True
@@ -252,9 +252,9 @@ VAT.9518.txt,kal5,Middle Period,extispicy omens,46,True
 VAT.9560.txt,kal5,Middle Period,extispicy omens,4,True
 VAT.9599.txt,kal5,Middle Period,extispicy omens,20,True
 VAT.9603.txt,kal5,Middle Period,extispicy omens,14,True
-VAT.9883.txt,kal5,Middle Period,extispicy omens,12,True
+VAT.9883.txt,kal5,Middle Period,extispicy omens,11,True
 VAT.9949.txt,kal5,Middle Period,extispicy omens,57,True
-VAT.9969.txt,kal5,Middle Period,extispicy omens,69,True
+VAT.9969.txt,kal5,Middle Period,extispicy omens,67,True
 Hittite-izbu-Hattusa.txt,comparandum,Middle Period,izbu omens,6,True
 Hurrian-izbu-Hattusa.txt,comparandum,Middle Period,izbu omens,6,True
 Emar.700.txt,held-out,Middle Period,terrestrial omens,7,True
@@ -283,7 +283,7 @@ VAT.11908.txt,kal5,Neo Period,extispicy omens,10,True
 VAT.12195.txt,kal5,Neo Period,extispicy omens,7,True
 VAT.14206.txt,kal5,Neo Period,extispicy omens,9,True
 VAT.14233.txt,kal5,Neo Period,extispicy omens,20,True
-VAT.9934.txt,kal5,Neo Period,extispicy omens,413,True
+VAT.9934.txt,kal5,Neo Period,extispicy omens,412,True
 VAT.9976.b.txt,kal5,Neo Period,extispicy omens,3,True
 Maqlu-K.2385.txt,comparandum,Neo Period,incantation,119,True
 Great-Prayer-to-Nabu-K.2361.txt,comparandum,Neo Period,prayer,184,True

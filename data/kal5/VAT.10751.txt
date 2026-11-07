@@ -9,57 +9,105 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.672 on 609 tokens.
 ---
 @obverse
-1. [BE i-na GÙB ZÉ G]ÌR GAR-at GÌRi-di-ir-ti šu[m!-ma LÚ GIG dan-nu GIG-aṣ ...]
-2. BE i-na GÙB ZÉ GÌR ina KIR4-šá BÙR ŠUB KÚR ZI-ma a-na ŠÀ n[i? ...]
-3. BE i-na GÙB ZÉ GÌR ina ŠÀ -šú! BÙR ŠUB KÚR ZI-ma i-na ŠÀ KUR x [...]
-4. BE i-na GÙB ZÉ GÌR ina EGIR-šá BÙR ŠUB i-na gišTUKUL GAZ-at lú KÚR a-d[a-ak]
-5. [B]E i-na GÙB ZÉ GÌR EGIR-sà DU8 KÚR ša NIGIN-ru DU8 [...]
-6. [BE i-n]a ⸢GÙB ZÉ⸣ GÌR KA.GÌR GIM ŠU.GUR la-mi ti-ib lúKÚR la ka-aš-[du]
-7. [BE i-na GÙB Z]É GÌR ŠÀ -šá BABBAR ma-ṭe4-er KÚR ša ú-ṣa-am-ma-ra ul i-ka-aš-[šad ...]
-8. [BE i-na GÙB ...] ZÉ GÌR SIG ZÉ IGI GÌR du-um-qí [...]
-9. [BE i-na GÙB Z]É GÌR a-na KIR4-šá UZU GIM GU ṣa-bit ÉRIN-ni i-na na-ak-ba-ti-ša i-ma-a[q-qú-ut ...]
-10. [BE i-na GÙB ...] ZÉ GÌR a-na KIR4-šú GU ṣa-bit ÉRIN KÚR i-na na-ak-ba-ti-ša i-ma-a[q-qú-ut ...]
-11. [BE i-na G]ÙB ZÉ GÌR KIR4-šú GU ṣa-bit ka-me-e KÚR ta-ká[m-mi]
-12. [BE i-na] GÙB ZÉ GÌR GU.MEŠ DAB.MEŠ a-la-ak-ti KÚR ul iš-ši-[ir]
-13. [BE i-na] GÙB ZÉ GÌR KIR4-šá ši e ḫi-píKA.GÌR SUḪUŠ ŠU.SI IGI ṣú-mi-ra-tu 4la ka-aš-d [a-tu4]
-14. [BE i-n]a GÙB ZÉ GÌR SAG ŠU.SI IGI ṣú-mi-ra-at lúKÚR ka-aš- [da-tu4]
-15. [BE i-na G]ÙB ZÉ GÌR su-ma-am tu-uk-ku-pa-at ÉRIN KÚR dIŠKUR i-ra-aḫ-ḫ[i-iṣ]
-16. [BE i-na] GÙB ZÉ GÌR i-na ŠÀ -šá zi-ḫu ŠUB KÚR KU4-ma ina ŠÀ KUR ⸢x-ta⸣-na-ḫa-[x]
-17. [BE i-na] GÙB ZÉ GÌR i-na ŠÀ -šá zi-ḫu ŠUB ù SA5 mi-lum i-il-l[a-ak]
-18. [BE i-na GÙ ...]B ZÉ GÌR GIM BAR-ti ⸢te-šu-ú⸣ a-na KUR KÚR i-ma-aq-[qú-ut ...]
-19. [BE i-na GÙB Z]É GÌR GIM nu-úr-me-e DINGIR i-na KUR KÚR i-ik-[ka-al]
-20. [BE i-na GÙB Z]É GÌR ZI-ma ŠUB GU.ZA KUR-ud ša ki-di KU4-ma ša ŠÀ URU [È ...]
-21. [BE i-na GÙB ZÉ] GÌR ZI-ma ⸢ÍD⸣BÀ KUR-ud mi-lum i-i[l-la-ak]
-22. [BE i-na GÙB ZÉ GÌR ZI-m]a ÍD BÀ i-bir mi-lum i-na gi-ip-si-šu i-il-la-a[k-ma]
-23. __________________________________________________________________________________________[x] x x x ki GÌR ḪUL Éa-na É LÚi-ir-ru-ub [(x)]
-24. BE i-na GÙB ZÉ GÌR ana ŠUB GU.ZA 2 ŠU.SI i-ṣir-ma gišTUKUL im-ḫur-si ge-re-et [(ša )?]
-25. __________________________________________________________________________________________ta-aṭ-ru-du šal-la-ta i-le-eq-qé-ma in-na-ab-bi-[it]
-26. BE__________________________________________________________________________________________i-na GÙB ZÉ GÌRina EDIN-šá IGI-et EDIN ZAG ŠU.SI GÌR KÚR IGI KÁ.GAL []
-27. BE__________________________________________________________________________________________i-na GÙB ZÉ GÌRina EDIN-šá IGI-et É.GAL ŠU.SI GÌR KI.MIN
-28. BE__________________________________________________________________________________________i-na GÙB ZÉaš é GÌR-ma a-na IGI-šáṣa-al-pa-at a-na EGIR-šá tu-ur-ra-at ÉRIN K[ÚR]
-29. BE__________________________________________________________________________________________i-na GÙB ZÉ 2 GÌR.MEŠina bi-ri-ši-na BÙR ŠUB KÚRina la mi-it-gu-ur-ti-šá []
-30. BE i-na GÙB ZÉ 2 GÌR.MEŠ GIM PAP it-gu-ra ana IGI KÚR È -ma ḫi-píka x [(x)]
-31. BE i-na GÙB ZÉ 2 GÌR.MEŠ it-gu-ra SÙḪ a-na KÚR i-ma-a[q-qú-ut ...]
-32. BE i-na GÙB ZÉ 5 GÌR.MEŠ ÉRIN KÚR ḫar-ra-an ri-pí-it-ti [DU-ak]
-33. BE i-na GÙB ZÉ 6 GÌR.MEŠ NÍG.ḪA.LAM.MA [...]
-34. BE ⸢i-na šu⸣-bat GÙB GÍR GÌR GAR-at GÌR KÚR. [MEŠ -ti]
-35. B[E i-na š]u-bat GÙB GÍR GÌR GAR-ma a-na AN.TA-nu GÍR iš-du-ud KÚR a-na ŠÀ KUR iḫ-ḫ[a-ab-ba-tú ...]
+1. [BE i-na GUB₃ ZE₂ G]IR₃ GAR-at GIR₃ i-di-ir-ti šu[m!-ma LU₂ GIG dan-nu GIG-aṣ ...]
+$ single ruling
+2. BE i-na GUB₃ ZE₂ GIR₃ ina KIR₄-ša₂ BUR₃ ŠUB KUR₂ ZI-ma a-na ŠA₃ n[i? ...]
+$ single ruling
+3. BE i-na GUB₃ ZE₂ GIR₃ ina ŠA₃-šu₂! BUR₃ ŠUB KUR₂ ZI-ma i-na ŠA₃ KUR x [...]
+$ single ruling
+4. BE i-na GUB₃ ZE₂ GIR₃ ina EGIR-ša₂ BUR₃ ŠUB i-na {giš}TUKUL GAZ-at lu₂ KUR₂ a-d[a-ak]
+$ single ruling
+5. [B]E i-na GUB₃ ZE₂ GIR₃ EGIR-sa₃ DU₈ KUR₂ ša NIGIN-ru DU₈ [...]
+$ single ruling
+6. [BE i-n]a GUB₃# ZE₂# GIR₃ KA.GIR₃ GIM ŠU.GUR la-mi ti-ib {lu₂}KUR₂ la ka-aš-[du]
+$ single ruling
+7. [BE i-na GUB₃ Z]E₂ GIR₃ ŠA₃-ša₂ BABBAR ma-ṭe₄-er KUR₂ ša u₂-ṣa-am-ma-ra ul i-ka-aš-[šad ...]
+$ single ruling
+8. [BE i-na GUB₃ ...] ZE₂ GIR₃ SIG ZE₂ IGI GIR₃ du-um-qi₂ [...]
+$ single ruling
+9. [BE i-na GUB₃ Z]E₂ GIR₃ a-na KIR₄-ša₂ UZU GIM GU ṣa-bit ERIN₂-ni i-na na-ak-ba-ti-ša i-ma-a[q-qu₂-ut ...]
+$ single ruling
+10. [BE i-na GUB₃ ...] ZE₂ GIR₃ a-na KIR₄-šu₂ GU ṣa-bit ERIN₂ KUR₂ i-na na-ak-ba-ti-ša i-ma-a[q-qu₂-ut ...]
+$ single ruling
+11. [BE i-na G]UB₃ ZE₂ GIR₃ KIR₄-šu₂ GU ṣa-bit ka-me-e KUR₂ ta-ka[m₂-mi]
+$ single ruling
+12. [BE i-na] GUB₃ ZE₂ GIR₃ GU.MEŠ DAB.MEŠ a-la-ak-ti KUR₂ ul iš-ši-[ir]
+$ single ruling
+13. [BE i-na] GUB₃ ZE₂ GIR₃ KIR₄-ša₂ ši e hi-pi₂ KA.GIR₃ SUHUŠ ŠU.SI IGI ṣu₂-mi-ra-tu 4la ka-aš-d [a-tu₄]
+$ single ruling
+14. [BE i-n]a GUB₃ ZE₂ GIR₃ SAG ŠU.SI IGI ṣu₂-mi-ra-at {lu₂}KUR₂ ka-aš- [da-tu₄]
+$ single ruling
+15. [BE i-na G]UB₃ ZE₂ GIR₃ su-ma-am tu-uk-ku-pa-at ERIN₂ KUR₂ {d}IŠKUR i-ra-ah-h[i-iṣ]
+$ single ruling
+16. [BE i-na] GUB₃ ZE₂ GIR₃ i-na ŠA₃-ša₂ zi-hu ŠUB KUR₂ KU₄-ma ina ŠA₃ KUR x-ta#-na-ha-[x]
+$ single ruling
+17. [BE i-na] GUB₃ ZE₂ GIR₃ i-na ŠA₃-ša₂ zi-hu ŠUB u₃ SA₅ mi-lum i-il-l[a-ak]
+$ single ruling
+18. [BE i-na GU]B₃ ZE₂ GIR₃ GIM BAR-ti te#-šu#-u₂# a-na KUR KUR₂ i-ma-aq-[qu₂-ut ...]
+$ single ruling
+19. [BE i-na GUB₃ Z]E₂ GIR₃ GIM nu-ur₂-me-e DINGIR i-na KUR KUR₂ i-ik-[ka-al]
+$ single ruling
+20. [BE i-na GUB₃ Z]E₂ GIR₃ ZI-ma ŠUB GU.ZA KUR-ud ša ki-di KU₄-ma ša ŠA₃ URU [E₃ ...]
+$ single ruling
+21. [BE i-na GUB₃ ZE₂] GIR₃ ZI-ma ID₂# BA₃ KUR-ud mi-lum i-i[l-la-ak]
+$ single ruling
+22. [BE i-na GUB₃ ZE₂ GIR₃ ZI-m]a ID₂ BA₃ i-bir mi-lum i-na gi-ip-si-šu i-il-la-a[k-ma]
+23. [x] x x x ki GIR₃ HUL E₂ a-na E₂ LU₂ i-ir-ru-ub [(x)]
+$ single ruling
+24. BE i-na GUB₃ ZE₂ GIR₃ ana ŠUB GU.ZA 2 ŠU.SI i-ṣir-ma {giš}TUKUL im-hur-si ge-re-et [(ša )?]
+25. ta-aṭ-ru-du šal-la-ta i-le-eq-qe₂-ma in-na-ab-bi-[it]
+$ single ruling
+26. BE i-na GUB₃ ZE₂ GIR₃ ina EDIN-ša₂ IGI-et EDIN ZAG ŠU.SI GIR₃ KUR₂ IGI KA₂.GAL []
+$ single ruling
+27. BE i-na GUB₃ ZE₂ GIR₃ ina EDIN-ša₂ IGI-et E₂.GAL ŠU.SI GIR₃ KI.MIN
+$ single ruling
+28. BE i-na GUB₃ ZE₂ aš e₂ GIR₃-ma a-na IGI-šaṣa₂-al-pa-at a-na EGIR-ša₂ tu-ur-ra-at ERIN₂ K[UR₂]
+$ single ruling
+29. BE i-na GUB₃ ZE₂ 2 GIR₃.MEŠ ina bi-ri-ši-na BUR₃ ŠUB KUR₂ ina la mi-it-gu-ur-ti-ša₂ []
+$ single ruling
+30. BE i-na GUB₃ ZE₂ 2 GIR₃.MEŠ GIM PAP it-gu-ra ana IGI KUR₂ E₃-ma hi-pika₂ x [(x)]
+$ single ruling
+31. BE i-na GUB₃ ZE₂ 2 GIR₃.MEŠ it-gu-ra SUH₃ a-na KUR₂ i-ma-a[q-qu₂-ut ...]
+$ single ruling
+32. BE i-na GUB₃ ZE₂ 5 GIR₃.MEŠ ERIN₂ KUR₂ har-ra-an ri-pi₂-it-ti [DU-ak]
+$ single ruling
+33. BE i-na GUB₃ ZE₂ 6 GIR₃.MEŠ NIG₂.HA.LAM.MA [...]
+$ single ruling
+34. BE i#-na# šu#-bat GUB₃ GIR₂ GIR₃ GAR-at GIR₃ KUR₂. [MEŠ-ti]
+$ single ruling
+35. B[E i-na š]u-bat GUB₃ GIR₂ GIR₃ GAR-ma a-na AN.TA-nu GIR₂ iš-du-ud KUR₂ a-na ŠA₃ KUR ih-h[a-ab-ba-tu₂ ...]
+$ single ruling
 @reverse
-1. BE i-na šu -bat GÙB GÍR GÌR GAR-ma a-na KI.TA-nu GÍR iš-du-ud dNÈ.ERI 11.GAL i-⸢na KUR⸣ [x ik-kal]
-2. BE i-na MURUB4 NÍG.TAB GÍR BAR-ma GÌR GAR-at ÉRIN-ni ṣú-mu [iṣabbat ...]
-3. BE i-na MURUB4 NÍG.TAB GÍR BAR-ma GÌR GAR-ma GÍR ik-ki-is NIM.MAki a-na ŠÀ KUR-ia x ka x [x]
-4. BE i-na MURUB4 NÍG.TAB GÍR BAR-ma GÌR GAR-ma GÍR la ik-ki-is NIM.MAki a-na ŠÀ KUR-ia [x] x [x]
-5. BE i-na šu-bat ZAG GÍR GÌR GAR-ma GÍR ik-ki-is dNÈ.ERI 11.GA[L] ⸢ i⸣-na KUR-⸢ ia⸣ [ik-kal]
-6. BE i-na šu-bat ZAG GÍR GÌR GAR-at ti-bu-ut ÉRIN-ia ⸢ a⸣-[na ...]
-7. BE i-na bi-ri-it KI.GUB ù GÍR GÌR GAR-at ÉRIN-ni i-na KUR KÚR ši-pir GAB[A DU.MEŠ]
-8. BE i-na SIG ni-ri GÌR i-ṣir-ma KI.GUB ik-tu-um GÌR ba-a[r-ti]
-9. BE i-na SIG ni-ri GÌR GAR-at LUGAL ANŠE.MEŠ SIG5.[MEŠ ...]
-10. BE i-na MURUB4 ni-ri GÌR GAR-at GÌR KÚR. [MEŠ -ti]
-11. BE i-na MURUB4 ni-ri GÌR MÁŠ ik-ki-is KÚR gišKIRI6.MEŠ -ia i-na-ak-[ki-is]
-12. [BE ...] x ra akni-ri eṣ-re-et LUGAL ANŠE.MEŠ -šú a-na ZI.GA x [...]
-13. [BE AN.T]A? MÁŠ GÌR mi-ša-ri-iš eṣ-re-et GIG re-[du-ti-šú ...]
-14. [BE KI.TA] MÁŠ GÌR mi-ša-ri-iš eṣ-re-et GIG MUNUS.[MEŠ ...]
-15. [BE ...] x ŠU.SI GÌReṣ-re-et GÌR KÚR. [MEŠ -ti]
-16. [ŠU.NIGI ...]N 48 MU.BI.[IM]
-17. I.dUTU-na-di-in-aḫ-ḫe IN.SAR
-18. ⸢I.d⸣x x x x IGI.KÁR
+1. BE i-na šu-bat GUB₃ GIR₂ GIR₃ GAR-ma a-na KI.TA-nu GIR₂ iš-du-ud {d}NE₃.ERI 11.GAL i-na# KUR# [x ik-kal]
+$ single ruling
+2. BE i-na MURUB₄ NIG₂.TAB GIR₂ BAR-ma GIR₃ GAR-at ERIN₂-ni ṣu₂-mu [iṣabbat ...]
+$ single ruling
+3. BE i-na MURUB₄ NIG₂.TAB GIR₂ BAR-ma GIR₃ GAR-ma GIR₂ ik-ki-is NIM.MA{ki} a-na ŠA₃ KUR-ia x ka x [x]
+$ single ruling
+4. BE i-na MURUB₄ NIG₂.TAB GIR₂ BAR-ma GIR₃ GAR-ma GIR₂ la ik-ki-is NIM.MA{ki} a-na ŠA₃ KUR-ia [x] x [x]
+$ single ruling
+5. BE i-na šu-bat ZAG GIR₂ GIR₃ GAR-ma GIR₂ ik-ki-is {d}NE₃.ERI 11.GA[L] i#-na KUR- ia# [ik-kal]
+$ single ruling
+6. BE i-na šu-bat ZAG GIR₂ GIR₃ GAR-at ti-bu-ut ERIN₂-ia a#-[na ...]
+$ single ruling
+7. BE i-na bi-ri-it KI.GUB u₃ GIR₂ GIR₃ GAR-at ERIN₂-ni i-na KUR KUR₂ ši-pir GAB[A DU.MEŠ]
+$ single ruling
+8. BE i-na SIG ni-ri GIR₃ i-ṣir-ma KI.GUB ik-tu-um GIR₃ ba-a[r-ti]
+$ single ruling
+9. BE i-na SIG ni-ri GIR₃ GAR-at LUGAL ANŠE.MEŠ SIG₅.[MEŠ ...]
+$ single ruling
+10. BE i-na MURUB₄ ni-ri GIR₃ GAR-at GIR₃ KUR₂. [MEŠ-ti]
+$ single ruling
+11. BE i-na MURUB₄ ni-ri GIR₃ MAŠ₂ ik-ki-is KUR₂ {giš}KIRI₆.MEŠ-ia i-na-ak-[ki-is]
+$ single ruling
+12. [BE ...] x ra akni-ri eṣ-re-et LUGAL ANŠE.MEŠ-šu₂ a-na ZI.GA x [...]
+$ single ruling
+13. [BE AN.T]A? MAŠ₂ GIR₃ mi-ša-ri-iš eṣ-re-et GIG re-[du-ti-šu₂ ...]
+$ single ruling
+14. [BE KI.TA] MAŠ₂ GIR₃ mi-ša-ri-iš eṣ-re-et GIG MUNUS.[MEŠ ...]
+$ single ruling
+15. [BE ...] x ŠU.SI GIR₃ eṣ-re-et GIR₃ KUR₂. [MEŠ-ti]
+$ single ruling
+16. [ŠU.NIGI]N 48 MU.BI.[IM]
+17. I.{d}UTU-na-di-in-ah-he IN.SAR
+18. I#.{d#}x x x x IGI.KAR₂

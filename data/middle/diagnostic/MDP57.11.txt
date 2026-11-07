@@ -30,29 +30,30 @@ note: >
 ---
 
 @obverse-col-ii
-UD GIG [TA] ŠÀ-šu GAZ-iṣ ŠU {d}IŠKUR
-UD GIG [TA] ri-bi-ti-šu GAZ-iṣ ŠU {d}IŠKUR
-[UD GIG ig-da-n]a-al-lu-ut il-ta-[na-as-si ŠU {d}ku]-bi
-UD GIG GEŠTU.MEŠ-šu [i-šà-ag-gu-ma ŠU {d}k]u-bi
-[UD GIG SAG Š]À-šu it-ta-na-aṣ-[ba-at-su ŠU {d}ku-b]i
-UD GIG TA ší-pi [...] it-ta-aš-šu ŠU {d}ku-bi
-[UD GIG SA.MEŠ GÌR-š]u kab-ba-ru ŠU {d}ku-bi
-[UD GIG ší-in-na-šu] it-ta-na-aṣ-ba-ta [ik-ta-na-aṣ]-ṣa ù ik-[ka-aṣ-ṣa-aṣ ŠU {d}ku-b]i
-[UD GIG i-da-šu ù bir-ka-šu i-ta-na]-na-ḫa
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. UD GIG [TA] ŠA₃-šu GAZ-iṣ ŠU {d}IŠKUR
+2. UD GIG [TA] ri-bi-ti-šu GAZ-iṣ ŠU {d}IŠKUR
+3. [UD GIG ig-da-n]a-al-lu-ut il-ta-[na-as-si ŠU {d}ku]-bi
+4. UD GIG GEŠTU.MEŠ-šu [i-ša₃-ag-gu-ma ŠU {d}k]u-bi
+5. [UD GIG SAG Š]A₃-šu it-ta-na-aṣ-[ba-at-su ŠU {d}ku-b]i
+6. UD GIG TA ši₂-pi [...] it-ta-aš-šu ŠU {d}ku-bi
+7. [UD GIG SA.MEŠ GIR₃-š]u kab-ba-ru ŠU {d}ku-bi
+8. [UD GIG ši₂-in-na-šu] it-ta-na-aṣ-ba-ta [ik-ta-na-aṣ]-ṣa u₃ ik-[ka-aṣ-ṣa-aṣ ŠU {d}ku-b]i
+9. [UD GIG i-da-šu u₃ bir-ka-šu i-ta-na]-na-ha
 
 @obverse-col-iii
-UD GIG um-ma-šu ṣa-ru-uḫ zu-'-ta ki me-e ra-mi-ik ŠU {d}UTU ŠU ik-ri-bi-šu
-UD GIG na-kap-ti 2.30-šu GAZ-at ŠU EDIN ù ba-ma-a-ti
+10. UD GIG um-ma-šu ṣa-ru-uh zu-'-ta ki me-e ra-mi-ik ŠU {d}UTU ŠU ik-ri-bi-šu
+11. UD GIG na-kap-ti 2.30-šu GAZ-at ŠU EDIN u₃ ba-ma-a-ti
 
 @reverse-col-iv
-UD GIG GABA-sú TUḪ-at NU el-lu is-sú
+12. UD GIG GABA-su₂ TUH-at NU el-lu is-su₂
 
 @reverse-col-v
-UD GI[G x m]a GEŠTU-šu GÙ-šu ŠU ù GÌR šà 2.30 ÉŠ 15 ù šà i-mi-it ÉŠ 2.30-šu i-šà-aḫ-ḫi-iṭ ŠU šu-la-ak ul TI.LA UGx-at
-UD GIG GEŠTU-šu <GÚ-šu> ù ší-in-na-šu ne-en-mu-da MURÚ-šu ul i-šà-a[ḫ-ḫi]-ṭá ŠU šu-la-ak
-UD GIG IGI-šu bu-ul-lu-ṣú ta-šà-[as-sí-šu-ma ul i-še-em-me-ka mi-im-ma šà tu-ka-al-lu-šu ul ú-ma-ṭì] ŠU qa-a-a-li
-UD GIG SAG-sú NIGIN-šu ri-ta-šu ù GÌR.MEŠ-šu i-ra-ú-[ba ŠU ra-bi-ti šà ki šà-aš-šà-ṭì]
+13. UD GI[G x m]a GEŠTU-šu GU₃-šu ŠU u₃ GIR₃ ša₃ 2.30 EŠ₂ 15 u₃ ša₃ i-mi-it EŠ₂ 2.30-šu i-ša₃-ah-hi-iṭ ŠU šu-la-ak ul TI.LA UGx-at
+14. UD GIG GEŠTU-šu <GU₂-šu> u₃ ši₂-in-na-šu ne-en-mu-da MURU₂-šu ul i-ša₃-a[h-hi]-ṭa₂ ŠU šu-la-ak
+15. UD GIG IGI-šu bu-ul-lu-ṣu₂ ta-ša₃-[as-si₂-šu-ma ul i-še-em-me-ka mi-im-ma ša₃ tu-ka-al-lu-šu ul u₂-ma-ṭi₃] ŠU qa-a-a-li
+16. UD GIG SAG-su₂ NIGIN-šu ri-ta-šu u₃ GIR₃.MEŠ-šu i-ra-u₂-[ba ŠU ra-bi-ti ša₃ ki ša₃-aš-ša₃-ṭi₃]
 
 @reverse-col-vi
-UD GIG GEŠTU.MEŠ-šu sú-uk-ku-ka-ma la i-še-em-ma-a
-UD GIG GIG-sú TA SAG-šu NU TUḪ-ar MAŠ.DÀ ù-ri GAZ-sú
+17. UD GIG GEŠTU.MEŠ-šu su₂-uk-ku-ka-ma la i-še-em-ma-a
+18. UD GIG GIG-su₂ TA SAG-šu NU TUH-ar MAŠ.DA₃ u₃-ri GAZ-su₂

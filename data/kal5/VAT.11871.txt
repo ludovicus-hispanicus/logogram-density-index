@@ -9,13 +9,18 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.778 on 18 tokens.
 ---
 @obverse
-1’. [...] x[...]
-2’. [...] ÉRIN-i[a ...]
+1’. [...] x [...]
+$ single ruling
+2’. [...] ERIN₂-i[a ...]
 3’. [...] ŠU-ka LAL x [...]
-4’. [...] ana ÉRIN KÚR [...]
-5’. [...] xME-a GAR-an [...]
-6’. [...] ÉRIN-i[a ...]
-7’. [...] ÉRIN KÚR [...]
-8’. [...] KÚR GAZ-⸢ ak⸣ [...]
-9’. [...] KÚR GAZ-⸢ ni⸣ [...]
-10’. [...] x lú x [...]
+$ single ruling
+4’. [...] ana ERIN₂ KUR₂ [...]
+5’. [...] x ME-a GAR-an [...]
+$ single ruling
+6’. [...] ERIN₂-i[a ...]
+7’. [...] ERIN₂ KUR₂ [...]
+$ single ruling
+8’. [...] KUR₂ GAZ- ak# [...]
+9’. [...] KUR₂ GAZ- ni# [...]
+$ single ruling
+10’. [...] x lu₂ x [...]

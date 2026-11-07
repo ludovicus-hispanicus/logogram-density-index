@@ -9,8 +9,8 @@ feature: kubuš ḫašî (lung-cap)
 note: fragmentary, single side (9 lines)
 ---
 
-2'. [...] SAGŠU MUR ḪU[R ...]
-3'. [...] x x SAGŠU MUR ḪUR [...]
+2'. [...] SAGŠU MUR HU[R ...]
+3'. [...] x x SAGŠU MUR HUR [...]
 4'. [...] x x [...]
 5'. [...] x NUN x x x x x [...]
 6'. [...] x x šu₂-nu ša₂ SAG SIG₃-iṣ a-ra[d URU ...]

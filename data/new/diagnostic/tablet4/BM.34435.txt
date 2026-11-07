@@ -10,8 +10,8 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms J Vs1′
-12. [...]-ru#? u KI.N[Á ...]
+#note: ms J Vs1′
+12. [...]-ru#? u KI.N[A₂ ...]
 13. [... E]N.NUN.UD.ZAL.LE x [...]
-14. [... UT]U.ŠÚ.A GU₇-šú la# [...]
-15. [...] MÚD# DU-ku#? [...]
+14. [... UT]U.ŠU₂.A GU₇-šu₂ la# [...]
+15. [...] MUD₂# DU-ku#? [...]

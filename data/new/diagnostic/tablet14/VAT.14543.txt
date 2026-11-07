@@ -10,16 +10,16 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms D 1′b
-51. [... na-ḫi]-id
+#note: ms D 1′b
+51. [... na-hi]-id
 52. [...]
 53. [...] DUGUD
 54. [...]
 55. [...]
-56. [... n]a-ḫi-id
+56. [... n]a-hi-id
 57. [...]
 58. [...] šal-ma AL.TI
-59. [... l]a ú-še-red A.GA SÌG!-iṣ GAM
-60. [...] {d}XV
-61. [...] {d}XV
+59. [... l]a u₂-še-red A.GA SIG₃!-iṣ GAM
+60. [...] {d}15
+61. [...] {d}15
 62. [...] MAN#-ni

@@ -9,8 +9,8 @@ source_note: Transliteration read from De Zorzi 2014 (HANE/M 15), book p.554 (ms
 ---
 
 @obverse
-5. [...] kur É [...]
-6. [...] É.GAL NUN [...]
+5. [...] kur E₂ [...]
+6. [...] E₂.GAL NUN [...]
 7. [...] GAR NUN ina NU UR₅ x [...]
 8. [...] GAR GAR LUGAL [...]
 9. [...] AŠ GAR LUGAL [...]

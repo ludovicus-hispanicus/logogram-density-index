@@ -21,5 +21,5 @@ canonical_parallel: Sakikkû Tablets 3, 11, 12, 14 (Schmidtchen 2021 concordance
 12. [na-pi]-is?# i-na KIR₄-šu ṣa-bit-ma i-[na] KA#-šu?# PA?#.[AN ...]
 13. [x x na]-piš#-ti-šu u₂-še-l[a?-a ...]
 $ single ruling
-# 14. [ilimmu.u ilimmu.u ili]mmu.u ilimmu.u ilimmu.u ilimmu.u il[immu.u ...] — numeric tally notation ("9.10" marks), not omen vocabulary; excluded from the count per Rutz 2011, 305 n. 14 (cf. Hunger 1968, 5)
+#note: 14. [ilimmu.u ilimmu.u ili]mmu.u ilimmu.u ilimmu.u ilimmu.u il[immu.u ...] — numeric tally notation ("9.10" marks), not omen vocabulary; excluded from the count per Rutz 2011, 305 n. 14 (cf. Hunger 1968, 5)
 $ end of side

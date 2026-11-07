@@ -10,15 +10,15 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms I 1′
+#note: ms I 1′
 74. [...].BA#?
 75. [...] x [(x)]
 76. [...] x [(x)]
 77. [...] na#-kud# GAM#?
 78. [...] TI
-79. [... ... i-ṭ]a-mu <DAB>-it / [... D]A? x ÚŠ
+79. [... ... i-ṭ]a-mu <DAB>-it / [... D]A? x UŠ₂
 80. [... NUNU]Z.MEŠ
 81. [...] TIN
-82. [... S]ÌG.SÌG-su / [...] x-ma TIN
+82. [... S]IG₃.SIG₃-su / [...] x-ma TIN
 83. [ ... -m]a TIN!
-84. [...] GÍD#-ma# [x]
+84. [...] GID₂#-ma# [x]

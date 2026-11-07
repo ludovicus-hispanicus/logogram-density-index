@@ -7,16 +7,16 @@ counting: UD
 source_note: Hand-checked Akkadian transliteration (clean). UD = šumma. Half-brackets/[...] preserved; sigla & sub-numbers marked $ (skipped).
 ---
 
-@col. ii
+@column 2
 1. [...] KUR [...]
-2. UD iz-bu GÌR.ḪI.A AM.SI GAR [...]
-3. i-lak UD iz-bu GÌR.ḪI.A-šu [...]
-4. GIM ŠU.ŠIR pát-lu LUGAL UGU [...]
-5. UD iz-bu GÌR.ḪI.A maḫ-ru-tù [...]
-6. tu-ub-bu-kà KUR LUGAL i-sa-[...]
-7. GÌR.ḪI.A-šu maḫ-ru-tù ti-iṣ-[bu-tá ...]
+2. UD iz-bu GIR₃.HI.A AM.SI GAR [...]
+3. i-lak UD iz-bu GIR₃.HI.A-šu [...]
+4. GIM ŠU.ŠIR pat₂-lu LUGAL UGU [...]
+5. UD iz-bu GIR₃.HI.A mah-ru-tu₃ [...]
+6. tu-ub-bu-ka₃ KUR LUGAL i-sa-[...]
+7. GIR₃.HI.A-šu mah-ru-tu₃ ti-iṣ-[bu-ta₂ ...]
 8. KUR LUGAL DAGAL-iš [...]
-9. UD iz-bu GÌR.ḪI.A-šu maḫ-ru-[tù ...]
-10. ti-iṣ-bu-tá KUR LUGAL DAGAL-[iš ...]
-11. GÌR.ḪI.A-šu EGIR-ti 3-tù# [...]
+9. UD iz-bu GIR₃.HI.A-šu mah-ru-[tu₃ ...]
+10. ti-iṣ-bu-ta₂ KUR LUGAL DAGAL-[iš ...]
+11. GIR₃.HI.A-šu EGIR-ti 3-tu₃# [...]
 12. KUR LUGAL DAGAL-[iš ...]

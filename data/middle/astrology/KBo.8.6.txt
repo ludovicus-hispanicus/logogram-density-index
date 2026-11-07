@@ -11,14 +11,15 @@ note: BILINGUAL (Akk–Hitt). Its Akkadian is almost fully SYLLABIC (antalû itt
 ---
 
 @text
-a]n-ta-lu-ú [it-ta-ab-ši
-an]-ta-lu-ú i[t-ta-ab-ši
-an-ta-lu]-ú it-t[a-ab-ši
-{d}IŠ]KUR i-ra-a[ḫ-ḫi-iṣ
-a]n-ta-lu-ú i[t-ta-ab-ši
-a]n-ta-lu-ú i[t-ta-ab-ši
-a]n-ta-lu-ú it-[ta-ab-ši
-a]n-ta-lu-ú i[t-ta-ab-ši
-an-ta-lu]-ú it-ta-[ab-ši
-KU]R-ti ṣ[e-eḫ-
-an-ta-lu]-ú i[t-ta-ab-ši
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. a]n-ta-lu-u₂ [it-ta-ab-ši
+2. an]-ta-lu-u₂ i[t-ta-ab-ši
+3. an-ta-lu]-u₂ it-t[a-ab-ši
+4. {d}IŠ]KUR i-ra-a[h-hi-iṣ
+5. a]n-ta-lu-u₂ i[t-ta-ab-ši
+6. a]n-ta-lu-u₂ i[t-ta-ab-ši
+7. a]n-ta-lu-u₂ it-[ta-ab-ši
+8. a]n-ta-lu-u₂ i[t-ta-ab-ši
+9. an-ta-lu]-u₂ it-ta-[ab-ši
+10. KU]R-ti ṣ[e-eh-
+11. an-ta-lu]-u₂ i[t-ta-ab-ši

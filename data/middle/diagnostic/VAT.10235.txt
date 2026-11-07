@@ -22,30 +22,30 @@ note: >
 ---
 
 @obverse
-3. ina U₄ 5-KÁM i-x
-4. DIŠ ina SAG.DU-šu KÚM ṣa-ri-iḫ U₄ [1-KAM TAG₄-šum-ma U₄ 2-KAM]
-5. DUGUD-su i-re-ḫi-šu-ma KI.TA [GIR.II-šu SED]
-6. ŠU.II-šu u GIR.II-šu KÚM-ma GIM DAB-it GIDIM [{d}DIM.ME.LAGAB i-ṣa-dir-ma GAM]
-7. DIŠ ina SAG.DU-šu SIG-iṣ-ma ḫur-ba-šu [ŠUB.ŠUB-su IGI.MEŠ-šú SA₅ u SIG₇]
+3. ina U₄ 5-KAM₂ i-x
+4. DIŠ ina SAG.DU-šu KUM₂ ṣa-ri-ih U₄ [1-KAM TAG₄-šum-ma U₄ 2-KAM]
+5. DUGUD-su i-re-hi-šu-ma KI.TA [GIR.II-šu SED]
+6. ŠU.II-šu u GIR.II-šu KUM₂-ma GIM DAB-it GIDIM [{d}DIM.ME.LAGAB i-ṣa-dir-ma GAM]
+7. DIŠ ina SAG.DU-šu SIG-iṣ-ma hur-ba-šu [ŠUB.ŠUB-su IGI.MEŠ-šu₂ SA₅ u SIG₇]
 8. GIM DAB-su ŠUB-su UŠ₄-su KUR-šu-ma [i-ṭa-mu]
-9. DAB-it {d}DIM.ME.LAGAB [u₄-me-šú GID.DA.ME-ma GAM]
-10. DIŠ KÚM-im SED A.MEŠ ana ra-ma-ki ma-gal [APIN.MEŠ qát {d}Lamašti]
+9. DAB-it {d}DIM.ME.LAGAB [u₄-me-šu₂ GID.DA.ME-ma GAM]
+10. DIŠ KUM₂-im SED A.MEŠ ana ra-ma-ki ma-gal [APIN.MEŠ qat₂ {d}DIM₃.ME]
 11. li-pit {d}EN.ZU
-12. DIŠ ina ṣer-tim KÚM-em ina AN.ÚSAN SED u i-ra-a'-ub [ŠU {d}EN.ZU]
-13. DIŠ IGI.II-šu im-ta-na-aḫ-ḫa-aḫ ŠU.II-šu u GIR.II-šu ú-na-aš
-14. DIŠ ina IGI-šu SIG-iṣ-ma u KA-šu su-ḫur ŠU {d}EN.ZU
-15. DIŠ ina IGI-šu SIG-iṣ-ma u KA-šu su-ḫur e-nu-ma i-ḫi-ta-[aš-šu]
-16. is-sa-aḫ-ḫap-ma ina KA-šu UŠ₁₁ DU-ak ŠU {d}EN.ZU BA.UŠ
-17. DIŠ ŠUB-tu ŠUB-su-ma i-sal-li-iḫ
+12. DIŠ ina ṣer-tim KUM₂-em ina AN.USAN₂ SED u i-ra-a'-ub [ŠU {d}EN.ZU]
+13. DIŠ IGI.II-šu im-ta-na-ah-ha-ah ŠU.II-šu u GIR.II-šu u₂-na-aš
+14. DIŠ ina IGI-šu SIG-iṣ-ma u KA-šu su-hur ŠU {d}EN.ZU
+15. DIŠ ina IGI-šu SIG-iṣ-ma u KA-šu su-hur e-nu-ma i-hi-ta-[aš-šu]
+16. is-sa-ah-hap-ma ina KA-šu UŠ₁₁ DU-ak ŠU {d}EN.ZU BA.UŠ
+17. DIŠ ŠUB-tu ŠUB-su-ma i-sal-li-ih
 18. ŠU {d}EN.ZU
 19. DIŠ TA SAG.DU-šu EN GIR.II-šu U.BU.BU.UL ša ma-li u [zumuršu peṣi]
 20. KI MUNUS ina KI.NA ka-šid ŠU {d}EN.ZU
 21. DIŠ ina SAG.KI-šu ša ZAG SIG-iṣ u IGI.II-šu ER-am ŠU [{d}EN.ZU]
-22. DIŠ ina SAG.KI-šu ša GUB SIG-iṣ u IGI.II-šu DIRI.[MEŠ]-ḫa ŠU {d}EN.ZU
+22. DIŠ ina SAG.KI-šu ša GUB SIG-iṣ u IGI.II-šu DIRI.[MEŠ]-ha ŠU {d}EN.ZU
 23. ER DU-ak u UMBIN-šu
 
-# reverse 4th column: only traces, no connected sense (Heeßel 2010:175) — not scored
-# Colophon (Rs. iv 7'-10', Hunger BAK no. 230):
-#   Ninurta-kudurrī-uṣur, mašmaššu of the god,
-#   son of Sin-mušēpi, the mašmaššu; written according to its original;
-#   checker (BAR): Amēl-Gula, the mašmaššu.
+#note: reverse 4th column: only traces, no connected sense (Heeßel 2010:175) — not scored
+#note: Colophon (Rs. iv 7'-10', Hunger BAK no. 230):
+#note: Ninurta-kudurrī-uṣur, mašmaššu of the god,
+#note: son of Sin-mušēpi, the mašmaššu; written according to its original;
+#note: checker (BAR): Amēl-Gula, the mašmaššu.

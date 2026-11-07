@@ -17,17 +17,17 @@ note: >
 ---
 
 @obverse
-2. e-nu-ma i-ḫi-ta-aš-[šu]
-3. DIŠ ŠUB-tu ŠUB-su-ma i-sal-li-[iḫ]
+2. e-nu-ma i-hi-ta-aš-[šu]
+3. DIŠ ŠUB-tu ŠUB-su-ma i-sal-li-[ih]
 4. DIŠ TA SAG.DU-šu EN GIR.MEŠ-šu U.BU.[BU.UL SA₅]
-5. DIŠ ina SAG.KI-šu ša ZAG SIG-iṣ-ma IGI.II-[šu ER-am qát Sîn]
-6. DIŠ ina SAG.KI-šu ša GUB SIG-iṣ-ma IGI.II-šu DIRI.[MEŠ-ḫa qát Sîn]
+5. DIŠ ina SAG.KI-šu ša ZAG SIG-iṣ-ma IGI.II-[šu ER-am qat₂ SIN]
+6. DIŠ ina SAG.KI-šu ša GUB SIG-iṣ-ma IGI.II-šu DIRI.[MEŠ-ha qat₂ SIN]
 7. ER DU-ak u UMBIN-[šu]
 9. IGI-šu ša ZAG GU pa-[ri-ik]
 10. kin-ṣa-šu TEŠ.BI
-11. DIŠ ana GABA-šu A.[MEŠ] i-sal-lu u KIR₄-šu i-la-[pi-in qát Šamaš aššu kasap asirti]
-12. DIŠ KUŠ.MEŠ-šu ana SU-šu la u-ta-aḫ-[ḫi qát Šamaš aššu kasap asirti]
+11. DIŠ ana GABA-šu A.[MEŠ] i-sal-lu u KIR₄-šu i-la-[pi-in qat₂ ŠAMAŠ aššu kasap asirti]
+12. DIŠ KUŠ.MEŠ-šu ana SU-šu la u-ta-ah-[hi qat₂ ŠAMAŠ aššu kasap asirti]
 13. i-kaṣ-ṣa-ṣa-šu
-14. DIŠ ina mu-sar-ri-šu MÚD da-'a-ma
-15. DIŠ ina mu-sar-ri-šu MÚD iš-tin
+14. DIŠ ina mu-sar-ri-šu MUD₂ da-'a-ma
+15. DIŠ ina mu-sar-ri-šu MUD₂ iš-tin
 16. a-kal u A APIN-e[š] x

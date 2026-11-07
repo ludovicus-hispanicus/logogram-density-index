@@ -10,70 +10,85 @@ source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) an
 ---
 @obverse
 1’. A Vs. 1’ [...]-ma x x [...]
-2’. A 2’ [...] x.MEŠ ⸢i?⸣-šu[...]
-3’. A 3’ [BE KI].GUB iḫ-bu-uš-m [a] ⸢ka⸣ p[i ...]
+$ single ruling
+2’. A 2’ [...] x.MEŠ i#?-šu [...]
+3’. A 3’ [BE KI].GUB ih-bu-uš-m [a] ka# p[i ...]
 4’. A 4’ [BE] KI.GUB ir-qiq-ma x x [...]
+$ single ruling
 5’. A 5’ [BE] KI.GUB NIGIN-ur [...]
-6’. A 6’ [BE] KI.GUB NIGIN-ur-ma ana giš TUKUL GUR-[ur U4 NUN TIL.MEŠ ...]
-7’. A 7’ [BE] KI.GUB NIGIN-ma ana KAM GUR-ur [URUki DAB-bat]
-8’. A 8’ [BE] KI.GUB NIGIN-ma ana KAM GUR-ma ù G[E6 URUki DAB-bat-ma ÉRIN-šu ina ...]
-9’. A 9’ [BE] KI.GUB 2 ana gišTUKUL IZI.GAR ina SÍSKUR [NUN DINGIR DINGIR GÙ -si]
-10’. A 10’ [BE] KI.GUB 2-ma ⸢ ŠEŠ ⸣ ana IGI ŠEŠ! Z[I.MEŠ -ma IGI.IGI-lu4 LUGAL KI-su ...]
-11’. A 11’ [BE KI.GU]B SAG.UŠ GAR-ma MAN-ú ina ⸢GÙB ⸣ [...]
-B Vs. 1’ [... GÙB ŠUB -di LUGAL KI-su] ŠUB -ta TUŠ -ab
-12’. A 12’ [BE KI.GU]B SAG.UŠ GAR-ma MAN-ú ina SAL.L[A BÀ 15 ŠUB -di LUGAL KI-su ...]
-B 2’ [...] ḫa-rib!-ta TUŠ-ab
-(B:) ________________________________________________________________________________________
-13’. A 13’ [BE KI.GUB SAG.UŠ ...] GAR-ma MAN-ú ina sip-[pí ZAG ME.NI GAR-ma BAL-ut ...]
-B 3’ [... KÚR -ka] ana SILIM-mi KIN-ku
-14’. A 14’ [BE KI.GUB SAG.UŠ GAR-m]a MAN-ú ina sip-[pí GÙB ME.NI GAR-ma BAL-ut ...]
-B 4’ [... E]N SILIM-ka KÚR -ka
+6’. A 6’ [BE] KI.GUB NIGIN-ur-ma ana giš TUKUL GUR-[ur U₄ NUN TIL.MEŠ ...]
+7’. A 7’ [BE] KI.GUB NIGIN-ma ana KAM GUR-ur [URU{ki} DAB-bat]
+8’. A 8’ [BE] KI.GUB NIGIN-ma ana KAM GUR-ma u₃ G[E₆ URU{ki} DAB-bat-ma ERIN₂-šu ina ...]
+$ single ruling
+9’. A 9’ [BE] KI.GUB 2 ana {giš}TUKUL IZI.GAR ina SISKUR₂ [NUN DINGIR DINGIR GU₃-si]
+10’. A 10’ [BE] KI.GUB 2-ma ŠEŠ# ana IGI ŠEŠ! Z[I.MEŠ-ma IGI.IGI-lu₄ LUGAL KI-su ...]
+$ single ruling
+11’. A 11’ [BE KI.GU]B SAG.UŠ GAR-ma MAN-u₂ ina GUB₃# [...]
+B Vs. 1’ [... GUB₃ ŠUB-di LUGAL KI-su] ŠUB-ta TUŠ-ab
+12’. A 12’ [BE KI.GU]B SAG.UŠ GAR-ma MAN-u₂ ina SAL.L[A BA₃ 15 ŠUB-di LUGAL KI-su ...]
+B 2’ [...] ha-rib!-ta TUŠ-ab
+$ single ruling
+(B:)
+13’. A 13’ [BE KI.GUB SAG.UŠ ...] GAR-ma MAN-u₂ ina sip-[pi₂ ZAG ME.NI GAR-ma BAL-ut ...]
+B 3’ [... KUR₂-ka] ana SILIM-mi KIN-ku
+14’. A 14’ [BE KI.GUB SAG.UŠ GAR-m]a MAN-u₂ ina sip-[pi₂ GUB₃ ME.NI GAR-ma BAL-ut ...]
+B 4’ [... E]N SILIM-ka KUR₂-ka
+$ single ruling
 15’. A 15’ [...] x [x (x)]
-B 5’ [BE MAŠ.GÁN KI.GUB GIM i-mi za-qí-ir BÀ -ut] ma-li-i
-16’. B 6’ [BE KI.MIN-ma ina UGU-šu KI.GUB MAN-ma e-ṣir U4.MEŠ N]UN GÍD.DA.MEŠ
-17’. B 7’ [... ÉRIN KÚR KI DINGI]R ana GAZ KAM-et
-18’. B 8’ [BE ina sip-pí KI.GUB UGU-nu KI.GUB KI.GUB MAN-ma GAR ina gišTUKUL.MEŠ DINGIR.MEŠ ...] re-ṣu-ut EN
+B 5’ [BE MAŠ.GAN₂ KI.GUB GIM i-mi za-qi₂-ir BA₃-ut] ma-li-i
+16’. B 6’ [BE KI.MIN-ma ina UGU-šu KI.GUB MAN-ma e-ṣir U₄.MEŠ N]UN GID₂.DA.MEŠ
+17’. B 7’ [... ERIN₂ KUR₂ KI DINGI]R ana GAZ KAM-et
+18’. B 8’ [BE ina sip-pi₂ KI.GUB UGU-nu KI.GUB KI.GUB MAN-ma GAR ina {giš}TUKUL.MEŠ DINGIR.MEŠ ...] re-ṣu-ut EN
 UDU.SISKUR NU DU-ku-ma
-19’. B 9’ ____________________________________________________________________________________________[ina U4SÙ la DINGIR-šu]UGU LÚ ŠUB-ut
+19’. B 9’ [ina U₄SU₃ la DINGIR-šu] UGU LU₂ ŠUB-ut
+$ single ruling
 (Rand: B)
 @reverse
-1. B Rs. 1 [BE KI.GUB SAG.UŠ GAR-ma MAN-ú ina SAG KI.GUB ḪU ...]R A.RÁ.MEŠ ŠUB.MEŠ ana NUN GUR.MEŠ -ni
-C Rs. 1’ [... KI].GUB ḪUR A.R[Á.MEŠ ...]
-2. B 2 [BE KI.MIN-ma MAN-ú ina MURUB4 KI.GUB ḪUR ...] A.RÁ.MEŠ ŠUB.MEŠ ana ÉRIN-ia5 GUR.MEŠ -ni
-C 2’ [... K]I.GUB ḪUR A.RÁ. [MEŠ ...] ⸢ŠUB ⸣.[MEŠ ...]
-3. B 3 [BE KI.MIN-ma MAN-ú ina SUḪUŠ KI.GUB ḪUR N]IN-tu4 A.RÁ u dLAMMA TUK-ši
-C 3’ [... KI.G]UB ḪUR NIN-tu4 A.RÁ [...]
-4. B 4 [BE KI.GUB ka-lu-šu-ma BAL-ut u UR5.ÚŠ SILIM-at ÍD ŠU ...]B-tu iḫ-ḫe-re-ma
-C 4’ [... SILI]M-at ÍD ŠUB -tu iḫ-ḫe-re-[ma]
-B 4 KUR DINGIR Á -šá KI.TUŠ né-eḫ-ta TUŠ -ab
+1. B Rs. 1 [BE KI.GUB SAG.UŠ GAR-ma MAN-u₂ ina SAG KI.GUB HU]R A.RA₂.MEŠ ŠUB.MEŠ ana NUN GUR.MEŠ-ni
+C Rs. 1’ [... KI].GUB HUR A.R[A₂.MEŠ ...]
+2. B 2 [BE KI.MIN-ma MAN-u₂ ina MURUB₄ KI.GUB HUR ...] A.RA₂.MEŠ ŠUB.MEŠ ana ERIN₂-ia₅ GUR.MEŠ-ni
+C 2’ [... K]I.GUB HUR A.RA₂. [MEŠ ...] ŠUB# .[MEŠ ...]
+3. B 3 [BE KI.MIN-ma MAN-u₂ ina SUHUŠ KI.GUB HUR N]IN-tu₄ A.RA₂ u {d}LAMMA TUK-ši
+C 3’ [... KI.G]UB HUR NIN-tu₄ A.RA₂ [...]
+$ single ruling
+4. B 4 [BE KI.GUB ka-lu-šu-ma BAL-ut u UR₅.UŠ₂ SILIM-at ID₂ ŠU]B-tu ih-he-re-ma
+C 4’ [... SILI]M-at ID₂ ŠUB-tu ih-he-re-[ma]
+B 4 KUR DINGIR A₂-ša₂ KI.TUŠ ne₂-eh-ta TUŠ-ab
 C 4’ [...]
-5. B 5 [BE KI.GUB ka-lu-šu-ma BAL-ut u UR5.ÚŠ NU SILIM-at BAL KÚR ...]-ir UŠ 4 KUR MAN-ni
-C 5’ [...] ⸢SILIM⸣-at BAL KÚR-ir U[Š4 ...]
-6. B 6 [BE KI.GUB SI.MEŠ-šu is-ḫu-ra-ma ZÉ IGI NUN KUR KÚR ...]-šu ina giš TUKUL ú-sa-ḫar
-C 6’ [...] NUN KUR KÚR-šu [...]
-7. B 7 [BE KI.GUB SI.MEŠ-šu is-ḫu-ra-ma EDIN ZAG IGI KÚR KUR NUN] ina gišTUKUL ú-sa-ḫar
-C 7’ [... K]ÚR KUR NUN ina [...]
+5. B 5 [BE KI.GUB ka-lu-šu-ma BAL-ut u UR₅.UŠ₂ NU SILIM-at BAL KUR₂ ...]-ir UŠ 4 KUR MAN-ni
+C 5’ [...] SILIM#-at BAL KUR₂-ir U[Š₄ ...]
+$ single ruling
+6. B 6 [BE KI.GUB SI.MEŠ-šu is-hu-ra-ma ZE₂ IGI NUN KUR KUR₂ ...]-šu ina giš TUKUL u₂-sa-har
+C 6’ [...] NUN KUR KUR₂-šu [...]
+7. B 7 [BE KI.GUB SI.MEŠ-šu is-hu-ra-ma EDIN ZAG IGI KUR₂ KUR NUN] ina {giš}TUKUL u₂-sa-har
+C 7’ [... K]UR₂ KUR NUN ina [...]
+$ single ruling
 (Rand: C)
-8. B 8 [BE KI.GUB GUB-iz NUN DINGIR.MEŠ -š]u TAG4.MEŠ -šu
+8. B 8 [BE KI.GUB GUB-iz NUN DINGIR.MEŠ-š]u TAG₄.MEŠ-šu
 C Rs. 1! [...]
-9. B 9 [BE KI.GUB ša-miṭ ana giš TUKUL ŠUB -tiÉRIN-ni in]a U4 SÙ ÚŠ.MEŠ ina KUR GÁL.MEŠ
-C 2 [...] gišTUKUL ŠUB -tiÉRIN-⸢ ni⸣ [...]
-10. B 10 [BE KI.GUB 3 UŠ 4 EN UDU.NÍTA MAN-ni ana giš TUKU]L ⸢IZI.GAR⸣
+9. B 9 [BE KI.GUB ša-miṭ ana giš TUKUL ŠUB-ti ERIN₂-ni in]a U₄ SU₃ UŠ₂.MEŠ ina KUR GAL₂.MEŠ
+C 2 [...] {giš}TUKUL ŠUB-ti ERIN₂- ni# [...]
+$ single ruling
+10. B 10 [BE KI.GUB 3 UŠ 4 EN UDU.NITA₂ MAN-ni ana giš TUKU]L IZI#.GAR#
 C 3 [...] x x [...]
 11. C 4 [...] x x [...]
+$ single ruling
 12. C 5 [...] x x [...]
 $ (Lücke von einer Zeile)
-14. A Rs.1’ [BE ina] ⸢ KI⸣ .G[UB ZAG ù GÙB BÙR.MEŠ ŠUB.MEŠ NUN ILLAT.MEŠ-šu BAL.MEŠ -šu-ma ú-šam-qat-si-na-a-ti ...]
-15. A 2’ [BE K]I.GUB 4 [SU.GU7ina KUR GÁL -ši]
-16. A 3’ [BE K]I.GUB 4-ma ina Š[À !-šu-nu BÙR.MEŠ ŠUB.MEŠ SU.GU7 ...]
-17. A 4’ [BE K]I.GUB 4-ma 2 UGU-nu 2 [KI.TA-nu GAR.MEŠ DINGIR.MEŠ ze-nu-tu4 ana KUR GUR.MEŠ -ni ...]
-18. A 5’ [BE] KI.GUB 5 [ni-ip-ḫat lúḪAL]
-19. A 6’ [BE] KI.GUB 5-ma ina ŠÀ -šu-nu BÙR. [MEŠ ŠUB.MEŠ ni-ip-ḫat lú ḪAL ŠUB -ti ÉRIN-ni]
-20. A 7’ [BE] KI.GUB 5-ma ina ŠÀ -šu-nu BAR.[MEŠ ŠUB.MEŠ ...]
-21. A 8’ [BE] KI.GUB 6 [ZI.GA NIM.MAki (x x x)]
-22. A 9’ [BE] KI.GUB 6-ma ina ŠÀ -šu-nu [BÙR.MEŠ ŠUB.MEŠ NIM.MAki ZI-am-ma ...]
-23. A 10’ [BE] KI.GUB 6-ma ina ŠÀ -šu -<nu> BAR.[MEŠ ŠUB.MEŠ NIM.MAki ZI ...]
-24. A 11’ ____________________________________________________________________________________________[0]SÚḪ NÍ-šu ŠUB-šu-m[a]
+14. A Rs.1’ [BE ina] KI# .G[UB ZAG u₃ GUB₃ BUR₃.MEŠ ŠUB.MEŠ NUN ILLAT.MEŠ-šu BAL.MEŠ-šu-ma u₂-šam-qat-si-na-a-ti ...]
+15. A 2’ [BE K]I.GUB 4 [SU.GU₇ina KUR GAL₂-ši]
+16. A 3’ [BE K]I.GUB 4-ma ina Š[A₃!-šu-nu BUR₃.MEŠ ŠUB.MEŠ SU.GU₇ ...]
+17. A 4’ [BE K]I.GUB 4-ma 2 UGU-nu 2 [KI.TA-nu GAR.MEŠ DINGIR.MEŠ ze-nu-tu₄ ana KUR GUR.MEŠ-ni ...]
+$ single ruling
+18. A 5’ [BE] KI.GUB 5 [ni-ip-hat {lu₂}HAL]
+19. A 6’ [BE] KI.GUB 5-ma ina ŠA₃-šu-nu BUR₃. [MEŠ ŠUB.MEŠ ni-ip-hat lu₂ HAL ŠUB-ti ERIN₂-ni]
+20. A 7’ [BE] KI.GUB 5-ma ina ŠA₃-šu-nu BAR.[MEŠ ŠUB.MEŠ ...]
+$ single ruling
+21. A 8’ [BE] KI.GUB 6 [ZI.GA NIM.MA{ki} (x x x)]
+22. A 9’ [BE] KI.GUB 6-ma ina ŠA₃-šu-nu [BUR₃.MEŠ ŠUB.MEŠ NIM.MA{ki} ZI-am-ma ...]
+23. A 10’ [BE] KI.GUB 6-ma ina ŠA₃-šu-<nu> BAR.[MEŠ ŠUB.MEŠ NIM.MA{ki} ZI ...]
+24. A 11’ [0]SUH₂ NI₂-šu ŠUB-šu-m[a]
+$ single ruling
 25. A 12’ [BE] KI.GUB 7 [ZI.GA ...]
-26. A 13’ [BE] KI.GUB 7-ma ina ŠÀ -šu- [nu BÙR.MEŠ ŠUB.MEŠ ...]
-27. A 14’ [BE K]I.GUB 7-ma ina ŠÀ -[šu-nu BAR.MEŠ ŠUB.MEŠ ...]
+26. A 13’ [BE] KI.GUB 7-ma ina ŠA₃-šu- [nu BUR₃.MEŠ ŠUB.MEŠ ...]
+27. A 14’ [BE K]I.GUB 7-ma ina ŠA₃-[šu-nu BAR.MEŠ ŠUB.MEŠ ...]

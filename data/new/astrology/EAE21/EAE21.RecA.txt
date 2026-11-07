@@ -13,93 +13,97 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] restoration
 ---
 
 @text
-# § I (pp. 233-234)
-1. DIŠ ina ITI.BARA₂ UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU [SAR-ma ina IM ... iz-ku] ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku [IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šú IGI-ma] ana LUGAL A.GA.DÈ.KI EŠ.BAR SUM-in LUGAL URI.KI B[E šum-ma LUGAL] AN.MI i-te-ti-iq-šú ub-bu-ṭú u SU.KÚ GÁL-ma UN.MEŠ TUR.MEŠ!-ši-na ana KI.LAM È.MEŠ KUR GAL ana KUR TUR ana TI DU-ak
-2. DIŠ UD.15.KAM AN.MI GAR-ma ina ŠÀ.HUL it-bal u MUL GAL ŠUB-ut bi-ib-lu KUR TÙM KI.LAM KUR TUR
-3. [DIŠ U]D.16.KAM AN.MI GAR KIMIN MIN ŠÈG.MEŠ ina AN-e A.KAL ina BE TAR.MEŠ
-4. DIŠ UD.20.KAM AN.MI GAR KIMIN MIN LUGAL ana LUGAL SAL.KÚR KIN-ár
-5. DIŠ UD.21.KAM AN.MI GAR KIMIN MIN A.AB.BA UD.DU MA.DAM A.AB.BA ZÁH ŠE ina nap-šá-ra-a-ti LÁ-ṭi ŠE TUR KI.LAM TUR
+#note: § I (pp. 233-234)
+1. DIŠ ina ITI.BARA₂ UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU [SAR-ma ina IM ... iz-ku] ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku [IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma] ana LUGAL A.GA.DE₃.KI EŠ.BAR SUM-in LUGAL URI.KI B[E šum-ma LUGAL] AN.MI i-te-ti-iq-šu₂ ub-bu-ṭu₂ u SU.KU₂ GAL₂-ma UN.MEŠ TUR.MEŠ!-ši-na ana KI.LAM E₃.MEŠ KUR GAL ana KUR TUR ana TI DU-ak
+2. DIŠ UD.15.KAM AN.MI GAR-ma ina ŠA₃.HUL it-bal u MUL GAL ŠUB-ut bi-ib-lu KUR TUM₃ KI.LAM KUR TUR
+3. [DIŠ U]D.16.KAM AN.MI GAR KIMIN MIN ŠEG₃.MEŠ ina AN-e A.KAL ina BE TAR.MEŠ
+4. DIŠ UD.20.KAM AN.MI GAR KIMIN MIN LUGAL ana LUGAL SAL.KUR₂ KIN-ar₂
+5. DIŠ UD.21.KAM AN.MI GAR KIMIN MIN A.AB.BA UD.DU MA.DAM A.AB.BA ZAH₂ ŠE ina nap-ša₂-ra-a-ti LA₂-ṭi ŠE TUR KI.LAM TUR
 $ single ruling
-# § II (pp. 235-236)
-1. DIŠ ina ITI.GU₄ UD.14.KAM AN.MI GAR-ma ina IM.SI.SÁ SAR-ma ina IM.KUR.RA iz-ku ina EN.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.SI.SÁ ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL NIM.MA.KI EŠ.BAR SUM-in ŠUB-tim LUGAL NIM.MA.KI ina GIŠ.TUKUL GÁL-ši la ta-ar re-di-i ana UN.MEŠ-šú
-2. DIŠ UD.15.KAM AN.MI GAR LUGAL ILLAT.MEŠ-šú KIMIN SAL.TU.TU-šú BAL.MEŠ-šú {d}UDU.IDIM SAR-ma MÁŠ.ANŠE ZÁH
-3. DIŠ UD.16.KAM AN.MI GAR LUGAL BE-ma KUR i-har-ru-ub na-me-e KÚR PA-aṣ
-4. DIŠ UD.20.KAM AN.MI GAR LUGAL ina AŠ.TE-šú ZI-ma MAN-ma AŠ.TE DIB-bat
-5. DIŠ UD.21.KAM AN.MI GAR hi-ṣib A.AB.BA ZÁH-ma A.AB.BA ap-pa-ru i-šìr qí-nu MUŠEN UŠ-šú
+#note: § II (pp. 235-236)
+1. DIŠ ina ITI.GU₄ UD.14.KAM AN.MI GAR-ma ina IM.SI.SA₂ SAR-ma ina IM.KUR.RA iz-ku ina EN.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.SI.SA₂ ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL NIM.MA.KI EŠ.BAR SUM-in ŠUB-tim LUGAL NIM.MA.KI ina GIŠ.TUKUL GAL₂-ši la ta-ar re-di-i ana UN.MEŠ-šu₂
+2. DIŠ UD.15.KAM AN.MI GAR LUGAL ILLAT.MEŠ-šu₂ KIMIN SAL.TU.TU-šu₂ BAL.MEŠ-šu₂ {d}UDU.IDIM SAR-ma MAŠ₂.ANŠE ZAH₂
+3. DIŠ UD.16.KAM AN.MI GAR LUGAL BE-ma KUR i-har-ru-ub na-me-e KUR₂ PA-aṣ
+4. DIŠ UD.20.KAM AN.MI GAR LUGAL ina AŠ.TE-šu₂ ZI-ma MAN-ma AŠ.TE DIB-bat
+5. DIŠ UD.21.KAM AN.MI GAR hi-ṣib A.AB.BA ZAH₂-ma A.AB.BA ap-pa-ru i-šir₃ qi₂-nu MUŠEN UŠ-šu₂
 $ single ruling
-# § III (pp. 236-237)
-1. DIŠ ina ITI.SIG₄ UD.14.KAM AN.MI GAR-ma ina IM.KUR.RA SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.KUR.RA ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL NI.TUK.KI EŠ.BAR SUM LUGAL NI.TUK.KI ina HI.GAR GAZ-šu-ma MAN-ma AŠ.TE DIB-bat
+#note: § III (pp. 236-237)
+1. DIŠ ina ITI.SIG₄ UD.14.KAM AN.MI GAR-ma ina IM.KUR.RA SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.KUR.RA ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL NI.TUK.KI EŠ.BAR SUM LUGAL NI.TUK.KI ina HI.GAR GAZ-šu-ma MAN-ma AŠ.TE DIB-bat
 2. DIŠ UD.15.KAM AN.MI GAR LUGAL NI.TUK.KI ina HI.GAR GAZ-šu-ma MAN-ma AŠ.TE DIB-bat
-3. DIŠ UD.16.KAM AN.MI GAR LUGAL ina È-šu GAZ-ma la ha-as-su AŠ-TE DIB-bat
-4. DIŠ UD.20.KAM AN.MI GAR ŠÈG.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ
-5. DIŠ UD.21.KAM AN.MI GAR ta-zi-im-tum KIMIN ta-su-uh-tum ina KUR GÁL BE.MEŠ ina KUR GÁL.MEŠ
+3. DIŠ UD.16.KAM AN.MI GAR LUGAL ina E₃-šu GAZ-ma la ha-as-su AŠ-TE DIB-bat
+4. DIŠ UD.20.KAM AN.MI GAR ŠEG₃.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ
+5. DIŠ UD.21.KAM AN.MI GAR ta-zi-im-tum KIMIN ta-su-uh-tum ina KUR GAL₂ BE.MEŠ ina KUR GAL₂.MEŠ
 $ single ruling
-# § IV (p. 238)
-1. DIŠ ina ITI.ŠU UD.14.KAM AN.MI GAR-ma ina IM.MAR.TU SAR-ma ina IM.U₁₈.LU KIMIN ina IM.SI.SÁ iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.MAR.TU ina ŠU-ka tu-kal KA×MI-šu IGI-ma ana LUGAL Gu-ti-i EŠ.BAR SUM ŠUB-tim Gu-ti-i ina GIŠ.TUKUL GÁL KUR me-ri-nu-uš-šá ŠUB-di
-2. DIŠ UD.15.KAM AN.MI GAR ŠÈG.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ SU.KÚ ina KUR GÁL
-3. DIŠ UD.16.KAM AN.MI GAR SAL.PEŠ₄.MEŠ šà ŠÀ-ši-na NU SILIM.MEŠ
-4. DIŠ UD.20.KAM AN.MI GAR ina ITI.NE {d}IŠKUR KA-šú ŠUB-di-ma DINGIR KÚ EGIR MU {d}IŠKUR MÁŠ.ANŠE RA-iṣ
-5. DIŠ UD.21.KAM AN.MI GAR LUGAL ILLAT-šú BAL.MEŠ-šú-ma ana ŠU KÚR.MEŠ-šú GAR.MEŠ-šú
+#note: § IV (p. 238)
+1. DIŠ ina ITI.ŠU UD.14.KAM AN.MI GAR-ma ina IM.MAR.TU SAR-ma ina IM.U₁₈.LU KIMIN ina IM.SI.SA₂ iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.MAR.TU ina ŠU-ka tu-kal KA×MI-šu IGI-ma ana LUGAL gu-ti-i EŠ.BAR SUM ŠUB-tim gu-ti-i ina GIŠ.TUKUL GAL₂ KUR me-ri-nu-uš-ša₂ ŠUB-di
+2. DIŠ UD.15.KAM AN.MI GAR ŠEG₃.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ SU.KU₂ ina KUR GAL₂
+3. DIŠ UD.16.KAM AN.MI GAR SAL.PEŠ₄.MEŠ ša₃ ŠA₃-ši-na NU SILIM.MEŠ
+4. DIŠ UD.20.KAM AN.MI GAR ina ITI.NE {d}IŠKUR KA-šu₂ ŠUB-di-ma DINGIR KU₂ EGIR MU {d}IŠKUR MAŠ₂.ANŠE RA-iṣ
+5. DIŠ UD.21.KAM AN.MI GAR LUGAL ILLAT-šu₂ BAL.MEŠ-šu₂-ma ana ŠU KUR₂.MEŠ-šu₂ GAR.MEŠ-šu₂
 $ single ruling
-# § V (pp. 239-240)
-1. DIŠ ina ITI.NE UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU SAR-ma ina IM.KUR.RA iz-ku ina EN.NUN AN.USAN₂ KIMIN ina EN.NUN U₄.ZAL.LI SAR-ma ú-qat-ti-ma iz-ku IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL ÈŠ.NUN.NA.KI EŠ.BAR SUM ZI-ut ERÍN.MAN.DA KIMIN ERÍN.MU GÁL GIŠ.TUKUL in-nam-da-ru-ma LÚ LÚ ina GIŠ.TUKUL GAZ
-2. DIŠ UD.15.KAM AN.MI GAR LUGAL BE-ma ŠÈG.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ GÁL.MEŠ
-3. DIŠ UD.16.KAM AN.MI GAR LUGAL URI.KI BE {d}U+GUR ina KUR KÚ
-4. DIŠ UD.20.KAM AN.MI GAR LUGAL KUR HA.A-ti KIMIN LUGAL KUR Ha-at-ti ZI-ma AŠ.TE DIB-bat
-5. DIŠ UD.21.KAM AN.MI GAR {d}Lamaštu KIMIN li-iʾ-bu KUR KIMIN LUGAL i-le-ʾi-bu
+#note: § V (pp. 239-240)
+1. DIŠ ina ITI.NE UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU SAR-ma ina IM.KUR.RA iz-ku ina EN.NUN AN.USAN₂ KIMIN ina EN.NUN U₄.ZAL.LI SAR-ma u₂-qat-ti-ma iz-ku IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL EŠ₃.NUN.NA.KI EŠ.BAR SUM ZI-ut ERIN₂.MAN.DA KIMIN ERIN₂.MU GAL₂ GIŠ.TUKUL in-nam-da-ru-ma LU₂ LU₂ ina GIŠ.TUKUL GAZ
+2. DIŠ UD.15.KAM AN.MI GAR LUGAL BE-ma ŠEG₃.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ GAL₂.MEŠ
+3. DIŠ UD.16.KAM AN.MI GAR LUGAL URI.KI BE {d}U+GUR ina KUR KU₂
+4. DIŠ UD.20.KAM AN.MI GAR LUGAL KUR HA.A-ti KIMIN LUGAL KUR ha-at-ti ZI-ma AŠ.TE DIB-bat
+5. DIŠ UD.21.KAM AN.MI GAR {d}DIM₃.ME KIMIN li-iʾ-bu KUR KIMIN LUGAL i-le-ʾi-bu
 $ single ruling
-# § VI (pp. 241-242)
-1. DIŠ ina ITI.KIN UD.14.KAM AN.MI GAR-ma ina IM.SI.SÁ SAR-ma ina IM.U₁₈.LU KIMIN IM.KUR.RA iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.SI.SÁ ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL URI.KI EŠ.BAR SUM ana LUGAL HI.GAR šum-ma LUGAL AN.MI i-te-ti-iq-šú ŠÈG.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ SU.KÚ ina KUR GÁL UN.MEŠ TUR.MEŠ-ši-na ana KÙ.BABBAR BÚR.MEŠ
-2. DIŠ UD.15.KAM AN.MI GAR DUMU LUGAL AD-šú GAZ-ma AŠ.TE DIB-bat KIMIN KÚR ZI-ma KUR KÚ
-3. DIŠ UD.16.KAM AN.MI GAR LUGAL KUR a-hi-ti KIMIN LUGAL KUR HA.A-ti ZI-ma AŠ.TE DIB-bat ŠÈG ina AN-e A.KAL ina IDIM TAR.MEŠ
-4. DIŠ UD.20.KAM AN.MI GAR ŠÈG ina AN-e A.KAL ina IDIM TAR.MEŠ KUR ana KUR i-ha-aq-ma SILIM.MU GAR-an
-5. DIŠ UD.21.KAM AN.MI GAR GIŠ.GU.ZA KÚR ul ú-lab-bar LUGAL IM.GI ina KUR GÁL.MEŠ EGIR MU {d}IŠKUR RA KIMIN LUGAL AŠ.TE ul ú-lab-bar KUR.BI TUR-ir
+#note: § VI (pp. 241-242)
+1. DIŠ ina ITI.KIN UD.14.KAM AN.MI GAR-ma ina IM.SI.SA₂ SAR-ma ina IM.U₁₈.LU KIMIN IM.KUR.RA iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.SI.SA₂ ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL URI.KI EŠ.BAR SUM ana LUGAL HI.GAR šum-ma LUGAL AN.MI i-te-ti-iq-šu₂ ŠEG₃.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR.MEŠ SU.KU₂ ina KUR GAL₂ UN.MEŠ TUR.MEŠ-ši-na ana KU₃.BABBAR BUR₂.MEŠ
+2. DIŠ UD.15.KAM AN.MI GAR DUMU LUGAL AD-šu₂ GAZ-ma AŠ.TE DIB-bat KIMIN KUR₂ ZI-ma KUR KU₂
+3. DIŠ UD.16.KAM AN.MI GAR LUGAL KUR a-hi-ti KIMIN LUGAL KUR HA.A-ti ZI-ma AŠ.TE DIB-bat ŠEG₃ ina AN-e A.KAL ina IDIM TAR.MEŠ
+4. DIŠ UD.20.KAM AN.MI GAR ŠEG₃ ina AN-e A.KAL ina IDIM TAR.MEŠ KUR ana KUR i-ha-aq-ma SILIM.MU GAR-an
+5. DIŠ UD.21.KAM AN.MI GAR GIŠ.GU.ZA KUR₂ ul u₂-lab-bar LUGAL IM.GI ina KUR GAL₂.MEŠ EGIR MU {d}IŠKUR RA KIMIN LUGAL AŠ.TE ul u₂-lab-bar KUR.BI TUR-ir
 $ single ruling
-# § VII (p. 243)
-1. DIŠ ina ITI.DU₆ UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL NIM.MA.KI EŠ.BAR SUM ŠUB-tim NIM.MA.KI ina GIŠ.TUKUL GÁL la ta-ar re-di-i ana UN.MEŠ-šú
-2. DIŠ UD.15.KAM AN.MI GAR KÚR ZI-ma EBUR KUR KÚ KIMIN RA KIMIN KUR ú-šal-pat
-3. DIŠ UD.16.KAM AN.MI GAR BAL ZÁH LUGAL BE ha-rab URU
-4. DIŠ UD.20.KAM AN.MI GAR li-iʾ-bu ina KUR i-la-ʾi-ib SAL.PEŠ₄.MEŠ šà ŠÀ-ši-na NU SILIM.MEŠ
-5. DIŠ UD.21.KAM AN.MI GAR ZI-ut BURU₅.HI.A ana KUR KIMIN ana KUR.KUR GÁL-ši
+#note: § VII (p. 243)
+1. DIŠ ina ITI.DU₆ UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL NIM.MA.KI EŠ.BAR SUM ŠUB-tim NIM.MA.KI ina GIŠ.TUKUL GAL₂ la ta-ar re-di-i ana UN.MEŠ-šu₂
+2. DIŠ UD.15.KAM AN.MI GAR KUR₂ ZI-ma EBUR KUR KU₂ KIMIN RA KIMIN KUR u₂-šal-pat
+3. DIŠ UD.16.KAM AN.MI GAR BAL ZAH₂ LUGAL BE ha-rab URU
+4. DIŠ UD.20.KAM AN.MI GAR li-iʾ-bu ina KUR i-la-ʾi-ib SAL.PEŠ₄.MEŠ ša₃ ŠA₃-ši-na NU SILIM.MEŠ
+5. DIŠ UD.21.KAM AN.MI GAR ZI-ut BURU₅.HI.A ana KUR KIMIN ana KUR.KUR GAL₂-ši
 $ single ruling
-# § VIII (p. 244)
-1. [DIŠ ina ITI].APIN UD.14.KAM AN.MI GAR-ma ina IM.SI.SÁ SAR-ma ina IM.U₁₈.LU K[IMIN IM.x iz-ku] [ina E]N.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku KIMIN GIM MU[L-ha] [IM.SI.SÁ ina ŠU-ka tu]-kal KA×MI-šu IGI-ma ana LUGAL KI.ŠÁR.RA EŠ.BAR SUM lu LUGAL BE lu ERÍN [ma]-at-tum ŠUB-ut lu ERÍN GAL BAL [...]
-2. [DIŠ UD.15.K]AM AN.MI GAR ŠÈG.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR A.x [... ina HI].GAR ZÁH ŠUB-tim MÁŠ.AN[ŠE ...]
-3. [DIŠ UD.16.KAM AN.MI GAR LUGAL ILLAT-šú] BAL.MEŠ-šu-ma ana ŠU KÚR GAR.MEŠ-šú // HUL-tim Uri₂.K[I]
-4. [DIŠ UD.20.KAM AN.MI GAR ŠUB-tim LUGAL(?)] ina GIŠ.TUKUL KIMIN ŠUB-tim SIG-i ina GIŠ.TUKUL GÁ[L ...]
-5. [DIŠ UD.21.KAM AN.MI GAR LUGAL ILLAT-šú BAL.MEŠ-šu] ana ŠU KÚR GAR KIMIN ZI-ut NIM.MA.KI KIMIN ZI-ut BURU₅.[HI.A]
+#note: § VIII (p. 244)
+1. [DIŠ ina ITI].APIN UD.14.KAM AN.MI GAR-ma ina IM.SI.SA₂ SAR-ma ina IM.U₁₈.LU K[IMIN IM.x iz-ku] [ina E]N.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku KIMIN GIM MU[L-ha] [IM.SI.SA₂ ina ŠU-ka tu]-kal KA×MI-šu IGI-ma ana LUGAL KI.ŠAR₂.RA EŠ.BAR SUM lu LUGAL BE lu ERIN₂ [ma]-at-tum ŠUB-ut lu ERIN₂ GAL BAL [...]
+2. [DIŠ UD.15.K]AM AN.MI GAR ŠEG₃.MEŠ ina AN-e A.KAL.MEŠ ina IDIM TAR A.x [... ina HI].GAR ZAH₂ ŠUB-tim MAŠ₂.AN[ŠE ...]
+3. [DIŠ UD.16.KAM AN.MI GAR LUGAL ILLAT-šu₂] BAL.MEŠ-šu-ma ana ŠU KUR₂ GAR.MEŠ-šu₂ // HUL-tim URI₂.K[I]
+4. [DIŠ UD.20.KAM AN.MI GAR ŠUB-tim LUGAL(?)] ina GIŠ.TUKUL KIMIN ŠUB-tim SIG-i ina GIŠ.TUKUL GA[L₂ ...]
+5. [DIŠ UD.21.KAM AN.MI GAR LUGAL ILLAT-šu₂ BAL.MEŠ-šu] ana ŠU KUR₂ GAR KIMIN ZI-ut NIM.MA.KI KIMIN ZI-ut BURU₅.[HI.A]
 $ single ruling
-# § IX (p. 245)
-1. [DIŠ in ITI.GAN UD.14.KAM AN.MI GAR-ma] ina IM.KUR.RA SAR-ma ina IM.MAR.TU iz-[ku] [ina EN.NUN MURUB₄.BA SAR-ma] KI {d}UTU ZALAG₂ KIMIN ina EN.NUN U₄.ZAL.LI S[AR-ma] iz-ku IM.KUR.RA ina Š[U-ka tu-kal] KA×MI-šu IGI-ma ana LUGAL BÀD.AN.KI EŠ.BAR [SUM] [LUGAL ILLAT-šu B]AL.MEŠ-šú-ma ana ŠU KÚR GAR.MEŠ-šú [...] [KUR.BÀD.AN.KI KÚR] DIB-ma ina UD.ME-šu ŠUB-tim LUGAL NIM.MA.KI
-2. [DIŠ UD.15.KAM AN.MI GAR LUGAL(?) UR]I(?).KI GÌR [... ina] È-šú i-kal-lu-šú-ma MAN-ma AŠ.TE DIB-bat
-3. [DIŠ UD.16.KAM AN.MI] GAR bi-ib-lu KUR ub-ba-lu šá-pak ŠE ina GÁ×ŠE.MEŠ
-4. [DIŠ UD.20.KAM AN.M]I GAR ina KUR KÚR KÚR KIMIN I.{d}UTU GÁL
-5. [DIŠ UD.21.KAM AN.MI GAR UR.BAR.RA.MEŠ] // UR.MAH.MEŠ in-na-da-ru-ma A.RÁ KUR ŠUB.MEŠ
+#note: § IX (p. 245)
+1. [DIŠ in ITI.GAN UD.14.KAM AN.MI GAR-ma] ina IM.KUR.RA SAR-ma ina IM.MAR.TU iz-[ku] [ina EN.NUN MURUB₄.BA SAR-ma] KI {d}UTU ZALAG₂ KIMIN ina EN.NUN U₄.ZAL.LI S[AR-ma] iz-ku IM.KUR.RA ina Š[U-ka tu-kal] KA×MI-šu IGI-ma ana LUGAL BAD₃.AN.KI EŠ.BAR [SUM] [LUGAL ILLAT-šu B]AL.MEŠ-šu₂-ma ana ŠU KUR₂ GAR.MEŠ-šu₂ [...] [KUR.BAD₃.AN.KI KUR₂] DIB-ma ina UD.ME-šu ŠUB-tim LUGAL NIM.MA.KI
+2. [DIŠ UD.15.KAM AN.MI GAR LUGAL(?) UR]I(?).KI GIR₃ [... ina] E₃-šu₂ i-kal-lu-šu₂-ma MAN-ma AŠ.TE DIB-bat
+3. [DIŠ UD.16.KAM AN.MI] GAR bi-ib-lu KUR ub-ba-lu ša₂-pak ŠE ina GA₂×ŠE.MEŠ
+4. [DIŠ UD.20.KAM AN.M]I GAR ina KUR KUR₂ KUR₂ KIMIN I.{d}UTU GAL₂
+5. [DIŠ UD.21.KAM AN.MI GAR UR.BAR.RA.MEŠ] // UR.MAH.MEŠ in-na-da-ru-ma A.RA₂ KUR ŠUB.MEŠ
 $ single ruling
-# § X (pp. 246-247)
-1. [DIŠ] ina ITI.AB UD.14.KAM GAR-ma ina IM.KUR.RA SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.KUR.RA ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL AN.ŠA₄.AN.KI u SU.BIR₄.KI EŠ.BAR SUM GIŠ.GU.ZA AN.ŠA₄.AN.KI ù SU.BIR₄.KI uš-tal-pat
+#note: § X (pp. 246-247)
+1. [DIŠ] ina ITI.AB UD.14.KAM GAR-ma ina IM.KUR.RA SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN MURUB₄.BA iz-ku IM.KUR.RA ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL AN.ŠA₄.AN.KI u SU.BIR₄.KI EŠ.BAR SUM GIŠ.GU.ZA AN.ŠA₄.AN.KI u₃ SU.BIR₄.KI uš-tal-pat
 2. DIŠ UD.15.KAM AN.MI GAR LUGAL BE la ha-as-su AŠ.TE DIB-bat
-3. DIŠ UD.16.KAM AN.MI GAR SAL.KÚR ina KUR GÁL bi-ib-lu KUR ub-ba-lu ša-pa-ak ŠE ina GÁ×ŠE.MEŠ
-4. DIŠ UD.20.KAM AN.MI GAR <NÍG> HA.LAM.MA ina KUR GÁL-ši EBUR KUR {d}IŠKUR RA-iṣ
-5. DIŠ UD.21.KAM AN.MI GAR ta-as-su-uh-tum ina KUR GÁL-ši KI.LAM LÁ-ú ina-pu-uš // BAL LUGAL BE LUGAL IM.GI ina KUR GÁL-ši
+3. DIŠ UD.16.KAM AN.MI GAR SAL.KUR₂ ina KUR GAL₂ bi-ib-lu KUR ub-ba-lu ša-pa-ak ŠE ina GA₂×ŠE.MEŠ
+4. DIŠ UD.20.KAM AN.MI GAR <NIG₂> HA.LAM.MA ina KUR GAL₂-ši EBUR KUR {d}IŠKUR RA-iṣ
+5. DIŠ UD.21.KAM AN.MI GAR ta-as-su-uh-tum ina KUR GAL₂-ši KI.LAM LA₂-u₂ ina-pu-uš // BAL LUGAL BE LUGAL IM.GI ina KUR GAL₂-ši
 $ single ruling
-# § XI (pp. 247-248)
-1. DIŠ ina ITI.ZÍZ UD.14.KAM AN.MI GAR-ma ina IM.SI SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.SI.SÁ ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL MAR.TU.KI EŠ.BAR SUM ŠUB-tim LUGAL MAR.TU ina GIŠ.TUKUL GÁL
-2. DIŠ UD.15.KAM AN.MI GAR LUGAL ina È-šú GAZ.MEŠ-šú-ma KÚR-ma AŠ.TE DIB-bat
-3. DIŠ UD.16.KAM AN.MI GAR URU SU.KÚ DIB-bat BÀD ina-qar LUGAL KUR ŠUB
-4. DIŠ UD.20.KAM AN.MI GAR bi-ib-lu KUR ub-ba-lu šá-pak ŠE ina GÁ×ŠE.MEŠ
-5. DIŠ UD.21.KAM AN.MI GAR ZI-ut BURU₅.HI.A ana KUR.KUR LUGAL IM.GI ina KUR GÁL
+#note: § XI (pp. 247-248)
+1. DIŠ ina ITI.ZIZ₂ UD.14.KAM AN.MI GAR-ma ina IM.SI SAR-ma ina IM.MAR.TU iz-ku ina EN.NUN MURUB₄.BA SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.SI.SA₂ ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL MAR.TU.KI EŠ.BAR SUM ŠUB-tim LUGAL MAR.TU ina GIŠ.TUKUL GAL₂
+2. DIŠ UD.15.KAM AN.MI GAR LUGAL ina E₃-šu₂ GAZ.MEŠ-šu₂-ma KUR₂-ma AŠ.TE DIB-bat
+3. DIŠ UD.16.KAM AN.MI GAR URU SU.KU₂ DIB-bat BAD₃ ina-qar LUGAL KUR ŠUB
+4. DIŠ UD.20.KAM AN.MI GAR bi-ib-lu KUR ub-ba-lu ša₂-pak ŠE ina GA₂×ŠE.MEŠ
+5. DIŠ UD.21.KAM AN.MI GAR ZI-ut BURU₅.HI.A ana KUR.KUR LUGAL IM.GI ina KUR GAL₂
 $ single ruling
-# § XII (pp. 248-249)
-1. DIŠ ina ITI.ŠE UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU SAR-ma ina IM.SI.SÁ iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šú IGI-ma ana LUGAL KI.ŠÁR.RA EŠ.BAR SUM-in NÍG.HA.LAM.MA Uri₂.KI [... uš-t]ál-pa-tu // šu-uq-qúr BÀD.MEŠ-šú GÁL ŠE ina DUB ha-rab URU u na-me-e-šú
-2. DIŠ UD.15.KAM AN.MI GAR ana LUGAL HI.GAR ŠUB-tim ERÍN-ni ina GIŠ.TUKUL GÁL
-3. DIŠ UD.16.KAM AN.MI GAR ta-as-su-uh-tum ina KUR GÁL-ši LUGAL ILLAT.MEŠ-šú BAL.MEŠ-šú
+#note: § XII (pp. 248-249)
+1. DIŠ ina ITI.ŠE UD.14.KAM AN.MI GAR-ma ina IM.U₁₈.LU SAR-ma ina IM.SI.SA₂ iz-ku ina EN.NUN AN.USAN₂ SAR-ma ina EN.NUN U₄.ZAL.LI iz-ku IM.U₁₈.LU ina ŠU-ka tu-kal KA×MI-šu₂ IGI-ma ana LUGAL KI.ŠAR₂.RA EŠ.BAR SUM-in NIG₂.HA.LAM.MA URI₂.KI [... uš-t]al₂-pa-tu // šu-uq-qur₂ BAD₃.MEŠ-šu₂ GAL₂ ŠE ina DUB ha-rab URU u na-me-e-šu₂
+2. DIŠ UD.15.KAM AN.MI GAR ana LUGAL HI.GAR ŠUB-tim ERIN₂-ni ina GIŠ.TUKUL GAL₂
+3. DIŠ UD.16.KAM AN.MI GAR ta-as-su-uh-tum ina KUR GAL₂-ši LUGAL ILLAT.MEŠ-šu₂ BAL.MEŠ-šu₂
 4. DIŠ UD.20.KAM AN.MI GAR LUGAL URI.KI BE KUR la HUL-tum! uš-tal-pat
-5. DIŠ UD.21.KAM AN.MI GAR NÍG.HA.LAM.MA Uri₂.KI ina KA {d}30
+5. DIŠ UD.21.KAM AN.MI GAR NIG₂.HA.LAM.MA URI₂.KI ina KA {d}30
 $ single ruling
 @colophon
-# EAE 21 subscripts (p. 249)
-A ii 42. DIŠ DUB.22.KAM DIŠ UD.AN.{d}EN.LÍL 1 UŠ 12 ÀM MU.ŠID.BI.IM
-D rev. 11'. [...] GABA.RI [...]
-D rev. 12'. [DIŠ MAN] ina IGI-šú GIM di-[pa-ri SA₅ ...]
-H 6'. [... n]i-is-hu GABA.RI IM x(?) [...]
+#note: EAE 21 subscripts (p. 249)
+#note: source A ii 42
+6. DIŠ DUB.22.KAM DIŠ UD.AN.{d}EN.LIL₂ 1 UŠ 12 AM₃ MU.ŠID.BI.IM
+#note: source D rev. 11'
+7. [...] GABA.RI [...]
+#note: source D rev. 12'
+8. [DIŠ MAN] ina IGI-šu₂ GIM di-[pa-ri SA₅ ...]
+#note: source H 6'
+9. [... n]i-is-hu GABA.RI IM x(?) [...]

@@ -9,18 +9,32 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.712 on 52 tokens.
 ---
 @obverse
-1. [...] x-ḫe-e[(x x x)] IZI.GAR
-2. [...] GABA.RI.MEŠ-šuÁŠ.MEŠ UR.SAG.MEŠ -ia5 KÚR ÁŠ.MEŠ
-3. [...] KAL-an ÉRIN-ia
-4. [...] KAL-an ÉRINKÚR
-5. [... IG]I.IGI -tu4
-6. [...] inaKUR GÁL -ši
-7. [... in]a KUR KÚR GÁL -ši
-8. [...] IGI SU.GU7TÉŠ.BIinaKUR GÁL -ši
-9. [... I]GI SU.GU7 ana KUR KÚR BAL-at šá ki-di KU4-ma šá ŠÀ URU È
-10. [...] SU.GU7anaKUR-ka BAL-at
+1. [...] x-he-e[(x x x)] IZI.GAR
+$ single ruling
+2. [...] GABA.RI.MEŠ-šu AŠ₂.MEŠ UR.SAG.MEŠ-ia₅ KUR₂ AŠ₂.MEŠ
+$ single ruling
+3. [...] KAL-an ERIN₂-ia
+$ single ruling
+4. [...] KAL-an ERIN₂ KUR₂
+$ single ruling
+5. [... IG]I.IGI-tu₄
+$ single ruling
+6. [...] ina KUR GAL₂-ši
+$ single ruling
+7. [... in]a KUR KUR₂ GAL₂-ši
+$ single ruling
+8. [...] IGI SU.GU₇TEŠ₂.BI ina KUR GAL₂-ši
+$ single ruling
+9. [... I]GI SU.GU₇ ana KUR KUR₂ BAL-at ša₂ ki-di KU₄-ma ša₂ ŠA₃ URU E₃
+$ single ruling
+10. [...] SU.GU₇ana KUR-ka BAL-at
+$ single ruling
 11. [...] i-dan-nin
+$ single ruling
 12. [...] i-dan-nin
-13. [...] x x ú-qa-ta
-14. [...] ⸢ú⸣-qa-ta
+$ single ruling
+13. [...] x x u₂-qa-ta
+$ single ruling
+14. [...] u₂#-qa-ta
+$ single ruling
 15. [...] x

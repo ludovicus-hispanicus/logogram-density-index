@@ -9,97 +9,136 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.806 on 922 tokens.
 ---
 @obverse
-1. [BE GÚ.MUR BÀ KI.TA KAR ...] x x šá ITI A.ME[Š ...]
-2. [BE AN.TA KAR] Š[È ...]G.[MEŠ ...] ina ⸢AN-e⸣ ILLU ina IDIM TAR.MEŠ šum 4-ma DAM
-LÚ MAN-ma T[UK?]
-3. [BE GÙB KÁ.GAL ku-tum4 ŠÀ ...] KI.TA KAR NÍG.ŠU.MEŠ KUR KÚR GU7 KI.LAM KUR-ia BAD-t[e]
-4. [BE] AN.TA KAR KÚR NÍG.ŠU.MEŠ KUR-ia GU7 KI.LAM ŠUB -ut ḪUL -un lìb-b[i]
-5. [BE MURUB4 KÁ.GAL ku-tum4 ŠÀ ...] KI.TA KAR KÚR uruBAD4-ia DAB-bat-ma NÍG.ŠU.MEŠ KUR-ia GU7 KUR
-ŠUB -u[t]
-6. [BE] AN.TA KAR uruBAD4 KÚR DAB-bat-ma NÍG.ŠU.MEŠ KUR KÚR GU7 KUR
-____________________________________________________________________________________________MANKI.TUŠné-e[ḫ-ti]TUŠ-ab
-7. [BE KÁ.GAL ku]-tum4 ŠÀ KI.TA KAR KUR LUGAL sún-qa IGI-mar-ma ana KI-šá NU GUR-á[r]
-8. [BE] AN.TA KAR KUR LUGAL šá sún-qa IGI-ru KI.LAM nap-šá IGI-mar KUR
-____________________________________________________________________________________________⸢KI.TUŠ⸣n[é-eḫ-tiTUŠ-ab]
-9. [BE ŠÀ KÁ ...].GAL ku-tum4 ŠÀ KI.TA KAR SU.GU7 KUR NÍG.ŠU.MEŠ -šá SIG5.MEŠ ana KI.LAM [È]
-10. [BE] AN.TA KAR SU.GU7 dan-nu GÁL -ma eš !-re-et KUR dUT[U IGI]
-11. [BE] ⸢SIG⸣ AL.TE KI.TA KAR KÚR uruBAD4-ia DAB-bat-ma UGU NÍG.ŠU.MEŠ -i[a MAŠKIM ...]
-12. [BE] AN.TA KAR uruBAD4 KÚR DAB-bat-ma UGU NÍG.ŠU.MEŠ KÚR [MAŠKIM ...]
-13. [BE] AL.TE DÙ -šu-ma KI.TA KAR ḫa-rab eš-re-ti na-kám-mat LUGAL S[Ù.MEŠ ...]
-14. [BE] AN.TA KAR SU.GU7 še-im IN.NU ù Ú.MEŠ ina KUR ⸢GÁL ⸣-[ši]
-15. [BE] ⸢ki⸣ 15! an KI.TA KAR GABA ki nu SILIM-um x [...]
-16. ⸢BE⸣ AN.TA KAR ki-a-am m[u] x [(x)]
-17. [BE x] AL.TE ù ZI IM KI.TA KAR te-re-et MÁŠ.ANŠE
-18. [BE] AN.TA KAR bu-ul KÚR ina ri-ti TÙM URU ZAG KÚR DAB-bat-ma ana ŠÀ -šu
-____________________________________________________________________________________________KU4-ub
-19. [BE] SAG ZI IM KI.TA KAR K Ú R URU ZAG-ia G U4. U D-iṭ D U M UL U G A La n aKUR KÚ Ri n a - b i t
-20. [BE] AN.TA KAR URU ZAG KÚR GU4.UD-iṭ DUMU LUGAL šá KUR KÚR ina-b[it]
-21. [BE M]URUB4 ZI IM KI.TA KAR KÚR ana É.GAL ILLAT.MEŠ -ia DA-a-ma GAZ-n[i]
-22. [BE] AN.TA KAR KÚR ina É.GAL ILLAT.MEŠ -šu GAZ-š [u]
-23. [BE SUḪU ...]Š ZI IM KI.TA KAR K Ú R URU ZAG-ia G U4. U D-iṭ I M . M A R . T U! Z I-m aš e - a m
-⸢d⸣[IŠKUR RA-iṣ ...]
-24. [BE] AN.TA KAR BURU14 KUR KÚR GU7 KU4-eb NAM.RA ana É.G[AL-ia]
-25. [BE U]GU-nu šu-bat ZAG GÍR KI.TA KAR KÚR URU ZAG-ia DAB-bat-ma NAM.RA È -[ṣi]
-26. [BE] AN.TA KAR URU ZAG KÚR DAB-bat-ma NAM.RA KÚR È -[a]
-27. [BE šu ...]-bat ZAG GÍR KI.TA KAR ZI.GA ŠE !(Text: mu) šá-níš i-bí-su-ú ina É NA GÁL -ši URU ZA[G
+1. [BE GU₂.MUR BA₃ KI.TA KAR ...] x x ša₂ ITI A.ME[Š ...]
+2. [BE AN.TA KAR] Š[E]G₃.[MEŠ ...] ina AN#-e# ILLU ina IDIM TAR.MEŠ šum₄-ma DAM
+LU₂ MAN-ma T[UK?]
+$ single ruling
+3. [BE GUB₃ KA₂.GAL ku-tum₄ ŠA₃ ...] KI.TA KAR NIG₂.ŠU.MEŠ KUR KUR₂ GU₇ KI.LAM KUR-ia BAD-t[e]
+4. [BE] AN.TA KAR KUR₂ NIG₂.ŠU.MEŠ KUR-ia GU₇ KI.LAM ŠUB-ut HUL-un lib₃-b[i]
+$ single ruling
+5. [BE MURUB₄ KA₂.GAL ku-tum₄ ŠA₃ ...] KI.TA KAR KUR₂ {uru}BAD₄-ia DAB-bat-ma NIG₂.ŠU.MEŠ KUR-ia GU₇ KUR
+ŠUB-u[t]
+6. [BE] AN.TA KAR {uru}BAD₄ KUR₂ DAB-bat-ma NIG₂.ŠU.MEŠ KUR KUR₂ GU₇ KUR
+MANKI.TUŠ ne₂-e[h-ti] TUŠ-ab
+$ single ruling
+7. [BE KA₂.GAL ku]-tum₄ ŠA₃ KI.TA KAR KUR LUGAL sun₂-qa IGI-mar-ma ana KI-ša₂ NU GUR-a[r₂]
+8. [BE] AN.TA KAR KUR LUGAL ša₂ sun₂-qa IGI-ru KI.LAM nap-ša₂ IGI-mar KUR
+KI#.TUŠ# n[e₂-eh-ti TUŠ-ab]
+$ single ruling
+9. [BE ŠA₃ KA₂ ...].GAL ku-tum₄ ŠA₃ KI.TA KAR SU.GU₇ KUR NIG₂.ŠU.MEŠ-ša₂ SIG₅.MEŠ ana KI.LAM [E₃]
+10. [BE] AN.TA KAR SU.GU₇ dan-nu GAL₂-ma eš!-re-et KUR {d}UT[U IGI]
+$ single ruling
+11. [BE] SIG# AL.TE KI.TA KAR KUR₂ {uru}BAD₄-ia DAB-bat-ma UGU NIG₂.ŠU.MEŠ-i[a MAŠKIM ...]
+12. [BE] AN.TA KAR {uru}BAD₄ KUR₂ DAB-bat-ma UGU NIG₂.ŠU.MEŠ KUR₂ [MAŠKIM ...]
+$ single ruling
+13. [BE] AL.TE DU₃-šu-ma KI.TA KAR ha-rab eš-re-ti na-kam₂-mat LUGAL S[U₃.MEŠ ...]
+14. [BE] AN.TA KAR SU.GU₇ še-im IN.NU u₃ U₂.MEŠ ina KUR GAL₂#-[ši]
+$ single ruling
+15. [BE] ki# 15! an KI.TA KAR GABA ki nu SILIM-um x [...]
+16. BE# AN.TA KAR ki-a-am m[u] x [(x)]
+$ single ruling
+17. [BE x] AL.TE u₃ ZI IM KI.TA KAR te-re-et MAŠ₂.ANŠE
+18. [BE] AN.TA KAR bu-ul KUR₂ ina ri-ti TUM₃ URU ZAG KUR₂ DAB-bat-ma ana ŠA₃-šu
+KU₄-ub
+$ single ruling
+19. [BE] SAG ZI IM KI.TA KAR K U₂ R URU ZAG-ia G U₄. U D-iṭ D U M UL U G A La n a KUR KU₂ Ri n a - b i t
+20. [BE] AN.TA KAR URU ZAG KUR₂ GU₄.UD-iṭ DUMU LUGAL ša₂ KUR KUR₂ ina-b[it]
+$ single ruling
+21. [BE M]URUB₄ ZI IM KI.TA KAR KUR₂ ana E₂.GAL ILLAT.MEŠ-ia DA-a-ma GAZ-n[i]
+22. [BE] AN.TA KAR KUR₂ ina E₂.GAL ILLAT.MEŠ-šu GAZ-š [u]
+$ single ruling
+23. [BE SUHU]Š ZI IM KI.TA KAR K U₂ R URU ZAG-ia G U₄. U D-iṭ I M . M A R . T U! Z I-m aš e - a m
+{d#}[IŠKUR RA-iṣ ...]
+24. [BE] AN.TA KAR BURU₁₄ KUR KUR₂ GU₇ KU₄-eb NAM.RA ana E₂.G[AL-ia]
+$ single ruling
+25. [BE U]GU-nu šu-bat ZAG GIR₂ KI.TA KAR KUR₂ URU ZAG-ia DAB-bat-ma NAM.RA E₃-[ṣi]
+26. [BE] AN.TA KAR URU ZAG KUR₂ DAB-bat-ma NAM.RA KUR₂ E₃-[a]
+$ single ruling
+27. [BE šu ...]-bat ZAG GIR₂ KI.TA KAR ZI.GA ŠE !(Text: mu) ša₂-niš₂ i-bi₂-su-u₂ ina E₂ NA GAL₂-ši URU ZA[G
 x x]
-28. [BE] AN.TA KAR mim-ma tu-ḫal-li-qu KI DINGIR SUM-ku EN uzuKIN uzuKIN [...]
-29. [BE SA]G SAL.LA GÍR KI.TA KAR URU ZAG-ia KÚR GU4.UD-iṭLÚ EN INIM-šú UŠ -šu uzuKIN ⸢ LÚ ⸣
+28. [BE] AN.TA KAR mim-ma tu-hal-li-qu KI DINGIR SUM-ku EN {uzu}KIN {uzu}KIN [...]
+$ single ruling
+29. [BE SA]G SAL.LA GIR₂ KI.TA KAR URU ZAG-ia KUR₂ GU₄.UD-iṭ LU₂ EN INIM-šu₂ UŠ-šu {uzu}KIN LU₂# 
 [...]
-30. [BE] AN.TA KAR URU ZAG KÚR GU4.UD-iṭLÚ EN INIM-šú ŠU -su KUR-ad [(x x)]
-31. [BE MURU]B4 SAL.LA GÍR KI.TA KAR NÍG.DÉ.A A.GÀR ub-bal KAR-t[u]
-32. [BE] AN.TA KAR ÙRU -tiKUR KÚR ŠU -ka KUR-ad LÚ UGU EN INIM-šu GUB-a[z]
-33. [BE SUḪ ...]UŠ SAL.LA GÍR KI.TA KAR URU ZAG KÚR GU4.UD-iṭ-maILLAT.MEŠ -šu TI-[qé]
-34. [BE] AN.TA KAR KÚR URU ZAG-ia GU4.UD-iṭKAR-[tu]
-35. [BE] ⸢ šu⸣-bat GÙB GÍR KI.TA KAR BAD.BAD KÚR a-d[ak]
-36. [BE] AN.TA KAR KÚR BAD.BAD-ia i-[dak]
-37. [BE U]GU-nu šu-bat GÙB GÍR KI.TA KAR ana KUR KÚR aḫ-ḫab-ba-at-maNAM.RA KÚR ⸢È ⸣-[a]
-38. [BE] AN.TA KAR KÚR ana KUR-ia iḫ-ḫab-ba-tam-maNAM.RA È -[ṣi]
-39. [BE K]I KA DÙG.GA KI.TA KAR K Ú R ina né-ep-te!- eG U4. U D-i ṭDUMU LUGAL A D-š uḪ I . G A R- á[r]
-40. [BE] AN.TA KAR ina né-ep-te !-e KÚR GU4.UD-iṭ DUMU LUGAL šá KUR KÚR
-____________________________________________________________________________________________GAB[A.RI]
-41. [BE x K]AL KI.TA KAR ZI.GA IDIM ina É LÚ È-ṣi KA[R-tu]
-42. [BE] AN.TA KAR mim-ma šá È-ú GUR-ku ir-bu ana É.GAL KU[4-ub]
+30. [BE] AN.TA KAR URU ZAG KUR₂ GU₄.UD-iṭ LU₂ EN INIM-šu₂ ŠU-su KUR-ad [(x x)]
+$ single ruling
+31. [BE MURU]B₄ SAL.LA GIR₂ KI.TA KAR NIG₂.DE₂.A A.GAR₃ ub-bal KAR-t[u]
+32. [BE] AN.TA KAR URU₃-ti KUR KUR₂ ŠU-ka KUR-ad LU₂ UGU EN INIM-šu GUB-a[z]
+$ single ruling
+33. [BE SUH]UŠ SAL.LA GIR₂ KI.TA KAR URU ZAG KUR₂ GU₄.UD-iṭ-ma ILLAT.MEŠ-šu TI-[qe₂]
+34. [BE] AN.TA KAR KUR₂ URU ZAG-ia GU₄.UD-iṭ KAR-[tu]
+$ single ruling
+35. [BE] šu#-bat GUB₃ GIR₂ KI.TA KAR BAD.BAD KUR₂ a-d[ak]
+36. [BE] AN.TA KAR KUR₂ BAD.BAD-ia i-[dak]
+$ single ruling
+37. [BE U]GU-nu šu-bat GUB₃ GIR₂ KI.TA KAR ana KUR KUR₂ ah-hab-ba-at-ma NAM.RA KUR₂ E₃#-[a]
+38. [BE] AN.TA KAR KUR₂ ana KUR-ia ih-hab-ba-tam-ma NAM.RA E₃-[ṣi]
+$ single ruling
+39. [BE K]I KA DUG₃.GA KI.TA KAR K U₂ R ina ne₂-ep-te!- eG U₄. U D-i ṭDUMU LUGAL A D-š uH I . G A R- a[r₂]
+40. [BE] AN.TA KAR ina ne₂-ep-te!-e KUR₂ GU₄.UD-iṭ DUMU LUGAL ša₂ KUR KUR₂
+GAB[A.RI]
+$ single ruling
+41. [BE x K]AL KI.TA KAR ZI.GA IDIM ina E₂ LU₂ E₃-ṣi KA[R-tu]
+42. [BE] AN.TA KAR mim-ma ša₂ E₃-u₂ GUR-ku ir-bu ana E₂.GAL KU₄[-ub]
+$ single ruling
 @reverse
-1. [BE] x ⸢na ? u ME.NI⸣ K[I].T[A KAR ...] bu [...]
-2. [BE] AN.TA KAR L[Ú x] x [x] x x šu [...]
-3. [BE x G]ÙB ME.NI KI.TA KAR ⸢LUGAL⸣ [...] x x [...] x i x x [x]
-4. [BE] AN.TA KAR ⸢LUGAL ia⸣ x x GAZ-ma NÍG.GA x x x x [x]
-5. [BE x] ZI.GA SAG KI.TA KAR mim-ma ⸢ut -tu-ú ⸣ [...]
-6. [BE] AN.TA KAR mim-ma ⸢ut⸣-[t]u-⸢ú⸣ [...]
-7. [BE i]-sil-ti ZAG ZÉ KI.TA KAR KÚR iq [...] a ṣi [...]
-8. [BE] AN.TA KAR KÚR iq x x Éx da šu x x x
-9. [BE m]a-šit ZAG KI.TA KAR me x ⸢li⸣ [u?] ZI.GA ina É LÚ ⸢È⸣-ṣ[i]
-10. [BE] AN.TA KAR DU IGI ÉRIN KÚR ŠU -ka ⸢KUR-ad⸣
-11. [BE m]a-šit GÙB KI.TA KAR BAD.BAD KÚR [... (0) ...]a-dak
-12. [BE] AN.TA KAR me k[u] x x x x x x ⸢ È -ṣi⸣
-13. [BE m]a-šit SAG ZÉ KI.TA KAR DUMU DA[M].G[ÀR NÍ]G.NA4-su ZÁḪ
-14. [BE] AN.TA KAR ana KASKAL a-kal NAM.RA DUMU DAM.GÀR ⸢NÍG ⸣.NA4-su
-____________________________________________________________________________________________ki/di⸢id⸣
-15. [BE i]-sil-tiGÙB KI.TA KAR ina ŠÀ KUR KÚR NAM.RA È -a
-16. [BE] AN.TA KAR KÚR lu! ṣu-⸢mi⸣-i A lu id ⸢ḫáp⸣? maškim ú-ka-al
-17. [BE x] ZÉ ti KI.TA KAR KI NU ŠE.GA ŠE.GA
+1. [BE] x na#? u# ME#.NI# K[I].T[A KAR ...] bu [...]
+2. [BE] AN.TA KAR L[U₂ x] x [x] x x šu [...]
+$ single ruling
+3. [BE x G]UB₃ ME.NI KI.TA KAR LUGAL# [...] x x [...] x i x x [x]
+4. [BE] AN.TA KAR LUGAL# ia# x x GAZ-ma NIG₂.GA x x x x [x]
+$ single ruling
+5. [BE x] ZI.GA SAG KI.TA KAR mim-ma ut#-tu#-u₂# [...]
+6. [BE] AN.TA KAR mim-ma ut#-[t]u-u₂# [...]
+$ single ruling
+7. [BE i]-sil-ti ZAG ZE₂ KI.TA KAR KUR₂ iq [...] a ṣi [...]
+8. [BE] AN.TA KAR KUR₂ iq x x E₂ x da šu x x x
+$ single ruling
+9. [BE m]a-šit ZAG KI.TA KAR me x li# [u?] ZI.GA ina E₂ LU₂ E₃#-ṣ[i]
+10. [BE] AN.TA KAR DU IGI ERIN₂ KUR₂ ŠU-ka KUR#-ad#
+$ single ruling
+11. [BE m]a-šit GUB₃ KI.TA KAR BAD.BAD KUR₂ [... (0) ...] a-dak
+12. [BE] AN.TA KAR me k[u] x x x x x x E₃#-ṣi#
+$ single ruling
+13. [BE m]a-šit SAG ZE₂ KI.TA KAR DUMU DA[M].G[AR₃ NI]G₂.NA₄-su ZAH₂
+14. [BE] AN.TA KAR ana KASKAL a-kal NAM.RA DUMU DAM.GAR₃ NIG₂# .NA₄-su
+ki/di id#
+$ single ruling
+15. [BE i]-sil-ti GUB₃ KI.TA KAR ina ŠA₃ KUR KUR₂ NAM.RA E₃-a
+16. [BE] AN.TA KAR KUR₂ lu! ṣu-mi#-i A lu id hap₂#? maškim u₂-ka-al
+$ single ruling
+17. [BE x] ZE₂ ti KI.TA KAR KI NU ŠE.GA ŠE.GA
 18. [BE] AN.TA KAR KI NU KUR-du KUR-ad a-kal NAM.RA
-19. [BE x] x [x] x KI.TA KAR mim-ma tu-ḫal-la-qu KI DINGIR SUM-ku EN KIN KIN uš [x (x)]
-20. [BE] AN.TA KAR qa-bu-ú ⸢ù⸣NU ŠE.GA KI DINGIR ana LÚ GAR-in
-21. [BE ...] x ⸢MURUB4⸣ ZÉ KI.TA KAR URU ZAG KÚR DAB-bat-ma ILLAT.MEŠ -šu TI-qé
-22. [BE] AN.TA KAR KÚR URU ZAG-ia DAB-bat-ma ILLAT.MEŠ -ia TI-qé
-23. [BE ...] šú SUR ZÉ KI.TA KAR URU ZAG KÚR DAB-bat-ma UGU NÍG.ŠU.MEŠ -šu MAŠKIM
-24. [BE] AN.TA KAR KÚR URU ZAG-ia DAB-bat-ma UGU NÍG.ŠU.MEŠ -ia MAŠKIM
-25. [BE ...]KI.TA KARnì-ip-ḫat lúḪAL ŠUB -tiÉRIN-ni
-26. [BE] AN.TA KAR gišTUKUL ḪI.GAR -ti LUGAL ina É.GAL-šu ḪI.GAR.MEŠ -šu
-27. [BE ...]KI.TA KARkùr-ru inaKUR DU8-ma KI.LAM nap-šá KUR GU7
-28. [BE] AN.TA KAR ⸢SU⸣ .GU7 dan-nu ina KUR GÁL -ši Ì.DUB.MEŠ SA5.MEŠ SÙ
-29. [BE ...]KI.TA KARKÚR A.DAM.MEŠ -ia TÙM -ma KÁ.GAL i-ri-ḫa
-30. [BE] AN.TA KAR A.DAM.MEŠ KÚR DAB-bat-ma NAM.RA KÚR TI -ma KÁ.GAL -šu
-⸢i?⸣-[r]i-ḫa-šu
-31. [BE ...]KI.TA KARZI.GA lúḪAL
-32. [BE] AN.TA KAR ZI.GA lúḪAL šá KUR KÚR ana lúḪAL šá KUR KÚR NIGIN-tu
-____________________________________________________________________________________________GAR-[an]
-33. [BE ...]KI.TA KARḫa-rab eš-re-ti na-kám-mat LUGAL SÙ.M [EŠ ...]
-34. [BE] AN.TA KAR [...] x LUGALil bi ⸢nu⸣ LUGAL BA.ÚŠ -ma a-na IM.4 gur
-____________________________________________________________________________________________[...]
-_____________________________________________________________________________________MAN___
-35. [BE ...] x KI.⸢GUB⸣ [...]⸢AN.TA⸣ KAR ⸢ KUR⸣- ti ŠU KÚR ÉRIN KÚR ḪA.LA GU7
-36. [Š]U.NI[GIN] 76! MU.⸢ MEŠ ⸣AL.⸢ TIL⸣ IGI.KÁR GABA.RI LIBIR.RA-šu
-37. ⸢ŠU IUb-ri DUMU⸣ dUTU-ŠEŠ -SUM-na GAL ḪAL.MEŠ
+$ single ruling
+19. [BE x] x [x] x KI.TA KAR mim-ma tu-hal-la-qu KI DINGIR SUM-ku EN KIN KIN uš [x (x)]
+20. [BE] AN.TA KAR qa-bu-u₂ u₃# NU ŠE.GA KI DINGIR ana LU₂ GAR-in
+$ single ruling
+21. [BE ...] x MURUB₄# ZE₂ KI.TA KAR URU ZAG KUR₂ DAB-bat-ma ILLAT.MEŠ-šu TI-qe₂
+22. [BE] AN.TA KAR KUR₂ URU ZAG-ia DAB-bat-ma ILLAT.MEŠ-ia TI-qe₂
+$ single ruling
+23. [BE ...] šu₂ SUR ZE₂ KI.TA KAR URU ZAG KUR₂ DAB-bat-ma UGU NIG₂.ŠU.MEŠ-šu MAŠKIM
+24. [BE] AN.TA KAR KUR₂ URU ZAG-ia DAB-bat-ma UGU NIG₂.ŠU.MEŠ-ia MAŠKIM
+$ single ruling
+25. [BE ...] KI.TA KAR ni₃-ip-hat {lu₂}HAL ŠUB-ti ERIN₂-ni
+26. [BE] AN.TA KAR {giš}TUKUL HI.GAR-ti LUGAL ina E₂.GAL-šu HI.GAR.MEŠ-šu
+$ single ruling
+27. [BE ...] KI.TA KAR kur₃-ru ina KUR DU₈-ma KI.LAM nap-ša₂ KUR GU₇
+28. [BE] AN.TA KAR SU# .GU₇ dan-nu ina KUR GAL₂-ši I₃.DUB.MEŠ SA₅.MEŠ SU₃
+$ single ruling
+29. [BE ...] KI.TA KARKUR₂ A.DAM.MEŠ-ia TUM₃-ma KA₂.GAL i-ri-ha
+30. [BE] AN.TA KAR A.DAM.MEŠ KUR₂ DAB-bat-ma NAM.RA KUR₂ TI-ma KA₂.GAL-šu
+i#?-[r]i-ha-šu
+$ single ruling
+31. [BE ...] KI.TA KARZI.GA {lu₂}HAL
+32. [BE] AN.TA KAR ZI.GA {lu₂}HAL ša₂ KUR KUR₂ ana {lu₂}HAL ša₂ KUR KUR₂ NIGIN-tu
+GAR-[an]
+$ single ruling
+33. [BE ...] KI.TA KAR ha-rab eš-re-ti na-kam₂-mat LUGAL SU₃.M [EŠ ...]
+34. [BE] AN.TA KAR [...] x LUGAL il bi nu# LUGAL BA.UŠ₂-ma a-na IM.4 gur
+[...]
+$ single ruling
+MAN
+$ single ruling
+35. [BE ...] x KI.GUB# [...] AN#.TA# KAR KUR#- ti ŠU KUR₂ ERIN₂ KUR₂ HA.LA GU₇
+36. [Š]U.NI[GIN] 76! MU. MEŠ# AL. TIL# IGI.KAR₂ GABA.RI LIBIR.RA-šu
+37. ŠU# IUb#-ri# DUMU# {d}UTU-ŠEŠ-SUM-na GAL HAL.MEŠ

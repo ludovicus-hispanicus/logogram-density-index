@@ -10,14 +10,14 @@ note: "Logograms uppercase, syllabic lowercase, {} determinative, [] break/resto
 ---
 
 @obverse
-# ms J 1′
-178′. [DIŠ]ina# re#-biti#-šú# u# su#-ḫ#[a-t]i#-šú# SÌG#-i[ṣ ...]
+#note: ms J 1′
+178′. [DIŠ]ina re#-biti#-šu₂# u# su#-h[a-t]i-šu₂# SIG₃#-i[ṣ ...]
 $ single ruling
-179′. DIŠ# bir#-ka#-šú# GU₇#.MEŠ#-šú# AZAG# {d}U#[TU ...]
-180′. DIŠ# bir-ka-šú u MURUB₄.MEŠ-šú <ina GE₆> GU₇.ME-šú SU-šú KÚM NU TUK lu-ʾ#-x [...]
-181′. DIŠ# pu-qa-šú it-te-né-ep-ta-a-a [...]
-182′. DIŠ# pu-qa-šú it-ta-na-az-qa-pu [...]
+179′. DIŠ# bir#-ka#-šu₂# GU₇#.MEŠ#-šu₂# AZAG# {d}U[TU ...]
+180′. DIŠ# bir-ka-šu₂ u MURUB₄.MEŠ-šu₂ <ina GE₆> GU₇.ME-šu₂ SU-šu₂ KUM₂ NU TUK lu-ʾ#-x [...]
+181′. DIŠ# pu-qa-šu₂ it-te-ne₂-ep-ta-a-a [...]
+182′. DIŠ# pu-qa-šu₂ it-ta-na-az-qa-pu [...]
 $ single ruling
-183′. DIŠ# ki#-mi#-is#-su# šá# 15# GU₇#-šú KÚM-šú mi[t-ḫ]ar ŠU# [...]
-184′. [...] x-šú NU mit-ḫar GI[G-su ...]
-185′. [...]-ḫar#? ŠU#? [...]
+183′. DIŠ# ki#-mi#-is#-su# ša₂# 15# GU₇#-šu₂ KUM₂-šu₂ mi[t-h]ar ŠU# [...]
+184′. [...] x-šu₂ NU mit-har GI[G-su ...]
+185′. [...]-har#? ŠU#? [...]

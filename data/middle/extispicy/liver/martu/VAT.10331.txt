@@ -18,7 +18,7 @@ note: "martu (the gall-bladder, written ZE2) omens; Middle Assyrian fragment. Vs
 #tr.en: ...: your [bor]der-city will muster against the enemy.
 4. BE [KUR₂] KUR N[UN] TI-qe₂
 #tr.en: ...: [the enemy] will take the land of the prin[ce].
-5. BE [ana {giš}]TUKUL SUḪ₃-u₂ ina U₄ SU₃ GU₃-mu x
+5. BE [ana {giš}]TUKUL SUH₃-u₂ ina U₄ SU₃ GU₃-mu x
 #tr.en: ...: for battle, confusion; alternatively (in the distant future): wailing ...
 6. BE [NU]N ṭa-ri-du-ta₅ DU-a[k]
 #tr.en: ...: the prin[ce] will become an exile.
@@ -28,10 +28,10 @@ note: "martu (the gall-bladder, written ZE2) omens; Middle Assyrian fragment. Vs
 #tr.en: ...: the border-[city] of the enemy land you will seize.
 9. BE [LUGAL KUR-su u]n-na-aš₂ I₃.[DUB SA₅] SU₃
 #tr.en: ...: [the king] will weaken [his land], a [full] granary will become empty.
-10. BE [KUR₂] ina MURUB₄ KUR-k[a ID₂] i-ḫe-er-ri
+10. BE [KUR₂] ina MURUB₄ KUR-k[a ID₂] i-he-er-ri
 #tr.en: ...: [the enemy] will dig [a canal] in the midst of [your] land.
 
 @reverse
 
-11. BE [AD.ḪAL-k]a ana KUR₂ E₃-[ṣi]
+11. BE [AD.HAL-k]a ana KUR₂ E₃-[ṣi]
 #tr.en: ...: [your secret] will go out to the enemy.

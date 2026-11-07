@@ -7,7 +7,7 @@ counting: UD
 source_note: Hand-checked Akkadian transliteration (clean). UD = šumma. Half-brackets/[...] preserved; sigla & sub-numbers marked $ (skipped).
 ---
 
-@col. iii
+@column 3
 1. UD SAL x x [...]
 2. a-na <<x>> pa-n[i ...]
 3. UD SAL 1 DUMU [...]
@@ -17,14 +17,14 @@ source_note: Hand-checked Akkadian transliteration (clean). UD = šumma. Half-br
 7. i-kaš-[ša-ad ...]
 8. UD [SAL ...]
 9. i-[...]
-@col. iv
-1. [...] BA.UG6
+@column 4
+1. [...] BA.UG₆
 2. [... uz-n]a-a-šu
 3. [... i-ba-aš]-ši
-4. [...] É LÚ
+4. [...] E₂ LU₂
 5. [... il-la]-ak
 6. [...]-du-tim
 7. [...]-uš
-8. [...] ru-bá-am
+8. [...] ru-ba₂-am
 9. [...] ti
 10. [...] x

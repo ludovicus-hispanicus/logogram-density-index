@@ -1,27 +1,27 @@
 Nr,tablet,date,period,tradition,babylon_copy,LDI,tokens
-1,VAT 9934 (Kopie: S. 367-,neuassyrisch,NA,Ass,False,0.705,2839
-2,VAT 10156 (Kopie: S. 381,frühmittelbaby,?,?,False,0.301,259
-3,VAT 9599 (Kopie: KAR 432,mittelbabyloni,MB,Bab,True,0.531,128
-4,VAT 13797 (Kopie: S. 382,mittelassyrisc,MA,Ass,False,0.792,480
-5,A 63 (Kopie: S. 383)    ,mittelassyrisc,MA,Ass,False,0.522,46
-6,VAT 10669 (KAR 443)     ,mittelassyrisc,MA,Ass,False,0.709,134
-7,VAT 10757 (KAR 435)     ,frühneuassyris,eNA,Ass,False,0.614,44
-8,VAT 9512 (Kopie: S. 384),mittelbabyloni,MB,Bab,False,0.741,224
+1,VAT 9934 (Kopie: S. 367-,neuassyrisch,NA,Ass,False,0.731,2739
+2,VAT 10156 (Kopie: S. 381,frühmittelbaby,?,?,False,0.307,254
+3,VAT 9599 (Kopie: KAR 432,mittelbabyloni,MB,Bab,True,0.523,130
+4,VAT 13797 (Kopie: S. 382,mittelassyrisc,MA,Ass,False,0.816,468
+5,A 63 (Kopie: S. 383)    ,mittelassyrisc,MA,Ass,False,0.585,41
+6,VAT 10669 (KAR 443)     ,mittelassyrisc,MA,Ass,False,0.736,125
+7,VAT 10757 (KAR 435)     ,frühneuassyris,eNA,Ass,False,0.605,43
+8,VAT 9512 (Kopie: S. 384),mittelbabyloni,MB,Bab,False,0.778,212
 9,VAT 9560 (Kopie: S. 385),mittelbabyloni,MB,Bab,False,0.455,11
-10,VAT 9949 (+) VAT 11051 (,mittelassyrisc,MA,Ass,False,0.690,197
-11,VAT 10488 (Kopie: S. 388,frühneuassyris,eNA,Ass,False,0.721,43
-15,VAT 11552 (KAR 417) = C ,mittelassyrisc,MA,Ass,False,0.766,435
+10,VAT 9949 (+) VAT 11051 (,mittelassyrisc,MA,Ass,False,0.677,186
+11,VAT 10488 (Kopie: S. 388,frühneuassyris,eNA,Ass,False,0.738,42
+15,VAT 11552 (KAR 417) = C ,mittelassyrisc,MA,Ass,False,0.800,415
 16,VAT 11331 + VAT 12262 (K,mittelassyrisc,MA,Ass,False,0.932,44
 17,VAT 12215 (Kopie: S. 389,mittelassyrisc,MA,Ass,False,0.950,20
 18,VAT 10788 (KAR          ,mittelbabyloni,MB,Bab,False,0.717,265
-19,VAT 13803 + VAT 13810 (K,neuassyrisch,NA,Ass,False,0.746,1110
+19,VAT 13803 + VAT 13810 (K,neuassyrisch,NA,Ass,False,0.745,1110
 20,VAT 10711 (KAR 440)     ,mittelassyrisc,MA,Ass,False,0.730,89
 21,VAT 10424 + VAT 11408 (K,mittelassyrisc,MA,Ass,False,0.630,200
-22,VAT 10765 (Kopie und Pho,mittelbabyloni,MB,Bab,False,0.623,122
-23,A 73 (oder A       79?; ,mittelbabyloni,MB,Bab,False,0.701,565
-25,VAT 10678 + VAT 10712 + ,mittelassyrisc,MA,Ass,False,0.665,224
-26,VAT 10868 (KAR 442)     ,mittelassyrisc,MA,Ass,False,0.711,405
-27,VAT 11007 (Kopie: S. 403,frühneuassyris,eNA,Ass,False,0.696,79
+22,VAT 10765 (Kopie und Pho,mittelbabyloni,MB,Bab,False,0.644,118
+23,A 73 (oder A       79?; ,mittelbabyloni,MB,Bab,False,0.750,528
+25,VAT 10678 + VAT 10712 + ,mittelassyrisc,MA,Ass,False,0.687,211
+26,VAT 10868 (KAR 442)     ,mittelassyrisc,MA,Ass,False,0.780,372
+27,VAT 11007 (Kopie: S. 403,frühneuassyris,eNA,Ass,False,0.724,76
 28,VAT 9570 (KAR 450)      ,mittelbabyloni,MB,Bab,False,0.885,78
 29,VAT 10914 (Kopie: S. 404,mittelbabyloni,MB,Bab,False,0.782,110
 30,VAT 8611 (Kopie: S. 405),neuassyrisch,NA,Ass,True,0.184,320
@@ -30,15 +30,15 @@ Nr,tablet,date,period,tradition,babylon_copy,LDI,tokens
 33,Ass. 2001.D-1823 (Kopie:,mittelassyrisc,MA,Ass,False,0.847,150
 34,VAT       10331 (KAR    ,mittelassyrisc,MA,Ass,False,0.855,62
 35,VAT 11001 (Kopie: S. 404,frühneuassyris,eNA,Ass,False,0.749,243
-36,VAT 10428 (KAR 453)     ,mittelbabyloni,MB,Bab,False,0.645,231
-38,VAT 10513 (Kopie: S. 412,mittelassyrisc,MA,Ass,False,0.739,1003
-39,VAT 11340 (Kopie: S. 418,frühneuassyris,eNA,Ass,False,0.839,31
-40,VAT 10811 + VAT 11188 + ,frühneuassyris,eNA,Ass,False,0.802,338
+36,VAT 10428 (KAR 453)     ,mittelbabyloni,MB,Bab,False,0.683,218
+38,VAT 10513 (Kopie: S. 412,mittelassyrisc,MA,Ass,False,0.795,946
+39,VAT 11340 (Kopie: S. 418,frühneuassyris,eNA,Ass,False,0.926,27
+40,VAT 10811 + VAT 11188 + ,frühneuassyris,eNA,Ass,False,0.840,326
 41,VAT 9976 b (Kopie: S. 41,neuassyrisch,NA,Ass,False,0.750,4
-42,VAT 9969 (KAR 148)      ,mittelassyrisc,MA,Ass,False,0.772,474
-43,VAT 10115 (KAR 446)     ,mittelassyrisc,MA,Ass,False,0.749,299
-44,A 449 (Kopie: S. 422-423,frühneuassyris,eNA,Ass,False,0.787,80
-45,VAT 14233 (Kopie: S. 424,frühneuassyris,eNA,Ass,False,0.737,38
+42,VAT 9969 (KAR 148)      ,mittelassyrisc,MA,Ass,False,0.812,452
+43,VAT 10115 (KAR 446)     ,mittelassyrisc,MA,Ass,False,0.776,281
+44,A 449 (Kopie: S. 422-423,frühneuassyris,eNA,Ass,False,0.795,78
+45,VAT 14233 (Kopie: S. 424,frühneuassyris,eNA,Ass,False,0.757,37
 46,VAT 14362 (Kopie: S. 424,mittelassyrisc,MA,Ass,False,0.833,6
 47,VAT 10740 (Kopie: S. 425,mittelbabyloni,MB,Bab,False,0.469,32
 48,VAT 10206 + VAT 14320 (K,mittelbabyloni,MB,Bab,False,0.286,70
@@ -52,56 +52,56 @@ Nr,tablet,date,period,tradition,babylon_copy,LDI,tokens
 56,VAT 10159 (KAR 153)     ,mittelassyrisc,MA,Ass,False,0.811,708
 57,VAT 10142 (KAR 437)     ,mittelassyrisc,MA,Ass,False,0.765,221
 59,VAT 11025 (Kopie: S. 428,neuassyrisch,NA,Ass,False,0.508,59
-61,VAT 9413 (KAR 433) = B  ,mittelassyrisc,MA,Ass,False,0.733,816
+61,VAT 9413 (KAR 433) = B  ,mittelassyrisc,MA,Ass,False,0.748,794
 62,"VAT 10869 (KAR 452, S. 4",mittelassyrisc,MA,Ass,False,0.833,42
 63,VAT 10418 + A          9,mittelassyrisc,MA,Ass,False,0.774,526
-64,"VAT 9492 (KAR 452, S. 43",mittelbabyloni,MB,Bab,False,0.498,215
-65,VAT 9476 (Kopie: S. 431),mittelbabyloni,MB,Bab,False,0.128,47
-66,VAT 10355 (Kopie: S. 431,mittelassyrisc,MA,Ass,False,0.596,203
-67,VAT 10540 + VAT 10893 (K,mittelassyrisc,MA,Ass,False,0.741,320
-68,VAT 10946 (Kopie: S. 434,mittelassyrisc,MA,Ass,False,0.613,248
-69,VAT 10114 (KAR 427)     ,mittelassyrisc,MA,Ass,False,0.804,897
-70,VAT 10100 (Kopie: S. 436,neuassyrisch,NA,Ass,False,0.673,1523
-71,VAT 14206 (Kopie: S. 442,neuassyrisch,NA,Ass,False,0.500,12
-72,VAT 9139 (Kopie: S. 442),mittelassyrisc,MA,Ass,False,0.333,45
-73,VAT 13798 (Kopie: E. Wei,mittelassyrisc,MA,Ass,False,0.629,291
-74,VAT 9353 (KAR           ,mittelassyrisc,MA,Ass,False,0.811,53
-75,VAT 9883 (Kopie: S. 443),mittelassyrisc,MA,Ass,False,0.750,52
-76,VAT 11615 (Kopie: S. 443,mittelassyrisc,MA,Ass,False,0.567,30
-77,VAT 10666 (KAR 441)     ,mittelassyrisc,MA,Ass,False,0.838,37
-78,VAT 9580 (Kopie: S. 444-,mittelassyrisc,MA,Ass,False,0.400,5
-82,VAT 10732 + VAT 10931 (K,mittelassyrisc,MA,Ass,False,0.807,761
-83,VAT 9518 (+) A 468 (Kopi,frühmittelbaby,?,?,False,0.455,297
-84,VAT 9488 (KAR 434)      ,mittelassyrisc,MA,Ass,False,0.616,307
-85,A 463 (Photo: S. 453)   ,mittelbabyloni,MB,Bab,False,0.806,165
-86,VAT 10751 (KAR          ,mittelbabyloni,MB,Bab,False,0.666,601
-87,VAT 10532 (KAR          ,mittelbabyloni,MB,Bab,False,0.822,118
-88,A 120 (KAR 426)         ,mittelassyrisc,MA,Ass,False,0.649,1087
-89,VAT 10439 (Kopie: S. 454,mittelassyrisc,MA,Ass,False,0.736,129
-90,VAT 12942 (Kopie: S. 454,mittelbabyloni,MB,Bab,False,0.227,22
-91,VAT 14321 (Kopie: S. 455,mittelbabyloni,MB,Bab,False,0.629,70
-92,VAT 14363 (Kopie: S. 455,mittelbabyloni,MB,Bab,False,0.632,19
-93,A 455 (Kopie: S. 456)   ,mittelbabyloni,MB,Bab,False,0.378,98
+64,"VAT 9492 (KAR 452, S. 43",mittelbabyloni,MB,Bab,False,0.502,213
+65,VAT 9476 (Kopie: S. 431),mittelbabyloni,MB,Bab,False,0.122,49
+66,VAT 10355 (Kopie: S. 431,mittelassyrisc,MA,Ass,False,0.617,196
+67,VAT 10540 + VAT 10893 (K,mittelassyrisc,MA,Ass,False,0.763,304
+68,VAT 10946 (Kopie: S. 434,mittelassyrisc,MA,Ass,False,0.606,216
+69,VAT 10114 (KAR 427)     ,mittelassyrisc,MA,Ass,False,0.830,869
+70,VAT 10100 (Kopie: S. 436,neuassyrisch,NA,Ass,False,0.710,1426
+71,VAT 14206 (Kopie: S. 442,neuassyrisch,NA,Ass,False,0.429,14
+72,VAT 9139 (Kopie: S. 442),mittelassyrisc,MA,Ass,False,0.341,44
+73,VAT 13798 (Kopie: E. Wei,mittelassyrisc,MA,Ass,False,0.687,265
+74,VAT 9353 (KAR           ,mittelassyrisc,MA,Ass,False,0.822,45
+75,VAT 9883 (Kopie: S. 443),mittelassyrisc,MA,Ass,False,0.709,55
+76,VAT 11615 (Kopie: S. 443,mittelassyrisc,MA,Ass,False,0.581,31
+77,VAT 10666 (KAR 441)     ,mittelassyrisc,MA,Ass,False,0.886,35
+78,VAT 9580 (Kopie: S. 444-,mittelassyrisc,MA,Ass,False,0.000,0
+82,VAT 10732 + VAT 10931 (K,mittelassyrisc,MA,Ass,False,0.842,734
+83,VAT 9518 (+) A 468 (Kopi,frühmittelbaby,?,?,False,0.461,293
+84,VAT 9488 (KAR 434)      ,mittelassyrisc,MA,Ass,False,0.627,303
+85,A 463 (Photo: S. 453)   ,mittelbabyloni,MB,Bab,False,0.831,160
+86,VAT 10751 (KAR          ,mittelbabyloni,MB,Bab,False,0.663,602
+87,VAT 10532 (KAR          ,mittelbabyloni,MB,Bab,False,0.829,117
+88,A 120 (KAR 426)         ,mittelassyrisc,MA,Ass,False,0.708,996
+89,VAT 10439 (Kopie: S. 454,mittelassyrisc,MA,Ass,False,0.734,124
+90,VAT 12942 (Kopie: S. 454,mittelbabyloni,MB,Bab,False,0.217,23
+91,VAT 14321 (Kopie: S. 455,mittelbabyloni,MB,Bab,False,0.703,64
+92,VAT 14363 (Kopie: S. 455,mittelbabyloni,MB,Bab,False,0.619,21
+93,A 455 (Kopie: S. 456)   ,mittelbabyloni,MB,Bab,False,0.374,99
 94,VAT 9468 (Kopie: S. 456),mittelassyrisc,MA,Ass,False,0.500,8
-95,VAT 9516 (Kopie: S. 457),mittelassyrisc,MA,Ass,False,0.861,101
-96,VAT 9603 (Kopie: S. 457),mittelassyrisc,MA,Ass,False,0.705,95
+95,VAT 9516 (Kopie: S. 457),mittelassyrisc,MA,Ass,False,1.000,85
+96,VAT 9603 (Kopie: S. 457),mittelassyrisc,MA,Ass,False,0.736,91
 97,VAT 10326 (KAR 438)     ,mittelassyrisc,MA,Ass,False,0.575,40
 98,VAT 10369 (Kopie: S. 458,neuassyrisch,NA,Ass,False,0.688,16
-99,VAT 10390 (Kopie: S. 458,mittelassyrisc,MA,Ass,False,0.569,58
-100,VAT 10517 (KAR 448)     ,mittelassyrisc,MA,Ass,False,0.623,154
-102,VAT 11003 (Kopie: S. 460,mittelassyrisc,MA,Ass,False,0.532,79
-103,VAT 11134 (Kopie: S. 461,mittelassyrisc,MA,Ass,False,0.553,47
-104,VAT 11298 (Kopie: S. 461,frühneuassyris,eNA,Ass,False,0.667,27
-105,VAT 11315 (Kopie: S. 462,mittelassyrisc,MA,Ass,False,0.659,44
-106,VAT 11324 (Kopie: S. 462,neuassyrisch,NA,Ass,False,0.833,30
-107,VAT 11735 (KAR 414)     ,mittelassyrisc,MA,Ass,False,0.650,20
+99,VAT 10390 (Kopie: S. 458,mittelassyrisc,MA,Ass,False,0.589,56
+100,VAT 10517 (KAR 448)     ,mittelassyrisc,MA,Ass,False,0.627,150
+102,VAT 11003 (Kopie: S. 460,mittelassyrisc,MA,Ass,False,0.580,69
+103,VAT 11134 (Kopie: S. 461,mittelassyrisc,MA,Ass,False,0.565,46
+104,VAT 11298 (Kopie: S. 461,frühneuassyris,eNA,Ass,False,0.679,28
+105,VAT 11315 (Kopie: S. 462,mittelassyrisc,MA,Ass,False,0.733,45
+106,VAT 11324 (Kopie: S. 462,neuassyrisch,NA,Ass,False,0.862,29
+107,VAT 11735 (KAR 414)     ,mittelassyrisc,MA,Ass,False,0.722,18
 108,VAT 11748 (Kopie: S. 463,frühneuassyris,eNA,Ass,False,0.846,13
 109,VAT 11864 (Kopie: S. 463,neuassyrisch,NA,Ass,False,0.789,19
 110,VAT 11871 (Kopie: S. 463,mittelassyrisc,MA,Ass,False,0.778,18
 111,VAT 11908 (Kopie: S. 463,frühneuassyris,eNA,Ass,False,0.692,13
-112,VAT 12195 (Kopie: S. 464,frühneuassyris,eNA,Ass,False,0.636,11
-113,VAT 12218 (Kopie: S. 464,mittelassyrisc,MA,Ass,False,0.429,7
+112,VAT 12195 (Kopie: S. 464,frühneuassyris,eNA,Ass,False,0.778,9
+113,VAT 12218 (Kopie: S. 464,mittelassyrisc,MA,Ass,False,0.500,6
 114,VAT 12247 (Kopie: S. 464,mittelassyrisc,MA,Ass,False,0.238,21
-115,VAT 13795 (Kopie: S. 464,mittelassyrisc,MA,Ass,False,0.634,93
-116,VAT 13796 (Kopie: S. 465,mittelassyrisc,MA,Ass,False,0.678,211
-117,A 2675 (Kopie: S. 466)  ,mittelassyrisc,MA,Ass,False,0.577,78
+115,VAT 13795 (Kopie: S. 464,mittelassyrisc,MA,Ass,False,0.660,94
+116,VAT 13796 (Kopie: S. 465,mittelassyrisc,MA,Ass,False,0.716,201
+117,A 2675 (Kopie: S. 466)  ,mittelassyrisc,MA,Ass,False,0.571,77

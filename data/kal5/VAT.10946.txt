@@ -9,41 +9,52 @@ exclude: true   # KAL 5 supplementary witness (Heeßel 2012); held out of the ma
 source_note: Transliteration auto-extracted from the KAL 5 PDF (Heeßel 2012) and glyph-remapped (·→š ◊→ṣ ¿→ḫ ∞→Š ®→ā ∂→ē †→ṭ); apparatus/translation removed; not hand-collated. Reference LDI 0.545 on 110 tokens.
 ---
 @obverse
-1’. [...]x ki x x [...]
-2’. [...] x ZAG GÍRgišTUKUL a-ri-d[u ...]
-3’. [...] ZAG GÍR gišTUKUL a-ri-du ⸢ GAR⸣ at? x [...]
-4’. [...]⸢lú⸣?ḪAL en ku a šar x li x x x [...]
-5’. a-⸢na EGIR-ka⸣ NU GUR-ar a-dan DINGIR ⸢e⸣-ti-⸢iq⸣ ka x [...]
-6’. ⸢EGIR⸣ .MEŠ u a-na pa nu x šá ZAG a-na GÙB šá GÙB a-na ZAG x [...]
-7’. ⸢SAG⸣ ?.DU-nu?-ma ZAG-šu TI-qé-ma nigin um ti? kin? IGI x da [...]
-8’. [K]ÚR ⸢ta⸣-sa-kip ad li be? ka [...]
-9’. [BE] ina DAL AL.TE ù KI.GUB BÙR ŠUB -di EN UDU.⸢ SISKUR⸣ x x [...]
-10’. [BE ina] DAL AL.TE ù KI.GUB ⸢KI KI⸣ .GUB ina DAL ⸢KI⸣ .GUB ⸢ù ⸣ [...]
-11’. [K]A? DÙG.GA KAL ME.NI SILIM ⸢ ZÉ SÌG -iṣ?⸣ IGI [ÉRIN KÚR ŠUB ...] gišGU.ZA [...]
-12’. [...]GAM x U5 ri-iḫ-ṣu x [...] x x ú [...]
-13’. [kak]-su-ú KAM-tu4 BAR-tu4 KA[R-tu4 ni-i]p?-ḫux [...]
+1’. [...] x ki x x [...]
+2’. [...] x ZAG GIR₂ {giš}TUKUL a-ri-d[u ...]
+$ single ruling
+3’. [...] ZAG GIR₂ {giš}TUKUL a-ri-du GAR# at? x [...]
+4’. [...] {lu₂#?}HAL en ku a šar x li x x x [...]
+5’. a-na# EGIR#-ka# NU GUR-ar a-dan DINGIR e#-ti-iq# ka x [...]
+6’. EGIR# .MEŠ u a-na pa nu x ša₂ ZAG a-na GUB₃ ša₂ GUB₃ a-na ZAG x [...]
+7’. SAG#?.DU-nu?-ma ZAG-šu TI-qe₂-ma nigin um ti? kin? IGI x da [...]
+8’. [K]UR₂ ta#-sa-kip ad li be? ka [...]
+$ single ruling
+9’. [BE] ina DAL AL.TE u₃ KI.GUB BUR₃ ŠUB-di EN UDU. SISKUR# x x [...]
+$ single ruling
+10’. [BE ina] DAL AL.TE u₃ KI.GUB KI# KI# .GUB ina DAL KI# .GUB u₃# [...]
+11’. [K]A? DUG₃.GA KAL ME.NI SILIM ZE₂# SIG₃#-iṣ#? IGI [ERIN₂ KUR₂ ŠUB ...] {giš}GU.ZA [...]
+12’. [...] GAM x U₅ ri-ih-ṣu x [...] x x u₂ [...]
+13’. [kak]-su-u₂ KAM-tu₄ BAR-tu₄ KA[R-tu₄ ni-i]p?-hux [...]
 14’. [...] ri x tu pa ru tu gu š[i ...]
 15’. [...] x x [...] x x [...]
 16’. [...] [...]
-17’. [...]GAR-in[...]
+17’. [...] GAR-in [...]
 @reverse
 1’. [...] x [...]
+$ single ruling
 2’. [...] e-ta-[...]
-3’. [... DU]8 3-ti dEN.[...]
-4’. [...] x [...] a-šar NUtam-gu-ru ta-[...]
-5’. [...] DU8 a-šar NU DU8-ru ú-pa- [...]
-6’. [...]su DU8ku nu uš anaKÚR -ka ur ma a šu x [...]
-7’. [...] 3 DU83-tì e-ta-[...]
-8’. šu [m4-m]a IZI.GAR ù né-peš-ti ḪAL -ti x x x ši na u NU SILIM-ti x [...]
-9’. [...]TA.ÀM EN 7 x.MEŠ šá SILIM.[M]EŠ TAG.MEŠ TAG.MEŠ [...]
-10’. [... N]ÍG. ⸢TAB⸣ GÍR gišTUKUL GAR-⸢ ma⸣ KI.TA [IGI?] MUNUS.[...]
-11’. [... M]E.NI gišTUKUL GAR-ma ⸢SAG ME⸣ .NI [IGI?] [...]
-12’. [...]re-⸢ṣi⸣a-na ÍD TÙN né-ḫe-el-ṣ [u? ...]
-13’. [... ZA]G? ZÉ giš TUKUL SAL.LA DAB [...]
-14’. [...] SILIM ŠUB giš⸢GU⸣ .ZA gišTUKUL BAL-ma EDIN GAL Š[U].SI IGI [...]
-15’. [ina S]UḪUŠ EDIN ŠU.SI [MURU]B4 giš⸢TUKUL KI.TA⸣ IG[I? x] ⸢UGU-šú ⸣3 BABBAR TAG x [...]
+$ single ruling
+3’. [... DU₈] 3-ti {d}EN.[...]
+$ single ruling
+4’. [...] x [...] a-šar NU tam-gu-ru ta-[...]
+5’. [...] DU₈ a-šar NU DU₈-ru u₂-pa- [...]
+6’. [...] su DU₈ku nu uš ana KUR₂-ka ur ma a šu x [...]
+$ single ruling
+7’. [...] 3 DU₈ 3-ti₃ e-ta-[...]
+$ single ruling
+8’. šu [m₄-m]a IZI.GAR u₃ ne₂-peš-ti HAL-ti x x x ši na u NU SILIM-ti x [...]
+9’. [...] TA.AM₃ EN 7 x.MEŠ ša₂ SILIM.[M]EŠ TAG.MEŠ TAG.MEŠ [...]
+$ single ruling
+10’. [... N]IG₂. TAB# GIR₂ {giš}TUKUL GAR- ma# KI.TA [IGI?] MUNUS.[...]
+11’. [... M]E.NI {giš}TUKUL GAR-ma SAG# ME# .NI [IGI?] [...]
+12’. [...] re-ṣi# a-na ID₂ TUN₃ ne₂-he-el-ṣ [u? ...]
+13’. [... ZA]G? ZE₂ giš TUKUL SAL.LA DAB [...]
+14’. [...] SILIM ŠUB {giš}GU# .ZA {giš}TUKUL BAL-ma EDIN GAL Š[U].SI IGI [...]
+15’. [ina S]UHUŠ EDIN ŠU.SI [MURU]B₄ {giš}TUKUL# KI#.TA# IG[I? x] UGU#-šu₂# 3 BABBAR TAG x [...]
 16’. [ina S]AG du te giš [TUKUL] x [...]
-17’. [... g]išTUKUL.MEŠ šá x [...]
+$ single ruling
+17’. [... {g]iš}TUKUL.MEŠ ša₂ x [...]
+$ single ruling
 18’. [UG]U-nu ME.NI [...]
-19’. ⸢IGI⸣-et!SAG ZÉ[...]
-20’. ⸢KI⸣ DAL.BA.NA [...]
+19’. IGI#-et! SAG ZE₂ [...]
+20’. KI# DAL.BA.NA [...]

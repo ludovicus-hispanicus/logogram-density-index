@@ -17,91 +17,91 @@ note: Logograms uppercase, syllabic lowercase, determinatives in {}. Brackets = 
 2. DIŠ ina UD.14.KAM AN.MI GAR-ma ina IM.SI SAR-[ma ina IM.SI ZALAG₂ AN.MI LUGAL NIM.MA{ki}]
 3. DIŠ ina UD.14.KAM AN.MI GAR-ma ina IM.KUR SAR-[ma ina IM.KUR ZALAG₂ AN.MI LUGAL MAR.TU{ki}]
 4. DIŠ ina UD.14.KAM AN.MI GAR-ma ina IM.MAR SAR-[ma ina IM.KUR ZALAG₂ AN.MI LUGAL SU.BIR₄{ki}]
-5. DIŠ ina la mi-na-ti-šú AN.MI GAR ub-bu-tú [GÁL-ši ...]
+5. DIŠ ina la mi-na-ti-šu₂ AN.MI GAR ub-bu-tu₂ [GAL₂-ši ...]
 
 @obverse
-6. DIŠ ina {iti}BARA₂ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á IM.U₁₈.LU AN.TA KA×MI-ma
-7. [Á IM.SI.SÁ KI.TA iz-ku ina ŠÀ.HUL ir-b]i-ma [...]-ú-qat-ti
-8. ilu šá ina KA×MI-šú Á IM.U₁₈.LU AN.TA KA×MI-m[a Á IM.SI.SÁ] KI.TA iz-ku-ú
-9. [ina ŠÀ.H]UL-šú ir-bu-ú KA×MI-šú IGI-[ma] IM.[MAR.TU ina ŠU-ka tu-kal]
-10. [ina ŠÀ ana KUR] A.GA.DÈ{ki} ù LUGAL A.GA.DÈ{ki} [EŠ.BAR] SUM-in
-11. LUGAL A.GA.DÈ{ki} URU{ki}-šú u ni-ši-[šú šal-mu BAL A.GA.DÈ{ki} in-niš-ši]
-12. EGIR.MEŠ-šú i-da-mi-qá DINGIR šá ina KA×MI-[šú EN.NUN U₄.ZAL.LI SAR-ma]
-13. 2/3.TA.ÀM uh-hu-ra-ma iz-ku-ú u ina ŠÀ.HUL ir-bu-ú ina {iti}B[ARA₂ UD.28.KAM]
-14. [šu-ri-in]-ni-šú IGI-ma {mul}dil-bat ina ŠÀ-šú T[U DUMU] LUGAL ana É AD-šú TU-ub
-15. [ina] {iti}GAN UD.28.KAM SAG IGI.DU₈.A-šú IGI-m[a]
-16. [UD.NÁ.À]M [AN.MI ú-kal-lam]-k[a ...]
+6. DIŠ ina {iti}BARA₂ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ IM.U₁₈.LU AN.TA KA×MI-ma
+7. [A₂ IM.SI.SA₂ KI.TA iz-ku ina ŠA₃.HUL ir-b]i-ma [...]-u₂-qat-ti
+8. ilu ša₂ ina KA×MI-šu₂ A₂ IM.U₁₈.LU AN.TA KA×MI-m[a A₂ IM.SI.SA₂] KI.TA iz-ku-u₂
+9. [ina ŠA₃.H]UL-šu₂ ir-bu-u₂ KA×MI-šu₂ IGI-[ma] IM.[MAR.TU ina ŠU-ka tu-kal]
+10. [ina ŠA₃ ana KUR] A.GA.DE₃{ki} u₃ LUGAL A.GA.DE₃{ki} [EŠ.BAR] SUM-in
+11. LUGAL A.GA.DE₃{ki} URU{ki}-šu₂ u ni-ši-[šu₂ šal-mu BAL A.GA.DE₃{ki} in-niš-ši]
+12. EGIR.MEŠ-šu₂ i-da-mi-qa₂ DINGIR ša₂ ina KA×MI-[šu₂ EN.NUN U₄.ZAL.LI SAR-ma]
+13. 2/3.TA.AM₃ uh-hu-ra-ma iz-ku-u₂ u ina ŠA₃.HUL ir-bu-u₂ ina {iti}B[ARA₂ UD.28.KAM]
+14. [šu-ri-in]-ni-šu₂ IGI-ma {mul}dil-bat ina ŠA₃-šu₂ T[U DUMU] LUGAL ana E₂ AD-šu₂ TU-ub
+15. [ina] {iti}GAN UD.28.KAM SAG IGI.DU₈.A-šu₂ IGI-m[a]
+16. [UD.NA₂.A]M₃ [AN.MI u₂-kal-lam]-k[a ...]
 17. [...] GABA.RI KI [...]
 
 @section-I-2
-18. [DIŠ ina] {iti}BARA₂ UD.14.KAM A[N.M]I GAR-ma DINGIR ina KA×MI-šá Á IM.SI.SÁ AN.TA KA×MI-ma Á IM.U₁₈.LU KI.TA iz-ku
-19. IM.MAR.[TU EN.NUN U₄.ZAL.LI im-šu-ul]-ma EN ša-mi-ir i-lik {d}UTU [ina] IGI DINGIR šá ina KA×MI-šú
-20. [Á IM].SI.SÁ AN.TA KA×MI-ma Á IM.U₁₈.LU KI.TA iz-ku-ú Á KA×MI-šú IGI-ma IM.MAR.TU ina ŠU-ka tu-kal
-21. ina ŠÀ ana NIM.MA{ki} EŠ.BAR SUM-in KUR.NIM.MA{ki} ana DU₆-tú KAR-aʾ [...] MEŠ NÍG.ŠU ana KAR.MEŠ [...]
+18. [DIŠ ina] {iti}BARA₂ UD.14.KAM A[N.M]I GAR-ma DINGIR ina KA×MI-ša₂ A₂ IM.SI.SA₂ AN.TA KA×MI-ma A₂ IM.U₁₈.LU KI.TA iz-ku
+19. IM.MAR.[TU EN.NUN U₄.ZAL.LI im-šu-ul]-ma EN ša-mi-ir i-lik {d}UTU [ina] IGI DINGIR ša₂ ina KA×MI-šu₂
+20. [A₂ IM].SI.SA₂ AN.TA KA×MI-ma A₂ IM.U₁₈.LU KI.TA iz-ku-u₂ A₂ KA×MI-šu₂ IGI-ma IM.MAR.TU ina ŠU-ka tu-kal
+21. ina ŠA₃ ana NIM.MA{ki} EŠ.BAR SUM-in KUR.NIM.MA{ki} ana DU₆-tu₂ KAR-aʾ [...] MEŠ NIG₂.ŠU ana KAR.MEŠ [...]
 22. LUGAL [LUGAL] i-šag-gi-iš KUR sa-ki-il-tum KUR u [...]
-23. [LUGAL AŠ].TE GAL BE-na LUGAL ana AŠ.TE GAL E₁₁-ma UN.MEŠ NU TAK₄-šú ú-kal-l[am ...]
-24. [LUGAL qa]-du IM.RI.A-šú GAZ-ma KUR ana KUR i-ru-biš uš-tal-pat
-25. KUR GAL ana KUR TUR ana TI.LA DU KUR [URI] ilu šá ina SAG IGI.DU₈.A-šú
-26. [ŠI ZAG]-šú AN ti-ri-at ana {iti}BARA₂ UD.14.KAM AN.MI ta-qab-bi UD.NÁ.ÀM AN.MI ú-[kal-lam-ka]
+23. [LUGAL AŠ].TE GAL BE-na LUGAL ana AŠ.TE GAL E₁₁-ma UN.MEŠ NU TAK₄-šu₂ u₂-kal-l[am ...]
+24. [LUGAL qa]-du IM.RI.A-šu₂ GAZ-ma KUR ana KUR i-ru-biš uš-tal-pat
+25. KUR GAL ana KUR TUR ana TI.LA DU KUR [URI] ilu ša₂ ina SAG IGI.DU₈.A-šu₂
+26. [ŠI ZAG]-šu₂ AN ti-ri-at ana {iti}BARA₂ UD.14.KAM AN.MI ta-qab-bi UD.NA₂.AM₃ AN.MI u₂-[kal-lam-ka]
 
 @section-II
-27. DIŠ ina {iti}GU₄ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á IM.SI.SÁ AN.TA KA×MI-ma
-28. [Á] IM.U₁₈.LU KI.TA iz-ku IM.KUR.RA EN.NUN AN.USAN₂ [...]
-29. [EN na]-pa-hi šá ina GUD-ma KI {d}UTU IGI DINGIR šá ina KA×MI-šú Á IM.SI.SÁ AN.TA K[A×MI-ma]
-30. [Á IM].U₁₈.LU KI.TA iz-ku KA×MI-šú IGI-ma IM.KUR.RA in[a ŠU-ka tu-kal]
-31. [...] ub-bu-tú GÁL.MEŠ KUR NÍG.TUK [TUK]
-32. [ina ŠÀ ana URI₅]{ki} LUGAL URI₅{ki} EŠ.BAR SUM-in ina URI₅{ki} {d}šal-bat-a-nu [...]
-33. {d}šal-bat-a-nu HÉ.NUN GAR [...]
-34. [LUGAL] URI₅{ki} BAL-šú TIL ina {iti}BARA₂ [...]
-35. ina {iti}BARA₂ UD.28.KAM SAG [IGI.DU₈.A-šú] IGI-ma ina {iti}GU₄ UD.14.KAM AN.MI [ta-qab-bi UD.NÁ.ÀM AN.MI ú-kal-lam-ka]
+27. DIŠ ina {iti}GU₄ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ IM.SI.SA₂ AN.TA KA×MI-ma
+28. [A₂] IM.U₁₈.LU KI.TA iz-ku IM.KUR.RA EN.NUN AN.USAN₂ [...]
+29. [EN na]-pa-hi ša₂ ina GUD-ma KI {d}UTU IGI DINGIR ša₂ ina KA×MI-šu₂ A₂ IM.SI.SA₂ AN.TA K[A×MI-ma]
+30. [A₂ IM].U₁₈.LU KI.TA iz-ku KA×MI-šu₂ IGI-ma IM.KUR.RA in[a ŠU-ka tu-kal]
+31. [...] ub-bu-tu₂ GAL₂.MEŠ KUR NIG₂.TUK [TUK]
+32. [ina ŠA₃ ana URI₅]{ki} LUGAL URI₅{ki} EŠ.BAR SUM-in ina URI₅{ki} {d}šal-bat-a-nu [...]
+33. {d}šal-bat-a-nu HE₂.NUN GAR [...]
+34. [LUGAL] URI₅{ki} BAL-šu₂ TIL ina {iti}BARA₂ [...]
+35. ina {iti}BARA₂ UD.28.KAM SAG [IGI.DU₈.A-šu₂] IGI-ma ina {iti}GU₄ UD.14.KAM AN.MI [ta-qab-bi UD.NA₂.AM₃ AN.MI u₂-kal-lam-ka]
 
 @section-III
-36. DIŠ ina {iti}SIG₄ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á IM.KUR.RA AN.TA KA×MI-ma
-37. [Á IM.MAR.TU KI.TA iz-ku] IM.SI.SÁ EN.NUN AN.USAN₂ [im-šu-ul k]i [...]
-38. [DINGIR š]á ina KA×MI-šú Á IM.KUR.RA AN.TA KA×MI-ma Á IM.MAR.TU KI.TA
-39. iz-ku-ú KA×MI-šú IGI-ma IM.SI.SÁ ina ŠU-ka tu-kal [...]
-40. A.KAL KIŠ DU-kam {giš}TUKUL BURU₁₄.RA-ú ÉRIN.HI.A i-na-hat [...]
-41. [ina ŠÀ URI₅]{ki}-ma EŠ.BAR SUM-in URI₅{ki} Ú.GUG IGI NAM.BE.MEŠ i-[man-du LUGAL URI₅{ki}]
-42. [DUMU] URI₅-šú i-ha-bil-šú-ma DUMU ha-bil a-bi-šú MAN KUR-su-ma ina GI.HUL [AD]-šú BE
-43. [DUMU] LUGAL šá ana NAM.LUGAL la zak-ru AŠ.TE DIB-bat
-44. ina {iti}BARA₂ UD.28.KAM SAG IGI.TAB-šú IGI.TAB-ma ina {mul}Á{mušen} [...]
-45. ina {iti}SIG₄ UD.14.KAM AN.MI ta-qab-bi U[D.NÁ.ÀM AN.MI ú-kal-lam-ka]
+36. DIŠ ina {iti}SIG₄ UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ IM.KUR.RA AN.TA KA×MI-ma
+37. [A₂ IM.MAR.TU KI.TA iz-ku] IM.SI.SA₂ EN.NUN AN.USAN₂ [im-šu-ul k]i [...]
+38. [DINGIR š]a₂ ina KA×MI-šu₂ A₂ IM.KUR.RA AN.TA KA×MI-ma A₂ IM.MAR.TU KI.TA
+39. iz-ku-u₂ KA×MI-šu₂ IGI-ma IM.SI.SA₂ ina ŠU-ka tu-kal [...]
+40. A.KAL KIŠ DU-kam {giš}TUKUL BURU₁₄.RA-u₂ ERIN₂.HI.A i-na-hat [...]
+41. [ina ŠA₃ URI₅]{ki}-ma EŠ.BAR SUM-in URI₅{ki} U₂.GUG IGI NAM.BE.MEŠ i-[man-du LUGAL URI₅{ki}]
+42. [DUMU] URI₅-šu₂ i-ha-bil-šu₂-ma DUMU ha-bil a-bi-šu₂ MAN KUR-su-ma ina GI.HUL [AD]-šu₂ BE
+43. [DUMU] LUGAL ša₂ ana NAM.LUGAL la zak-ru AŠ.TE DIB-bat
+44. ina {iti}BARA₂ UD.28.KAM SAG IGI.TAB-šu₂ IGI.TAB-ma ina {mul}A₂{mušen} [...]
+45. ina {iti}SIG₄ UD.14.KAM AN.MI ta-qab-bi U[D.NA₂.AM₃ AN.MI u₂-kal-lam-ka]
 
 @section-IV
-47. DIŠ ina {iti}ŠU UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šú Á IM.KUR.RA AN.TA KA×MI-ma
-48. Á IM.U₁₈.LU KI.TA iz-ku IM.SI.SÁ EN.NUN AN.USAN im-šu-ul
-49. ina ša-ri-in-ni-šú MUL.MEŠ AN.TA È.MEŠ-ni DINGIR šá ina KA×MI-šú Á IM.KUR.RA AN.TA KA×MI-ma
-50. Á IM.U₁₈.LU KI.TA iz-ku KA×MI-šú IGI-ma IM.SI.SÁ ina ŠU-ka tu-kal ina {iti}ŠU ina la mi-na-tí-šú [...]
-51. ub-bu-tú GÁL.MEŠ LUGAL ša EN BE URU.DIDLI ZÁH.MEŠ ina ŠÀ URI₅{ki} EŠ.BAR SUM-in
-52. ina URI₅{ki} EZEN.MEŠ-šú i-mid-da UN.MEŠ-šú nu-uh-šá IGI.MEŠ
-53. UZU.MEŠ-šú-nu DÙG.MEŠ KI.LAM SIG₅ [...] DUMU DUMU šá LUGAL GIŠ.GU.ZA DIB-bat
-54. [LUGAL] qá-du qin-ni-šú GAZ EN.NUN AN.USAN im-tu-ul-ma [...] EN IM.RI.A [...]
-55. ina {iti}BARA₂ UD.28.KAM SAG IGI.TAB-šú IGI.TAB-ma ina {iti}ŠU UD.14.KAM AN.MI ta-qab-bi [UD.NÁ.ÀM AN.MI ú-kal-lam-ka]
+47. DIŠ ina {iti}ŠU UD.14.KAM AN.MI GAR-ma DINGIR ina KA×MI-šu₂ A₂ IM.KUR.RA AN.TA KA×MI-ma
+48. A₂ IM.U₁₈.LU KI.TA iz-ku IM.SI.SA₂ EN.NUN AN.USAN im-šu-ul
+49. ina ša-ri-in-ni-šu₂ MUL.MEŠ AN.TA E₃.MEŠ-ni DINGIR ša₂ ina KA×MI-šu₂ A₂ IM.KUR.RA AN.TA KA×MI-ma
+50. A₂ IM.U₁₈.LU KI.TA iz-ku KA×MI-šu₂ IGI-ma IM.SI.SA₂ ina ŠU-ka tu-kal ina {iti}ŠU ina la mi-na-ti₂-šu₂ [...]
+51. ub-bu-tu₂ GAL₂.MEŠ LUGAL ša EN BE URU.DIDLI ZAH₂.MEŠ ina ŠA₃ URI₅{ki} EŠ.BAR SUM-in
+52. ina URI₅{ki} EZEN.MEŠ-šu₂ i-mid-da UN.MEŠ-šu₂ nu-uh-ša₂ IGI.MEŠ
+53. UZU.MEŠ-šu₂-nu DUG₃.MEŠ KI.LAM SIG₅ [...] DUMU DUMU ša₂ LUGAL GIŠ.GU.ZA DIB-bat
+54. [LUGAL] qa₂-du qin-ni-šu₂ GAZ EN.NUN AN.USAN im-tu-ul-ma [...] EN IM.RI.A [...]
+55. ina {iti}BARA₂ UD.28.KAM SAG IGI.TAB-šu₂ IGI.TAB-ma ina {iti}ŠU UD.14.KAM AN.MI ta-qab-bi [UD.NA₂.AM₃ AN.MI u₂-kal-lam-ka]
 
 @section-X
-24. [DIŠ ina] {iti}AB UD.14.KAM AN.MI GAR-ma [DINGIR ina KA×MI-šá Á IM.KUR.RA AN.TA KA×MI-ma Á IM.U₁₈.LU KI.TA iz-ku]
-25. [IM].MAR.TU EN.NUN U₄.ZAL.LI SAR-ma la ú-qat-ti SI.MEŠ-šú mit-ha-ra DIŠ NU ik-[bi]-ir DIŠ NU iq-tin DINGIR šá ina KA×MI-šú SI.MEŠ-šú
-26. [mit-ha-ra DIŠ] NU ik-bi-ru DIŠ NU iq-ti-nu KA×MI-šú IGI-ma IM[.MAR.TU ina ŠU-ka tu-kal]
-27. [...] GÁL KI.LAM [TUR ...]
-28. [...] ina ŠÀ ana SU.BIR₄{ki} EŠ.BAR SUM-in [...] ŠEŠ ŠEŠ i-ra-sip [... UN.MEŠ]
-29. [ŠUB.MEŠ] al-ma-na-tu ú-[min-da LUGAL SU.BIR₄{ki}] KUR.KUR [i-sa-lim ...]
-30. [...] EN.NUN MURUB₄.BA ú-šar-ri-ma la ú-qat-ti ki-a-am GISKIM-šú EŠ.BAR-šú
+24. [DIŠ ina] {iti}AB UD.14.KAM AN.MI GAR-ma [DINGIR ina KA×MI-ša₂ A₂ IM.KUR.RA AN.TA KA×MI-ma A₂ IM.U₁₈.LU KI.TA iz-ku]
+25. [IM].MAR.TU EN.NUN U₄.ZAL.LI SAR-ma la u₂-qat-ti SI.MEŠ-šu₂ mit-ha-ra DIŠ NU ik-[bi]-ir DIŠ NU iq-tin DINGIR ša₂ ina KA×MI-šu₂ SI.MEŠ-šu₂
+26. [mit-ha-ra DIŠ] NU ik-bi-ru DIŠ NU iq-ti-nu KA×MI-šu₂ IGI-ma IM[.MAR.TU ina ŠU-ka tu-kal]
+27. [...] GAL₂ KI.LAM [TUR ...]
+28. [...] ina ŠA₃ ana SU.BIR₄{ki} EŠ.BAR SUM-in [...] ŠEŠ ŠEŠ i-ra-sip [... UN.MEŠ]
+29. [ŠUB.MEŠ] al-ma-na-tu u₂-[min-da LUGAL SU.BIR₄{ki}] KUR.KUR [i-sa-lim ...]
+30. [...] EN.NUN MURUB₄.BA u₂-šar-ri-ma la u₂-qat-ti ki-a-am GISKIM-šu₂ EŠ.BAR-šu₂
 
 @section-XI
-31. [DIŠ ina] {iti}ZÍZ UD.14.KAM AN.MI GAR-ma [DINGIR ina KA×MI-šá Á IM.U₁₈.LU AN.TA KA×MI-ma Á IM.KUR.RA KI.TA iz-ku]
-32. [IM.SI.SÁ EN].NUN U₄.ZAL.LI ú-šar-r[i-ma KI {d}UTU IGI-ir ŠU.NIR x-šú NU] DUL-ma it-bal [...]
-33. [ina UD.28.KAM IGI]-šú-ma u AN.MI qur-ru-ub SAR-ma SA₅-ma AN.M[I ú]-šá-kal-lam-ka DINGIR šá ina KA×MI-šú [...]
-34. [KA×MI-šú] IGI-ma IM.SI.S[Á ina ŠU-ka tu-kal ina ŠÀ] ana KA.DINGIR.RA{ki} EŠ.BAR SUM-in [KA.DINGIR.RA{ki} ZÁH-šú qur-ru-ub]
+31. [DIŠ ina] {iti}ZIZ₂ UD.14.KAM AN.MI GAR-ma [DINGIR ina KA×MI-ša₂ A₂ IM.U₁₈.LU AN.TA KA×MI-ma A₂ IM.KUR.RA KI.TA iz-ku]
+32. [IM.SI.SA₂ EN].NUN U₄.ZAL.LI u₂-šar-r[i-ma KI {d}UTU IGI-ir ŠU.NIR x-šu₂ NU] DUL-ma it-bal [...]
+33. [ina UD.28.KAM IGI]-šu₂-ma u AN.MI qur-ru-ub SAR-ma SA₅-ma AN.M[I u₂]-ša₂-kal-lam-ka DINGIR ša₂ ina KA×MI-šu₂ [...]
+34. [KA×MI-šu₂] IGI-ma IM.SI.S[A₂ ina ŠU-ka tu-kal ina ŠA₃] ana KA.DINGIR.RA{ki} EŠ.BAR SUM-in [KA.DINGIR.RA{ki} ZAH₂-šu₂ qur-ru-ub]
 35. [...] KUR.KUR SAG [...] GAR.MEŠ [...]
-36. [...] GAR-an [...] ina DINGIR ina KA×MI-šú [MI is-suh]
-37. [...] EBUR.SI.SÁ GAR [...]
+36. [...] GAR-an [...] ina DINGIR ina KA×MI-šu₂ [MI is-suh]
+37. [...] EBUR.SI.SA₂ GAR [...]
 
 @section-XII
-38. [DIŠ ina] {iti}ŠE UD.14.KAM AN.MI GAR-ma [DINGIR ina KA×MI-šá Á IM.SI.SÁ AN.TA KA×MI-ma Á IM.KUR.RA KI.TA iz-ku]
-39. [IM.KUR.RA EN.NUN U₄.ZAL.LI] BE DINGIR ŠI-šá NU IGI-ir ina GAL-šú IGI-ir [DINGIR šá ina KA×MI-šú ...]
-40. [...] KA×MI-šú IGI-ma IM.KUR.RA ina [ŠU-ka tu-kal ...]
-41. [...] A.ZI.GA ina ZU.AB.BA ib-bu-tú GÁL.MEŠ ÉRIN-ma-a-[du ...]
-42. [...] IGI.NIGIN GÁL.MEŠ ina ŠÀ ana KUR.MAR.TU{ki} EŠ.BAR SUM-in KUR.MAR.TU{ki} [...]
+38. [DIŠ ina] {iti}ŠE UD.14.KAM AN.MI GAR-ma [DINGIR ina KA×MI-ša₂ A₂ IM.SI.SA₂ AN.TA KA×MI-ma A₂ IM.KUR.RA KI.TA iz-ku]
+39. [IM.KUR.RA EN.NUN U₄.ZAL.LI] BE DINGIR ŠI-ša₂ NU IGI-ir ina GAL-šu₂ IGI-ir [DINGIR ša₂ ina KA×MI-šu₂ ...]
+40. [...] KA×MI-šu₂ IGI-ma IM.KUR.RA ina [ŠU-ka tu-kal ...]
+41. [...] A.ZI.GA ina ZU.AB.BA ib-bu-tu₂ GAL₂.MEŠ ERIN₂-ma-a-[du ...]
+42. [...] IGI.NIGIN GAL₂.MEŠ ina ŠA₃ ana KUR.MAR.TU{ki} EŠ.BAR SUM-in KUR.MAR.TU{ki} [...]
 43. [...] KUR MAN x x URU.DIDLI uš-tal-[pat ...]
-44. [... {mul}SIPA.ZI.AN].NA EN [...] KI NAM.LÚ.U₁₈.LU MÁŠ.{anše} AB.GUD.HI.A IGI-ir
-45. [KUR is-ar-ru-ur uh]-hur-rat UN.MEŠ BE.MEŠ DINGIR ina KA×MI-[šá EN.NUN U₄.ZAL.LI BE KA×MI-ma ...]
+44. [... {mul}SIPA.ZI.AN].NA EN [...] KI NAM.LU₂.U₁₈.LU MAŠ₂.{anše} AB.GUD.HI.A IGI-ir
+45. [KUR is-ar-ru-ur uh]-hur-rat UN.MEŠ BE.MEŠ DINGIR ina KA×MI-[ša₂ EN.NUN U₄.ZAL.LI BE KA×MI-ma ...]

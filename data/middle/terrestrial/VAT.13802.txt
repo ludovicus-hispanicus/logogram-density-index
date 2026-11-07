@@ -9,32 +9,33 @@ note: Logographic Middle Assyrian terrestrial omens.
 ---
 
 @obverse
-DIŠ SIPA{mušen} lu ina URU lu ina BÀD IGI URU BI ŠUB BÀD BI in-n[a-qar]
-DIŠ ÍGIRA{mušen} ana ŠÀ URU KU₄-am ŠUB-ti ḫu-up-ši [(x)]
-DIŠ MIN ina AMBAR Ú.KI.SÌ.GA AN.TA-ma iq-nun A {giš}GI ib-b[a-lu]
-DIŠ MIN ina AMBAR Ú.KI.SÌ.GA KI.TA-ma iq-nun A.ZI.GA D[U-ka]
-DIŠ IR₇.SAG{mušen} ana ŠÀ URU KU₄-am te-eb-ri-it ZÁLAG ru x
-DIŠ IR₇.SAG{mušen}.MEŠ ina UGU URU GÙ.GÙ.MEŠ-[šu]
-ana URU BI GÙ GIG Š[UB?]
-DIŠ Ù.KU.KU{mušen} ina ŠÀ URU Ú.KI.SÌ.GA iq-n[un]
-it-lu IGI ILLU D[U]
-[DIŠ] Ù.KU.KU.BA.ÚŠ{mušen} MIN <<ina>> URU BI KÚR NIGIN-ma URU BI Š[UB]
-[DIŠ x x{muš}]{en} ina A.Š[À in]a A.GÀR IGI URU BI Š[UB]
-[DIŠ MIN ina] ŠÀ URU ú-qar-ri-[ba]
-[pu-uš-q]a? u dan-na-ta₅ I[GI]
-[...] x x ša-mu-ú u IM [...]
-[...] x GE₆ ina URU I[GI URU BI ...]
-[...] x sud ka x [...]
-[DIŠ a]na ŠÀ URU KU₄-am URU B[I x x]
-[...] x-ka-la (leer) [x (x)]
-[DIŠ M]URUB₄ URU IGI URU BI ina ur ru x [(x)]
-[DIŠ ḫ]a-tu₄ ana ŠÀ URU e-te-ru-bu URU BI Š[UB]
-lu bi-ib-lu₄ ù-lu IM ZI-b[i]
-[DI]Š MUŠEN KUR.RA ša ma-ti-ma man-ma-an
-NU ZU-šú ip-pár-ša-am-ma
-ana ŠÀ URU ŠUB A.ZI.GA DU-ka
-DIŠ MUŠEN KUR.RA ma-da-tu ana ŠÀ URU ŠUB.MEŠ-ni
-ÍD is-se-kir
-DIŠ MUŠEN.MEŠ ina u₄-mi er-bé ina pa-an AN-e
-GÙ.GÙ.MEŠ ri-iḫ-ṣu GÁL-ši
-DIŠ ina URU MAŠ.TAB.BA.MEŠ ma-a-du ŠUB URU
+#note: Line numbers count this file's lines in order; they are not the edition's numbering.
+1. DIŠ SIPA{mušen} lu ina URU lu ina BAD₃ IGI URU BI ŠUB BAD₃ BI in-n[a-qar]
+2. DIŠ IGIRA₂{mušen} ana ŠA₃ URU KU₄-am ŠUB-ti hu-up-ši [(x)]
+3. DIŠ MIN ina AMBAR U₂.KI.SI₃.GA AN.TA-ma iq-nun A {giš}GI ib-b[a-lu]
+4. DIŠ MIN ina AMBAR U₂.KI.SI₃.GA KI.TA-ma iq-nun A.ZI.GA D[U-ka]
+5. DIŠ IR₇.SAG{mušen} ana ŠA₃ URU KU₄-am te-eb-ri-it ZALAG₂ ru x
+6. DIŠ IR₇.SAG{mušen}.MEŠ ina UGU URU GU₃.GU₃.MEŠ-[šu]
+7. ana URU BI GU₃ GIG Š[UB?]
+8. DIŠ U₃.KU.KU{mušen} ina ŠA₃ URU U₂.KI.SI₃.GA iq-n[un]
+9. it-lu IGI ILLU D[U]
+10. [DIŠ] U₃.KU.KU.BA.UŠ₂{mušen} MIN <<ina>> URU BI KUR₂ NIGIN-ma URU BI Š[UB]
+11. [DIŠ x x{muš}]{en} ina A.Š[A₃ in]a A.GAR₃ IGI URU BI Š[UB]
+12. [DIŠ MIN ina] ŠA₃ URU u₂-qar-ri-[ba]
+13. [pu-uš-q]a? u dan-na-ta₅ I[GI]
+14. [...] x x ša-mu-u₂ u IM [...]
+15. [...] x GE₆ ina URU I[GI URU BI ...]
+16. [...] x sud ka x [...]
+17. [DIŠ a]na ŠA₃ URU KU₄-am URU B[I x x]
+18. [...] x-ka-la (leer) [x (x)]
+19. [DIŠ M]URUB₄ URU IGI URU BI ina ur ru x [(x)]
+20. [DIŠ h]a-tu₄ ana ŠA₃ URU e-te-ru-bu URU BI Š[UB]
+21. lu bi-ib-lu₄ u₃-lu IM ZI-b[i]
+22. [DI]Š MUŠEN KUR.RA ša ma-ti-ma man-ma-an
+23. NU ZU-šu₂ ip-par₂-ša-am-ma
+24. ana ŠA₃ URU ŠUB A.ZI.GA DU-ka
+25. DIŠ MUŠEN KUR.RA ma-da-tu ana ŠA₃ URU ŠUB.MEŠ-ni
+26. ID₂ is-se-kir
+27. DIŠ MUŠEN.MEŠ ina u₄-mi er-be₂ ina pa-an AN-e
+28. GU₃.GU₃.MEŠ ri-ih-ṣu GAL₂-ši
+29. DIŠ ina URU MAŠ.TAB.BA.MEŠ ma-a-du ŠUB URU

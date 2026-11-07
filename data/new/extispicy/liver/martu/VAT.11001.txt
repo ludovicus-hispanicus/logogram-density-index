@@ -20,9 +20,9 @@ note: "martu (the gall-bladder, ZE2) omens; early Neo-Assyrian (frühneuassyrisc
 #tr.en: If the gall-bladder lies to the right of the Presence: ...
 5. BE ZE₂ ina GUB₃ KI.GUB GAR-a[t ...]
 #tr.en: If the gall-bladder lies to the left of the Presence: ...
-6. BE ina SAG ZE₂ GIŠ.ḪUR par-kat₂ [...]
+6. BE ina SAG ZE₂ GIŠ.HUR par-kat₂ [...]
 #tr.en: If at the top of the gall-bladder a drawing lies crosswise: ...
-7. BE ZE₂ ina MURUB₄-ša₂ i-pa saḫ-pat [{lu₂}ḪAL ana ik-ri-bi-šu₂ GUR-ar₂]
+7. BE ZE₂ ina MURUB₄-ša₂ i-pa sah-pat [{lu₂}HAL ana ik-ri-bi-šu₂ GUR-ar₂]
 #tr.en: If the gall-bladder is covered with a membrane on its middle: [the diviner will return to his prayer].
 8. BE SAG ZE₂ ana KI.TA-nu GU.MEŠ ka-m[i NUN LAL-mu]
 #tr.en: If the tip of the gall-bladder is bound with threads on the underside: [the prince will be bound].
@@ -49,7 +49,7 @@ note: "martu (the gall-bladder, ZE2) omens; early Neo-Assyrian (frühneuassyrisc
 #tr.en: If the thin part of the gall-bladder is full of clay: [reduction of livestock].
 18. BE ZE₂ A.MEŠ-ša₂ ša₂-bu-lu-ma i+na x [...]
 #tr.en: If the fluid of the gall-bladder is dried up and in ... :
-19. BE ZE₂ A.MEŠ ṣe-em-ret-ma [ina ŠA₃-ša₂ DI-ḫu ŠUB-di ILLU u AN-u₂ IGI.IGI-lu₄]
+19. BE ZE₂ A.MEŠ ṣe-em-ret-ma [ina ŠA₃-ša₂ DI-hu ŠUB-di ILLU u AN-u₂ IGI.IGI-lu₄]
 #tr.en: If the gall-bladder is swollen with fluid and [a cyst lies in its midst: flood and rain will be equal].
 20. BE ZE₂ TA ZAG ana GUB₃ zi-r[at KUR-ka ana KUR KUR₂ NIGIN-ur₂]
 #tr.en: If the gall-bladder is twisted from right to left: [your land will muster against the enemy land].
@@ -63,7 +63,7 @@ note: "martu (the gall-bladder, ZE2) omens; early Neo-Assyrian (frühneuassyrisc
 #tr.en: If the gall-bladder is doubled on the right and [points to a mace: an exiled prince will return to his city but will be killed].
 25. BE ZE₂ ana GUB₃ TAB-ma x [{giš}TUKUL IGI.IGI NUN ša₂ KUR KUR₂ ana URU-šu₂ GUR-ma GAZ.MEŠ-šu₂]
 #tr.en: If the gall-bladder is doubled on the left and [points to a mace: a prince of the enemy land will return to his city but will be killed].
-26. BE ZE₂ lu-ḫa saḫ-pat [LUGAL ŠU KUR-ad₂]
+26. BE ZE₂ lu-ha sah-pat [LUGAL ŠU KUR-ad₂]
 #tr.en: If the gall-bladder is covered with a ... : [the king will reach his goal].
 27. BE SAG ZE₂ ši-ši-tu 1 ŠU.SI u-[lu 2 ŠU.SI ar₂-mi LUGAL ŠU KUR-ad₂ ana MAŠ.EN.GAG kiš-pi DAB.MEŠ-šu₂]
 #tr.en: If the tip of the gall-bladder is covered with a membrane one [or two fingers (wide): the king will reach his goal; for a poor man, witchcraft will seize him].

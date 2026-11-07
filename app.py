@@ -799,6 +799,15 @@ def lead_runover(line):
 # (both word-level and sign-level); otherwise they fall through to "other".
 NUMBER_LOGOGRAMS = {'15', '150', '30'}
 
+
+def is_god_number(part):
+    """A divine name written as a number after {d}: {d}30, {d}20?, {d}15-šú.
+
+    eBL-ATF writes these with digits, never as XXX, XX or XV, so the complement
+    in {d}15-šú must not turn the word phonetic the way a bare 15-šú does."""
+    bare = part.rstrip('?!')
+    return bare.isdigit() or part.split('-')[0].rstrip('?!') in NUMBER_LOGOGRAMS
+
 # Function words written with a SINGLE sign (monograms): the prepositions ina (=AŠ)
 # and ana. Lowercase, so they count as syllabic throughout; the ina/ana column
 # of every report table shows what counting them as logographic would give.
@@ -969,7 +978,9 @@ STANDARD_CAPTION = (
 def enrich_signs(frame):
     frame = frame.copy()
     _sc = frame['token'].map(_sign_counts)
-    frame['_nl'] = [a for a, _ in _sc]
+    # {d}20 is typed a logogram but has no letters for _sign_counts to see
+    frame['_nl'] = [1 if (t == 'logogram' and not a and not b) else a
+                    for (a, b), t in zip(_sc, frame['type'])]
     frame['_nph'] = [b for _, b in _sc]
     frame['_mono'] = frame['token'].isin(MONOGRAM_PARTICLES) & (frame['type'] == 'phonetic')
     # Content-less omens are decided once per frame. Every trio()/comp() call
@@ -2477,9 +2488,9 @@ def annotate_omen(text, omen_id, metadata, preserved_only=False):
                 t_type = "determinative"
             else:
                 # Check for God Numbers (e.g. {d}30)
-                is_god_number = (p_clean.isdigit() and i > 0
-                                 and parts[i-1]['is_det'] and parts[i-1]['clean'] == 'd')
-                t_type = "logogram" if is_god_number else get_token_type(p_clean)
+                god_number = (is_god_number(p_clean) and i > 0
+                              and parts[i-1]['is_det'] and parts[i-1]['clean'] == 'd')
+                t_type = "logogram" if god_number else get_token_type(p_clean)
                 if language == "sumerian" and t_type in ("logogram", "phonetic"):
                     t_type = "other"      # held out: Sumerian is not Akkadian writing
 
@@ -2529,6 +2540,8 @@ def line_ldi(text, monogram=False, preserved=False, no_particles=False):
     per_word_l, per_word_p = [], []
     for a in lp:
         x, y = _sign_counts(a['token'])
+        if a['type'] == 'logogram' and not x and not y:
+            x = 1      # {d}20: typed a logogram, no letters for _sign_counts to see
         if is_mono(a):
             x += 1; y -= 1
         per_word_l.append(x); per_word_p.append(y)
@@ -3707,7 +3720,7 @@ if page == "Introduction":
         "logographic. The baseline counts them as syllabic (they are lowercase in "
         "transliteration); the **ina/ana** column re-reads them as logograms. Because they "
         "recur constantly, this is the convention that moves scores furthest: pooled bin "
-        "0.682 → 0.738, and a heavily *ina*-laden tablet like BM 121034 from 0.744 to 0.857."
+        "0.681 → 0.738, and a heavily *ina*-laden tablet like BM 121034 from 0.744 to 0.857."
     )
 
     st.markdown("##### Restorations")
@@ -3718,7 +3731,7 @@ if page == "Introduction":
         "column scores the preserved signs alone. The decision is not neutral: what can be "
         "restored is the formulaic, and the formulaic writings are the logographic ones, so "
         "dropping restorations usually lowers a broken tablet's score — pooled bin "
-        "0.682 → 0.661, and the 62 %-restored BM 121034 falls from 0.744 to 0.634. A large "
+        "0.681 → 0.661, and the 62 %-restored BM 121034 falls from 0.744 to 0.634. A large "
         "gap between the two columns flags a heavily reconstructed text."
     )
 
@@ -3727,7 +3740,7 @@ if page == "Introduction":
         "Nearly every omen opens with the conjunction *šumma* “if”, written logographically "
         "(DIŠ, BE, BAD, UD, AŠ) — one guaranteed logogram per omen, arguably structural "
         "markup rather than text. The baseline counts it; the **no particle** column drops "
-        "it: pooled bin 0.682 → 0.651. The effect is mechanical but not uniform — the "
+        "it: pooled bin 0.681 → 0.651. The effect is mechanical but not uniform — the "
         "shorter the omens, the more one word weighs, so the diagnostic corpus moves most."
     )
 
@@ -3738,7 +3751,7 @@ if page == "Introduction":
         "spelling (*šar-rum*). The **pure % / mixed % / syll %** columns give this breakdown, "
         "which the three measures summarise but cannot replace: bin counts `LUGAL` and "
         "`LUGAL-um` alike, so two rows can agree in bin and still differ threefold in mixed "
-        "writing. Diachronically the mixed class is the fast riser — 2.5 % of words in the "
+        "writing. Diachronically the mixed class is the fast riser — 2.4 % of words in the "
         "Old period against 18.4 % in the Neo."
     )
 
